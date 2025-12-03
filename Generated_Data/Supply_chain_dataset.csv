@@ -1,529 +1,162 @@
 Shipment_ID,SKU,Origin,Destination,Carrier,Product_Type,Shipping_Cost,Temperature_C,Fragile,Weight,Ship_Date,Arrival_Date,Status
-Sp-3535-3751,1137178509024,East Gary,Tennessee,Generic_Trucking,Perishables,3785.07,31.709891653807304,Yes,,2025-05-08,2025-11-30,Customs Hold
-yk-9038-0214,1137984409716,Peggymouth,Idaho,FedEx,Electronics,3594.08,-24.3,False,366Lbs,,2025-08-11,In Transit
-XI-7320-4413,0961497315391,North Sarastad,Unknown,FedEx,Raw Materials,462.76,-23.0,0,,2025-01-16,2025-02-15,Delivered
-YE-9125-6523,2588576694703,,Georgia,DHL,Textiles,3750.87,27.4,1,,2025-08-19,2025-04-25,Delayed
-,5668473236538,West Lisa,Costaburgh,FedEx,Raw Materials,4520.51,20.1,False,333 kg,2025-03-29,,In Transit
-JV-8753-5778,1683113950012,New Manuel,West Davidtown,,Hazmat,3284.78,17.6,True,73kg,,2025-07-12,Customs Hold
-,9760932012656,New Joyce,India,,,4684.7,39.2268427007474,False,218lbs,,,Delivered
-,9691928455259,Dwaynestad,Unknown,Old Dominion,Electronics,4610.86,23.8,False,159kg,2025-05-13,2025-11-06,In Transit
-Pd-3356-7086,,Danielfort,USA,FedEx,Textiles,1477.62,15.7,No,308Lbs,2025-03-14,2025-07-17,Customs Hold
-HX-7457-0545,9362689430129,West Deborahfurt,Unknown,UPS,Hazmat,1903.09,-16.7,No,173,2025-09-01 ,2025-01-15,Customs Hold
-Yh-3401-6361,0805120800567,,Rhode Island,Maersk,Perishables,-150.0,33.42323188610289,1,,2025-10-30,2025-07-21,Delivered
-Iq-2114-5775,9646300402369,New Robert,Lake Mariamouth,DHL,Raw Materials,1605.77,20.4,No,16kg,2025-10-18,,Delayed
-Vr-3304-1662,4899718428598,Port Paul,North Carolina,FedEx,,3067.16,-23.8,No,238Lbs,2025-05-15 ,2025-03-07,In Transit
-rQ-7660-5384,2049561213779,Andrealand,North Matthewton,FedEx,Raw Materials,4134.88,24.4,False,302 kg,2025-05-07,2025-04-12,Lost
-,7268080815713,Port Rick,USA,Generic_Trucking,Raw Materials,1698.41,2.0,Yes,300lbs,,2025-09-04,Customs Hold
-oh-9786-1031,3036279246327,Finleyton,Unknown,FedEx,Textiles,3740.01,29.1,False,281kg,2025-09-08,2025-09-27,Delivered
-hg-8736-8269,2946209355610,Cookfurt,New Zacharyshire,Maersk,,386.62,15.4,False,114 kg,2025-05-29,2025-07-05,Customs Hold
-FV-1111-0961,5397054873960,Lake Michaelville,USA,Maersk,Raw Materials,664.08,4.8,False,134kg,2025-08-26,2025-06-09,Delivered
-SV-8309-9974,1964258562613,Adamland,,Generic_Trucking,Electronics,3143.07,-24.4,1,301 kg,2025-01-30 ,2025-01-20,Delivered
-FG-4870-6827,6661707158797,Walkerburgh,USA,Generic_Trucking,,2072.16,26.7,False,338Lbs,2025-04-15,,Delivered
-vD-8681-2259,2632514488111,North Gregory,East Tracyborough,FedEx,,382.63,23.6,Yes,121kg,2025-11-24,2025-04-16,Customs Hold
-pq-8810-7983,1602041813596,South Karen,Unknown,FedEx,Electronics,208.82,-0.3,,64kg,2025-10-01,2025-05-26,Customs Hold
-,0820048067571,Berryville,East Laurenside,Old Dominion,Textiles,2485.45,-16.5,True,494lbs,2025-09-26 ,2025-06-25,Customs Hold
-Xu-0448-3608,2600308356694,Jasonton,Greenhaven,UPS,Electronics,3905.02,29.0,Yes,414Lbs,2025-03-05,,
-qI-7258-7844,9704095314196,Rickymouth,USA,Generic_Trucking,,3685.45,-29.3,0,205,2025-05-09,2025-11-29,Delayed
-,3802748124218,East Phyllisstad,Unknown,FedEx,Perishables,158.17,23.720401410622696,,343,2025-06-04,2025-10-31,Delayed
-vr-1513-1528,3391373265309,Molinaberg,,UPS,Electronics,2379.01,,Yes,,,2025-02-08,Customs Hold
-Kc-7082-7235,1957782558825,Collinsfurt,USA,UPS,Raw Materials,2694.15,-16.4,1,218lbs,2025-03-28,2025-11-03,Delivered
-kW-9112-8981,2612120384373,Port Jacobberg,Huntermouth,FedEx,Electronics,1164.89,28.9,1,346kg,2025-05-26,2025-02-27,
-,6664374906074,Leeside,India,Maersk,Electronics,4429.55,8.6,0,487,2025-01-13 ,,Delivered
-uK-9493-8173,6486989396985,Brettstad,Alaska,Old Dominion,Textiles,2283.88,12.4,,67kg,2025-04-03,2025-10-31,In Transit
-sq-2144-7732,2430176464487,New Erica,India,DHL,Perishables,4887.28,20.725866106027585,0,124kg,2025-04-21,2025-01-27,Delayed
-,7429250105878,North Aaron,Unknown,Maersk,Electronics,4865.39,8.2,1,260lbs,2025-11-21,2025-06-09,Lost
-oV-1357-7908,8994991970140,East Fernandoside,,UPS,Perishables,130.2,21.335577999325935,1,417 kg,2025-03-16,2025-06-03,Delayed
-xt-1702-4376,4648449411634,Sarahhaven,,Generic_Trucking,Raw Materials,3820.68,-1.7,Yes,356kg,,,Delivered
-Ut-4686-7752,,Port Evelyn,Kristinahaven,Old Dominion,Hazmat,1549.5,-26.1,No,,2025-10-27,2025-06-16,Delivered
-nD-5251-0505,6512215001412,West Sharonberg,Unknown,UPS,Textiles,782.72,25.4,False,,2025-03-28,2025-10-14,Delayed
-gQ-9961-0023,6384091122525,Port Matthewfurt,,Generic_Trucking,Hazmat,3719.23,26.3,1,148lbs,2025-08-20,2025-06-22,
-,7485953259393,Stuartshire,North Maryburgh,FedEx,Raw Materials,1500.26,29.3,1,419Lbs,2025-01-05 ,2025-09-04,In Transit
-Ol-7244-4723,7392013546211,,Indiana,Old Dominion,Hazmat,2868.18,9.6,False,412lbs,2025-11-09 ,2025-06-30,In Transit
-fB-4768-3420,8205829582924,Lake Donaldstad,Unknown,Generic_Trucking,Hazmat,3643.86,-10.3,,,2025-10-15,2025-09-30,In Transit
-QF-3811-9953,9758917045423,Millerfurt,Dylanburgh,FedEx,Textiles,,26.6,False,340Lbs,2025-05-29,2025-04-14,Delivered
-jp-3167-0450,3112327489790,Aguirreton,USA,UPS,Raw Materials,3388.96,-11.2,No,113lbs,2025-11-30,2025-03-06,Lost
-kn-9145-2118,6418696561301,,Unknown,DHL,Raw Materials,3070.11,25.5,True,,2025-02-17 ,2025-10-27,Delayed
-jl-1951-5109,6602562650620,Calebside,India,,Perishables,848.83,37.01172763333513,1,,2025-06-05 ,2025-02-11,Lost
-YA-2292-5879,8934868839064,West Darlene,,,Textiles,4239.18,3.1,True,223kg,2025-03-23,,
-Gx-0612-9439,1217221455932,Port Austin,North Debra,Generic_Trucking,Perishables,1814.68,39.21310156945526,0,460Lbs,2025-07-12,,Delayed
-Dn-8395-8947,0299140688418,East Jessicaland,Nevada,Old Dominion,Hazmat,2386.31,-8.4,0,291kg,2025-08-14,,Delayed
-nb-0962-4406,,Matthewshire,Bridgesstad,DHL,Perishables,1263.87,22.832680770531333,No,110lbs,2025-05-04,2025-08-23,Delivered
-ID-3562-4395,2654016599539,West William,USA,DHL,Perishables,2190.37,34.82189866541981,No,,,2025-07-20,
-Mj-1118-6008,6932591408498,Guerrerohaven,India,,Electronics,,,False,294 kg,2025-08-08,2025-04-22,Customs Hold
-,8306503121986,Flemingland,Unknown,FedEx,,3490.66,8.5,0,106 kg,2025-10-07 ,,In Transit
-JQ-0727-2849,1329715066620,Josephberg,India,Old Dominion,Electronics,4490.81,21.6,No,240lbs,2025-01-01,2025-09-24,Customs Hold
-PQ-7501-1117,4884882691312,Jonesside,USA,Old Dominion,Raw Materials,196.34,18.9,1,121 kg,2025-10-23,2025-10-13,Lost
-sW-1015-7676,,Williamsburgh,South Jonathanbury,DHL,Textiles,4342.94,15.5,0,,2025-08-14,2025-08-31,Delivered
-ih-7872-5686,2573066248139,Hermanside,Wisconsin,UPS,Textiles,4302.33,-10.6,1,179kg,2025-08-13,,Delivered
-ou-9164-9837,4837441715813,Scottmouth,Unknown,FedEx,Electronics,1658.85,-11.6,Yes,,2025-01-24,2025-02-01,Customs Hold
-hN-6266-8217,0330162341902,West Jessicamouth,India,Maersk,,4161.93,-6.5,,223Lbs,,2025-04-11,In Transit
-Sd-6321-3580,4369709317069,,Louisiana,UPS,Raw Materials,,1.1,1,304 kg,2025-02-18,2025-08-29,Customs Hold
-SI-8160-9306,6474080314991,South Patriciaborough,USA,UPS,Raw Materials,3768.84,20.2,1,304 kg,2025-11-22 ,,Delivered
-cG-6395-5172,7497852491415,Lake Alejandro,North Williamville,,Raw Materials,2862.74,-22.9,,330,2025-02-15,2025-08-27,In Transit
-rU-1176-7412,2111978718090,Mendozamouth,,Maersk,Hazmat,4873.05,,0,84lbs,2025-08-31,2025-05-13,Delayed
-ud-4145-4563,6667776755561,Jessicaville,Virginia,FedEx,Perishables,2686.7,36.945644182264374,False,253lbs,2025-01-12,2025-04-14,Delayed
-pr-2579-7067,,Stephenshire,India,UPS,Raw Materials,3847.22,23.3,True,71kg,2025-09-06,2025-06-06,Lost
-HV-1161-6202,6809414915078,,India,DHL,Hazmat,3954.31,27.2,,454lbs,2025-10-20,2025-03-07,Delayed
-wQ-4910-7406,3663439252951,New Jessicaville,Unknown,DHL,Hazmat,4737.39,18.0,Yes,199Lbs,,2025-06-12,In Transit
-lm-4363-7189,6913098107961,Christopherfurt,Unknown,Generic_Trucking,Electronics,2274.81,-22.3,No,167kg,2025-11-29,,Delivered
-hv-8620-4485,6695790012483,East Robertside,India,Generic_Trucking,Textiles,1898.7,13.7,No,338Lbs,2025-04-30,2025-11-24,Delayed
-SI-8160-9306,6474080314991,South Patriciaborough,USA,UPS,Raw Materials,3768.84,20.2,1,304 kg,2025-11-22 ,,Delivered
-UF-4619-9423,9243588537983,Lake Michelle,,Maersk,Textiles,3947.5,7.3,False,377kg,2025-03-04,2025-10-06,Delayed
-OP-4926-1764,7557522501391,Allenberg,USA,UPS,Raw Materials,3388.78,-7.2,False,115 kg,2025-02-11,2025-02-01,Delivered
-ZI-5892-9880,6641106541130,Port Gabrielstad,Port Josehaven,DHL,Hazmat,,,False,218 kg,2025-10-13,2025-05-22,Customs Hold
-hY-4660-2416,9788897535850,Port Timothyton,USA,,Electronics,1529.34,-9.0,0,91 kg,2025-11-29,,Delivered
-rY-0834-0242,6254384807524,,USA,UPS,Raw Materials,4994.6,22.7,Yes,68 kg,2025-04-15 ,2025-09-05,In Transit
-Ya-0231-4290,8931132532690,North Alecfurt,India,Maersk,Hazmat,3727.68,-10.1,True,103Lbs,,2025-03-03,Delayed
-vA-6601-4448,,Amyberg,,,Electronics,4179.08,29.2,No,240,2025-11-19,2025-06-14,Delayed
-iQ-8249-8392,8744227585484,West Michael,India,FedEx,Electronics,4857.11,2.8,No,266lbs,,2025-10-02,Customs Hold
-Wl-3548-8471,6156078327489,Lake Heatherchester,Unknown,UPS,Textiles,2848.27,-15.4,,91kg,2025-05-18,2025-05-17,In Transit
-,7982134862989,North Lauren,Unknown,Generic_Trucking,Textiles,2155.22,21.1,Yes,397,2025-05-02,2025-08-11,Lost
-fL-5535-6033,3106153722152,New Juanburgh,,UPS,Perishables,365.16,26.96460101433945,True,,2025-08-16,2025-04-20,Lost
-CL-2903-1028,2760250826116,Jeremyshire,Unknown,,Textiles,2929.48,-12.1,0,294lbs,2025-05-09,2025-07-02,Delivered
-cH-4582-6034,8519358374906,Lake Michaelmouth,India,UPS,Hazmat,4868.12,-22.8,Yes,82Lbs,2025-07-10,2025-06-30,Lost
-um-7815-0618,6011987561785,,India,UPS,Raw Materials,857.5,8.3,No,258lbs,2025-10-21,2025-07-18,Customs Hold
-lq-4871-4855,1008987610815,East Theresa,California,UPS,Electronics,4231.26,-19.7,Yes,288 kg,2025-07-29,2025-08-07,
-fn-4609-1785,,New Brian,Unknown,DHL,Perishables,1492.53,37.42017431795044,False,238,2025-09-02,2025-08-14,Customs Hold
-rJ-3506-1581,,Robertmouth,Unknown,Maersk,Raw Materials,2214.17,-13.6,0,49,2025-03-06,2025-10-10,
-OV-3439-6112,0369249269327,West Linda,India,Maersk,Hazmat,,-7.7,Yes,91 kg,,,Delivered
-Tp-1786-3767,5570836821445,Christinahaven,Unknown,,Hazmat,4548.99,18.9,1,401lbs,,2025-01-05,Customs Hold
-vu-9586-7805,1767201911168,,,DHL,Textiles,1340.56,-23.3,1,343lbs,2025-11-28,2025-11-06,Delivered
-oz-1862-3690,,Ellisburgh,India,Generic_Trucking,Hazmat,2526.06,-11.3,Yes,473 kg,2025-06-28,2025-03-15,
-jV-4429-4774,1107977140049,Mullinston,,DHL,Electronics,2011.72,,,378lbs,2025-07-27,2025-07-22,Lost
-yk-9038-0214,1137984409716,Peggymouth,Idaho,FedEx,Electronics,3594.08,-24.3,False,366Lbs,,2025-08-11,In Transit
-iO-5902-5176,5530073095054,Meganburgh,Unknown,Old Dominion,Perishables,327.08,31.433130256114026,Yes,,2025-03-14,2025-09-13,In Transit
-Xu-6445-5618,7269608437684,Lake Traceyton,USA,Maersk,Hazmat,,9.8,0,50 kg,2025-11-14,2025-10-24,Customs Hold
-bk-8166-4969,2258660598674,Brittneytown,,Maersk,Raw Materials,2375.87,16.2,Yes,498 kg,2025-08-08,2025-10-13,Lost
-Tf-7457-3144,0418472426424,Evanston,New Judy,FedEx,Raw Materials,775.3,27.9,,444lbs,2025-06-13,2025-04-26,Delayed
-Es-2232-8837,9374403946403,South Nathan,,FedEx,Electronics,1052.52,27.5,0,214lbs,,2025-05-07,Delivered
-,2386003044363,Murphyhaven,Oklahoma,Maersk,Textiles,1039.97,18.4,True,396,2025-04-17,2025-10-31,Lost
-ZG-1191-8182,4894204664894,New Kristinburgh,East Elizabeth,DHL,Hazmat,,26.2,No,255kg,2025-06-21,2025-02-03,
-ug-2216-1070,,West Meganstad,South Donald,UPS,,3536.48,26.8,False,,2025-03-18,2025-05-24,Lost
-,0901447340431,Morrisshire,Scotttown,FedEx,Raw Materials,3894.15,23.2,0,421,2025-01-03,,Customs Hold
-yC-1049-6706,9507321464494,Rossmouth,Nathanbury,Generic_Trucking,Hazmat,3917.99,-20.9,0,423 kg,2025-01-03 ,2025-06-01,
-DG-2029-3908,7955151229462,East Samuel,Unknown,UPS,Perishables,735.93,23.00771068620151,True,368lbs,2025-09-21,2025-12-01,Delivered
-uJ-3445-0566,4588165025442,North Jay,,UPS,Raw Materials,4965.1,4.9,False,144Lbs,2025-02-08,2025-10-21,In Transit
-Xu-6445-5618,7269608437684,Lake Traceyton,USA,Maersk,Hazmat,,9.8,0,50 kg,2025-11-14,2025-10-24,Customs Hold
-OJ-7070-7057,6557820190434,Lake David,USA,Old Dominion,Raw Materials,1114.22,7.7,True,475lbs,2025-05-26 ,2025-06-28,Customs Hold
-Xi-5872-1055,9337970581620,Lake Andrewshire,Unknown,DHL,Hazmat,4477.51,-23.3,True,18,2025-01-13,2025-06-07,Customs Hold
-cL-5569-6443,7609441283336,Javierchester,Parkermouth,FedEx,Perishables,2649.92,27.588881194656437,No,301lbs,2025-06-25,2025-06-05,Lost
-,0374767753722,Hallfurt,,Generic_Trucking,Hazmat,4980.78,-25.0,Yes,345lbs,,2025-01-19,Delivered
-Lw-2988-4259,8781794151520,New Martinport,USA,DHL,,2697.03,34.261393368259164,True,251 kg,2025-03-08,2025-02-05,Delayed
-aK-2020-3265,2880983221016,Hornborough,,,Hazmat,179.81,-3.8,Yes,,2025-05-05,2025-11-23,
-me-2404-2269,1023121106337,South Brooke,South Josephfort,DHL,Textiles,2385.97,,True,310lbs,2025-01-10 ,2025-06-02,
-WG-5806-6013,9687225893702,Annamouth,,Maersk,Electronics,,,1,289kg,2025-07-06,2025-03-29,Delayed
-Wi-4579-8894,4242383972833,North Nicholas,USA,DHL,Textiles,1070.41,7.1,False,156lbs,2025-11-06,2025-06-26,Delivered
-MP-0272-4055,3774604067208,Jocelynburgh,Kentucky,UPS,Electronics,2636.66,-25.8,True,183lbs,2025-03-09,2025-02-06,In Transit
-SV-8309-9974,1964258562613,Adamland,,Generic_Trucking,Electronics,3143.07,-24.4,1,301 kg,2025-01-30,2025-01-20,Delivered
-cS-8094-0476,0220509386942,New Emilyshire,Unknown,UPS,,4876.18,-28.5,True,57lbs,2025-04-05,2025-04-24,Delayed
-KG-1516-0252,5847262905293,Hudsonshire,USA,Old Dominion,Raw Materials,1416.43,-16.3,Yes,308Lbs,2025-01-30,2025-09-01,Lost
-mj-9231-2604,4967379457728,East Anne,Connecticut,,Electronics,4623.36,-20.7,No,195,2025-11-10,,
-pJ-5895-5296,3711222990778,Jacksonville,Unknown,DHL,Textiles,603.33,-27.1,No,452kg,2025-09-29,,
-Ck-1851-3279,4968436453806,Susanborough,Scottstad,FedEx,,4423.39,23.3,1,467kg,2025-10-22,2025-03-09,Customs Hold
-OS-1462-8314,1918623392206,Annamouth,Unknown,FedEx,Electronics,701.9,-18.5,Yes,112 kg,2025-02-11,2025-02-01,Lost
-UX-9807-7046,7130735104582,West Stephen,Unknown,Generic_Trucking,Electronics,3535.1,25.3,False,,2025-01-02,2025-10-14,In Transit
-,4907280123428,,India,Generic_Trucking,Textiles,1882.96,17.0,No,309,2025-06-24,2025-08-04,Delayed
-RW-3184-9196,5944633399948,Jimenezberg,,Maersk,Raw Materials,1144.06,23.6,True,250lbs,2025-09-11,2025-02-02,
-Lj-5964-8831,4902950264807,Johnsonhaven,USA,DHL,,1801.97,14.7,,438kg,2025-10-19,2025-07-14,
-nf-3179-5563,,,India,Generic_Trucking,Perishables,2164.39,25.764859847417256,Yes,404lbs,2025-09-26,2025-06-25,Lost
-hB-8728-6604,,West Garyburgh,Missouri,Generic_Trucking,Hazmat,1383.45,-23.0,Yes,198 kg,2025-02-05,2025-04-15,Lost
-sS-6756-6184,0919191135999,Jacksonberg,West Sandrachester,UPS,Raw Materials,1759.23,14.6,Yes,245Lbs,2025-03-10 ,2025-02-28,Delayed
-Ow-2064-9693,2014911894182,Wendystad,USA,UPS,Perishables,4630.21,24.571603699024394,No,319kg,2025-03-04,2025-02-03,Customs Hold
-lU-1649-1334,1472463019865,Mercedesberg,Kentucky,UPS,,3876.31,-26.8,,376kg,2025-09-02,2025-09-28,Customs Hold
-,,North Jeffrey,Texas,UPS,,3190.15,-17.0,True,165Lbs,2025-12-01,,Customs Hold
-Ws-9295-9660,1408682509528,East Kimberlyborough,,Old Dominion,Hazmat,3871.9,3.6,0,404Lbs,2025-04-08,2025-03-27,Lost
-rc-4189-7215,,Lauraburgh,Nevada,Maersk,Hazmat,729.7,-0.6,0,463 kg,2025-07-11,2025-04-07,Delivered
-XS-2512-9578,6577580974532,,Wisconsin,FedEx,Electronics,3478.3,,0,120kg,,2025-05-25,Delayed
-yX-3896-0870,1693429291327,East Sarah,Alabama,DHL,Electronics,990.57,8.8,0,421 kg,2025-08-11,2025-08-28,
-UH-7026-0869,1677848165247,Jillville,Arkansas,FedEx,Textiles,2893.47,8.7,Yes,342kg,2025-07-31,2025-10-29,Lost
-OI-4572-3084,4421017509618,Kendratown,North Carolina,UPS,Electronics,3287.87,-27.9,,261,2025-01-08,2025-03-13,
-mr-4242-9563,5725629269335,,South Dakota,Maersk,Textiles,2821.86,-9.4,False,239 kg,2025-03-04,2025-08-06,
-hA-6650-2374,9083350902546,Morseport,Vermont,DHL,Raw Materials,1991.26,8.8,,14kg,2025-06-14,,Delivered
-Ev-9051-5026,1325936781366,Jensenmouth,East Annahaven,Old Dominion,Electronics,1253.53,29.5,True,255kg,2025-10-28,2025-03-09,Delayed
-uY-3598-9262,7151169666729,Jeremyberg,New Mexico,Old Dominion,Raw Materials,-150.0,29.1,1,,2025-06-14,2025-06-18,In Transit
-ZH-1342-4912,1644037341676,Lewisburgh,Vermont,FedEx,Textiles,3738.81,-9.2,Yes,339lbs,2025-08-21,2025-11-16,Lost
-IS-5423-5677,3616188081907,Abigailland,USA,DHL,Perishables,1500.17,28.843789489053776,1,260lbs,2025-06-04,2025-09-12,Delayed
-on-5333-4264,2411584886009,Jenniferhaven,Unknown,UPS,Hazmat,81.45,-15.2,False,221 kg,,2025-08-10,Delivered
-ou-9164-9837,4837441715813,Scottmouth,Unknown,FedEx,Electronics,1658.85,-11.6,Yes,,2025-01-24,2025-02-01,Customs Hold
-nH-9538-1649,8842163090014,Port David,USA,Maersk,Electronics,1477.73,-9.8,No,319 kg,2025-05-16,,Customs Hold
-fi-8217-6619,,Brianview,USA,DHL,Perishables,3464.01,20.409882439815622,True,231Lbs,2025-11-17 ,2025-02-13,Lost
-oQ-9714-8026,0471372711755,South James,Alaska,Old Dominion,Hazmat,4333.77,-29.0,No,404lbs,,2025-05-05,In Transit
-Ry-5727-7382,6122019072589,Hickmanberg,USA,FedEx,Electronics,2678.59,4.9,,241kg,2025-07-17,2025-01-13,Customs Hold
-,0004666145907,,Underwoodmouth,DHL,Textiles,2083.36,-12.4,,494Lbs,2025-10-16,2025-07-16,Lost
-zf-6442-1214,8656194255775,Lambertburgh,Ohio,Old Dominion,Textiles,2430.0,9.6,No,378lbs,2025-01-13,2025-08-24,Customs Hold
-,0733337320434,North Darrenstad,USA,FedEx,Electronics,1790.55,24.8,,196Lbs,2025-06-30,,Customs Hold
-QF-3811-9953,9758917045423,Millerfurt,Dylanburgh,FedEx,Textiles,,26.6,False,340Lbs,2025-05-29,2025-04-14,Delivered
-,5797363831826,East Samuel,California,DHL,Raw Materials,1998.03,4.4,Yes,30,2025-08-26,2025-04-10,Lost
-Ch-8093-5118,8995729893762,South Victoriaton,Rhode Island,Generic_Trucking,Textiles,602.04,14.6,,367 kg,,2025-05-31,
-Ey-0447-3149,,Sandovalfurt,Hawaii,Old Dominion,Electronics,824.12,3.6,0,398lbs,2025-10-15,2025-03-27,Lost
-Fl-4409-0797,,Hunterville,East Denise,DHL,Textiles,,4.0,,192lbs,2025-07-12,2025-10-28,Lost
-tB-6132-7303,3920491060185,Nancyport,Nebraska,FedEx,Textiles,1906.34,7.0,False,,2025-03-12,2025-03-30,Delayed
-SU-1030-0215,1962633556431,Bryantstad,Maine,Old Dominion,Raw Materials,2402.66,-9.5,True,83,2025-01-24,2025-07-29,In Transit
-me-2659-6089,4823571558680,,USA,,Electronics,2022.06,10.1,True,146kg,2025-10-21,2025-06-12,Delayed
-,0004132114710,East Jennifer,Youngberg,Old Dominion,Perishables,1848.7,24.109391625666774,Yes,422lbs,2025-01-24,2025-11-19,Delivered
-un-2819-6482,1021923785842,South Amanda,Delaware,DHL,Textiles,1732.18,-21.4,False,455,2025-10-14,2025-01-21,
-lq-1361-4878,8493306745843,North Kennethberg,East Susanside,UPS,Electronics,887.15,-8.8,True,357kg,2025-01-10,2025-04-20,Delayed
-MQ-2446-1767,2103142175181,,,FedEx,Hazmat,,-1.9,0,18Lbs,2025-11-24,2025-06-14,Lost
-QX-0534-2408,6046558665258,West Tammy,USA,Maersk,Raw Materials,4730.17,-0.1,False,79Lbs,2025-01-31,2025-05-25,In Transit
-Mc-5475-7494,6662159183276,North Andreamouth,South Dakota,Maersk,Hazmat,639.99,23.2,True,115Lbs,2025-09-14,2025-06-26,Customs Hold
-LU-8439-0552,1917798768298,Aguirreview,USA,Maersk,Perishables,1082.61,30.50507738173158,False,262Lbs,2025-01-30,,In Transit
-Fo-4510-1739,9225709001634,North Destiny,USA,,Hazmat,1906.81,-17.1,No,451 kg,2025-08-12,,In Transit
-Du-4675-3612,5611404288601,Richardfurt,USA,Old Dominion,Hazmat,2716.02,-4.8,False,278,,2025-07-12,Customs Hold
-eI-9109-3371,6573275998012,Flemington,South Karlastad,,,1947.6,-5.1,Yes,93Lbs,2025-11-05,2025-08-15,
-mO-4727-2742,6182980365776,East Samantha,Connecticut,Generic_Trucking,Perishables,2188.47,20.95957052122209,True,112 kg,2025-04-06,2025-06-21,Delivered
-Ff-5690-6744,2285011688098,Mcintoshton,,Old Dominion,Hazmat,2346.37,-15.1,0,113 kg,2025-03-22,,Delivered
-cV-8645-6522,5863144170641,Martinezfurt,Colorado,,Perishables,1578.58,23.9142445990298,1,196kg,2025-11-11,2025-06-16,Customs Hold
-eo-5369-0261,4458220673232,,,UPS,Electronics,3091.35,-9.5,False,322 kg,2025-03-29,2025-10-20,
-,,Amandaview,New Mexico,Maersk,Raw Materials,1630.08,20.2,0,257,2025-03-22,2025-11-30,Delivered
-zF-5158-8863,2304120270618,Maynardside,Maryland,Old Dominion,Hazmat,1604.11,11.7,0,390 kg,2025-09-30,2025-04-12,Delivered
-mC-3983-6520,2182192596795,Jamesland,Unknown,Maersk,Electronics,1800.38,16.7,No,62,2025-02-15,2025-03-06,
-xq-5830-9451,0898436998486,Murphyborough,Unknown,FedEx,Perishables,4036.59,25.007822376378677,False,93 kg,2025-02-25,2025-05-20,Customs Hold
-nL-2294-6430,9388194905310,,Unknown,Maersk,Raw Materials,2457.47,-25.1,,,2025-04-15,,Delayed
-vu-9586-7805,1767201911168,,,DHL,Textiles,1340.56,-23.3,1,343lbs,2025-11-28,2025-11-06,Delivered
-Xz-4939-2523,,Johnton,California,Maersk,Raw Materials,4003.03,-5.1,1,,2025-04-16,2025-11-26,Delayed
-nw-7740-2588,1537012424467,Clarkview,Unknown,Generic_Trucking,Raw Materials,1681.1,28.3,0,494 kg,2025-08-08,2025-03-19,Delivered
-Ut-3503-4469,8956133718447,Patelmouth,India,UPS,Raw Materials,1701.92,-6.4,0,177,2025-05-10,2025-03-18,Customs Hold
-fK-0438-3034,3721433080038,Jonathanfurt,Unknown,Maersk,Perishables,4604.77,37.502934265723134,0,231lbs,2025-05-27,2025-03-12,Delayed
-tE-7768-7290,7993781053910,South Sierra,Unknown,Generic_Trucking,Textiles,4407.54,29.1,False,437Lbs,2025-10-03 ,2025-04-30,Delayed
-zn-4474-4309,1403526356023,Atkinsside,North Adamborough,FedEx,Perishables,,36.9917908887123,0,400Lbs,2025-08-03 ,,Delivered
-wY-3786-1371,9680491872747,,Tracyland,FedEx,Perishables,1349.37,21.547139078520765,1,43 kg,2025-08-02,2025-01-01,In Transit
-,5927387402997,Arellanoland,Lake Kara,,,4274.49,,No,112,2025-01-10,2025-09-18,Delayed
-GV-1963-9456,,Elizabethbury,Floreschester,FedEx,Raw Materials,815.26,12.5,,314Lbs,2025-10-17,2025-08-06,In Transit
-Ps-2447-3158,1444498355393,West Christopherview,Massachusetts,Maersk,Perishables,1511.7,28.080126227010922,True,415 kg,2025-12-01,2025-01-16,Delivered
-oo-6244-7951,8309309671396,Port Kimberly,,Maersk,Perishables,2885.03,28.71787537314198,False,469lbs,2025-02-28,2025-01-07,Customs Hold
-,3280944858623,East Kristina,India,DHL,Perishables,84.07,26.845774698567393,1,180,2025-02-13,,In Transit
-Ih-6609-3141,,Gutierrezside,India,UPS,Electronics,-150.0,18.0,True,,2025-03-05,2025-04-17,Delayed
-zv-0276-4208,,,East Brittany,Old Dominion,Textiles,2828.56,,No,462Lbs,2025-10-02,2025-09-22,In Transit
-Uy-1775-3312,8837505661861,West Kristin,USA,Maersk,Electronics,4369.45,-30.0,True,111kg,2025-01-19,2025-11-17,
-fe-2421-4955,6927789431914,Dixonbury,USA,Old Dominion,Raw Materials,4317.74,-22.2,False,204 kg,2025-04-19,2025-04-17,Lost
-,8356517962402,Diaztown,India,FedEx,Textiles,4872.43,,True,37lbs,,2025-06-11,Delivered
-mR-7768-6342,3543586449636,Archerborough,India,Maersk,Hazmat,2251.13,-17.1,Yes,117kg,,2025-01-08,Customs Hold
-Du-1024-8171,8040325376574,West Johnside,Unknown,DHL,Perishables,4977.9,27.758013432952602,0,19lbs,2025-08-07,2025-04-06,Delayed
-xE-1739-0637,9965082695821,Port Grantland,USA,Generic_Trucking,Perishables,,32.30899910558951,0,111,2025-03-31,2025-04-14,
-Xg-6417-5823,9649668349604,,India,FedEx,Perishables,3913.91,32.418892987392326,No,120 kg,2025-05-04,2025-04-10,Delivered
-Mx-0825-5598,6033582686274,New Valerietown,India,UPS,,902.74,28.17069228178635,,61,2025-06-10,,
-kD-5014-2576,5965594282490,New Evan,USA,Generic_Trucking,Textiles,277.7,-10.7,0,175Lbs,2025-06-24,2025-04-14,Delayed
-,5608581670466,Hawkinston,USA,Generic_Trucking,Raw Materials,886.32,-18.1,False,14kg,2025-08-23 ,2025-11-18,
-NM-9235-5580,4318328123124,West Teresa,Travisberg,DHL,Electronics,3053.19,-10.0,1,291kg,2025-02-21,2025-05-12,Delivered
-se-0344-6512,,South Lisa,Unknown,DHL,Perishables,1263.18,28.90655113893569,No,259kg,2025-11-13,2025-03-18,Delivered
-,6388214584146,Lake Allisonmouth,Unknown,DHL,Perishables,2927.29,25.382432843237332,0,,2025-04-07,2025-03-19,Lost
-,2132901620471,Port Mistyville,,FedEx,Hazmat,1549.64,-12.3,1,337lbs,2025-03-08,2025-03-28,
-,,Hollyland,USA,FedEx,Textiles,3200.26,27.9,Yes,297,2025-04-14,,In Transit
-QE-9659-9949,8127782210211,Henryfort,India,Generic_Trucking,Hazmat,,17.3,1,175,2025-06-02,2025-05-31,Lost
-Rc-9551-6874,0142473107203,New Sara,,DHL,Raw Materials,1337.14,,1,28lbs,2025-06-18,2025-08-10,
-HV-5579-9802,0618120546478,New Jason,USA,DHL,Textiles,2483.31,7.7,True,105kg,2025-07-11 ,2025-11-21,In Transit
-VV-5027-1607,8017986778238,East Todd,Riveraville,UPS,Textiles,4149.7,2.3,0,16,2025-08-24,2025-01-14,Delivered
-VN-1990-5169,2836084937837,Pereztown,India,Old Dominion,Perishables,,28.74724689944472,False,321lbs,2025-04-19,2025-01-05,Delivered
-Rw-5083-0440,2312616324882,Port Samanthafurt,,FedEx,Hazmat,4312.64,-22.5,True,305lbs,2025-05-14,2025-09-13,
-sh-8591-6795,7218856669545,Port Joanne,Unknown,Generic_Trucking,Textiles,918.17,-20.9,True,382lbs,,2025-02-13,
-SK-2849-7185,4099512397285,Sueville,,DHL,Perishables,-150.0,28.703865644281738,True,231 kg,2025-04-25,2025-05-10,Delivered
-Wc-2902-8227,1776334272039,South Melissafort,Minnesota,,Perishables,1666.77,28.46528021915585,No,22lbs,2025-02-20,2025-08-13,
-Dv-7104-3318,,New John,Unknown,FedEx,Raw Materials,1552.91,24.2,0,340lbs,2025-06-22,2025-05-11,Customs Hold
-Xy-3607-7633,1299570472648,South Ashley,,Generic_Trucking,Raw Materials,143.41,-22.3,No,469kg,2025-02-19,2025-01-24,Delivered
-Rm-8003-2963,6880023009150,Lake Toni,Unknown,,Hazmat,374.52,21.9,0,319,2025-10-29,2025-08-02,Lost
-hG-9321-8401,8512538921877,South Christopher,India,Generic_Trucking,Hazmat,165.87,15.4,1,119Lbs,2025-09-10,2025-08-31,In Transit
-OJ-1097-9215,2061363852772,Bullockfurt,India,UPS,Hazmat,767.68,-4.7,0,212 kg,,2025-11-06,Lost
-TV-7810-5092,5788707152387,North Eric,Carlsonport,DHL,Hazmat,146.42,-28.6,No,51Lbs,,2025-07-28,Lost
-SN-4010-4145,9556076761648,East Katrina,Pennsylvania,,,1509.65,-26.2,True,368kg,2025-11-19,2025-03-10,
-,8356517962402,Diaztown,India,FedEx,Textiles,4872.43,,True,37lbs,,2025-06-11,Delivered
-GS-3549-4012,1945887071554,Coxton,USA,UPS,,3111.38,0.3,False,43kg,2025-03-21,2025-01-09,Lost
-PH-1332-2889,,,India,FedEx,Perishables,210.0,20.414316132520458,False,26 kg,2025-11-10 ,2025-03-07,Customs Hold
-KB-2526-7711,,New Michael,USA,Generic_Trucking,Electronics,917.29,,Yes,66 kg,2025-10-30,2025-05-17,Lost
-yR-1562-6244,3647238750825,West Jenna,USA,,Raw Materials,552.13,,False,311kg,2025-06-03 ,2025-07-14,Delivered
-Tt-3861-2590,,Melaniefort,Wisconsin,Generic_Trucking,Electronics,1077.38,14.4,1,,2025-03-10,2025-02-28,Lost
-iq-2588-9679,7090814415292,South James,USA,FedEx,Electronics,-150.0,-29.6,No,22 kg,2025-08-28,2025-07-15,Customs Hold
-HL-1347-5098,4289464203622,Johnsontown,Unknown,Old Dominion,Perishables,2828.26,30.618731202206334,0,374 kg,2025-08-04,2025-04-18,In Transit
-,7732643095442,Vincentberg,Unknown,FedEx,Raw Materials,,-0.2,,87,2025-04-01,2025-02-05,Lost
-FG-1872-4010,0639638452693,New Debbieville,Unknown,,Textiles,2782.28,-15.5,1,82 kg,2025-04-11,2025-09-07,Customs Hold
-yu-7061-7136,0560356793273,East Jennifer,India,Generic_Trucking,Electronics,416.64,-1.0,No,38 kg,2025-03-03,2025-01-26,Delayed
-yU-0596-6018,0119236037688,Port Crystalstad,Unknown,UPS,Hazmat,1022.31,15.6,False,,,2025-11-14,Customs Hold
-Iv-8411-7309,1455129391307,East Laura,Unknown,Maersk,Perishables,3271.5,28.725836980965507,,495 kg,2025-04-27,2025-03-21,In Transit
-Vi-3109-6227,1403884366047,Masonberg,New Mexico,Generic_Trucking,Perishables,3036.08,24.102575314314112,,108,2025-03-23,2025-06-23,Delayed
-yp-6117-2959,8902199471130,Port Katherinehaven,Oregon,Old Dominion,Raw Materials,1845.48,,True,452kg,2025-04-26,2025-03-27,
-tb-8186-7024,7492699969967,Eddieland,North Carolina,Generic_Trucking,Electronics,1535.3,,0,248 kg,2025-01-11 ,2025-01-16,Lost
-ue-3609-1498,2230233324705,Jacobmouth,USA,UPS,Raw Materials,2461.79,-1.7,No,334Lbs,2025-09-11,2025-03-11,Delivered
-jI-5587-2096,0784685095741,Michaelaton,Unknown,UPS,Hazmat,1114.15,-15.1,No,126 kg,2025-01-06,,Delayed
-sS-4613-6847,,,East Jamesfort,FedEx,Hazmat,3843.67,20.2,False,65lbs,2025-07-29,2025-06-22,In Transit
-rM-2000-5347,2833339395787,North Stephanie,North Emily,Old Dominion,Raw Materials,,18.1,,370 kg,2025-03-11,2025-06-04,Delivered
-Tm-6065-2740,3613376052305,Lisaburgh,Madelinefurt,UPS,Hazmat,3069.66,20.9,True,164 kg,2025-02-24,2025-05-31,Delayed
-ki-5628-4177,1873280771132,New Kevin,USA,UPS,Perishables,1622.99,28.923304112760395,True,,2025-02-10,,Delivered
-im-9547-3820,1100051553230,East Cynthia,,FedEx,Raw Materials,3282.87,-20.6,False,70,2025-08-02,2025-10-30,In Transit
-Br-3218-1227,,Coryburgh,USA,Old Dominion,Textiles,2098.2,-7.0,Yes,154lbs,2025-06-05,2025-10-09,In Transit
-,7681722577549,Port Peggyville,,UPS,Perishables,3216.16,22.980586781077506,0,116 kg,2025-06-23,2025-05-11,Delayed
-oQ-9714-8026,0471372711755,South James,Alaska,Old Dominion,Hazmat,4333.77,-29.0,No,404lbs,,2025-05-05,In Transit
-JV-9365-4358,4303491891178,South Johnmouth,,FedEx,Electronics,2539.57,-3.2,False,38,2025-05-30,2025-04-20,Delivered
-vO-5029-1681,,Andersonburgh,India,Generic_Trucking,Raw Materials,794.58,12.4,False,271Lbs,2025-06-14,2025-04-02,Delivered
-oW-4595-7640,2704523888562,West Jamie,USA,DHL,Hazmat,3620.26,-17.4,1,496 kg,2025-02-06,2025-06-18,Delayed
-KB-2526-7711,,New Michael,USA,Generic_Trucking,Electronics,917.29,,Yes,66 kg,2025-10-30,2025-05-17,Lost
-,5506882691770,North Melissa,India,FedEx,Hazmat,1105.42,-23.9,True,162lbs,2025-06-15 ,2025-03-15,Lost
-,7129618033248,North Amy,India,Maersk,,4569.22,36.738794997174864,1,46 kg,2025-08-23,2025-08-14,Delayed
-tE-7768-7290,7993781053910,South Sierra,Unknown,Generic_Trucking,Textiles,4407.54,29.1,False,437Lbs,2025-10-03,2025-04-30,Delayed
-hr-5155-9737,,North George,USA,,Textiles,3253.09,-23.7,False,447Lbs,2025-07-29,2025-01-05,Delayed
-BR-0092-8206,6829751474397,Kristopherstad,USA,UPS,Raw Materials,3993.93,6.2,1,472kg,2025-06-10,2025-08-03,Customs Hold
-Ob-8497-9162,,Staceystad,,UPS,Raw Materials,1180.44,-13.3,1,205 kg,,2025-08-11,In Transit
-nb-9605-6730,5562965754275,East Stephaniebury,New Samuel,,Raw Materials,167.41,-18.9,False,77lbs,2025-08-07,2025-01-06,Lost
-Pg-0787-0104,6351004627767,Melindahaven,USA,UPS,Textiles,,20.6,True,247Lbs,2025-10-20,2025-10-03,Customs Hold
-nk-9666-1347,6032145057667,North Ashley,New Johnfort,Old Dominion,Hazmat,2058.93,22.0,Yes,154 kg,2025-05-19,2025-06-13,Delivered
-Eb-2918-1331,8332584868991,Victormouth,Unknown,UPS,Perishables,3926.28,31.266182250391378,True,457 kg,2025-03-07,,Delivered
-,6705514377696,,,Old Dominion,Hazmat,120.45,1.5,True,390Lbs,2025-07-16,2025-10-18,Customs Hold
-yX-7548-1386,,Leonardtown,USA,DHL,Hazmat,2114.76,1.4,1,38 kg,2025-08-22,2025-06-24,Lost
-iz-9040-9074,6337922341039,South Matthewton,USA,Old Dominion,Electronics,1491.53,-0.8,No,236 kg,2025-10-27,2025-04-06,Delivered
-SZ-4197-5466,8303736060143,Ritterview,USA,UPS,Electronics,3338.01,26.9,1,17Lbs,2025-09-16,2025-03-30,In Transit
-rX-5765-7289,6381643212697,Port Melissa,India,DHL,Electronics,,-23.8,No,415lbs,2025-11-12,2025-11-14,Customs Hold
-Rp-1562-7796,5053766608114,Port Pamela,North Vincentview,UPS,Hazmat,954.15,20.2,No,154 kg,2025-06-03,2025-08-29,Delivered
-YL-9019-3588,8981388158816,New Jessica,Rhode Island,,Textiles,,,Yes,372,2025-10-11,2025-06-13,Delivered
-YF-5996-0438,2730086966102,New Jennifershire,Colorado,Old Dominion,Textiles,,5.4,No,499kg,2025-11-03,2025-10-26,
-ay-8574-8170,,Churchton,Martinfurt,Maersk,Perishables,,29.404967269601837,Yes,373lbs,2025-10-15,2025-07-04,Lost
-Qx-2562-5313,8963406791762,East Barryborough,Unknown,Generic_Trucking,Hazmat,3818.55,16.1,No,428 kg,2025-05-31,2025-01-20,Lost
-Il-8344-1497,2179428179341,Staceyburgh,Unknown,UPS,Electronics,3901.17,-7.5,Yes,97kg,2025-01-02,,
-js-4485-9592,6629250817769,North Cindyfort,,FedEx,Hazmat,4667.58,,False,171Lbs,2025-03-04 ,2025-05-15,Lost
-bj-4463-0600,3062604235971,Ashleymouth,USA,Maersk,Textiles,3780.21,-6.9,True,408kg,2025-02-12,2025-11-19,Customs Hold
-,4561851744605,West Hunterville,Delaware,Old Dominion,Electronics,3710.21,27.6,,320Lbs,2025-10-29,2025-09-19,In Transit
-Da-6682-9732,,Jeremiahbury,Simpsonburgh,UPS,Raw Materials,,5.1,False,329lbs,2025-01-13,2025-04-08,Delivered
-Pv-0157-2018,8565271559838,North Christopherhaven,USA,Generic_Trucking,Hazmat,1494.52,-6.0,Yes,350Lbs,,2025-06-27,Delayed
-Jr-2337-2094,,East James,Wyoming,Maersk,Hazmat,,20.0,,446kg,2025-02-11,2025-02-01,Customs Hold
-Hn-0615-5810,8087354378827,Hillbury,Montana,UPS,,1634.08,23.17507342880618,,161kg,2025-01-03,2025-04-27,Customs Hold
-vb-4654-9500,8249353400187,Heatherburgh,Trujillofort,Maersk,Raw Materials,,13.1,1,424kg,2025-07-14,2025-01-05,In Transit
-,8948018644828,New Laura,New Jamesmouth,Maersk,Electronics,4001.48,29.0,Yes,327kg,2025-01-25 ,2025-07-30,Lost
-eu-1089-0285,7746259160111,Paulside,India,Old Dominion,Raw Materials,2894.95,29.2,0,,2025-04-12,2025-08-25,Customs Hold
-dz-9328-9634,0890583668342,New Katiemouth,Alabama,FedEx,Hazmat,1083.6,,No,200Lbs,2025-04-28,2025-10-20,In Transit
-Qh-8718-9813,0977688936283,New Gregorymouth,Idaho,DHL,Hazmat,2186.08,13.5,1,290Lbs,2025-11-19,2025-11-09,In Transit
-GW-4139-0808,5489547876982,Amandabury,India,Generic_Trucking,Perishables,1261.41,23.36763304294198,0,,,2025-04-21,Lost
-Mn-6754-8581,6617706736825,Haleyshire,Jenkinsmouth,Old Dominion,Raw Materials,3823.0,26.4,,,2025-08-27,2025-08-10,Delivered
-Rk-5838-2521,4078516994973,Cannonstad,Unknown,UPS,Perishables,1189.01,23.35852432791072,True,307Lbs,2025-01-03,2025-06-09,In Transit
-kW-1009-4388,9812657422316,Cassandraborough,Unknown,Maersk,Textiles,4270.42,-18.3,0,50Lbs,2025-08-31,2025-07-08,Customs Hold
-bK-6670-8085,6365362189454,Mayfort,Alvarezstad,Old Dominion,Raw Materials,411.48,-7.8,1,149lbs,2025-07-20,,Lost
-Bh-9397-4909,1236914961123,,USA,UPS,Raw Materials,2895.34,8.9,False,486kg,2025-03-31,2025-11-24,Customs Hold
-Rk-3059-1266,,Paigeview,South Carolina,DHL,Hazmat,1877.5,-3.2,0,182lbs,2025-02-27 ,,Lost
-wL-3244-7417,5895138186550,,Massachusetts,Old Dominion,Hazmat,1037.29,28.4,True,69lbs,2025-01-26,2025-08-09,Delayed
-bJ-5756-7667,3453372201099,East John,India,Old Dominion,Textiles,3267.48,-20.1,Yes,219Lbs,2025-10-18,2025-06-01,
-kw-6132-8507,3931321551308,Jimmyland,Nebraska,,Raw Materials,3454.61,-9.1,No,19,2025-08-30 ,,Lost
-uj-6422-9712,5345472239899,Lake Fernandoland,Mississippi,Old Dominion,Perishables,3731.48,27.065309793517333,0,369kg,2025-06-17,2025-02-22,Customs Hold
-Be-6848-5571,4159597752444,,India,FedEx,Textiles,4872.52,-19.7,,476,2025-01-06,2025-03-07,In Transit
-vO-6085-8749,5906700099427,,Virginia,DHL,Electronics,3256.81,24.0,0,21,2025-11-27 ,2025-09-27,In Transit
-ig-1926-7649,4991537038245,Port Michaelside,Virginia,DHL,Textiles,875.33,-19.5,No,495,2025-11-21,2025-11-11,Delivered
-eY-5787-1584,4356140384538,Kevintown,India,FedEx,Raw Materials,3908.34,3.6,0,201lbs,2025-11-04 ,2025-05-30,In Transit
-pn-0232-4412,1165020002454,Craigchester,India,Old Dominion,Raw Materials,3314.12,-5.9,False,,2025-05-13,2025-01-25,Delayed
-eq-3429-6711,,Smallhaven,Unknown,FedEx,Hazmat,351.28,27.8,No,360,2025-03-02,2025-06-19,Lost
-RT-6612-8758,0652775844664,Elizabethstad,USA,FedEx,Perishables,3956.91,37.55461133565203,No,363lbs,2025-06-12,2025-02-20,In Transit
-LY-1568-1820,3397051958266,Lake Stacey,,Old Dominion,Hazmat,4814.25,13.0,False,347kg,2025-11-28,2025-02-05,Customs Hold
-iU-3298-3954,7626374845394,Erintown,Parkerport,UPS,,1211.86,,True,163,2025-02-16,2025-02-06,Lost
-zQ-2989-4062,7661894370520,North Christian,India,Maersk,Raw Materials,2323.64,7.1,0,176Lbs,2025-05-22,2025-03-26,Delayed
-,0522299936216,Jeremyview,Unknown,FedEx,Electronics,599.6,,True,307lbs,2025-02-08,2025-10-16,Delivered
-,2669136248359,Simmonshaven,USA,,Textiles,2595.29,22.6,1,,2025-03-29,2025-08-23,Delivered
-LW-3763-7153,4876230391111,North Sherry,Simonland,Old Dominion,Hazmat,1951.92,-16.4,1,93Lbs,2025-06-03,2025-06-30,Delivered
-Ym-5652-9060,3912187062931,Sheltonview,India,Old Dominion,Hazmat,948.85,-0.2,No,55,2025-09-20,,Lost
-lj-5228-7056,3337312552352,West Charles,Unknown,Old Dominion,Electronics,,10.4,Yes,331Lbs,2025-01-23,2025-10-31,Delayed
-aN-4807-9705,,Williamschester,USA,Generic_Trucking,Textiles,572.91,-24.9,No,171,2025-04-01,,Delivered
-xh-1978-5758,1721733739928,,Unknown,FedEx,,4621.85,-23.9,1,369kg,2025-03-30,,Delayed
-zD-9618-4462,8628950905910,Scottland,,Old Dominion,Electronics,4609.82,-11.0,0,221kg,2025-07-11,2025-07-01,In Transit
-jA-0167-3188,,Lake Wendy,Unknown,FedEx,,4803.19,-6.6,True,,2025-05-26,,Delivered
-Xh-6392-8234,2550213060905,Wardmouth,USA,UPS,Hazmat,4139.39,3.9,No,500 kg,2025-08-16,,Delivered
-sw-3617-2131,,East Rosshaven,South Dakota,Old Dominion,Electronics,4259.03,-27.2,,45 kg,2025-02-01,2025-10-21,Customs Hold
-wi-6094-0970,8413685283064,Riversland,USA,Maersk,Perishables,539.26,21.293899186290176,False,87,2025-02-10,2025-03-09,Delivered
-fG-8425-4768,6951003076209,Romeroshire,Nevada,Generic_Trucking,Raw Materials,4775.57,-26.5,No,286 kg,2025-08-18,2025-04-23,Lost
-eP-8133-5956,2974549303640,North James,,DHL,Electronics,4438.26,-2.7,True,471 kg,2025-01-24,2025-07-23,Lost
-wM-4872-9758,7977961208789,Port Ashleyborough,North Kathrynville,,Perishables,2804.38,20.06336722355645,True,65,2025-06-15,2025-06-05,Lost
-nH-9538-1649,8842163090014,Port David,USA,Maersk,Electronics,1477.73,-9.8,No,319 kg,2025-05-16,,Customs Hold
-Al-0934-5962,8862175080193,Heatherbury,Unknown,FedEx,,2315.88,6.2,False,,2025-03-01,2025-11-24,Delivered
-cT-5725-4596,7986321061339,North Joton,Unknown,Old Dominion,Raw Materials,,21.1,Yes,456,2025-06-21,,In Transit
-tA-8446-8341,0507918158996,North Jonathanton,,FedEx,Electronics,-150.0,21.4,0,149,,2025-05-20,Delayed
-om-9833-4774,5605712198813,Port Sandratown,Moralestown,DHL,Perishables,2855.18,27.190411445643146,No,434,2025-10-27 ,2025-02-26,Delivered
-bX-3567-4300,6944391649704,Bentleystad,Lake Jim,Old Dominion,Raw Materials,502.23,17.2,Yes,275Lbs,2025-07-30,2025-11-04,In Transit
-aO-1923-7245,7898260418092,Hallburgh,,FedEx,Hazmat,1125.32,,No,231kg,,,Customs Hold
-,0425373377731,Nolanhaven,,Generic_Trucking,,,33.66556888485913,,333lbs,2025-02-19,2025-06-17,
-dw-4384-5881,4764273720374,North Tylerburgh,Unknown,FedEx,Hazmat,2949.1,,False,72,2025-03-16,2025-02-23,Lost
-XJ-8375-3745,,Greenfort,,Generic_Trucking,Textiles,,-13.4,False,229,2025-05-16,2025-04-27,
-wQ-4910-7406,3663439252951,New Jessicaville,Unknown,DHL,Hazmat,4737.39,18.0,Yes,199Lbs,,2025-06-12,In Transit
-yT-7134-3240,3891562415282,Watkinsport,India,Generic_Trucking,Textiles,1662.14,19.1,True,,2025-04-18,2025-06-12,Lost
-Ox-1259-0203,2594232894639,Crawfordport,USA,DHL,Perishables,,25.102906592652324,True,290kg,2025-05-25,2025-02-23,Lost
-,8029090463764,,Baileyville,FedEx,,3674.13,-20.3,,59kg,2025-11-18,2025-10-14,
-Nn-1830-6178,4491609365953,,,Old Dominion,Hazmat,1557.97,13.4,No,500,2025-03-16,2025-01-08,
-Dn-8395-8947,0299140688418,East Jessicaland,Nevada,Old Dominion,Hazmat,2386.31,-8.4,0,291kg,2025-08-14,,Delayed
-lp-8760-1467,9360798487041,Matthewsview,USA,DHL,Perishables,2644.39,32.909545108315484,Yes,413lbs,2025-01-18,2025-01-06,In Transit
-zg-4421-1753,8192365346069,Lake Codyhaven,Millerland,UPS,Raw Materials,3228.08,4.3,1,323kg,2025-09-30,2025-03-13,In Transit
-Bq-6707-6604,,Port Catherine,Chaveztown,Generic_Trucking,Raw Materials,1878.77,19.7,True,13lbs,2025-10-01,2025-05-02,Lost
-mS-2412-7049,8580623504052,Timothyton,India,FedEx,,1509.24,18.1,True,,2025-06-28,2025-05-27,Delayed
-,0522299936216,Jeremyview,Unknown,FedEx,Electronics,599.6,,True,307lbs,2025-02-08,2025-10-16,Delivered
-Ip-7937-6392,,North Justin,India,Maersk,Raw Materials,2488.4,-23.2,,460kg,2025-10-06,2025-03-22,In Transit
-io-8854-7281,4281785228230,West Johnside,Allisonborough,Generic_Trucking,,3201.97,-2.6,1,,2025-09-08 ,2025-02-06,Delayed
-DD-9613-6715,2316600767624,Cookshire,Indiana,,Hazmat,648.86,-5.8,,,2025-08-04,2025-03-09,Customs Hold
-RW-5389-0972,8250800463587,Samuelhaven,Unknown,Maersk,Electronics,2119.99,-4.0,False,87Lbs,2025-08-03,,Delivered
-jX-5147-5410,0762484337972,Lake Matthew,West Kellytown,DHL,Textiles,,1.5,0,479 kg,2025-06-23,2025-03-13,Customs Hold
-nW-0850-9549,5055738573680,North Joshuaton,East Karen,Old Dominion,Electronics,3187.83,10.3,No,252kg,,2025-04-18,Delivered
-Fn-2822-5120,6304530693584,West Dale,Port Vincentville,DHL,Textiles,,,No,,2025-02-06,2025-02-12,Delivered
-cr-6553-3077,8532089532636,East Nathanborough,India,Generic_Trucking,Electronics,,,Yes,384,2025-01-19,2025-08-12,Delivered
-jf-0042-5488,,Hernandezbury,Jonesmouth,UPS,Raw Materials,1744.72,-8.2,1,163Lbs,,2025-11-19,Delayed
-ba-6069-4096,,Moorefort,Unknown,Generic_Trucking,Hazmat,4110.03,27.5,1,213Lbs,2025-06-29 ,2025-11-14,Lost
-Nd-8938-9846,6046154021199,,Unknown,UPS,,3463.71,19.3,0,190kg,2025-04-03,,Delivered
-ta-9097-0051,7003322855665,West Daniel,India,Generic_Trucking,Textiles,838.37,-8.1,1,30lbs,2025-08-13 ,,Customs Hold
-er-5679-8363,0524808806225,Carlfurt,Alabama,Maersk,Perishables,,34.29867569963318,0,,2025-05-09,2025-02-03,
-PA-6227-2362,7915059625711,Simmonsborough,West Caitlynmouth,Maersk,Textiles,1391.84,4.2,,355,2025-07-07,2025-05-12,Delivered
-YO-7824-3477,4336875092632,Lake Lisa,USA,DHL,Raw Materials,2243.83,-14.9,No,161kg,2025-04-25,2025-11-21,Lost
-df-5111-3129,8868345273464,West Kim,Unknown,DHL,Hazmat,2035.53,-8.7,,403 kg,2025-04-23,,Delivered
-Bv-1775-0954,5398358446171,East Jeffrey,,UPS,Raw Materials,3761.64,,Yes,213 kg,,2025-03-09,Lost
-nc-2683-1901,9277885190534,Bergview,East William,DHL,Raw Materials,1277.46,25.4,False,152 kg,2025-01-31,2025-11-29,Lost
-gj-2091-1791,1268812282178,,India,Maersk,Hazmat,530.77,-10.6,0,412kg,2025-06-29,2025-03-17,Lost
-lC-4901-4954,7365118939400,North Samanthafort,India,DHL,,2734.73,-23.8,True,362 kg,2025-11-11,2025-03-18,Customs Hold
-Wq-3415-1773,3180533962741,Gordonfurt,USA,DHL,Electronics,164.53,18.9,Yes,,2025-03-03,2025-03-28,Customs Hold
-lp-8196-0275,2605080184985,,India,FedEx,,3987.99,17.7,Yes,,2025-03-29,2025-05-21,Lost
-OF-6339-9129,9439457039430,Lake Pattychester,Unknown,,Perishables,4341.96,30.151186677163516,True,15,,2025-03-05,Customs Hold
-KF-2747-4721,0090040476927,East Oliviaville,,UPS,Raw Materials,398.31,26.5,1,473Lbs,2025-10-31,,In Transit
-Ks-9788-7543,,Margaretborough,North Laurenborough,Old Dominion,,52.45,29.3,False,260,2025-04-21,2025-06-13,In Transit
-ep-8339-8741,,North David,India,Generic_Trucking,Perishables,3771.94,35.66201489929303,0,486 kg,2025-08-14,2025-04-01,Lost
-bW-5563-8300,9085991449206,Kelseyside,India,Generic_Trucking,Textiles,,5.5,True,50lbs,2025-07-28,2025-03-12,Customs Hold
-pF-3502-3850,8315229107327,Knightbury,Pennsylvania,,Perishables,249.15,28.482756329992547,1,371Lbs,,2025-02-14,Delayed
-My-6769-4591,,North Robertstad,Unknown,Old Dominion,Raw Materials,3512.83,2.8,Yes,208lbs,2025-08-11,2025-03-31,Delivered
-rQ-4596-0945,,Debraton,Unknown,Generic_Trucking,Perishables,1027.11,23.161963994583733,1,493lbs,2025-03-01,2025-10-18,Customs Hold
-eh-2210-5316,4454460838516,Garciaburgh,,UPS,Hazmat,1805.49,3.2,False,457,2025-04-02,2025-07-20,Lost
-Xh-7625-1538,3513739900635,,Smithburgh,UPS,Raw Materials,1631.05,-12.0,True,135 kg,2025-08-13,,Delivered
-nV-2570-3965,9574988558293,South Dennis,USA,FedEx,Raw Materials,2451.97,14.0,No,367,2025-05-26,2025-06-05,Lost
-,6774620258250,Robertchester,USA,,Raw Materials,1436.71,21.4,0,352Lbs,2025-08-16,2025-08-20,Lost
-AP-6420-5955,6871912038184,Michaelberg,Oregon,FedEx,Raw Materials,3898.11,-25.8,False,174,2025-02-14,2025-05-21,In Transit
-GW-9134-2138,,Lake Christopher,Indiana,DHL,Electronics,4731.2,22.2,Yes,177lbs,2025-09-27,2025-07-03,Customs Hold
-,9114131935924,,Brianville,UPS,Perishables,4616.36,31.452180989775343,1,470kg,2025-10-27,,In Transit
-xM-0563-4111,2218231555161,Lake Michael,Deannatown,FedEx,Perishables,3039.83,28.733005790350994,False,368lbs,2025-04-09,2025-10-23,Lost
-Vh-6249-1271,0722395947370,Martinshire,Unknown,FedEx,Electronics,,3.0,1,,2025-11-17,2025-08-18,Customs Hold
-ci-2920-8751,9696454655357,Port Dianemouth,Unknown,,Textiles,4979.34,-22.7,0,201lbs,2025-05-25,2025-05-15,Customs Hold
-hg-1624-7554,6543627187494,South Kimberlyfurt,,,Electronics,2346.91,22.0,False,158lbs,2025-10-18,2025-07-07,Lost
-Ws-6417-6927,2419962642223,Ashleytown,Kansas,FedEx,Electronics,4499.45,12.3,,180lbs,2025-09-04,2025-06-22,Delivered
-Ky-8272-7955,5364154715537,Proctorshire,Arkansas,Maersk,Raw Materials,578.83,-2.5,0,,2025-08-20,2025-07-01,Delivered
-DC-1979-3164,6676056420457,Brendanstad,USA,Generic_Trucking,Perishables,2662.18,37.33614101134371,Yes,384 kg,2025-07-08,2025-07-21,In Transit
-RU-1625-2654,4889669972738,Cherylstad,Unknown,Generic_Trucking,Raw Materials,2460.85,20.7,True,262kg,2025-02-07,2025-01-02,Delivered
-ci-5605-3134,0621136957275,West Lauren,Lake Kimberly,,Textiles,2701.35,-13.5,True,53kg,,,Delivered
-wi-0212-8866,,Teresafort,Unknown,Maersk,Electronics,4759.61,,False,261Lbs,2025-11-29,,Customs Hold
-hf-6929-4455,9056708670091,Vazquezbury,USA,Maersk,Raw Materials,923.83,-2.0,False,206 kg,,2025-11-03,Lost
-Dx-5573-2573,0119292075365,Donnaside,Port Alexisbury,Old Dominion,Perishables,3707.74,37.4365577032922,0,243,2025-11-23,2025-05-23,Delivered
-,4527905040437,,Unknown,UPS,Perishables,2463.52,,False,432,2025-11-01,,In Transit
-Ht-6093-1066,7853242642506,New Austinmouth,South Andrea,Maersk,Perishables,929.25,24.643614605123787,0,475lbs,2025-03-11,2025-10-15,Delivered
-hW-6958-7413,2239982137451,East Jessica,USA,Generic_Trucking,Raw Materials,3207.52,0.5,Yes,386 kg,2025-11-27,2025-11-25,Lost
-na-5833-1170,3642813190928,,West Virginia,UPS,Perishables,1497.05,25.482835359687456,1,397 kg,2025-06-25 ,2025-11-21,Delivered
-EF-7425-8591,2878848699964,Johnside,,FedEx,Hazmat,4342.85,-2.1,Yes,296Lbs,2025-11-14,2025-05-10,Delivered
-LA-0531-9497,7191260221328,East Alejandroport,India,Generic_Trucking,Electronics,3825.8,-10.6,,211kg,2025-09-17,2025-11-21,Delayed
-hh-5608-2137,1980746823547,Waynehaven,USA,DHL,Raw Materials,2723.38,3.5,True,381,2025-02-12,2025-01-08,Lost
-xj-4396-2736,0213125129314,South Justinfort,India,UPS,Raw Materials,1287.21,7.5,0,254 kg,2025-06-14,2025-11-02,Delayed
-,0717481131764,,USA,UPS,Hazmat,2171.51,9.7,,422kg,2025-10-10,2025-02-22,In Transit
-,8804428773834,Lawsonville,USA,Maersk,Hazmat,,,Yes,209 kg,2025-07-15 ,2025-01-18,Delayed
-Zd-9898-6818,1829716815727,Lake Nathaniel,USA,Old Dominion,Perishables,2308.46,24.382735468990646,No,426 kg,2025-05-12,2025-01-13,Delivered
-rG-0597-3642,1995171523917,Jameschester,Michigan,,Hazmat,485.63,23.7,,141lbs,2025-07-03,2025-08-18,Delayed
-jq-0568-7611,4743621300963,West Richard,New Lynnside,UPS,Perishables,1314.02,23.332575935201042,False,16 kg,2025-08-10,2025-02-06,Delivered
-nn-7292-7742,3920514607458,New Frank,India,Old Dominion,Raw Materials,4925.1,-7.2,,247lbs,2025-09-07,2025-08-28,
-rn-2786-8669,,North Patricia,USA,UPS,Hazmat,3113.44,14.5,No,331Lbs,2025-03-13 ,2025-03-26,Delivered
-dP-6850-7451,6486287203190,West Richardstad,USA,DHL,Hazmat,,-11.6,1,138lbs,2025-03-06,2025-11-27,In Transit
-rM-2000-5347,2833339395787,North Stephanie,North Emily,Old Dominion,Raw Materials,,18.1,,370 kg,2025-03-11,2025-06-04,Delivered
-tl-3959-2323,0062212242760,East Ericton,,UPS,Raw Materials,156.34,21.6,No,264Lbs,2025-02-24,2025-10-17,Delayed
-,5507896793528,,India,Generic_Trucking,Hazmat,3187.78,10.1,1,,,2025-03-19,
-iQ-8249-8392,8744227585484,West Michael,India,FedEx,Electronics,4857.11,2.8,No,266lbs,,2025-10-02,Customs Hold
-jZ-8615-1554,6335157184094,Port Meredith,USA,FedEx,,,-8.4,True,347Lbs,2025-01-23,2025-01-23,Lost
-PW-8315-2037,8460191344383,East Rebecca,India,Maersk,Hazmat,2348.14,14.4,Yes,154lbs,2025-03-22,2025-10-05,In Transit
-ed-0148-4399,0838688891784,Scottburgh,India,,Perishables,2150.2,20.343636245687115,0,85Lbs,2025-07-30,2025-01-13,Customs Hold
-,5382804056120,West Lucasshire,India,Old Dominion,Electronics,3939.77,,True,243lbs,2025-09-08,2025-04-30,Delivered
-Sg-2126-0650,4250733055976,North Amymouth,USA,Old Dominion,Perishables,2332.84,35.30111674543072,Yes,223 kg,,2025-10-21,Delayed
-nM-5034-2811,5176808662810,North Trevorfurt,Carterside,Old Dominion,Raw Materials,1689.73,-22.3,False,144Lbs,2025-04-19,,Lost
-lW-5125-4278,7500942141050,Millershire,Unknown,UPS,,1661.14,-14.2,False,31 kg,2025-04-15,2025-03-18,Delayed
-Ix-9960-1054,8980880678211,North Shawnburgh,USA,FedEx,Textiles,2183.19,,1,,2025-02-10,2025-08-03,Delayed
-Ns-6859-2624,2923106724534,Courtneyville,Unknown,Old Dominion,Raw Materials,1876.87,5.9,True,163Lbs,2025-03-17,2025-07-27,Lost
-UB-8652-0575,2165058714694,Johnborough,USA,UPS,Raw Materials,4844.97,7.7,True,81 kg,2025-01-22,2025-01-05,Delayed
-xG-0546-6927,,South Philipbury,India,Generic_Trucking,Hazmat,,-16.5,Yes,204Lbs,2025-06-22,2025-04-22,In Transit
-sc-4389-7607,6591438823254,Bakerhaven,Unknown,Old Dominion,Hazmat,714.71,8.4,False,270 kg,2025-07-07,2025-04-15,Customs Hold
-zE-4290-4588,5204998094972,Kimport,Unknown,Old Dominion,Raw Materials,287.75,30.0,No,318 kg,2025-05-03,2025-04-18,Lost
-zF-9626-3013,5411659726343,East Haley,Bennettmouth,,Electronics,1610.92,-17.7,,78,2025-02-10,2025-01-31,Lost
-hV-5914-9750,5725659202463,Sullivanstad,Utah,DHL,Textiles,4536.2,15.1,1,241 kg,2025-06-10,2025-07-24,Customs Hold
-,6395613723083,Lake Caitlintown,,Maersk,Textiles,,1.2,1,477Lbs,2025-05-07,2025-06-03,Lost
-jt-8831-0303,0572151494095,North Stevenchester,,Generic_Trucking,Hazmat,,6.3,1,343Lbs,2025-08-24,2025-08-14,In Transit
-nV-2570-3965,9574988558293,South Dennis,USA,FedEx,Raw Materials,2451.97,14.0,No,367,2025-05-26,2025-06-05,Lost
-rH-6634-3629,5419666450572,Skinnerfurt,Lake Jeff,,Textiles,3619.64,-3.8,0,386 kg,2025-08-03,2025-01-03,In Transit
-lJ-6851-2765,4768169957066,West Rebeccahaven,USA,UPS,Perishables,3265.67,22.8903147136355,Yes,21 kg,2025-08-28,2025-01-16,In Transit
-XU-5343-3249,0779433256239,,Unknown,DHL,Electronics,2585.7,2.9,True,,2025-01-24,2025-01-20,Delivered
-KF-7172-7223,1005912975193,,India,Generic_Trucking,Hazmat,2868.07,24.5,0,402kg,2025-08-01,2025-08-16,
-MK-0932-9981,8155420340303,Angelaborough,,FedEx,Textiles,2256.91,5.9,No,436 kg,2025-06-15,2025-01-20,
-yk-2891-7756,0459908027112,Markborough,India,FedEx,Raw Materials,600.23,-1.8,True,,,2025-08-17,Customs Hold
-zG-4181-5632,8768868785997,Tuckerhaven,Unknown,UPS,Textiles,2941.96,22.4,No,121Lbs,2025-06-26,2025-05-29,
-yt-7107-0449,9982780205862,Chavezshire,Unknown,FedEx,Hazmat,,26.7,True,381lbs,2025-03-09,2025-02-08,Delayed
-GW-9134-2138,,Lake Christopher,Indiana,DHL,Electronics,4731.2,22.2,Yes,177lbs,2025-09-27,2025-07-03,Customs Hold
-vU-4347-4524,2467287991601,North Christian,USA,Old Dominion,Hazmat,484.26,,No,162kg,2025-10-07,2025-02-21,
-XX-6331-9422,0399529701377,Allisonfurt,USA,DHL,Raw Materials,3940.21,2.3,Yes,67kg,2025-02-09 ,2025-07-27,Lost
-Rh-2426-8774,0506821223555,Wongchester,USA,Generic_Trucking,Textiles,2050.2,18.8,True,484kg,2025-02-22,2025-10-23,Customs Hold
-ws-3684-9951,,West Deannaside,India,Maersk,Hazmat,2228.22,5.9,0,252 kg,2025-08-06 ,2025-11-11,In Transit
-hj-8476-5704,,Lake James,Marthaville,Maersk,Perishables,4949.08,,True,153,2025-03-13,2025-03-08,Customs Hold
-uF-4215-2265,2387367042545,West Gina,West Tammieville,Maersk,Perishables,4688.85,35.013883617544565,True,334lbs,2025-01-16,2025-10-11,Lost
-Aq-8197-4005,0170756814296,Lake Lisa,USA,Old Dominion,Electronics,2307.53,15.9,1,44lbs,,2025-06-09,Delivered
-,2007202455919,Rebeccaland,Florida,Maersk,,1581.08,-16.2,No,170,2025-06-18,2025-11-23,Customs Hold
-dU-0822-2694,8217392957863,Lisaland,Unknown,UPS,,-150.0,18.2,0,207,2025-07-30,,In Transit
-jc-9307-4645,3468239484003,,New Daniel,FedEx,Textiles,4785.7,6.1,False,75lbs,2025-11-19 ,2025-01-31,Customs Hold
-jj-7417-2156,,,New Derrick,FedEx,Electronics,,,1,99kg,2025-04-27,2025-11-11,Delivered
-Qt-0336-2680,3699951679334,Lopezmouth,Unknown,,Perishables,1628.35,38.23197290258096,False,199,2025-03-07,2025-05-16,Delayed
-wI-4817-7665,9979907075507,,USA,Old Dominion,Textiles,2582.22,-22.1,,468kg,2025-05-16,2025-06-22,Customs Hold
-xy-9252-9858,6987313797169,South Josephton,New Mexico,DHL,,,-3.4,1,481Lbs,2025-02-23,2025-03-24,Lost
-uX-6865-3694,1243658585645,West Brandi,USA,Old Dominion,Raw Materials,3571.44,-6.1,0,208kg,2025-02-25,2025-01-31,Delayed
-TZ-2658-2631,8611145768322,Port Victoriamouth,USA,Generic_Trucking,Electronics,,-19.1,1,387lbs,2025-03-27,2025-11-22,Delivered
-Aj-1001-8418,7015959194574,Lake Phyllis,North Carolina,UPS,Electronics,2782.68,22.3,,186lbs,2025-03-25,2025-05-17,Delivered
-DG-9773-9732,1030683176418,East Kennethburgh,Oklahoma,FedEx,Electronics,2330.98,13.0,1,37 kg,2025-10-25,2025-09-09,Lost
-ko-8443-4481,2135415970995,,India,UPS,Electronics,3118.61,-19.1,False,363 kg,2025-06-04,2025-10-30,In Transit
-hj-8476-5704,,Lake James,Marthaville,Maersk,Perishables,4949.08,,True,153,2025-03-13,2025-03-08,Customs Hold
-dV-4728-6333,9518779417635,Hahnside,USA,Old Dominion,Electronics,1074.69,-1.5,True,466,2025-04-24,2025-03-07,Delayed
-iU-2163-7618,0165837379276,West Jeanetteshire,India,FedEx,Electronics,500.28,-10.7,Yes,486Lbs,2025-01-28,2025-03-07,Lost
-Zk-5832-8634,6033591015706,South Elizabethbury,Unknown,FedEx,Hazmat,,-0.3,No,24Lbs,2025-11-12,2025-09-28,
-io-9803-8287,1752023897431,Mitchellmouth,Lake Dennishaven,Old Dominion,,4207.89,33.72984348763012,True,82Lbs,2025-11-25,,Lost
-,4699673311672,Kingborough,USA,,Perishables,,24.35856719526824,0,269kg,2025-08-07,2025-05-24,Customs Hold
-pE-2095-7907,4508917768083,Myersborough,USA,UPS,Raw Materials,821.59,29.9,Yes,327Lbs,2025-04-13,2025-06-29,Customs Hold
-Wy-4849-1025,3512959272829,Huffland,USA,Maersk,Perishables,,37.21790501471107,1,492Lbs,2025-03-03,2025-09-05,Delayed
-lR-2056-9815,4864010424623,East Micheal,Unknown,UPS,Raw Materials,1317.56,6.8,Yes,107Lbs,2025-05-25,2025-03-28,Customs Hold
-ch-7224-0299,9862398471692,Martinton,South Sharon,UPS,Electronics,4501.02,-9.4,No,112kg,2025-10-22 ,2025-07-05,Lost
-YO-9977-1805,2175883978574,East Allenmouth,India,DHL,Perishables,3961.18,,Yes,448kg,2025-05-18,2025-10-20,In Transit
-iA-2965-9234,2671494981946,Lindaberg,USA,Generic_Trucking,Textiles,1427.66,1.9,No,126,2025-11-13,2025-07-04,Customs Hold
-dR-1022-5803,2357071398481,West Matthewmouth,Unknown,UPS,Electronics,2499.42,-21.6,0,170lbs,2025-01-04,,Delivered
-Ps-0303-6625,,North Joshuaberg,India,DHL,Perishables,4324.02,37.76236822969847,1,53lbs,2025-11-10 ,2025-01-04,Delayed
-of-2351-3052,9992751758891,Lake Sonia,Unknown,FedEx,Hazmat,1337.0,4.6,1,11Lbs,2025-07-30,2025-09-09,
-CW-6109-4101,3239791378761,Barbarafurt,Oregon,Maersk,Perishables,4853.66,20.437586216460147,True,,2025-03-06,2025-06-15,
-dB-8321-5285,,West Monica,Unknown,DHL,Textiles,,20.9,False,,2025-06-06 ,,Delivered
-hT-6876-1648,,North Michaela,USA,Old Dominion,Raw Materials,3404.46,-6.2,1,121,2025-01-11,2025-06-09,In Transit
-UV-2683-2303,5459671500664,Alexandermouth,Texas,Maersk,,1670.93,-9.1,Yes,174lbs,2025-03-12,2025-04-02,Delayed
-QC-1848-1973,5217558517774,Morsefort,Unknown,FedEx,Raw Materials,1808.96,12.8,False,318lbs,,2025-10-02,Lost
-Vz-5409-1508,9791279970293,Cummingsborough,,Old Dominion,Electronics,3887.45,-18.8,False,13,2025-10-08,2025-06-01,Delivered
-fL-7887-8836,9710756335356,Joneston,USA,,Perishables,1647.48,20.46053179223308,True,191,2025-09-24,2025-09-15,Customs Hold
-Rm-8003-2963,6880023009150,Lake Toni,Unknown,,Hazmat,374.52,21.9,0,319,2025-10-29,2025-08-02,Lost
-yt-7107-0449,9982780205862,Chavezshire,Unknown,FedEx,Hazmat,,26.7,True,381lbs,2025-03-09,2025-02-08,Delayed
-cr-6553-3077,8532089532636,East Nathanborough,India,Generic_Trucking,Electronics,,,Yes,384,2025-01-19,2025-08-12,Delivered
-Qf-9323-8223,9882904579278,Whitetown,Missouri,Generic_Trucking,Textiles,805.39,4.5,0,415 kg,2025-04-09,2025-01-16,Delivered
-qe-7207-6502,3850765975955,Dianamouth,Port Daniel,FedEx,Raw Materials,1753.86,26.5,False,186kg,2025-07-10,2025-02-25,In Transit
-bh-4964-9856,6860134778947,Lake Courtney,USA,Generic_Trucking,Textiles,2992.42,-13.2,False,108Lbs,2025-11-16,2025-01-30,Delayed
-HU-7931-2697,8761238595141,North Ashleemouth,India,DHL,Perishables,827.81,31.05648041517512,True,93,2025-02-19,2025-04-14,Delayed
-Qe-7287-2760,6984166123749,Jaredmouth,Port Taylor,DHL,Hazmat,4569.26,-27.6,1,255,2025-04-16,2025-06-27,Customs Hold
-hK-1766-2047,8860849079382,Hugheshaven,India,Old Dominion,Raw Materials,2022.53,-12.2,1,415 kg,2025-10-05,2025-06-29,Lost
-,8948018644828,New Laura,New Jamesmouth,Maersk,Electronics,4001.48,29.0,Yes,327kg,2025-01-25,2025-07-30,Lost
-DN-7753-9673,0232001867669,Lake Jill,India,DHL,Textiles,3029.51,27.2,False,430Lbs,2025-09-30,2025-11-22,In Transit
-,1095679756494,Heatherfurt,India,,Textiles,4428.7,22.6,True,463,2025-02-16,2025-04-29,Delayed
-,7486941559457,South Lisachester,USA,FedEx,Hazmat,4408.68,28.9,True,381 kg,2025-09-16,2025-01-27,
-An-9817-8904,1029087182743,,Unknown,DHL,Raw Materials,772.62,26.1,1,,2025-11-14,2025-06-04,Lost
-PA-5344-9021,0511716039883,Blairville,USA,Maersk,Raw Materials,3269.7,-14.2,No,365,2025-01-20,2025-09-13,In Transit
-Ib-8319-9529,6829384401340,New Brianfurt,Unknown,,Perishables,2533.81,34.14209096369891,0,114 kg,2025-02-21,2025-03-08,Delayed
-Dx-5096-8832,1579554623472,,India,Old Dominion,Hazmat,961.49,-5.7,False,428lbs,2025-06-24,,In Transit
-ea-2440-7931,2600559550179,Hendricksshire,USA,Maersk,Textiles,4236.44,26.5,False,224kg,2025-01-09,2025-05-18,Delivered
-gR-3348-4587,4784217028519,Lynchstad,Unknown,Old Dominion,,2682.22,,,226lbs,2025-02-06,2025-06-10,In Transit
-OC-5164-8072,1721436438135,Wilsonstad,India,Maersk,Hazmat,3855.37,4.6,True,480kg,2025-04-12,,Customs Hold
-,5561844421826,Perezborough,India,Generic_Trucking,Perishables,3026.7,30.343395858869734,No,170,2025-11-06,2025-09-26,
-dr-4566-7664,1062715312341,Allenfort,India,Maersk,Raw Materials,3826.12,-25.0,1,226kg,2025-08-18,2025-08-08,Lost
-eu-5793-8970,3752988322014,North Whitneyshire,USA,Generic_Trucking,Electronics,801.27,-14.1,No,294lbs,2025-02-19,2025-04-19,Delayed
-ZD-5396-7275,7181535237369,Port Jessica,USA,UPS,Electronics,-150.0,-6.0,False,351 kg,2025-05-25,2025-11-01,Delayed
-mO-7216-9666,0716690632246,North Jose,USA,UPS,Perishables,4530.26,28.18928753012394,True,386lbs,,2025-06-15,
-xu-0338-1059,0344765047154,East Michelleton,Fergusonburgh,UPS,Raw Materials,3017.86,-23.4,,475Lbs,2025-07-12,,Delayed
-,3482012840084,Biancaview,USA,UPS,Perishables,893.53,37.969052080943506,,42Lbs,2025-08-17,2025-07-25,Lost
-bt-3533-9055,6560945653463,East Jaimeburgh,Unknown,,,3597.29,15.6,Yes,451,2025-03-02 ,2025-09-27,Lost
-Si-7688-0294,1822261896289,West Lisa,New Davidmouth,Generic_Trucking,Perishables,2080.95,28.882661378760268,No,219 kg,,2025-05-21,Delayed
-lU-7919-7111,2554428679631,Fosterport,India,DHL,Raw Materials,1643.14,21.0,No,365 kg,2025-08-17,2025-10-23,Delayed
-Ep-0797-9966,2769819878092,Derrickfurt,Unknown,Old Dominion,Hazmat,,17.6,No,398 kg,2025-09-06,2025-07-20,Delivered
-kO-1237-1067,6283976205349,,Lake Troy,Old Dominion,Electronics,3909.79,4.5,1,292Lbs,2025-04-15,2025-03-27,Delayed
-jf-9179-2025,8245759833994,Bakerbury,Unknown,Maersk,Raw Materials,1262.98,21.4,No,196lbs,2025-03-19,2025-04-27,In Transit
-,1187233351044,,India,Maersk,Perishables,626.21,25.197181772966793,1,,2025-01-27,2025-04-22,Delivered
-Vi-3109-6227,1403884366047,Masonberg,New Mexico,Generic_Trucking,Perishables,3036.08,24.102575314314112,,108,2025-03-23,2025-06-23,Delayed
-Mt-5366-6144,,Bakerborough,,UPS,Hazmat,1160.33,26.8,,391 kg,2025-04-28,2025-01-22,Lost
-ch-4183-4374,9720385934011,South James,Guzmanbury,Maersk,Hazmat,4289.2,-27.1,True,22kg,2025-03-12,2025-09-25,Lost
-bn-3273-5241,1247601080188,New Andrea,Vermont,Old Dominion,,2368.22,-14.2,1,194Lbs,2025-11-11,2025-11-25,Customs Hold
-MN-6834-1559,6336998795098,Daviston,Unknown,UPS,Textiles,1533.2,17.7,1,318lbs,2025-06-07,2025-03-11,Delayed
-Pt-6615-5416,5400644547520,Lake Michael,Unknown,Old Dominion,,1153.31,-1.5,0,378Lbs,2025-04-08 ,2025-09-28,Delayed
-iS-5468-3565,0847068103904,Isaiahton,USA,Maersk,Raw Materials,2337.95,6.8,,393Lbs,,2025-01-05,In Transit
-sj-5749-0250,,Thompsontown,USA,UPS,Hazmat,1014.25,28.7,,476 kg,2025-08-29,2025-07-05,Delivered
+Ha-3761-3791,5775949299550,,USA,Maersk,Raw Materials,3464.26,,,205Lbs,2025-04-16,2025-04-06,Lost 
+vp-6420-8737,8936392649577,Gregoryhaven,USA,Maersk,Electronics,2904.41,-21.3,True,62,,2025-10-09,Delayed
+Jz-3294-5116,7051204618723,East Dawnchester,India,FedEx,Raw Materials,3127.94,15.7,False,382kg,,2025-01-28,
+,0388608680344,New Daltonmouth,India,UPS,Textiles,,-12.3,0,202 kg,2025-10-31,2025-10-21,Lost
+,,Toddberg,Wyoming,Old Dominion,Hazmat,4021.21,28.9,,360 kg,2025-10-24,,In Transit
+FC-6317-7971,1175186892684,Lake Susanland,Unknown,FedEx,Electronics,4203.21,-23.9,,464,2025-08-17,2025-06-05,DÃ©layÃ©d 
+Cq-7836-1340,4380571983862,Laurenstad,Smithfort,Maersk,Textiles,4743.02,-5.8,1,29kg,2025-09-06,,Customs Hold
+lo-5419-5180,9922809202427,Jensenport,,UPS,,728.96,-16.7,No,211,2025-07-21,,Delivered
+Ol-9725-2175,8136462251796,Kimberlybury,India,DHL,Hazmat,3438.1,-23.1,True,386Lbs,2025-07-08,2025-03-07,Customs Hold
+,1238780038459,South Frances,India,Generic_Trucking,,3537.61,18.5,False,,2025-08-19,2025-04-01,Lost
+,6996112535544,Abbottport,Unknown,Maersk,,914.77,-1.0,False,374Lbs,2025-01-07,2025-08-22,Delivered
+,,,Unknown,Generic_Trucking,,3517.87,20.67218702792517,0,197,2025-01-04,2025-08-14,Customs Hold
+XG-0011-9721,8232983248267,North Samanthastad,,DHL,Electronics,2846.81,10.2,True,334lbs,2025-04-09,2025-07-13,Customs Hold
+mb-0083-5058,6591166553553,Port Tyler,Unknown,UPS,Hazmat,,4.2,1,399Lbs,2025-01-17,2025-03-19,Delivered
+Dt-4466-5743,1381138633834,,Iowa,FedEx,Raw Materials,,-17.9,,266,2025-03-23,2025-09-13,Delivered
+Uf-0225-5794,9949993933050,Destinyfurt,,FedEx,,1724.59,-20.3,,301 kg,2025-04-28,2025-10-05,Lost
+vA-6846-0223,8925832067996,Woodburgh,Autumnmouth,Generic_Trucking,Hazmat,192.64,-10.7,Yes,,2025-10-28,2025-10-15,Delayed 
+Uf-0225-5794,9949993933050,Destinyfurt,,FedEx,,1724.59,-20.3,,301 kg,2025-04-28,2025-10-05,Lost 
+Gx-4814-9177,2665918463866,Amberton,Wyoming,DHL,,-150.0,9.4,1,293,,,Delivered
+hR-0999-1738,6613906048058,New Joanne,India,,Hazmat,1825.06,11.7,0,299,2025-01-08,2025-02-09,Delivered
+Up-2856-9146,4278816580399,North Susanside,India,UPS,Raw Materials,-150.0,,True,417,,2025-07-15,Customs Hold
+QM-7829-2216,0198179469541,Stephanieview,India,Maersk,Hazmat,420.58,-12.7,0,377kg,2025-10-17,2025-02-27,In Transit
+wz-4903-5213,6213721386580,Rodriguezfort,Christinamouth,UPS,Electronics,1048.28,13.3,0,446kg,,,Delivered
+dX-8317-1210,4351906698492,Cassandraberg,Port Anthony,UPS,,1511.99,28.70754869105528,True,246,2025-11-19,,Delivered
+kA-5410-0676,5877169472253,New Alanhaven,USA,UPS,Textiles,544.05,20.3,1,412 kg,2025-02-20,2025-06-27,Customs Hold 
+Ex-1380-0030,8432225913650,North Patrickland,USA,FedEx,Textiles,1386.39,-23.2,No,31kg,2025-01-06,,Delivered 
+fJ-8061-7445,8699041379774,Lisaside,Jenkinsburgh,FedEx,Perishables,4161.73,21.82177168477408,Yes,,2025-04-20,,Delivered
+Py-5354-0838,7027937145218,North Sheenaborough,Unknown,UPS,Perishables,1955.14,31.99029825784979,0,259Lbs,2025-03-21,2025-09-08,Delayed
+yd-8552-4140,0317310967894,East Thomasland,Unknown,Generic_Trucking,Electronics,3994.7,12.7,0,124,2025-03-29,2025-06-03,Lost
+YY-3898-3640,3975523149130,West Steventon,USA,FedEx,Hazmat,147.72,-17.6,0,154Lbs,2025-04-27,2025-04-17,Lost
+qP-2771-6701,,Port Carloschester,Laraport,FedEx,Hazmat,3325.48,11.4,False,274lbs,2025-02-07,2025-04-17,Delayed
+uy-6578-7598,0714163356583,Muellerchester,Unknown,FedEx,Raw Materials,,-23.5,0,353 kg,2025-07-24,2025-07-12,Lost
+yj-6846-0810,2355770272781,Baldwinville,Unknown,Old Dominion,Perishables,1152.4,24.63341945636123,0,255 kg,2025-03-04,2025-04-08,Lost
+,2205020994515,Schwartzmouth,Martinezport,Old Dominion,Textiles,826.79,3.7,0,273lbs,2025-01-12,2025-06-07,In Transit
+,0234132611173,Lake Annstad,Virginia,Generic_Trucking,Hazmat,,25.3,1,78lbs,2025-05-16,2025-05-02,Lost
+wT-1739-3483,4608432562163,Smithmouth,USA,Old Dominion,Perishables,3849.27,33.13768445413686,1,30lbs,2025-07-02,2025-06-14,Lost
+dg-1143-7447,2925188125209,,,FedEx,,,36.07819818230767,False,437lbs,2025-01-17,2025-04-19,Delivered
+yX-6111-5542,8144914766071,Kimberlyberg,Alaska,DHL,Perishables,2696.93,34.135798670657394,1,33kg,2025-05-03,2025-04-23,Delivered
+do-3784-2701,8463920867801,West Stephanie,USA,Old Dominion,Raw Materials,,,Yes,240lbs,2025-09-30,2025-08-05,Delivered
+DQ-3516-0917,9501455616811,Kimberlyfurt,Unknown,UPS,,4266.76,17.1,0,,2025-02-26,2025-07-18,Customs Hold
+,4334722820056,South Jacqueline,Fordberg,FedEx,Textiles,,4.7,No,246Lbs,2025-09-26,,
+Dt-4466-5743,1381138633834,,Iowa,FedEx,Raw Materials,,-17.9,,266,2025-03-23,2025-09-13,Delivered
+dZ-4205-9304,8043416518273,Amybury,India,Generic_Trucking,Perishables,4539.06,,Yes,61lbs,2025-11-25,,Customs Hold
+KF-7454-5892,7399305616485,Javierport,Unknown,Generic_Trucking,Raw Materials,886.47,-0.2,False,231lbs,,2025-01-27,Delivered
+gE-7584-2824,9210752245937,Port Kristenview,Hawaii,DHL,Electronics,3408.05,9.0,No,397,2025-11-01,2025-06-05,Lost 
+,7314986430090,Robertafurt,West Brian,Maersk,Perishables,1033.3,22.906568716715075,,104 kg,2025-03-05,,Delivered
+Tj-2525-0029,6915594284344,Troyton,India,Maersk,Textiles,3631.64,9.5,0,365,2025-11-08,2025-01-16,Lost
+Ey-7129-6666,,West Traceyberg,Ohio,Generic_Trucking,,4868.55,-1.2,Yes,30 kg,2025-06-17,2025-05-22,
+SJ-4722-6984,9343010713968,New Philip,India,Old Dominion,Raw Materials,1242.41,25.6,False,222lbs,2025-08-14,2025-06-26,Lost 
+LK-2885-1587,4885015569904,Robinsonville,Unknown,FedEx,Raw Materials,299.24,27.4,No,256Lbs,2025-05-17,2025-02-17,Delayed 
+vt-1851-5691,7955276365564,East Lisashire,Hoodview,DHL,Raw Materials,551.39,27.4,Yes,88,2025-02-14,2025-02-01,Lost
+Tj-2525-0029,6915594284344,Troyton,India,Maersk,Textiles,3631.64,9.5,0,365,2025-11-08,2025-01-16,Lost
+uL-1168-4577,8182688615331,West Robertfort,,Old Dominion,Electronics,3683.68,-3.2,1,218Lbs,2025-03-13,2025-03-03,Lost
+co-8367-0241,1172980686501,Ruizbury,Wisconsin,Old Dominion,Textiles,614.36,1.3,False,473,2025-06-10,,
+fz-8687-9374,1224179749730,North Charles,,Generic_Trucking,Perishables,894.04,27.68652020852044,Yes,466,2025-10-24,2025-06-16,Delivered
+mi-5655-7431,8180635651265,Lake Samantha,New Mexico,,Textiles,1038.76,-20.2,True,325lbs,2025-02-09,,Delivered
+Wc-2045-5611,5664742312200,Josephville,Leemouth,Old Dominion,Perishables,3365.73,25.720130234173908,1,306,2025-01-26,2025-10-25,Customs Hold
+,8112880133616,Port Jamesland,Connecticut,Maersk,Raw Materials,3270.17,-23.8,0,354kg,2025-10-20,2025-10-10,
+gn-3850-5064,8629127990883,Davisport,India,UPS,Raw Materials,632.79,-12.5,False,118Lbs,,,Delivered
+Gb-2933-3346,9405391037177,Chloemouth,Unknown,Generic_Trucking,Electronics,609.63,26.1,1,385lbs,2025-04-30,2025-06-20,Customs Hold
+PQ-0199-4883,,North Heather,Angelaton,UPS,Raw Materials,4939.57,14.4,False,461 kg,2025-03-13,,Delayed
+pD-7053-4949,2369292984251,Port Kathyshire,USA,FedEx,Textiles,569.33,,1,166 kg,2025-05-25,,Delivered
+,3521103924057,Barberburgh,,Maersk,Electronics,609.04,-5.0,No,145lbs,2025-02-11,2025-03-19,Lost
+mZ-9308-7059,8562718750032,New Danielfurt,,Old Dominion,Raw Materials,2582.94,-3.0,True,325lbs,2025-10-21,2025-10-08,Customs Hold
+dg-9706-2962,8006811492166,Port Juliantown,Hodgeshire,DHL,Perishables,4017.9,20.75510676570158,1,459Lbs,2025-05-02,2025-09-24,In Transit
+rO-9944-1715,2868528975587,Bryanfort,India,UPS,Perishables,839.01,36.40457468856441,0,196,2025-01-31,2025-02-03,In Transit
+cN-2532-4472,9554393769040,Allenbury,India,Old Dominion,Raw Materials,4668.97,-2.6,True,111,2025-08-27,,Delivered
+nZ-8924-1418,3084887256399,West Edwardview,Nguyenshire,,Raw Materials,,,0,79Lbs,2025-05-21,2025-03-25,Delivered
+HH-2102-0275,3731453038568,Josephport,Unknown,Generic_Trucking,Hazmat,-150.0,7.2,False,162lbs,2025-08-14,2025-10-02,Customs Hold
+RB-0296-6706,,Amandafurt,India,Maersk,Perishables,1078.09,21.28160912738621,,138kg,2025-08-05,,Delivered
+,4334722820056,South Jacqueline,Fordberg,FedEx,Textiles,,4.7,No,246Lbs,2025-09-26,,
+ZN-0969-0295,5744890612039,Gonzalezmouth,India,Maersk,Hazmat,4943.9,1.8,,500Lbs,2025-01-30,2025-02-14,Lost
+,7780973397767,Kennethland,Troymouth,FedEx,Raw Materials,320.1,,1,235 kg,2025-09-18,2025-09-16,
+Ab-5973-8320,7991366210383,North Lisa,Unknown,Generic_Trucking,,,,Yes,393lbs,2025-10-30,,Delivered
+jK-9559-0599,0807595794723,Angelamouth,India,DHL,Raw Materials,788.27,5.3,1,172Lbs,2025-08-03,2025-04-22,In Transit
+hE-4655-4947,7919409610556,Alexisville,Port Jean,Generic_Trucking,Textiles,,0.2,1,91 kg,2025-01-31,2025-08-18,Customs Hold
+cd-7109-1043,7754781291425,Jamesport,California,FedEx,Electronics,-150.0,-8.2,No,252 kg,2025-09-29,2025-10-09,
+yS-5521-6674,1728975267721,Mejiabury,Unknown,Generic_Trucking,Raw Materials,2639.36,,True,202Lbs,2025-09-17,2025-10-25,Lost
+Qq-4171-4677,4564240082548,Lake Glenn,India,Old Dominion,Textiles,3803.11,-6.8,False,65 kg,2025-11-14,2025-08-04,Delayed
+qg-3271-0405,4964759876223,West Rachelton,Kennethland,FedEx,Electronics,245.25,0.5,No,,2025-07-06,2025-10-13,Lost
+kh-0332-3098,4879206980425,,Tarashire,Maersk,Perishables,277.56,24.034144856120292,True,352 kg,2025-11-04,2025-11-24,Delayed
+dQ-5064-8909,0439407016459,North Garyfurt,India,UPS,Raw Materials,1344.98,-12.8,,275lbs,,2025-06-07,Lost
+jN-7997-0246,2491630097924,South Cassandra,,DHL,Perishables,955.2,30.42011086441118,1,426,2025-11-13,2025-09-21,Customs Hold
+nk-6149-7310,7968845783171,Jamesside,Unknown,UPS,Hazmat,520.24,-22.3,Yes,259,2025-02-23,2025-03-29,Customs Hold
+lU-5392-6442,6322702672885,Schmidtfurt,India,DHL,Electronics,1194.24,-0.1,False,423lbs,2025-06-28,2025-07-11,Lost
+bR-7972-9659,2797573660967,West Amy,India,Generic_Trucking,Electronics,521.45,,True,344kg,2025-10-21,2025-08-19,Delivered
+lp-4803-9652,3333952111799,Wilsonmouth,USA,UPS,Hazmat,3361.66,20.2,1,470 kg,2025-10-04,2025-10-01,Lost
+Wg-6162-2999,1837645208817,South William,India,Old Dominion,,510.11,27.8,1,444,2025-01-12,2025-11-08,Lost
+cD-0137-2151,8392053021463,Angelaland,India,FedEx,,,25.8,Yes,353kg,2025-11-05,,Delivered
+iO-8657-1918,8637659916240,Port Paula,South Kaylee,Generic_Trucking,Raw Materials,576.01,12.1,,82 kg,2025-05-13,,Delivered
+,8210099688146,East Jenny,India,Generic_Trucking,,4973.67,23.214760182664346,0,64lbs,2025-11-25,2025-11-15,Delivered
+Ah-9121-2775,9448695946363,Kristinamouth,Arkansas,UPS,Perishables,1351.82,38.51723575595698,Yes,109kg,2025-03-26,,Delivered
+Ri-5833-3945,6055830344149,Rodriguezside,India,Generic_Trucking,Hazmat,4852.22,-6.7,,378kg,2025-05-16,2025-02-11,Customs Hold
+fk-8537-4741,,Freemanland,USA,DHL,Raw Materials,2639.57,13.0,No,,2025-03-02,,Delivered 
+HH-2102-0275,3731453038568,Josephport,Unknown,Generic_Trucking,Hazmat,-150.0,7.2,False,162lbs,2025-08-14,2025-10-02,Customs Hold
+BP-4152-0643,3861207501106,Hunterfort,Tommouth,UPS,,234.95,-5.3,0,283kg,2025-03-06,2025-02-24,Lost
+oV-2482-5135,3441969315724,New Juan,Idaho,DHL,Perishables,947.24,28.779440970824716,Yes,81Lbs,2025-02-13,2025-09-27,In Transit
+Az-9652-0744,4577600490822,Lisatown,Iowa,DHL,Perishables,2974.21,32.80582629060274,No,444,2025-09-26,,Lost
+,0277038430981,South Lisaville,USA,Old Dominion,,245.06,-18.7,False,,2025-03-15,,Delivered
+JP-8969-1085,9288619576128,Garyport,,,Perishables,4715.21,38.914317156912155,True,56Lbs,2025-02-20,2025-09-20,In Transit
+EL-1035-7972,9456511810224,Stevenland,Unknown,FedEx,Raw Materials,3261.79,21.6,,,2025-09-25,2025-02-10,Lost
+,4729293143862,Port Dwayneberg,USA,DHL,Hazmat,1316.67,-21.9,,,,2025-05-08,In Transit
+Se-2157-0433,,Robbinsstad,Vermont,Maersk,,2348.17,26.1,True,170 kg,2025-11-15,2025-04-21,In Transit
+OI-6848-6661,8341108099698,Amandamouth,South Matthew,FedEx,Hazmat,-150.0,-26.7,False,283 kg,2025-09-25,2025-02-08,In Transit 
+,8536866326630,Maryberg,South Carolina,,Hazmat,4267.39,23.0,0,51lbs,2025-08-21,2025-04-23,Lost
+dt-0316-1799,2827229927509,East Amyside,Unknown,Generic_Trucking,Hazmat,-150.0,3.6,False,,2025-07-27,2025-11-27,
+eo-7005-1627,5061809190151,Oconnorhaven,USA,Generic_Trucking,Perishables,1316.16,33.94114817448921,Yes,42,,2025-04-26,In Transit
+nA-7546-9137,5240778487398,Arthurton,South Jenniferside,Old Dominion,Electronics,,12.0,True,118kg,2025-02-19,2025-01-05,Customs Hold
+jT-1260-4223,2294057202595,New Darryl,India,DHL,Electronics,3649.49,-3.1,Yes,304 kg,2025-10-25,2025-10-15,Delivered
+pA-6220-8635,1777392603025,Myersshire,,Generic_Trucking,Perishables,,20.10581266945144,,,,,Delivered 
+oH-1103-7129,2481934667664,East Matthew,East Austin,FedEx,Raw Materials,4388.89,3.4,0,338,2025-07-31,2025-07-21,Delivered
+,2855749821823,Bushville,India,FedEx,Hazmat,1959.29,14.9,0,292lbs,2025-11-29,2025-09-19,Delivered
+GL-0335-4216,,Townsendbury,USA,Old Dominion,,4605.97,,1,128kg,2025-03-18,2025-05-12,Customs Hold
+JN-9163-7562,7644726490825,Jeffreyport,North Dakota,UPS,Textiles,1761.46,15.2,0,274Lbs,2025-02-18,2025-11-03,Lost
+Rl-5526-9658,6205336452576,New Katherineborough,USA,FedEx,Perishables,,39.29140502749035,Yes,430kg,2025-09-24,2025-01-02,In Transit 
+RB-2233-2061,0312073564755,Proctorberg,Unknown,DHL,Perishables,2216.69,32.27931181433428,,,2025-03-08,,Customs Hold
+xa-1069-8720,,Garrettfurt,USA,FedEx,Electronics,3705.77,13.8,,193lbs,2025-05-21,2025-06-22,Lost 
+nD-6149-3316,0162249998279,Fernandoland,USA,Old Dominion,Textiles,4251.79,-15.7,No,,2025-02-05,2025-07-08,Delivered
+dy-1158-6938,4163894484632,Whitneyberg,Unknown,Maersk,Electronics,3333.61,0.2,Yes,449 kg,2025-07-23,,Customs Hold
+wu-3917-2513,4717545588455,Ashleyport,USA,DHL,Electronics,1515.31,-27.1,1,96kg,2025-02-15,2025-05-30,In Transit
+MZ-0722-9034,0586509480142,South Shawnfort,Unknown,Maersk,Hazmat,3496.04,8.0,1,78Lbs,2025-02-18,2025-07-22,Delayed
+Qt-1389-9940,1290878141410,North Larryton,Unknown,FedEx,Textiles,3285.16,0.5,False,320kg,2025-11-07,,Customs Hold
+,6025922220644,South Diana,Unknown,,Electronics,2813.8,,True,13,2025-03-19,2025-05-19,Lost
+wI-6292-3309,3973598933470,Tonyaside,,FedEx,Raw Materials,2046.79,-2.5,,101lbs,2025-07-19,2025-07-09,Delivered 
+rx-9606-5307,5132719500528,Bradfordbury,India,UPS,Raw Materials,2033.85,-22.0,,306Lbs,2025-02-16,2025-05-23,Delivered
+Bn-0175-1863,,,Colorado,Generic_Trucking,Raw Materials,2968.98,-22.9,No,240Lbs,2025-10-24,2025-10-14,Delivered
+mZ-9308-7059,8562718750032,New Danielfurt,,Old Dominion,Raw Materials,2582.94,-3.0,True,325lbs,2025-10-21,2025-10-08,Customs Hold 
+ZB-4252-4105,7700518449898,East Charles,India,Maersk,Hazmat,-150.0,-1.6,0,500kg,2025-05-17,2025-07-04,Customs Hold
+,5760849588033,North Chadview,India,Generic_Trucking,Perishables,3234.42,23.389657836262042,Yes,312 kg,,2025-07-10,Lost
+hY-9261-8914,7620555438405,Wellsberg,Unknown,DHL,Textiles,3405.75,,Yes,461kg,2025-01-24,,Delayed
+,2832684245082,Port Tonihaven,Montana,Maersk,Textiles,290.51,6.3,1,193,2025-11-18,,Delayed 
+JV-8044-2067,9026012796114,Singletonport,India,,Hazmat,3532.01,-23.6,False,445,2025-03-27,,Delivered
+WC-0898-9921,5020802144271,East Jenniferfort,India,,Perishables,1819.76,39.68896201262547,Yes,110lbs,2025-05-13,2025-03-15,Customs Hold
+Qp-7859-3213,5539423733349,Lake Elizabeth,Vermont,Old Dominion,Raw Materials,4184.4,25.6,No,327kg,2025-07-26,2025-05-21,
+eo-7005-1627,5061809190151,Oconnorhaven,USA,Generic_Trucking,Perishables,1316.16,33.94114817448921,Yes,42,,2025-04-26,In Transit
+it-0544-4713,8127358573061,Robertside,USA,Old Dominion,Perishables,4813.43,34.232116634179626,True,403,2025-03-28,2025-03-11,Delayed
+Jq-1001-6761,1046368157986,Turnerside,Unknown,DHL,Electronics,1605.48,20.8,,,2025-07-19,2025-02-17,Customs Hold
+Gx-4814-9177,2665918463866,Amberton,Wyoming,DHL,,-150.0,9.4,1,293,,,Delivered
+,2122816064842,New Catherine,Unknown,UPS,Raw Materials,1180.67,18.1,0,295kg,2025-03-17,2025-03-07,
+WF-0028-7721,7718129826656,,Wisconsin,,Raw Materials,3397.66,-28.1,False,190lbs,2025-08-22,2025-11-08,Customs Hold
+BL-9827-0808,4721458683398,Cookton,USA,Old Dominion,Raw Materials,4353.61,17.9,True,195,2025-11-25,,Delivered
+TN-5171-3395,3840666580044,East Juantown,USA,DHL,Textiles,4595.12,-15.9,True,47kg,2025-01-30,2025-01-20,In Transit
+yP-1914-8564,4743503136505,Cruzbury,Unknown,UPS,Hazmat,4084.07,28.2,No,,2025-10-17,,In Transit
+Yb-4626-3838,,Jaredshire,East Sarah,Maersk,Perishables,63.55,24.43540489239024,1,192 kg,2025-11-19,2025-02-22,Lost 
+Gz-0705-3457,5935186387827,,Unknown,DHL,Perishables,4009.5,31.949451276281927,No,251 kg,2025-02-25,2025-09-19,Delayed
+Wk-5007-4329,0864168622784,Whitehaven,Georgia,FedEx,,4200.76,-8.9,,490lbs,2025-10-22,,Delayed
+zv-9586-6934,8995299787720,South Chad,USA,Maersk,Perishables,2483.66,30.316272631056567,0,348 kg,2025-04-18,2025-10-26,Delivered
+KR-0792-5241,,North Thomas,North Nichole,,,-150.0,13.0,True,,2025-02-25,2025-09-29,DÃ©livÃ©rÃ©d
+df-9934-7687,2681818451840,South Patrick,USA,DHL,Electronics,1686.49,16.9,0,259lbs,,,Delivered
+,3460136730375,Englishchester,Unknown,UPS,,4398.45,-13.6,1,466kg,2025-04-29,2025-11-23,Lost
+dZ-5444-3283,5566593983687,New Brett,Florida,Maersk,,2109.34,-9.3,Yes,15 kg,2025-06-14,2025-02-16,Lost
+Cc-1862-5652,7807740649307,East Angela,Unknown,UPS,Raw Materials,277.15,,False,340,2025-06-21,2025-06-08,In Transit
+vw-9757-1130,7199038498309,Livingstonview,Unknown,Generic_Trucking,Hazmat,3234.82,14.5,0,127kg,2025-05-17,2025-08-23,Delivered
+dp-6289-0233,,Nixonland,Millerfurt,,Raw Materials,4260.82,-12.1,,288,,2025-07-10,In Transit 
+CD-5001-7012,4085887704353,North Neil,India,UPS,Raw Materials,1864.63,9.2,0,,2025-08-21,2025-08-11,Lost
+rP-1965-6523,3536822239436,Hugheshaven,,UPS,Electronics,3326.75,-11.7,1,412lbs,2025-09-24,2025-09-14,Lost
+yC-5367-2946,0947985158329,,,Old Dominion,Hazmat,699.47,21.4,,476lbs,2025-09-01,2025-08-22,
+Zz-5625-7532,1477053833883,New Jessica,Deborahport,Generic_Trucking,,2085.86,14.9,No,129kg,2025-01-13,2025-08-20,Delayed
 
 BAD_ROW_DATA,New York, NY,50kg,2023-01-01
 ANOTHER_BAD_ROW,,,,,,,,,,,,,,,

@@ -1,526 +1,159 @@
 Campaign_ID,Date,Channel,Ad_Type,Target_Region,Landing_URL,Ad_Parameters,Impressions,Clicks,Conversions,Spend
-3365d25b-e59,2025-07-01,Google Ads,Carousel,EMEA,https://mysite.com/shop?utm_source=email&utm_id=45ca1,"{'target_age': '33+', 'bidding_strategy': 'auto'}",2555,2118,85,6325.97
-f65e166d-153,2025-05-24,LinkedIn,Story,EMEA,https://mysite.com/shop?utm_source=email&utm_id=af279,"{'target_age': '52+', 'bidding_strategy': 'auto'}",,,,600.67 
-1e46ecdc-bd7,2025-01-29,TikTok,Video,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=06f77,"{'target_age': '49+', 'bidding_strategy': 'auto'}",6232,,,4304.51
-757e1b17-0d4,2025-09-14,Email,Carousel,Global,https://mysite.com/shop?utm_source=facebook&utm_id=d1a37,,5353,4388,281,5423.98 
-3d81f280-863,2025-09-17,,Story,EMEA,https://mysite.com/shop?utm_source=email&utm_id=105d4,"{'target_age': '31+', 'bidding_strategy': 'auto'}",15462,2249,202,9452.37
-a38f8315-020,2025-09-12,Facebook,Carousel,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=74907,"{'target_age': '43+', 'bidding_strategy': 'auto'}",9885,19770,34,9022.79
-bc8fe71a-e51,2025-04-02,,Video,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=ba9f7,"{'target_age': '22+', 'bidding_strategy': 'auto'}",32590,2216,265,9705.96
-825dd0ea-60c,2025-11-25,LinkedIn,,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=163d0,"{'target_age': '48+', 'bidding_strategy': 'auto'}",10089,2657,47,502.85
-0a5fdcff-42b,2025-05-15,Instagram,Story,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=b819a,"{'target_age': '57+', 'bidding_strategy': 'auto'}",39576,4048,231,6844.49
-052f7be7-478,2025-08-02,LinkedIn,Reel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=f76e1,"{'target_age': '26+', 'bidding_strategy': 'auto'}",,132,171,9548.15
-f4e980e0-d88,2025-09-29,,CarousÃ©l,NA,https://mysite.com/shop?utm_source=email&utm_id=b9421,"{'target_age': '23+', 'bidding_strategy': 'auto'}",47555,95110,,6674.3
-7d49e8f9-39c,2025-07-06,Google Ads,Static Image,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=70cc6,"{'target_age': '52+', 'bidding_strategy': 'auto'}",18113,1864,1914,7298.47 
-84b8fcb2-c75,2025-07-26,Instagram,,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=a0fd7,"{'target_age': '33+', 'bidding_strategy': 'auto'}",1501,2688,3,5366.92
-9872643b-974,2025-08-27,TikTok,Reel,LATAM,,"{'target_age': '22+', 'bidding_strategy': 'auto'}",26117,2953,28,6976.12
-776f78fb-b52,2025-07-18,,Video,EMEA,https://mysite.com/shop?utm_source=email&utm_id=2f454,"{'target_age': '20+', 'bidding_strategy': 'auto'}",39807,2830,370,-156.0
-634d2c50-28c,,Email,Video,EMEA,,"{'target_age': '41+', 'bidding_strategy': 'auto'}",25777,2022,126,9410.16
-,2025-08-23,Email,Carousel,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=f5233,"{'target_age': '29+', 'bidding_strategy': 'auto'}",32223,,32,6705.93
-e06ff0d4-6f5,2025-09-10,TikTok,Story,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=9de1f,"{'target_age': '33+', 'bidding_strategy': 'auto'}",28913,4546,4596,8247.35
-e605495c-cfd,2025-08-02,Email,Carousel,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=7e867,"{'target_age': '34+', 'bidding_strategy': 'auto'}",38058,3635,288,5483.18
-,2025-05-07,Instagram,Story,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=0bd1f,,11587,4097,195,8256.62
-3d4a5466-f3a,,Google Ads,Static Image,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=bcd1e,"{'target_age': '29+', 'bidding_strategy': 'auto'}",8289,2015,186,7846.34
-1879b203-e80,2025-09-09,TikTok,Reel,LATAM,,"{'target_age': '58+', 'bidding_strategy': 'auto'}",23931,3648,441,5088.8
-38d5d872-62b,2025-07-08,,Reel,Global,https://mysite.com/shop?utm_source=instagram&utm_id=f5bee,"{'target_age': '49+', 'bidding_strategy': 'auto'}",38203,2458,57,3429.01
-12552f58-27c,2025-11-08,Facebook,Video,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=84c29,"{'target_age': '59+', 'bidding_strategy': 'auto'}",,1774,110,2280.85 
-ddc7af59-53a,2025-01-04,Email,,APAC,https://mysite.com/shop?utm_source=email&utm_id=9d946,,28106,,79,4643.04
-17f4f88c-ddf,2025-11-09,Facebook,Caarousel,,https://mysite.com/shop?utm_source=instagram&utm_id=8b55c,,40182,,57,5390.39
-6195b4ec-34f,2025-11-02,TikTok,Carousel,,https://mysite.com/shop?utm_source=email&utm_id=4e3dc,"{'target_age': '25+', 'bidding_strategy': 'auto'}",35117,227,187,5559.22
-2e689243-5bd,2025-11-14,Google Ads,Video,,,"{'target_age': '55+', 'bidding_strategy': 'auto'}",44001,1436,1486,2870.05
-df2053a3-553,2025-10-12,,,EMEA,https://mysite.com/shop?utm_source=email&utm_id=5f5cf,"{'target_age': '42+', 'bidding_strategy': 'auto'}",8040,2617,71,1598.78
-b677fcbe-992,2025-09-28,Facebook,,Global,https://mysite.com/shop?utm_source=google ads&utm_id=c5fc7,"{'target_age': '19+', 'bidding_strategy': 'auto'}",5770,1775,432,3519.06
-c8a0c691-ed8,2025-09-15,TikTok,Caarousel,NA,https://mysite.com/shop?utm_source=instagram&utm_id=6c20e,"{'target_age': '53+', 'bidding_strategy': 'auto'}",12860,3228,77,
-e60aada1-51f,2025-08-09,,Static Image,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=9aff0,"{'target_age': '47+', 'bidding_strategy': 'auto'}",36418,3621,,
-e2d0f788-200,2025-05-18,TikTok,Story,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=22e96,"{'target_age': '33+', 'bidding_strategy': 'auto'}",32841,4031,22,6015.86
-6a017abc-5e1,2025-07-26,Instagram,Static Image,Global,https://mysite.com/shop?utm_source=email&utm_id=6685c,"{'target_age': '45+', 'bidding_strategy': 'auto'}",6784,4813,,973.94
-bb2bc475-a52,2025-03-04,LinkedIn,Carousel,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=8e0b3,,11958,3623,,5401.06
-9af78848-73c,2025-03-20,Facebook,Static Image,,https://mysite.com/shop?utm_source=instagram&utm_id=f3c7d,"{'target_age': '43+', 'bidding_strategy': 'auto'}",38169,4988,357,851.79
-ba19cf04-581,2025-03-14,Facebook,Video,,,"{'target_age': '45+', 'bidding_strategy': 'auto'}",7302,822,110,7584.38
-5ade15d6-d1c,2025-05-04,Google Ads,CarousÃ©l,Global,https://mysite.com/shop?utm_source=instagram&utm_id=999c3,"{'target_age': '50+', 'bidding_strategy': 'auto'}",10462,2949,287,985.15 
-bf17d94f-f05,2025-02-14,Google Ads,Story,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=a7faa,"{'target_age': '33+', 'bidding_strategy': 'auto'}",9684,2484,387,6776.0
-459dcfb5-0fb,2025-05-07,Facebook,Reel,APAC,https://mysite.com/shop?utm_source=email&utm_id=9cd92,"{'target_age': '29+', 'bidding_strategy': 'auto'}",23797,3175,266,6422.11
-26cbe50a-d35,2025-01-07,TikTok,Reel,LATAM,https://mysite.com/shop?utm_source=email&utm_id=08386,"{'target_age': '37+', 'bidding_strategy': 'auto'}",24808,3707,,9130.14
-52b73f7e-2e2,2025-03-13,Google Ads,Static Image,Global,https://mysite.com/shop?utm_source=facebook&utm_id=21d56,"{'target_age': '41+', 'bidding_strategy': 'auto'}",3470,3732,295,5963.22
-ea4ee2dd-f0f,2025-03-30,Instagram,Video,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=0128e,"{'target_age': '41+', 'bidding_strategy': 'auto'}",18822,2122,171,3971.18
-7a99e310-31c,,LinkedIn,,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=4c2f5,"{'target_age': '48+', 'bidding_strategy': 'auto'}",5663,4206,4256,7808.93 
-a261d6dc-85b,,Facebook,Reel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=77ab5,"{'target_age': '45+', 'bidding_strategy': 'auto'}",24961,2756,81,4963.63 
-b1a4675d-86f,2025-07-12,LinkedIn,Carousel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=95452,"{'target_age': '48+', 'bidding_strategy': 'auto'}",27490,3111,3161,
-d948bf57-7bc,2025-03-01,LinkedIn,Static Image,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=5bc66,"{'target_age': '26+', 'bidding_strategy': 'auto'}",10360,2902,397,6660.33 
-10e32e3b-3c1,2025-07-10,Instagram,,Global,https://mysite.com/shop?utm_source=facebook&utm_id=72354,"{'target_age': '48+', 'bidding_strategy': 'auto'}",19854,1083,,
-e869c41d-908,2025-07-24,Instagram,Story,LATAM,https://mysite.com/shop?utm_source=email&utm_id=0e8fb,"{'target_age': '34+', 'bidding_strategy': 'auto'}",42418,,122,6167.44
-54dd07dc-48e,2025-01-10,Email,,APAC,https://mysite.com/shop?utm_source=email&utm_id=99d8d,"{'target_age': '58+', 'bidding_strategy': 'auto'}",36621,1147,496,2698.87 
-c76b25ad-499,,TikTok,,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=52ff1,"{'target_age': '27+', 'bidding_strategy': 'auto'}",22413,4006,,
-3b0b4957-f2c,2025-04-15,TikTok,Reel,LATAM,https://mysite.com/shop?utm_source=email&utm_id=0667d,"{'target_age': '28+', 'bidding_strategy': 'auto'}",6059,3051,486,6798.18
-,2025-05-28,LinkedIn,Story,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=098b5,"{'target_age': '43+', 'bidding_strategy': 'auto'}",1333,2767,122,2036.1 
-9790808a-87d,2025-08-05,,Reel,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=5dc3b,,27980,,249,4271.2
-ec139f07-1a6,2025-04-29,,,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=62b2f,"{'target_age': '21+', 'bidding_strategy': 'auto'}",13073,3993,21,7762.02
-,2025-04-03,Google Ads,Reel,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=ab5de,"{'target_age': '29+', 'bidding_strategy': 'auto'}",25198,,240,3152.86 
-5e9f40f8-8ba,2025-10-09,Facebook,CarousÃ©l,NA,https://mysite.com/shop?utm_source=email&utm_id=5ef51,"{'target_age': '39+', 'bidding_strategy': 'auto'}",18986,37972,126,514.29
-55d63279-345,2025-05-17,TikTok,Video,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=9439f,"{'target_age': '44+', 'bidding_strategy': 'auto'}",44844,1043,,8483.36
-cb1984d0-7bd,2025-09-02,Instagram,Story,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=60962,"{'target_age': '28+', 'bidding_strategy': 'auto'}",1505,3391,276,2631.55
-a9f42e23-6b1,2025-10-29,Email,Video,APAC,https://mysite.com/shop?utm_source=email&utm_id=c773d,"{'target_age': '32+', 'bidding_strategy': 'auto'}",18386,2062,278,6957.47
-c1c69f79-f1e,2025-10-03,Google Ads,Static Image,NA,https://mysite.com/shop?utm_source=facebook&utm_id=502d7,,22228,722,772,2500.17
-011cb53c-335,2025-09-04,,,LATAM,https://mysite.com/shop?utm_source=email&utm_id=944ca,"{'target_age': '34+', 'bidding_strategy': 'auto'}",10104,,207,346.88
-f0678d81-590,2025-07-21,Instagram,Carousel,Global,https://mysite.com/shop?utm_source=facebook&utm_id=c1b07,"{'target_age': '18-24', 'bidding': 'aut",38889,1205,266,9286.4
-09a7c5f9-b8e,2025-03-30,,Carousel,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=809f9,"{'target_age': '49+', 'bidding_strategy': 'auto'}",7706,15412,247,2492.72
-,2025-09-26,Email,Video,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=b4e91,,14645,1685,101,8369.18 
-c4e3a5ed-ed7,2025-06-30,Instagram,Video,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=c7f4e,"{'target_age': '46+', 'bidding_strategy': 'auto'}",5741,1754,222,
-6842e7f5-164,2025-01-01,Instagram,Video,,https://mysite.com/shop?utm_source=google ads&utm_id=14b7a,"{'target_age': '33+', 'bidding_strategy': 'auto'}",3161,6322,456,4266.0
-,2025-02-18,Email,Static Image,,https://mysite.com/shop?utm_source=facebook&utm_id=b8ec0,"{'target_age': '33+', 'bidding_strategy': 'auto'}",37090,3775,392,3412.29
-a3de937c-55e,2025-03-09,Email,Story,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=a5767,"{'target_age': '31+', 'bidding_strategy': 'auto'}",35453,4724,4774,1965.86
-b658f7a0-dde,2025-07-04,,Video,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=b50e3,"{'target_age': '40+', 'bidding_strategy': 'auto'}",7873,689,112,4029.96
-d24243ab-f00,2025-02-22,Email,Carousel,NA,https://mysite.com/shop?utm_source=instagram&utm_id=80433,"{'target_age': '41+', 'bidding_strategy': 'auto'}",33895,67790,143,5310.6
-282f77e5-f38,,Google Ads,Reel,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=52158,"{'target_age': '38+', 'bidding_strategy': 'auto'}",,3714,469,9884.68
-3d24c1c1-125,2025-10-15,TikTok,Video,EMEA,,"{'target_age': '30+', 'bidding_strategy': 'auto'}",41209,793,149,-164.0
-27f3b303-74a,2025-08-11,Instagram,Story,LATAM,http://site.com/??error=true,"{'target_age': '53+', 'bidding_strategy': 'auto'}",20433,1972,234,6345.88
-,2025-03-26,Facebook,Story,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=a4ba6,"{'target_age': '39+', 'bidding_strategy': 'auto'}",44639,,,8200.2
-7f317011-a7e,2025-03-08,Email,Story,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=b991f,"{'target_age': '43+', 'bidding_strategy': 'auto'}",9027,1839,466,-365.0
-b7bfa181-926,2025-09-26,Email,,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=683e8,"{'target_age': '53+', 'bidding_strategy': 'auto'}",25446,1318,64,8061.4
-a35f345c-f7e,2025-01-29,LinkedIn,Reel,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=c0d57,"{'target_age': '27+', 'bidding_strategy': 'auto'}",1743,4697,430,2946.96
-e0778fce-cb0,2025-07-23,Email,CarousÃ©l,APAC,,"{'target_age': '26+', 'bidding_strategy': 'auto'}",40662,704,351,8141.72
-2368d3c1-fd0,2025-08-06,Google Ads,Story,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=a12ff,"{'target_age': '52+', 'bidding_strategy': 'auto'}",42484,667,459,8402.19
-003bed6e-dfe,2025-05-22,,Static Image,LATAM,https://mysite.com/shop?utm_source=email&utm_id=df63b,"{'target_age': '37+', 'bidding_strategy': 'auto'}",3007,,1336,8430.98
-c9947eba-25b,2025-08-31,Google Ads,Reel,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=c6f64,"{'target_age': '26+', 'bidding_strategy': 'auto'}",22724,2350,162,4530.71
-6bb45123-f81,2025-06-21,Instagram,Video,,https://mysite.com/shop?utm_source=google ads&utm_id=c7876,"{'target_age': '24+', 'bidding_strategy': 'auto'}",,,1508,
-5749f77e-83f,2025-03-19,LinkedIn,Carousel,Global,,"{'target_age': '33+', 'bidding_strategy': 'auto'}",30168,2137,2187,2468.26
-bf0c6693-aaa,2025-06-27,Facebook,Carousel,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=1fc08,"{'target_age': '32+', 'bidding_strategy': 'auto'}",37472,,431,2041.9
-517f3719-662,2025-09-12,Google Ads,Reel,NA,https://mysite.com/shop?utm_source=instagram&utm_id=80c48,"{'target_age': '52+', 'bidding_strategy': 'auto'}",36749,,493,9429.87
-37c16995-55e,2025-06-14,Instagram,Carousel,Global,https://mysite.com/shop?utm_source=instagram&utm_id=23a72,"{'target_age': '44+', 'bidding_strategy': 'auto'}",,4520,4570,-48.0
-9a8c4492-15b,,Google Ads,Reel,,https://mysite.com/shop?utm_source=facebook&utm_id=06776,"{'target_age': '48+', 'bidding_strategy': 'auto'}",11219,387,443,8114.47
-06278321-711,2025-02-24,LinkedIn,,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=e8686,"{'target_age': '47+', 'bidding_strategy': 'auto'}",,3255,328,
-66bd483a-227,2025-08-20,TikTok,Reel,APAC,https://mysite.com/shop?utm_source=email&utm_id=92ae2,"{'target_age': '44+', 'bidding_strategy': 'auto'}",15953,31906,163,4144.28
-d3c8a4d6-0c4,2025-11-19,Facebook,Video,,https://mysite.com/shop?utm_source=tiktok&utm_id=14aee,"{'target_age': '39+', 'bidding_strategy': 'auto'}",24014,782,444,7273.08
-a7f85f02-941,,LinkedIn,Reel,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=e70c3,"{'target_age': '42+', 'bidding_strategy': 'auto'}",15580,3725,487,5034.9
-e07fb751-1a4,2025-03-27,Instagram,Carousel,NA,https://mysite.com/shop?utm_source=google ads&utm_id=41e04,"{'target_age': '38+', 'bidding_strategy': 'auto'}",20698,4862,348,
-4cc147af-f18,2025-08-07,Google Ads,Video,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=dca4a,"{'target_age': '24+', 'bidding_strategy': 'auto'}",40289,1048,397,1011.01
-,2025-09-16,Instagram,Reel,Global,,"{'target_age': '34+', 'bidding_strategy': 'auto'}",18932,1487,,3934.65
-574073b0-fc4,2025-03-13,Google Ads,Video,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=6808a,"{'target_age': '50+', 'bidding_strategy': 'auto'}",34428,2004,178,6103.4
-7a8f36a2-f88,2025-10-28,TikTok,Reel,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=88d76,"{'target_age': '21+', 'bidding_strategy': 'auto'}",5920,,144,
-71a5e9e3-3eb,2025-01-12,,CarousÃ©l,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=ec4f1,,4850,226,447,4490.47
-5158cb86-ee7,2025-06-01,Facebook,Carousel,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=e6dd8,"{'target_age': '55+', 'bidding_strategy': 'auto'}",,1018,368,5937.54
-e3715388-377,2025-05-02,Email,Carousel,APAC,https://mysite.com/shop?utm_source=email&utm_id=eeadf,"{'target_age': '55+', 'bidding_strategy': 'auto'}",10175,258,417,8973.6
-776f78fb-b52,2025-07-18,,Video,EMEA,https://mysite.com/shop?utm_source=email&utm_id=2f454,"{'target_age': '20+', 'bidding_strategy': 'auto'}",39807,2830,370,-156.0
-053f349f-a29,2025-03-04,Facebook,Static Image,,https://mysite.com/shop?utm_source=tiktok&utm_id=b0950,,5068,2479,385,3712.18
-e5706947-f86,2025-05-04,Email,Story,APAC,https://mysite.com/shop?utm_source=email&utm_id=dc124,"{'target_age': '43+', 'bidding_strategy': 'auto'}",21885,1141,2,413.57
-,2025-03-27,Google Ads,Story,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=ce52f,"{'target_age': '40+', 'bidding_strategy': 'auto'}",6439,1587,76,6376.48
-,2025-05-21,,Story,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=c24cf,"{'target_age': '36+', 'bidding_strategy': 'auto'}",11795,3395,,3125.46
-2a2be014-254,2025-02-06,LinkedIn,,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=d0df7,"{'target_age': '25+', 'bidding_strategy': 'auto'}",2676,3192,202,6750.44
-b85b81c2-1c5,2025-09-26,Email,Story,Global,https://mysite.com/shop?utm_source=instagram&utm_id=3c6d8,,1683,3273,480,8817.74
-da0b7ca4-254,2025-11-28,Facebook,Video,NA,http://site.com/??error=true,"{'target_age': '46+', 'bidding_strategy': 'auto'}",26467,3652,335,1291.06
-1b9894c5-2fd,2025-10-09,TikTok,Carousel,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=1584e,"{'target_age': '19+', 'bidding_strategy': 'auto'}",2946,187,54,9968.49
-1d3042ee-c32,2025-11-18,LinkedIn,Reel,NA,https://mysite.com/shop?utm_source=facebook&utm_id=dbf8c,"{'target_age': '53+', 'bidding_strategy': 'auto'}",3556,3374,326,3712.69
-d9502b0d-9ce,2025-03-08,LinkedIn,Static Image,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=c9ef4,"{'target_age': '32+', 'bidding_strategy': 'auto'}",33350,271,,3989.17
-94eeb2af-b56,2025-06-18,TikTok,Reel,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=8b626,"{'target_age': '23+', 'bidding_strategy': 'auto'}",14731,175,,
-68bfe4fe-696,2025-11-18,Facebook,Reel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=41ee0,"{'target_age': '58+', 'bidding_strategy': 'auto'}",15105,2517,2567,2733.54
-961c4ea6-3b0,2025-07-27,,Video,,https://mysite.com/shop?utm_source=linkedin&utm_id=7236b,"{'target_age': '21+', 'bidding_strategy': 'auto'}",14144,1830,469,7251.58
-,2025-06-28,Facebook,Reel,,http://site.com/??error=true,"{'target_age': '49+', 'bidding_strategy': 'auto'}",14442,4726,117,6138.15
-80dd7f64-4ac,2025-01-17,Email,,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=a2d43,"{'target_age': '54+', 'bidding_strategy': 'auto'}",48229,3456,286,343.9
-0257ac68-cfc,2025-06-15,LinkedIn,Story,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=0c686,,,1042,,
-a33be6ce-910,2025-07-31,Email,,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=515b1,"{'target_age': '35+', 'bidding_strategy': 'auto'}",14442,3776,257,9248.86
-945730a5-169,2025-11-09,TikTok,Static Image,APAC,https://mysite.com/shop?utm_source=email&utm_id=d4d92,"{'target_age': '47+', 'bidding_strategy': 'auto'}",20474,3003,331,
-83da6bc6-464,2025-11-10,Facebook,Reel,APAC,,"{'target_age': '45+', 'bidding_strategy': 'auto'}",24859,2025,211,
-630a3b56-867,2025-03-14,TikTok,Video,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=b79f1,"{'target_age': '22+', 'bidding_strategy': 'auto'}",10864,3113,436,1233.96
-,2025-09-20,Facebook,Story,APAC,https://mysite.com/shop?utm_source=email&utm_id=cb55b,"{'target_age': '18+', 'bidding_strategy': 'auto'}",,1357,,6485.15
-806272a1-313,2025-08-02,Facebook,Story,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=d50ed,"{'target_age': '35+', 'bidding_strategy': 'auto'}",,4727,124,8412.3
-e86a5ba5-152,2025-04-08,Email,Reel,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=6d866,"{'target_age': '38+', 'bidding_strategy': 'auto'}",37322,4343,415,9250.69
-7fd33daf-a31,,LinkedIn,Carousel,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=55c7f,"{'target_age': '42+', 'bidding_strategy': 'auto'}",32586,2368,252,
-813ee22d-c73,,Instagram,Video,,https://mysite.com/shop?utm_source=email&utm_id=a0350,"{'target_age': '18-24', 'bidding': 'aut",11777,,357,4329.21
-192e3dc1-182,2025-04-15,Google Ads,Story,Global,https://mysite.com/shop?utm_source=email&utm_id=18182,"{'target_age': '39+', 'bidding_strategy': 'auto'}",33168,3071,197,4141.1
-9fdcf6ea-0ac,2025-04-18,,Static Image,NA,,"{'target_age': '29+', 'bidding_strategy': 'auto'}",10544,1635,445,6461.35
-58d6e90d-3f0,2025-08-29,,Video,Global,https://mysite.com/shop?utm_source=instagram&utm_id=f50fa,"{'target_age': '37+', 'bidding_strategy': 'auto'}",41659,131,162,
-907627b4-ea8,2025-09-14,Google Ads,Video,Global,https://mysite.com/shop?utm_source=facebook&utm_id=cc54d,"{'target_age': '32+', 'bidding_strategy': 'auto'}",7572,856,906,6667.12
-abe278a8-186,,Facebook,Story,Global,https://mysite.com/shop?utm_source=instagram&utm_id=95abe,"{'target_age': '21+', 'bidding_strategy': 'auto'}",22569,1151,366,2424.48
-93859784-acf,,Instagram,Video,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=7870a,"{'target_age': '29+', 'bidding_strategy': 'auto'}",36573,1458,359,1335.5
-6822b2cd-0e1,2025-08-15,Email,Story,APAC,https://mysite.com/shop?utm_source=email&utm_id=c78af,"{'target_age': '38+', 'bidding_strategy': 'auto'}",39205,3143,271,8545.19
-,,,Story,NA,https://mysite.com/shop?utm_source=email&utm_id=10bfb,"{'target_age': '54+', 'bidding_strategy': 'auto'}",,3402,3452,327.28
-6c4086e2-366,2025-09-06,Email,Video,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=34c93,"{'target_age': '59+', 'bidding_strategy': 'auto'}",,2832,247,
-51d33ded-047,2025-03-18,Email,Video,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=47aa2,,3682,,4,552.22
-1573223d-7f7,2025-06-21,,Carousel,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=d3cf6,"{'target_age': '55+', 'bidding_strategy': 'auto'}",19961,1295,260,9796.83
-e8d9fd15-a7c,2025-01-18,TikTok,Story,,https://mysite.com/shop?utm_source=facebook&utm_id=43d4d,"{'target_age': '23+', 'bidding_strategy': 'auto'}",2126,4796,366,7905.84 
-,2025-04-04,Email,Static Image,,https://mysite.com/shop?utm_source=instagram&utm_id=56336,"{'target_age': '44+', 'bidding_strategy': 'auto'}",,3187,447,9754.31
-,2025-08-18,Google Ads,,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=3d725,,16898,2477,470,3576.52
-d198a560-60e,,Google Ads,Reel,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=89565,"{'target_age': '18+', 'bidding_strategy': 'auto'}",37414,74828,,
-b3010c84-dac,,Email,Video,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=bd615,,40112,,229,9896.15
-03c82477-6dd,2025-09-16,Facebook,Reel,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=ce921,"{'target_age': '53+', 'bidding_strategy': 'auto'}",35962,2656,2706,2907.95
-eaef318c-ee6,2025-06-04,,Video,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=91340,"{'target_age': '19+', 'bidding_strategy': 'auto'}",15838,4204,4254,4970.77
-d06bddc5-475,2025-09-07,LinkedIn,Static Image,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=aeeaa,"{'target_age': '20+', 'bidding_strategy': 'auto'}",44097,,330,2438.26
-d8386f30-b70,2025-06-16,LinkedIn,Story,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=9c4b1,,10222,20444,169,9092.34
-0199c165-b2f,2025-03-08,Email,Carousel,,https://mysite.com/shop?utm_source=tiktok&utm_id=e16df,"{'target_age': '38+', 'bidding_strategy': 'auto'}",44480,1929,56,3316.16
-e393a344-dbb,2025-06-05,Email,Carousel,Global,https://mysite.com/shop?utm_source=email&utm_id=bf490,,19957,4383,469,1735.33 
-58365e9e-6ff,2025-01-22,Email,Carousel,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=da89f,"{'target_age': '18+', 'bidding_strategy': 'auto'}",9959,379,326,4533.86
-21cdbab6-27e,2025-08-11,LinkedIn,Reel,,https://mysite.com/shop?utm_source=linkedin&utm_id=a4d34,,,1729,353,5763.58
-acf7d36b-568,2025-06-03,Instagram,Reel,LATAM,https://mysite.com/shop?utm_source=email&utm_id=97aec,"{'target_age': '47+', 'bidding_strategy': 'auto'}",21417,3157,357,7680.33
-e2d0f788-200,2025-05-18,TikTok,Story,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=22e96,"{'target_age': '33+', 'bidding_strategy': 'auto'}",32841,4031,22,6015.86
-a3fa69c2-c9e,2025-09-09,,Reel,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=df0d1,"{'target_age': '32+', 'bidding_strategy': 'auto'}",48598,2141,189,4762.9
-014dd114-38f,2025-06-27,,Reel,APAC,http://site.com/??error=true,"{'target_age': '24+', 'bidding_strategy': 'auto'}",31147,4536,68,4126.52
-3727a7a5-f89,2025-08-08,Instagram,Video,Global,https://mysite.com/shop?utm_source=instagram&utm_id=7f9ec,"{'target_age': '30+', 'bidding_strategy': 'auto'}",8994,1495,189,676.3
-17f6a4cf-224,2025-08-22,Google Ads,,Global,https://mysite.com/shop?utm_source=facebook&utm_id=098df,"{'target_age': '21+', 'bidding_strategy': 'auto'}",36905,2343,18,4691.62
-09251906-bc3,2025-09-28,,Video,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=a8496,"{'target_age': '45+', 'bidding_strategy': 'auto'}",29356,3629,376,2692.71
-47578291-f3a,2025-09-04,LinkedIn,Story,,https://mysite.com/shop?utm_source=instagram&utm_id=05c45,"{'target_age': '18+', 'bidding_strategy': 'auto'}",41190,45,386,6922.36
-,2025-01-26,Google Ads,Static Image,,https://mysite.com/shop?utm_source=email&utm_id=cc55f,"{'target_age': '18-24', 'bidding': 'aut",42473,807,149,7146.96 
-11b9e56c-0b3,2025-04-05,LinkedIn,Story,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=83a02,"{'target_age': '31+', 'bidding_strategy': 'auto'}",30646,4198,363,2978.2
-1d2c5ae2-856,2025-02-25,Google Ads,Story,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=40f5c,"{'target_age': '26+', 'bidding_strategy': 'auto'}",47680,4724,240,1463.3
-b46ce5f8-98e,2025-11-03,Email,Static Image,Global,https://mysite.com/shop?utm_source=email&utm_id=43a21,,,4087,290,-150.0 
-deeca16f-aad,2025-08-19,Google Ads,Video,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=fb276,"{'target_age': '59+', 'bidding_strategy': 'auto'}",,51880,457,8648.79
-eb84e764-1ab,2025-02-18,TikTok,Reel,Global,https://mysite.com/shop?utm_source=email&utm_id=e7034,"{'target_age': '53+', 'bidding_strategy': 'auto'}",7480,3811,460,1786.9
-8f67ab46-97a,2025-04-14,Instagram,Video,,https://mysite.com/shop?utm_source=google ads&utm_id=d7f17,"{'target_age': '21+', 'bidding_strategy': 'auto'}",1224,4920,337,2953.98 
-4d20d60f-3e1,2025-06-08,,,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=3facd,"{'target_age': '59+', 'bidding_strategy': 'auto'}",26534,3279,343,8305.16 
-,2025-01-15,Facebook,Video,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=646ad,"{'target_age': '35+', 'bidding_strategy': 'auto'}",38529,77058,77108,7162.66
-ddf9693a-1d1,2025-04-11,LinkedIn,Static Image,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=3c148,"{'target_age': '44+', 'bidding_strategy': 'auto'}",34206,4494,500,4025.17
-76b12e05-913,2025-10-20,Email,Video,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=f2dcb,,44377,3164,430,9176.09 
-dbe8d3ef-4b4,2025-04-10,Email,,Global,http://site.com/??error=true,"{'target_age': '57+', 'bidding_strategy': 'auto'}",40180,2622,312,4047.73
-b17ac315-5ca,,Facebook,,Global,https://mysite.com/shop?utm_source=facebook&utm_id=0885d,"{'target_age': '30+', 'bidding_strategy': 'auto'}",18886,3171,162,6663.65
-6713250d-661,2025-07-23,LinkedIn,Reel,,https://mysite.com/shop?utm_source=linkedin&utm_id=f72e5,"{'target_age': '30+', 'bidding_strategy': 'auto'}",1863,1814,1864,5659.49
-6195b4ec-34f,2025-11-02,TikTok,Carousel,,https://mysite.com/shop?utm_source=email&utm_id=4e3dc,"{'target_age': '25+', 'bidding_strategy': 'auto'}",35117,227,187,5559.22
-d74c8860-f2f,2025-05-30,,Static Image,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=9c7cc,"{'target_age': '31+', 'bidding_strategy': 'auto'}",,,269,3756.64
-01f5badf-d35,2025-08-16,Facebook,Story,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=250e8,"{'target_age': '42+', 'bidding_strategy': 'auto'}",45690,3453,204,7646.4 
-95ce8a80-8ee,2025-02-08,LinkedIn,Reel,,https://mysite.com/shop?utm_source=email&utm_id=15587,"{'target_age': '23+', 'bidding_strategy': 'auto'}",39345,1156,406,
-861fcba0-f39,2025-04-22,LinkedIn,Carousel,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=e4fa6,"{'target_age': '57+', 'bidding_strategy': 'auto'}",48872,3929,182,143.19
-a39069f4-93b,2025-01-10,Instagram,Reel,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=ab163,"{'target_age': '46+', 'bidding_strategy': 'auto'}",23330,4491,296,6074.34
-604e86b1-1bb,2025-07-03,Email,Static Image,NA,https://mysite.com/shop?utm_source=instagram&utm_id=b923e,"{'target_age': '27+', 'bidding_strategy': 'auto'}",11159,3541,174,5116.1
-7e02bf27-b33,2025-07-12,LinkedIn,Static Image,Global,https://mysite.com/shop?utm_source=instagram&utm_id=ed791,"{'target_age': '23+', 'bidding_strategy': 'auto'}",28883,3223,390,9488.72
-b34d5ab6-c6d,2025-08-02,Google Ads,Video,Global,https://mysite.com/shop?utm_source=google ads&utm_id=8fe08,"{'target_age': '54+', 'bidding_strategy': 'auto'}",43485,,335,7876.41
-,2025-03-18,Google Ads,Story,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=86e1d,"{'target_age': '38+', 'bidding_strategy': 'auto'}",,2310,163,7314.23
-17de253f-6a1,2025-06-03,Email,Reel,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=6587a,"{'target_age': '52+', 'bidding_strategy': 'auto'}",46308,1163,445,9502.11
-255a4a55-aae,2025-07-17,TikTok,Reel,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=80e01,"{'target_age': '37+', 'bidding_strategy': 'auto'}",3220,2940,,2961.32
-709240bc-53c,2025-05-09,Facebook,Story,EMEA,,"{'target_age': '23+', 'bidding_strategy': 'auto'}",43854,338,189,1764.67
-a8bb7de9-7da,2025-01-02,Instagram,Video,EMEA,,"{'target_age': '30+', 'bidding_strategy': 'auto'}",14967,,139,1335.44
-,2025-10-26,Instagram,Video,APAC,http://site.com/??error=true,"{'target_age': '19+', 'bidding_strategy': 'auto'}",8135,,271,7719.69 
-1daf231b-c17,2025-11-28,Google Ads,,Global,https://mysite.com/shop?utm_source=google ads&utm_id=9c7d8,"{'target_age': '46+', 'bidding_strategy': 'auto'}",27715,,137,5473.23 
-52bb9866-ff9,2025-06-02,Facebook,Static Image,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=3026b,"{'target_age': '38+', 'bidding_strategy': 'auto'}",9638,4560,4610,-195.0
-f13a5d89-3f2,,Google Ads,Carousel,NA,https://mysite.com/shop?utm_source=instagram&utm_id=8cd82,"{'target_age': '30+', 'bidding_strategy': 'auto'}",19541,,500,6785.48
-f8f383d1-584,2025-08-10,Facebook,,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=bd32a,"{'target_age': '32+', 'bidding_strategy': 'auto'}",29399,688,249,1953.89 
-5fa2f598-230,2025-01-09,LinkedIn,Reel,NA,https://mysite.com/shop?utm_source=google ads&utm_id=7e580,"{'target_age': '26+', 'bidding_strategy': 'auto'}",13159,3849,3899,6062.04
-93928100-1b3,2025-08-30,LinkedIn,Video,Global,https://mysite.com/shop?utm_source=facebook&utm_id=226cc,"{'target_age': '21+', 'bidding_strategy': 'auto'}",20815,4313,426,5575.14
-88a934a1-621,2025-01-07,Google Ads,Story,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=0960a,"{'target_age': '55+', 'bidding_strategy': 'auto'}",,4042,180,4025.47
-788ef5c1-a8a,2025-10-31,Facebook,Story,NA,https://mysite.com/shop?utm_source=email&utm_id=7c861,"{'target_age': '57+', 'bidding_strategy': 'auto'}",8602,2952,56,915.24
-,2025-10-13,Google Ads,Static Image,NA,https://mysite.com/shop?utm_source=email&utm_id=01dfe,"{'target_age': '37+', 'bidding_strategy': 'auto'}",42200,942,197,6549.73
-b7cb05a0-b72,2025-11-21,,Video,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=23c94,"{'target_age': '55+', 'bidding_strategy': 'auto'}",5894,3574,3624,6472.6
-6e5b6d9f-2f1,2025-03-12,,Video,Global,https://mysite.com/shop?utm_source=google ads&utm_id=1a758,"{'target_age': '38+', 'bidding_strategy': 'auto'}",13289,4001,38,
-8c0e6204-a04,2025-11-16,Instagram,Carousel,,https://mysite.com/shop?utm_source=google ads&utm_id=391a1,"{'target_age': '39+', 'bidding_strategy': 'auto'}",9870,50,362,8951.88
-3e364321-c63,,LinkedIn,Static Image,NA,https://mysite.com/shop?utm_source=facebook&utm_id=d3270,"{'target_age': '26+', 'bidding_strategy': 'auto'}",23094,46188,474,3248.11
-fb1fb5e8-6c9,2025-05-28,,Video,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=91951,"{'target_age': '60+', 'bidding_strategy': 'auto'}",27548,3021,182,7566.93
-e10d3cfd-0e9,2025-10-22,Google Ads,Video,NA,https://mysite.com/shop?utm_source=instagram&utm_id=0a882,"{'target_age': '59+', 'bidding_strategy': 'auto'}",2914,2627,114,8460.91
-91de413f-3ee,,TikTok,Story,,https://mysite.com/shop?utm_source=email&utm_id=9d42c,,31105,2945,376,182.83
-79a6470c-1c1,2025-07-02,Facebook,Reel,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=28478,"{'target_age': '50+', 'bidding_strategy': 'auto'}",7944,2024,423,4342.45
-,2025-03-17,Google Ads,Story,,,"{'target_age': '34+', 'bidding_strategy': 'auto'}",44444,2593,255,6698.74 
-22b51524-7c6,2025-05-16,Google Ads,Static Image,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=9f167,,18187,2289,73,1608.16
-,2025-09-08,TikTok,Story,NA,https://mysite.com/shop?utm_source=instagram&utm_id=a1845,"{'target_age': '29+', 'bidding_strategy': 'auto'}",32222,2353,216,2347.91
-7270e707-a98,2025-01-12,Facebook,Video,APAC,https://mysite.com/shop?utm_source=email&utm_id=53672,,37189,1350,103,4246.45
-5df0fb26-67b,2025-10-30,LinkedIn,Video,EMEA,http://site.com/??error=true,"{'target_age': '44+', 'bidding_strategy': 'auto'}",27572,4894,4944,
-a7308128-d32,2025-06-25,TikTok,Static Image,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=4be97,"{'target_age': '31+', 'bidding_strategy': 'auto'}",,,291,
-b716d761-917,2025-02-23,TikTok,Static Image,,https://mysite.com/shop?utm_source=google ads&utm_id=e9909,"{'target_age': '39+', 'bidding_strategy': 'auto'}",19502,3915,,3589.55
-6afae130-e03,,,Static Image,Global,,"{'target_age': '24+', 'bidding_strategy': 'auto'}",,2909,21,4075.03
-6f3b8e35-9c2,2025-05-22,Google Ads,Story,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=48b9e,"{'target_age': '36+', 'bidding_strategy': 'auto'}",19606,39212,104,7886.83
-acd5b138-4b9,2025-07-21,Email,Carousel,EMEA,https://mysite.com/shop?utm_source=email&utm_id=cbce5,"{'target_age': '53+', 'bidding_strategy': 'auto'}",11573,2261,2,6587.63 
-0e5c969b-b18,2025-03-30,LinkedIn,Video,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=18045,,,2368,19,1442.23 
-d095e5bb-011,2025-05-18,Facebook,Story,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=58eef,"{'target_age': '28+', 'bidding_strategy': 'auto'}",46903,1707,83,8068.81
-ddd12868-44f,2025-09-08,Google Ads,Story,,https://mysite.com/shop?utm_source=google ads&utm_id=c22d5,"{'target_age': '51+', 'bidding_strategy': 'auto'}",16562,4756,472,8324.94
-26f803c6-d88,2025-02-01,LinkedIn,Reel,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=72bd3,"{'target_age': '60+', 'bidding_strategy': 'auto'}",7030,4106,295,6840.72
-fb3904f0-7f6,2025-06-15,LinkedIn,Static Image,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=e8e23,"{'target_age': '46+', 'bidding_strategy': 'auto'}",40428,4824,34,4611.57
-e0b5ddd0-8a7,2025-09-04,LinkedIn,Static Image,APAC,https://mysite.com/shop?utm_source=email&utm_id=70709,,46924,3211,224,7761.29
-8052c055-c28,2025-06-11,Facebook,Story,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=0432d,"{'target_age': '35+', 'bidding_strategy': 'auto'}",,24084,475,4980.17
-082b3c90-c44,2025-07-19,Instagram,Caarousel,,https://mysite.com/shop?utm_source=linkedin&utm_id=1939e,"{'target_age': '48+', 'bidding_strategy': 'auto'}",7798,2811,260,490.04
-,2025-09-10,Facebook,Story,,https://mysite.com/shop?utm_source=instagram&utm_id=d327a,"{'target_age': '23+', 'bidding_strategy': 'auto'}",40714,1817,303,2236.76
-0366a89e-b41,,Instagram,Video,,https://mysite.com/shop?utm_source=email&utm_id=72199,,1084,2168,130,390.06
-19758e62-6e2,2025-05-06,Google Ads,Static Image,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=7a52e,"{'target_age': '37+', 'bidding_strategy': 'auto'}",21922,1155,133,9675.05
-9d20b9fe-9da,2025-06-05,Facebook,Reel,NA,https://mysite.com/shop?utm_source=facebook&utm_id=b6030,"{'target_age': '33+', 'bidding_strategy': 'auto'}",,49,216,1505.67
-ea3b3fd6-582,2025-07-30,TikTok,Reel,NA,https://mysite.com/shop?utm_source=email&utm_id=230c7,"{'target_age': '18+', 'bidding_strategy': 'auto'}",,,456,4088.9
-bec6d834-098,2025-04-27,Facebook,Story,NA,https://mysite.com/shop?utm_source=facebook&utm_id=605b3,"{'target_age': '35+', 'bidding_strategy': 'auto'}",18562,37124,378,9020.81 
-968b42cc-112,2025-04-09,TikTok,Video,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=89eea,"{'target_age': '43+', 'bidding_strategy': 'auto'}",20271,186,279,255.21
-a654b58b-3ae,2025-09-07,Google Ads,Video,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=b4e83,"{'target_age': '29+', 'bidding_strategy': 'auto'}",27641,55282,134,6131.04
-,2025-09-13,Email,Video,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=0e422,"{'target_age': '58+', 'bidding_strategy': 'auto'}",,3854,35,4661.16
-b4024e90-b2d,2025-11-27,Instagram,Reel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=c6a6a,"{'target_age': '24+', 'bidding_strategy': 'auto'}",12501,2017,79,
-32b9cacd-b9b,2025-03-18,Facebook,,Global,https://mysite.com/shop?utm_source=google ads&utm_id=e8d45,"{'target_age': '30+', 'bidding_strategy': 'auto'}",9364,188,284,5943.88
-0facc51f-b5c,2025-11-02,Email,Static Image,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=6c04e,"{'target_age': '44+', 'bidding_strategy': 'auto'}",27815,3122,239,4998.7
-8a5ae470-ed3,2025-06-13,Google Ads,Video,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=4af53,"{'target_age': '22+', 'bidding_strategy': 'auto'}",40326,3051,100,467.7
-31b9b512-507,2025-04-23,LinkedIn,Story,NA,https://mysite.com/shop?utm_source=facebook&utm_id=a8568,"{'target_age': '42+', 'bidding_strategy': 'auto'}",30589,556,367,
-f0c56bf8-cf3,2025-11-24,Facebook,Carousel,Global,https://mysite.com/shop?utm_source=instagram&utm_id=070a0,"{'target_age': '42+', 'bidding_strategy': 'auto'}",22589,913,233,5635.04
-e7a25a16-2f0,,Email,Reel,APAC,,"{'target_age': '36+', 'bidding_strategy': 'auto'}",28343,56686,346,664.5
-1ba6b2ce-99b,2025-01-05,Instagram,,LATAM,https://mysite.com/shop?utm_source=email&utm_id=bb303,"{'target_age': '27+', 'bidding_strategy': 'auto'}",38902,894,353,
-f194f3d4-c79,2025-02-24,Facebook,Static Image,EMEA,https://mysite.com/shop?utm_source=email&utm_id=0ea3a,"{'target_age': '21+', 'bidding_strategy': 'auto'}",45055,407,472,2916.69 
-06269f70-221,2025-10-03,Facebook,Static Image,NA,https://mysite.com/shop?utm_source=facebook&utm_id=d6e88,"{'target_age': '56+', 'bidding_strategy': 'auto'}",26587,718,217,
-4920aa02-001,,Instagram,Video,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=37e9d,"{'target_age': '32+', 'bidding_strategy': 'auto'}",44994,,476,9438.92
-dacd40ba-862,2025-07-17,Instagram,,,https://mysite.com/shop?utm_source=tiktok&utm_id=f9f5a,"{'target_age': '55+', 'bidding_strategy': 'auto'}",31870,1193,236,9275.61
-aca9af9e-fc8,,Facebook,Static Image,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=57d90,"{'target_age': '48+', 'bidding_strategy': 'auto'}",24456,2839,220,8338.04 
-7f317011-a7e,2025-03-08,Email,Story,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=b991f,"{'target_age': '43+', 'bidding_strategy': 'auto'}",9027,1839,466,-365.0
-2eab253e-b1c,2025-10-27,Instagram,Video,Global,https://mysite.com/shop?utm_source=facebook&utm_id=8f9d0,"{'target_age': '59+', 'bidding_strategy': 'auto'}",40026,4015,4065,8315.72
-218aa7c0-d44,2025-08-25,Facebook,Carousel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=75727,"{'target_age': '36+', 'bidding_strategy': 'auto'}",36670,513,146,3270.66
-98e725ea-2de,2025-05-13,,Video,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=55397,,19609,4922,319,
-94516729-731,,,Carousel,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=64176,"{'target_age': '22+', 'bidding_strategy': 'auto'}",32329,752,464,738.24
-8415c038-5da,2025-10-07,Facebook,Carousel,Global,https://mysite.com/shop?utm_source=email&utm_id=3b518,"{'target_age': '35+', 'bidding_strategy': 'auto'}",24699,49398,130,1792.06 
-a9fb9d74-33b,2025-05-21,Facebook,Static Image,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=4e381,"{'target_age': '41+', 'bidding_strategy': 'auto'}",1523,690,178,1893.47
-371400c3-ee3,2025-08-12,LinkedIn,Video,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=4f5c6,"{'target_age': '26+', 'bidding_strategy': 'auto'}",,617,43,4469.87
-8174a096-5a2,2025-10-24,,,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=af335,"{'target_age': '35+', 'bidding_strategy': 'auto'}",20414,1248,243,6301.95
-1c1f989f-dbd,2025-02-17,Instagram,CarousÃ©l,LATAM,,"{'target_age': '54+', 'bidding_strategy': 'auto'}",43035,534,258,7781.77
-b6b7026d-801,2025-01-10,TikTok,Reel,Global,https://mysite.com/shop?utm_source=facebook&utm_id=c39dd,"{'target_age': '60+', 'bidding_strategy': 'auto'}",23742,3021,153,8725.55
-3d11d205-f7e,2025-10-15,Instagram,Static Image,APAC,https://mysite.com/shop?utm_source=email&utm_id=0b781,"{'target_age': '35+', 'bidding_strategy': 'auto'}",,9732,358,6455.81
-2d146d39-972,2025-08-14,Instagram,Reel,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=4dce8,"{'target_age': '59+', 'bidding_strategy': 'auto'}",40467,1192,,6022.9
-feb2b833-f14,2025-01-13,TikTok,Reel,,https://mysite.com/shop?utm_source=linkedin&utm_id=258ce,"{'target_age': '48+', 'bidding_strategy': 'auto'}",35774,1071,97,3675.66
-dff21807-203,2025-04-26,TikTok,Video,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=529d8,"{'target_age': '37+', 'bidding_strategy': 'auto'}",36487,1719,463,7840.76
-9cd3bbe5-614,,LinkedIn,Static Image,Global,https://mysite.com/shop?utm_source=email&utm_id=bcde7,"{'target_age': '20+', 'bidding_strategy': 'auto'}",46691,93382,93432,9789.45
-ca3c5cf8-f26,2025-01-08,Email,Reel,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=73ec1,"{'target_age': '41+', 'bidding_strategy': 'auto'}",40138,3867,52,4464.09
-ead7bec5-9b4,2025-05-30,Facebook,Static Image,LATAM,https://mysite.com/shop?utm_source=email&utm_id=f1f1d,"{'target_age': '28+', 'bidding_strategy': 'auto'}",24520,49040,475,792.71
-f6551ac6-387,2025-07-10,LinkedIn,Story,NA,https://mysite.com/shop?utm_source=google ads&utm_id=b5e51,"{'target_age': '24+', 'bidding_strategy': 'auto'}",6222,486,97,5002.87
-095256f8-8cf,2025-02-10,Instagram,Static Image,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=aeee0,"{'target_age': '28+', 'bidding_strategy': 'auto'}",27303,3436,218,2168.46 
-ac1ce3b2-0f1,2025-02-04,TikTok,Static Image,Global,https://mysite.com/shop?utm_source=email&utm_id=f9c7e,"{'target_age': '37+', 'bidding_strategy': 'auto'}",,180,483,272.91
-a150ddd7-683,2025-03-23,LinkedIn,Carousel,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=f53b1,"{'target_age': '22+', 'bidding_strategy': 'auto'}",21439,2432,466,9747.86
-4f21768d-998,2025-04-26,LinkedIn,Story,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=119ff,"{'target_age': '23+', 'bidding_strategy': 'auto'}",46571,4925,47,9523.21
-1466a2ae-f6c,2025-03-31,Google Ads,Reel,Global,,"{'target_age': '44+', 'bidding_strategy': 'auto'}",28761,2161,457,
-20d6697c-51a,2025-11-20,LinkedIn,Video,EMEA,https://mysite.com/shop?utm_source=email&utm_id=7523b,"{'target_age': '43+', 'bidding_strategy': 'auto'}",13594,2802,217,2161.96
-3516d066-894,2025-05-25,Facebook,Carousel,,https://mysite.com/shop?utm_source=email&utm_id=45292,"{'target_age': '32+', 'bidding_strategy': 'auto'}",3807,2562,361,8226.31
-,2025-11-21,LinkedIn,Reel,Global,https://mysite.com/shop?utm_source=instagram&utm_id=36151,"{'target_age': '24+', 'bidding_strategy': 'auto'}",37314,26,169,1073.11
-294d6e96-a8d,2025-09-19,Email,Static Image,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=9e53d,"{'target_age': '19+', 'bidding_strategy': 'auto'}",44762,3443,227,9865.49
-,2025-07-07,Google Ads,Static Image,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=c3f85,"{'target_age': '58+', 'bidding_strategy': 'auto'}",47230,1452,402,4347.98
-fa31346b-f04,2025-02-22,Email,,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=22d67,"{'target_age': '29+', 'bidding_strategy': 'auto'}",47188,3434,223,
-2e0182a2-c18,2025-05-15,LinkedIn,Static Image,NA,https://mysite.com/shop?utm_source=facebook&utm_id=4ee14,"{'target_age': '35+', 'bidding_strategy': 'auto'}",9273,1217,61,
-0ef42cd8-570,2025-02-12,TikTok,,NA,https://mysite.com/shop?utm_source=google ads&utm_id=073f1,"{'target_age': '20+', 'bidding_strategy': 'auto'}",33473,986,200,7909.81
-,2025-04-23,Email,Static Image,Global,https://mysite.com/shop?utm_source=facebook&utm_id=a54d7,"{'target_age': '37+', 'bidding_strategy': 'auto'}",11193,1509,245,9452.53
-5e53cd53-bd6,2025-05-28,TikTok,Carousel,EMEA,https://mysite.com/shop?utm_source=email&utm_id=49e79,"{'target_age': '38+', 'bidding_strategy': 'auto'}",5022,1515,1565,3425.63
-8f39f8f3-062,2025-04-19,Email,Video,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=76283,"{'target_age': '23+', 'bidding_strategy': 'auto'}",40242,4042,327,4727.66
-fa38b5d4-782,2025-01-20,Facebook,Reel,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=3509d,"{'target_age': '43+', 'bidding_strategy': 'auto'}",20769,2808,52,5472.66 
-69c55a32-ec9,2025-11-07,TikTok,Static Image,Global,https://mysite.com/shop?utm_source=email&utm_id=de441,"{'target_age': '52+', 'bidding_strategy': 'auto'}",,2589,411,
-26d93400-a43,2025-09-03,Instagram,Carousel,LATAM,https://mysite.com/shop?utm_source=email&utm_id=05edc,"{'target_age': '56+', 'bidding_strategy': 'auto'}",37433,3730,353,-393.0
-de6195bd-6fe,2025-06-02,LinkedIn,,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=bb864,"{'target_age': '26+', 'bidding_strategy': 'auto'}",22988,1868,264,
-cf937908-0a1,2025-10-12,TikTok,Story,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=38ebf,"{'target_age': '22+', 'bidding_strategy': 'auto'}",46888,1181,241,2051.03
-6c5c3ffe-685,2025-03-09,Facebook,Static Image,NA,,"{'target_age': '58+', 'bidding_strategy': 'auto'}",,3440,468,5999.22
-362e75cf-3e5,2025-07-05,Facebook,Video,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=d4453,"{'target_age': '24+', 'bidding_strategy': 'auto'}",37275,3179,26,5258.31
-9355ce00-218,2025-07-16,Email,Static Image,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=7b592,"{'target_age': '27+', 'bidding_strategy': 'auto'}",6400,1178,206,5197.3
-78c2249a-01f,2025-09-22,Email,Static Image,NA,,"{'target_age': '25+', 'bidding_strategy': 'auto'}",34136,1538,396,9368.07
-8a05ce06-1f8,2025-05-17,Instagram,Story,EMEA,https://mysite.com/shop?utm_source=email&utm_id=28292,"{'target_age': '53+', 'bidding_strategy': 'auto'}",11588,280,24,9122.47
-b5dab58c-a47,2025-07-06,LinkedIn,Video,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=2966b,"{'target_age': '42+', 'bidding_strategy': 'auto'}",18832,4530,70,5607.43
-994aa04f-0a7,,Google Ads,Video,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=77705,"{'target_age': '42+', 'bidding_strategy': 'auto'}",22537,3715,6,917.9
-7a52a1d5-d36,2025-08-18,Email,Story,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=be29e,,31404,1822,30,
-24f753a3-a83,2025-02-03,Instagram,Reel,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=033bb,"{'target_age': '51+', 'bidding_strategy': 'auto'}",4116,245,43,338.47
-b854a254-e35,2025-03-07,Instagram,CarousÃ©l,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=b3dec,"{'target_age': '32+', 'bidding_strategy': 'auto'}",32887,3515,355,7446.32
-0c689763-ba5,,Instagram,Story,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=7e8ed,"{'target_age': '43+', 'bidding_strategy': 'auto'}",7579,84,198,8334.37
-4d2de4cb-366,2025-06-22,Facebook,Carousel,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=4f7d3,"{'target_age': '41+', 'bidding_strategy': 'auto'}",6973,2721,,2971.97
-e09e0c95-7ed,2025-10-22,Google Ads,Carousel,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=635c1,"{'target_age': '43+', 'bidding_strategy': 'auto'}",35353,4902,391,7409.21
-ca51be9e-766,2025-09-21,Email,Story,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=f4f18,"{'target_age': '58+', 'bidding_strategy': 'auto'}",11227,22454,496,230.61
-50b9286d-568,2025-08-10,TikTok,Video,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=ac0ff,"{'target_age': '40+', 'bidding_strategy': 'auto'}",43890,2693,276,5506.43
-39485a8a-d42,2025-08-01,TikTok,Video,Global,https://mysite.com/shop?utm_source=instagram&utm_id=fc678,"{'target_age': '55+', 'bidding_strategy': 'auto'}",,1662,1712,6815.06
-9aa7d84c-61e,2025-08-15,Instagram,Video,Global,https://mysite.com/shop?utm_source=facebook&utm_id=5d05b,"{'target_age': '45+', 'bidding_strategy': 'auto'}",,7184,306,7650.01
-e83608fe-16e,2025-06-23,,Carousel,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=3d4b1,"{'target_age': '19+', 'bidding_strategy': 'auto'}",20667,2216,486,
-9a4d5aaf-6b4,2025-06-17,Facebook,Carousel,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=324d9,"{'target_age': '31+', 'bidding_strategy': 'auto'}",44043,2478,149,7137.72
-feb2b833-f14,2025-01-13,TikTok,Reel,,https://mysite.com/shop?utm_source=linkedin&utm_id=258ce,"{'target_age': '48+', 'bidding_strategy': 'auto'}",35774,1071,97,3675.66
-d778c1a0-2f2,2025-08-23,Facebook,,,https://mysite.com/shop?utm_source=linkedin&utm_id=fe250,"{'target_age': '31+', 'bidding_strategy': 'auto'}",13942,4966,318,
-09860e01-9bb,2025-06-08,Email,Story,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=fd75a,"{'target_age': '47+', 'bidding_strategy': 'auto'}",30863,1282,170,3464.96
-63403148-206,2025-01-06,Email,,Global,https://mysite.com/shop?utm_source=email&utm_id=54209,"{'target_age': '24+', 'bidding_strategy': 'auto'}",5260,3516,330,390.33
-6b07fa47-c27,2025-05-31,TikTok,Static Image,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=a404a,"{'target_age': '60+', 'bidding_strategy': 'auto'}",14322,1982,243,9851.95
-ac32371b-5d8,2025-09-06,TikTok,Carousel,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=87c86,"{'target_age': '27+', 'bidding_strategy': 'auto'}",42756,1515,324,8989.63
-c2aafe29-221,2025-04-28,LinkedIn,Static Image,Global,http://site.com/??error=true,,23575,3307,12,1172.53 
-7ce3da45-24f,2025-08-06,LinkedIn,Story,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=16b3b,,16652,33304,426,6931.78
-1d270e2b-acd,2025-01-28,Facebook,Carousel,NA,https://mysite.com/shop?utm_source=google ads&utm_id=0ec23,"{'target_age': '26+', 'bidding_strategy': 'auto'}",2063,3899,458,7820.12
-c34cafdf-ff2,2025-06-04,Email,Video,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=3edb4,"{'target_age': '51+', 'bidding_strategy': 'auto'}",2632,4801,326,951.56
-70f82c5d-876,2025-09-01,Google Ads,Story,Global,https://mysite.com/shop?utm_source=instagram&utm_id=7fe53,"{'target_age': '44+', 'bidding_strategy': 'auto'}",41282,3534,140,9586.09
-cdc7b3a0-634,2025-10-01,Email,Reel,NA,https://mysite.com/shop?utm_source=email&utm_id=5a36d,,20304,4019,260,
-4a9313ba-850,2025-06-05,LinkedIn,Video,NA,https://mysite.com/shop?utm_source=facebook&utm_id=2df3f,"{'target_age': '29+', 'bidding_strategy': 'auto'}",26463,3823,230,8930.71 
-5534f77d-073,2025-04-09,LinkedIn,Video,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=2d7c1,"{'target_age': '48+', 'bidding_strategy': 'auto'}",44472,,225,6086.81
-86950cd2-854,2025-11-11,LinkedIn,Story,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=d72a8,"{'target_age': '18-24', 'bidding': 'aut",29968,4591,237,7414.71
-9fc7d5e4-757,2025-06-08,Email,Reel,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=43a8b,"{'target_age': '28+', 'bidding_strategy': 'auto'}",39735,2049,286,
-,2025-03-25,Google Ads,Reel,APAC,,,48193,4300,4350,2606.21
-414ab65f-38d,2025-07-16,TikTok,Staatic Imaage,NA,https://mysite.com/shop?utm_source=google ads&utm_id=3fad5,"{'target_age': '57+', 'bidding_strategy': 'auto'}",42823,4124,72,346.34
-03848427-936,2025-09-13,Email,Video,Global,https://mysite.com/shop?utm_source=instagram&utm_id=75e3f,"{'target_age': '53+', 'bidding_strategy': 'auto'}",18837,1602,430,1950.22 
-175991ea-093,2025-05-23,Instagram,,APAC,https://mysite.com/shop?utm_source=email&utm_id=2e65a,"{'target_age': '45+', 'bidding_strategy': 'auto'}",6663,4808,14,8784.17
-5705aed4-824,2025-10-31,Google Ads,,NA,https://mysite.com/shop?utm_source=email&utm_id=31417,,27338,3512,339,4527.34
-eb7b8ad8-74b,2025-03-04,Instagram,Video,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=6e00c,"{'target_age': '36+', 'bidding_strategy': 'auto'}",31914,2815,416,7231.57
-bf0c6693-aaa,2025-06-27,Facebook,Carousel,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=1fc08,"{'target_age': '32+', 'bidding_strategy': 'auto'}",37472,,431,2041.9
-51cfc712-bd5,2025-09-04,LinkedIn,Carousel,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=b1e15,"{'target_age': '45+', 'bidding_strategy': 'auto'}",4138,2542,327,
-48d3ef98-b87,2025-07-27,,Reel,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=9558f,"{'target_age': '27+', 'bidding_strategy': 'auto'}",,1899,268,8645.33
-7d47af43-f4d,,Email,Reel,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=c4613,"{'target_age': '26+', 'bidding_strategy': 'auto'}",15316,1923,,5908.76 
-4d219a3c-44f,2025-08-18,Google Ads,,LATAM,https://mysite.com/shop?utm_source=email&utm_id=18a46,,,2253,231,3397.42
-9ae7e3fd-23c,,Instagram,Reel,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=74edb,"{'target_age': '18+', 'bidding_strategy': 'auto'}",37819,1338,327,2108.89 
-e6aa2fe6-5f0,2025-11-21,LinkedIn,Reel,Global,,"{'target_age': '26+', 'bidding_strategy': 'auto'}",15273,13,476,
-c059d86e-ee2,2025-06-29,,Story,,https://mysite.com/shop?utm_source=tiktok&utm_id=b29c6,"{'target_age': '19+', 'bidding_strategy': 'auto'}",33723,4775,335,6616.2
-4f6f727a-7a3,2025-09-07,Facebook,Story,APAC,https://mysite.com/shop?utm_source=email&utm_id=d6b9a,"{'target_age': '30+', 'bidding_strategy': 'auto'}",34086,1119,1169,9924.94
-59e68fe2-1f2,2025-03-24,,Carousel,APAC,https://mysite.com/shop?utm_source=email&utm_id=ca43f,"{'target_age': '36+', 'bidding_strategy': 'auto'}",,15,98,9455.27
-1171794f-a35,2025-11-11,LinkedIn,Video,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=6aa19,"{'target_age': '18+', 'bidding_strategy': 'auto'}",30584,206,364,5984.22
-,2025-10-11,Email,,Global,https://mysite.com/shop?utm_source=instagram&utm_id=a1124,"{'target_age': '60+', 'bidding_strategy': 'auto'}",40671,,31,1674.77
-,2025-09-17,LinkedIn,Video,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=3320e,"{'target_age': '52+', 'bidding_strategy': 'auto'}",34458,1614,449,3500.62
-473bdfcb-c27,,Email,Carousel,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=98488,"{'target_age': '39+', 'bidding_strategy': 'auto'}",28476,56952,,3905.6
-97a4acb5-5f4,2025-11-11,Facebook,Story,EMEA,https://mysite.com/shop?utm_source=email&utm_id=73833,,32210,1326,454,5744.33
-b7bfa049-106,2025-03-15,Google Ads,,NA,,"{'target_age': '60+', 'bidding_strategy': 'auto'}",43990,3646,454,4818.55 
-1c77857a-f87,,LinkedIn,Reel,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=1c24f,"{'target_age': '46+', 'bidding_strategy': 'auto'}",37299,3856,236,-213.0
-03021844-71f,2025-08-23,Instagram,Carousel,LATAM,,"{'target_age': '20+', 'bidding_strategy': 'auto'}",49470,978,1028,4394.96 
-,2025-11-10,TikTok,Static Image,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=56a37,"{'target_age': '24+', 'bidding_strategy': 'auto'}",20135,40270,12,8137.05
-,2025-04-04,,,Global,https://mysite.com/shop?utm_source=google ads&utm_id=244ae,"{'target_age': '45+', 'bidding_strategy': 'auto'}",,4923,68,
-b932ab84-9c0,2025-01-02,Facebook,Video,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=84622,,19200,531,422,6647.37
-5e69b168-e33,2025-06-23,Email,Static Image,NA,https://mysite.com/shop?utm_source=facebook&utm_id=e9f27,"{'target_age': '28+', 'bidding_strategy': 'auto'}",5702,,109,4328.69 
-bc11330a-e16,2025-11-16,Email,Video,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=6bf32,"{'target_age': '44+', 'bidding_strategy': 'auto'}",44575,89150,64,1804.93
-d83df6ae-42f,2025-05-11,Google Ads,Story,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=0d40d,"{'target_age': '39+', 'bidding_strategy': 'auto'}",7670,1359,447,5652.44
-,2025-05-09,TikTok,Static ImagÃ©,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=3a1d8,"{'target_age': '43+', 'bidding_strategy': 'auto'}",9862,4846,176,
-9f23403a-42f,,,RÃ©Ã©l,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=e6db8,"{'target_age': '36+', 'bidding_strategy': 'auto'}",38369,76738,216,8034.18
-3b0b4957-f2c,2025-04-15,TikTok,Reel,LATAM,https://mysite.com/shop?utm_source=email&utm_id=0667d,"{'target_age': '28+', 'bidding_strategy': 'auto'}",6059,3051,486,6798.18
-78c2249a-01f,2025-09-22,Email,Static Image,NA,,"{'target_age': '25+', 'bidding_strategy': 'auto'}",34136,1538,396,9368.07
-a35cf9f7-bd7,2025-04-12,Google Ads,Video,EMEA,https://mysite.com/shop?utm_source=email&utm_id=02de5,"{'target_age': '42+', 'bidding_strategy': 'auto'}",19082,1034,54,3363.65
-75aec072-6b9,2025-01-10,LinkedIn,Static Image,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=e315f,"{'target_age': '48+', 'bidding_strategy': 'auto'}",19444,4364,,8141.9
-67ccfdf3-9af,2025-11-12,LinkedIn,Story,NA,https://mysite.com/shop?utm_source=instagram&utm_id=39f2e,"{'target_age': '51+', 'bidding_strategy': 'auto'}",41211,,47,7829.01
-87d5292c-e64,2025-11-04,TikTok,Static Image,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=cefa8,"{'target_age': '43+', 'bidding_strategy': 'auto'}",39721,577,425,655.22 
-01a75e0a-33d,2025-07-19,LinkedIn,Video,NA,https://mysite.com/shop?utm_source=instagram&utm_id=da41a,"{'target_age': '41+', 'bidding_strategy': 'auto'}",34551,1183,144,4567.2
-5bfa2c97-4c4,2025-07-24,LinkedIn,Static Image,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=fcfa2,"{'target_age': '36+', 'bidding_strategy': 'auto'}",45934,4096,470,9851.02
-9ad10cac-7c2,2025-06-12,Google Ads,Story,,https://mysite.com/shop?utm_source=linkedin&utm_id=d5369,"{'target_age': '42+', 'bidding_strategy': 'auto'}",3655,7310,260,2669.67
-346030ec-341,2025-07-13,LinkedIn,,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=821ad,,31575,488,104,7134.77
-29568c67-26f,2025-04-05,,Carousel,,https://mysite.com/shop?utm_source=instagram&utm_id=68955,"{'target_age': '24+', 'bidding_strategy': 'auto'}",35472,2300,,6336.81
-b87276f0-d26,2025-02-18,Instagram,Reel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=527fd,"{'target_age': '31+', 'bidding_strategy': 'auto'}",16179,2306,485,983.66
-32cbd134-26b,2025-06-03,TikTok,Static Image,LATAM,,"{'target_age': '59+', 'bidding_strategy': 'auto'}",1282,2917,449,
-5d003081-a20,2025-09-07,LinkedIn,Reel,Global,,"{'target_age': '35+', 'bidding_strategy': 'auto'}",27098,3168,497,
-06132523-12a,2025-08-24,LinkedIn,Story,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=49055,"{'target_age': '54+', 'bidding_strategy': 'auto'}",8270,3647,208,7050.78
-ef9e3c5c-b34,,Google Ads,Carousel,NA,https://mysite.com/shop?utm_source=google ads&utm_id=415eb,"{'target_age': '49+', 'bidding_strategy': 'auto'}",15692,1980,373,7907.05
-6b07fa47-c27,2025-05-31,TikTok,Static Image,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=a404a,"{'target_age': '60+', 'bidding_strategy': 'auto'}",14322,1982,243,9851.95
-,2025-08-23,Instagram,Carousel,,https://mysite.com/shop?utm_source=instagram&utm_id=71ca8,"{'target_age': '50+', 'bidding_strategy': 'auto'}",16745,1905,424,9079.16
-c192c933-73c,2025-02-04,Email,Video,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=4f471,"{'target_age': '27+', 'bidding_strategy': 'auto'}",3987,2320,129,327.16 
-2982c35f-03d,2025-06-23,TikTok,Static Image,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=aae58,,44102,,3816,3832.2 
-1f42e0cd-610,2025-10-02,Instagram,Story,,https://mysite.com/shop?utm_source=google ads&utm_id=21f5b,"{'target_age': '47+', 'bidding_strategy': 'auto'}",47634,4562,281,-452.0
-ccc41ce8-68f,,TikTok,Video,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=1e634,"{'target_age': '40+', 'bidding_strategy': 'auto'}",2804,773,,3551.63
-66739343-7cf,2025-06-08,LinkedIn,Static Image,NA,https://mysite.com/shop?utm_source=google ads&utm_id=78652,"{'target_age': '57+', 'bidding_strategy': 'auto'}",33561,115,236,4702.05
-e23fcbcc-bb9,2025-10-10,Facebook,Static Image,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=5218f,"{'target_age': '55+', 'bidding_strategy': 'auto'}",8444,1834,266,5761.02
-b45c25af-1a0,2025-06-23,Facebook,Video,Global,https://mysite.com/shop?utm_source=google ads&utm_id=87f0a,"{'target_age': '45+', 'bidding_strategy': 'auto'}",6795,3525,138,9842.34
-7e51471b-e49,,Facebook,Reel,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=1b186,"{'target_age': '35+', 'bidding_strategy': 'auto'}",4368,2829,195,4031.11 
-2359da56-a01,2025-02-24,Email,Carousel,Global,https://mysite.com/shop?utm_source=instagram&utm_id=1edb5,"{'target_age': '22+', 'bidding_strategy': 'auto'}",38853,2799,2849,6701.01
-8d73e3f8-54f,2025-07-26,Instagram,Carousel,APAC,https://mysite.com/shop?utm_source=email&utm_id=1d291,,18819,3933,25,2908.51
-3e6ebd2c-422,2025-08-25,Google Ads,,NA,https://mysite.com/shop?utm_source=facebook&utm_id=2af62,"{'target_age': '59+', 'bidding_strategy': 'auto'}",,3223,113,
-b549d451-49b,2025-01-07,TikTok,Video,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=6396a,"{'target_age': '24+', 'bidding_strategy': 'auto'}",25834,1207,111,5492.99
-5192afa7-387,,Instagram,,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=05907,"{'target_age': '33+', 'bidding_strategy': 'auto'}",17139,2369,,3077.58
-6811b11a-110,2025-10-27,Instagram,Staatic ImaagÃ©,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=394ac,"{'target_age': '18+', 'bidding_strategy': 'auto'}",14631,706,357,-35.0
-c319cd6f-c96,2025-05-19,TikTok,Video,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=15a57,"{'target_age': '57+', 'bidding_strategy': 'auto'}",12128,1188,434,188.24
-,2025-04-04,Email,Staatic Imaage,,https://mysite.com/shop?utm_source=instagram&utm_id=56336,"{'target_age': '44+', 'bidding_strategy': 'auto'}",,3187,447,9754.31
-b6aedb91-890,2025-01-17,TikTok,Story,Global,https://mysite.com/shop?utm_source=instagram&utm_id=f0c3a,"{'target_age': '29+', 'bidding_strategy': 'auto'}",40817,409,,5886.84
-4756228e-db8,2025-04-27,LinkedIn,Static Image,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=37033,"{'target_age': '31+', 'bidding_strategy': 'auto'}",44227,815,106,2878.81
-fd8b6f64-974,2025-09-04,Instagram,Story,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=599ff,"{'target_age': '18-24', 'bidding': 'aut",19217,4803,59,1029.96
-0de27365-ac1,2025-02-09,Facebook,Story,NA,https://mysite.com/shop?utm_source=facebook&utm_id=0e688,,10945,21890,25,6434.81
-d9448ec9-23f,2025-11-15,Instagram,Story,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=964f0,"{'target_age': '25+', 'bidding_strategy': 'auto'}",5918,2899,336,8375.86 
-a9d0716a-05c,2025-09-28,Facebook,Video,EMEA,http://site.com/??error=true,"{'target_age': '40+', 'bidding_strategy': 'auto'}",13534,122,332,3563.68
-26b699a6-2f5,2025-05-06,LinkedIn,Story,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=24309,"{'target_age': '50+', 'bidding_strategy': 'auto'}",49674,,290,5992.37
-db665e25-fbe,2025-07-11,Email,Video,Global,https://mysite.com/shop?utm_source=facebook&utm_id=11da7,"{'target_age': '20+', 'bidding_strategy': 'auto'}",27932,1789,144,9501.06
-f0678d81-590,2025-07-21,Instagram,Carousel,Global,https://mysite.com/shop?utm_source=facebook&utm_id=c1b07,"{'target_age': '18-24', 'bidding': 'aut",38889,1205,266,9286.4
-573a492a-bb0,2025-06-16,TikTok,,NA,https://mysite.com/shop?utm_source=instagram&utm_id=f45e0,"{'target_age': '18-24', 'bidding': 'aut",10447,955,442,6228.53
-22ffd90b-379,,Google Ads,Reel,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=75031,"{'target_age': '48+', 'bidding_strategy': 'auto'}",32828,3986,,6287.43
-21cdbab6-27e,2025-08-11,LinkedIn,Reel,,https://mysite.com/shop?utm_source=linkedin&utm_id=a4d34,,,1729,353,5763.58
-,,TikTok,Video,,https://mysite.com/shop?utm_source=tiktok&utm_id=65298,"{'target_age': '41+', 'bidding_strategy': 'auto'}",17598,,46,5849.72
-80907f22-a05,2025-09-11,Google Ads,Carousel,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=fce36,"{'target_age': '43+', 'bidding_strategy': 'auto'}",32757,3434,34,5088.0
-,2025-01-12,LinkedIn,Carousel,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=fb37f,"{'target_age': '39+', 'bidding_strategy': 'auto'}",38435,3404,401,1432.05
-7fb7b91d-d65,2025-03-03,Facebook,Story,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=3e5bb,"{'target_age': '34+', 'bidding_strategy': 'auto'}",15189,665,345,8597.28 
-5ef83d15-a35,,Instagram,Reel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=e780a,"{'target_age': '44+', 'bidding_strategy': 'auto'}",27991,3123,48,8108.83
-990ef1ea-f31,2025-02-23,Instagram,Story,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=5d0cd,"{'target_age': '18-24', 'bidding': 'aut",22188,3816,70,6655.93
-1c284b82-728,2025-09-15,Instagram,Static ImagÃ©,Global,https://mysite.com/shop?utm_source=email&utm_id=06f40,"{'target_age': '40+', 'bidding_strategy': 'auto'}",42821,4426,164,278.38
-,2025-04-12,Google Ads,Caarousel,,https://mysite.com/shop?utm_source=instagram&utm_id=fe3f4,"{'target_age': '45+', 'bidding_strategy': 'auto'}",25150,1743,207,4796.27 
-77fe3c7b-a0a,2025-10-16,Email,Video,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=abc2e,"{'target_age': '44+', 'bidding_strategy': 'auto'}",7533,1295,422,
-e0689f19-05d,2025-10-07,Google Ads,Story,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=375b2,,,4749,4799,8017.13
-582a344f-d06,2025-06-12,Instagram,Static Image,EMEA,https://mysite.com/shop?utm_source=email&utm_id=dbc4d,"{'target_age': '26+', 'bidding_strategy': 'auto'}",8721,4187,3,-263.0 
-e081aabd-48b,2025-06-22,Google Ads,Story,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=8ff4a,"{'target_age': '42+', 'bidding_strategy': 'auto'}",10170,2367,,-325.0
-,,LinkedIn,Story,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=3fd69,"{'target_age': '36+', 'bidding_strategy': 'auto'}",8590,4832,84,8849.84
-fd0e6b7b-2a9,2025-06-29,Instagram,Carousel,LATAM,https://mysite.com/shop?utm_source=email&utm_id=3b8d9,"{'target_age': '52+', 'bidding_strategy': 'auto'}",8710,,288,8245.04 
-b59dbb55-745,2025-11-19,Google Ads,Static Image,,https://mysite.com/shop?utm_source=linkedin&utm_id=8c01f,"{'target_age': '36+', 'bidding_strategy': 'auto'}",27244,,85,440.39
-,2025-04-10,Instagram,,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=6c65a,"{'target_age': '58+', 'bidding_strategy': 'auto'}",9733,,191,6293.08
-e3715388-377,2025-05-02,Email,Carousel,APAC,https://mysite.com/shop?utm_source=email&utm_id=eeadf,"{'target_age': '55+', 'bidding_strategy': 'auto'}",10175,258,417,8973.6
-6811b11a-110,2025-10-27,Instagram,Static Image,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=394ac,"{'target_age': '18+', 'bidding_strategy': 'auto'}",14631,706,357,-35.0
-59e68fe2-1f2,2025-03-24,,Carousel,APAC,https://mysite.com/shop?utm_source=email&utm_id=ca43f,"{'target_age': '36+', 'bidding_strategy': 'auto'}",,15,98,9455.27
-f6f5e6d1-c5f,2025-10-31,LinkedIn,Carousel,,https://mysite.com/shop?utm_source=linkedin&utm_id=ecfc9,"{'target_age': '30+', 'bidding_strategy': 'auto'}",,2795,360,817.15
-eacf6180-5ed,2025-06-14,Google Ads,Static Image,NA,https://mysite.com/shop?utm_source=google ads&utm_id=cf336,"{'target_age': '34+', 'bidding_strategy': 'auto'}",40617,2640,409,9495.15
-e4c834a7-71a,2025-10-11,,Story,,https://mysite.com/shop?utm_source=email&utm_id=0e277,"{'target_age': '29+', 'bidding_strategy': 'auto'}",37919,1518,395,2155.92
-c055ceb0-b9e,2025-07-13,Email,Static Image,LATAM,https://mysite.com/shop?utm_source=email&utm_id=cdc7b,"{'target_age': '37+', 'bidding_strategy': 'auto'}",20145,4268,290,973.61
-,2025-09-25,TikTok,Reel,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=38e64,"{'target_age': '25+', 'bidding_strategy': 'auto'}",39686,2779,207,954.97
-3e483c18-dfa,2025-06-16,LinkedIn,Carousel,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=de458,"{'target_age': '29+', 'bidding_strategy': 'auto'}",20600,1525,146,5022.23
-69cc7010-f56,2025-08-17,Instagram,Video,Global,https://mysite.com/shop?utm_source=facebook&utm_id=13ae8,,,3094,234,343.29
-78d493ab-672,2025-11-03,Google Ads,Static Image,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=a6058,"{'target_age': '44+', 'bidding_strategy': 'auto'}",21605,2523,495,6936.04
-8a17d00a-548,2025-09-15,LinkedIn,Story,NA,https://mysite.com/shop?utm_source=facebook&utm_id=546bc,"{'target_age': '35+', 'bidding_strategy': 'auto'}",12798,1226,394,6546.96
-8e5a5e09-2cc,2025-10-16,LinkedIn,,,https://mysite.com/shop?utm_source=linkedin&utm_id=f0e70,"{'target_age': '28+', 'bidding_strategy': 'auto'}",,25792,,7155.2
-5237076e-a5e,2025-08-03,Instagram,Static Image,Global,https://mysite.com/shop?utm_source=google ads&utm_id=2e5e3,"{'target_age': '51+', 'bidding_strategy': 'auto'}",,,460,761.12
-88d3542b-c82,2025-07-26,Instagram,Static Image,Global,https://mysite.com/shop?utm_source=email&utm_id=4ba74,"{'target_age': '28+', 'bidding_strategy': 'auto'}",14461,28922,,588.75
-9d41601d-ad7,2025-04-23,Email,Carousel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=90bc8,"{'target_age': '22+', 'bidding_strategy': 'auto'}",32493,3346,55,4233.09
-,2025-06-17,Facebook,Reel,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=19a20,"{'target_age': '42+', 'bidding_strategy': 'auto'}",17452,2531,11,7233.98
-e4f96c65-7df,2025-10-24,Facebook,Carousel,,https://mysite.com/shop?utm_source=google ads&utm_id=93feb,"{'target_age': '54+', 'bidding_strategy': 'auto'}",44713,995,1045,7315.12
-,2025-03-01,Email,Static ImagÃ©,Global,https://mysite.com/shop?utm_source=google ads&utm_id=351cf,"{'target_age': '33+', 'bidding_strategy': 'auto'}",4926,2299,96,
-a920935f-d2e,,LinkedIn,Carousel,,https://mysite.com/shop?utm_source=tiktok&utm_id=9e597,"{'target_age': '56+', 'bidding_strategy': 'auto'}",6328,1811,1861,5053.9 
-e6a4ee0e-240,2025-06-18,Email,,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=60137,"{'target_age': '23+', 'bidding_strategy': 'auto'}",36678,916,484,6731.12
-7d2fb0ae-3fb,2025-05-16,Email,Video,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=e3165,"{'target_age': '36+', 'bidding_strategy': 'auto'}",3458,187,267,
-ea3b3fd6-582,2025-07-30,TikTok,Reel,NA,https://mysite.com/shop?utm_source=email&utm_id=230c7,"{'target_age': '18+', 'bidding_strategy': 'auto'}",,,456,4088.9
-eb23b938-8e6,2025-01-13,Instagram,Story,NA,https://mysite.com/shop?utm_source=instagram&utm_id=04d99,"{'target_age': '45+', 'bidding_strategy': 'auto'}",8566,4742,189,6523.4
-371400c3-ee3,2025-08-12,LinkedIn,Video,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=4f5c6,"{'target_age': '26+', 'bidding_strategy': 'auto'}",,617,43,4469.87
-4bc65ea5-681,2025-07-02,LinkedIn,Static Image,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=a3c0d,"{'target_age': '42+', 'bidding_strategy': 'auto'}",36130,72260,461,8575.88
-b82bb912-0aa,2025-04-29,Instagram,Story,NA,https://mysite.com/shop?utm_source=google ads&utm_id=00903,"{'target_age': '57+', 'bidding_strategy': 'auto'}",2478,4956,167,1971.42
-48139734-d6f,2025-03-03,Google Ads,Video,Global,https://mysite.com/shop?utm_source=email&utm_id=ca7e2,"{'target_age': '39+', 'bidding_strategy': 'auto'}",13622,2598,196,8561.29
-9f3f4d91-1a3,2025-04-01,Email,Story,EMEA,,"{'target_age': '55+', 'bidding_strategy': 'auto'}",3153,364,322,534.18
-89e9f343-649,2025-04-15,Google Ads,Video,,,"{'target_age': '57+', 'bidding_strategy': 'auto'}",29618,3148,274,4068.84
-153bd49a-e84,,Google Ads,Reel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=9f08a,"{'target_age': '32+', 'bidding_strategy': 'auto'}",8976,347,309,2618.42
-ebef7531-89a,2025-03-07,TikTok,Story,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=21207,"{'target_age': '31+', 'bidding_strategy': 'auto'}",,7066,4,5005.52
-205a00de-c41,2025-10-11,TikTok,Video,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=29d0c,"{'target_age': '19+', 'bidding_strategy': 'auto'}",8796,,100,
-0585d67d-314,2025-09-09,LinkedIn,Static Image,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=ca414,"{'target_age': '30+', 'bidding_strategy': 'auto'}",8813,379,327,9474.09 
-f95a5a97-738,2025-10-28,Google Ads,Story,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=37694,"{'target_age': '47+', 'bidding_strategy': 'auto'}",46999,4446,169,
-1965befc-286,2025-10-05,Facebook,Video,Global,https://mysite.com/shop?utm_source=email&utm_id=abd9c,,,17606,310,7282.36
-e86a5ba5-152,2025-04-08,Email,Reel,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=6d866,"{'target_age': '38+', 'bidding_strategy': 'auto'}",37322,4343,415,9250.69
-967683ab-4c8,2025-10-31,Email,Caarousel,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=9ac63,"{'target_age': '54+', 'bidding_strategy': 'auto'}",6807,1436,1486,8191.14
-b7fe5585-e7a,2025-07-05,Google Ads,,,https://mysite.com/shop?utm_source=instagram&utm_id=97fcf,,13759,177,,2149.46
-,2025-04-05,Google Ads,Video,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=08510,"{'target_age': '31+', 'bidding_strategy': 'auto'}",43076,4650,4700,2043.14
-4948dcfb-ffa,2025-03-27,TikTok,Carousel,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=013ed,"{'target_age': '25+', 'bidding_strategy': 'auto'}",2251,3368,438,-341.0
-0b16a65d-8f3,2025-07-28,Instagram,Static Image,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=9ec6e,"{'target_age': '22+', 'bidding_strategy': 'auto'}",28589,4635,303,9056.52
-7794e58e-8b5,2025-11-29,Instagram,CarousÃ©l,Global,https://mysite.com/shop?utm_source=instagram&utm_id=cd751,"{'target_age': '48+', 'bidding_strategy': 'auto'}",45060,4395,246,2843.19
-0fbd0e7f-9a4,2025-06-18,TikTok,Story,,https://mysite.com/shop?utm_source=email&utm_id=0d2e7,,8295,1152,248,3789.51
-6ce1edee-edd,2025-11-16,Email,Carousel,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=44dc6,"{'target_age': '49+', 'bidding_strategy': 'auto'}",18083,,389,4292.4
-0585d67d-314,2025-09-09,LinkedIn,Static Image,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=ca414,"{'target_age': '30+', 'bidding_strategy': 'auto'}",8813,379,327,9474.09
-86d79a32-2c6,2025-05-03,Instagram,Carousel,,https://mysite.com/shop?utm_source=linkedin&utm_id=6b7e0,"{'target_age': '48+', 'bidding_strategy': 'auto'}",,3590,3640,3608.04
-,2025-02-24,Email,Video,NA,https://mysite.com/shop?utm_source=google ads&utm_id=1c6b1,"{'target_age': '18-24', 'bidding': 'aut",13054,1872,449,8234.34
-aed9d391-cd2,2025-10-06,Email,Staatic Imaage,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=a1c06,,29582,4732,123,
-da626326-632,2025-01-24,Facebook,Reel,NA,https://mysite.com/shop?utm_source=instagram&utm_id=75acb,"{'target_age': '27+', 'bidding_strategy': 'auto'}",10543,,278,7268.19 
-828b6347-a43,2025-06-07,Facebook,Static Image,NA,https://mysite.com/shop?utm_source=email&utm_id=ac535,"{'target_age': '58+', 'bidding_strategy': 'auto'}",48082,4598,102,2690.38
-ef46e612-6d5,2025-11-12,,Reel,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=188e5,"{'target_age': '39+', 'bidding_strategy': 'auto'}",12468,2408,403,6695.95
-,2025-10-23,TikTok,Story,NA,http://site.com/??error=true,,47041,94082,26,5838.28
-cf08ac06-b87,2025-01-10,Facebook,Reel,EMEA,https://mysite.com/shop?utm_source=email&utm_id=de72a,,13875,1828,252,-149.0
-6d05317a-96b,2025-04-01,TikTok,Video,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=7e668,"{'target_age': '48+', 'bidding_strategy': 'auto'}",8287,824,263,4150.75
-5ba05fa5-314,2025-12-01,Instagram,Static Image,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=24911,"{'target_age': '40+', 'bidding_strategy': 'auto'}",47040,2451,355,2082.88
-fed1aaf9-ac7,2025-09-26,Instagram,Carousel,LATAM,https://mysite.com/shop?utm_source=email&utm_id=6d678,,48931,489,539,8553.52
-ced9deb2-fac,2025-02-16,LinkedIn,Static Image,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=4e4c7,"{'target_age': '31+', 'bidding_strategy': 'auto'}",1132,2264,52,3863.8
-62a84555-d4e,2025-11-03,Instagram,Story,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=ad433,"{'target_age': '58+', 'bidding_strategy': 'auto'}",17973,4089,34,6047.19
-da5dcf8d-d37,,Instagram,Static Image,Global,,"{'target_age': '26+', 'bidding_strategy': 'auto'}",27869,3100,3150,4640.68
-757e1b17-0d4,2025-09-14,Email,Carousel,Global,https://mysite.com/shop?utm_source=facebook&utm_id=d1a37,,5353,4388,281,5423.98
-7367d2c7-d0c,2025-08-21,Instagram,Static Image,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=6221f,"{'target_age': '33+', 'bidding_strategy': 'auto'}",48474,2924,442,1106.59
-5f7e9ce0-3a6,,Google Ads,Reel,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=c819d,"{'target_age': '41+', 'bidding_strategy': 'auto'}",,4460,,
-73c1f6a2-5e7,2025-09-07,LinkedIn,,EMEA,,"{'target_age': '47+', 'bidding_strategy': 'auto'}",6441,2318,378,272.93 
-d36328f4-e6a,2025-09-16,LinkedIn,Carousel,,https://mysite.com/shop?utm_source=tiktok&utm_id=fd1b3,"{'target_age': '58+', 'bidding_strategy': 'auto'}",7724,,198,9457.39
-71f0be7a-830,,Google Ads,Carousel,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=bf461,,42327,3058,284,5287.75
-07d712df-0ef,,,Reel,EMEA,https://mysite.com/shop?utm_source=email&utm_id=3143a,"{'target_age': '18-24', 'bidding': 'aut",43103,4583,4633,9856.01
-70db85f9-9d2,2025-01-06,Email,Reel,Global,https://mysite.com/shop?utm_source=instagram&utm_id=d2011,"{'target_age': '33+', 'bidding_strategy': 'auto'}",5989,11978,12028,4379.33
-1336980e-e4b,2025-07-27,Instagram,Static Image,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=24699,"{'target_age': '33+', 'bidding_strategy': 'auto'}",19708,194,176,-105.0
-45de0e0b-005,2025-06-18,Facebook,Video,,https://mysite.com/shop?utm_source=google ads&utm_id=6b34b,"{'target_age': '47+', 'bidding_strategy': 'auto'}",48094,1265,474,1359.12
-6f3b8e35-9c2,2025-05-22,Google Ads,Story,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=48b9e,"{'target_age': '36+', 'bidding_strategy': 'auto'}",19606,39212,104,7886.83
-23826ff9-b15,2025-08-20,Google Ads,Video,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=bf52d,"{'target_age': '55+', 'bidding_strategy': 'auto'}",39800,4658,4708,
-20e7b702-ab7,2025-03-06,LinkedIn,Story,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=ac9ca,"{'target_age': '60+', 'bidding_strategy': 'auto'}",42913,909,473,606.25 
-a97198e4-f73,2025-04-05,Instagram,,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=ac1e3,"{'target_age': '22+', 'bidding_strategy': 'auto'}",38607,1445,1495,-429.0
-9522eda1-946,2025-06-28,LinkedIn,Static Image,,,"{'target_age': '33+', 'bidding_strategy': 'auto'}",37442,1517,263,8738.55
-bbe1fa3b-70e,2025-05-04,Facebook,Carousel,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=bcb40,"{'target_age': '24+', 'bidding_strategy': 'auto'}",26045,52090,455,2284.19
-,2025-01-20,Facebook,Static Image,,https://mysite.com/shop?utm_source=linkedin&utm_id=72d07,"{'target_age': '40+', 'bidding_strategy': 'auto'}",,,,6074.73
-6bc54cdb-f60,2025-01-02,Instagram,Video,EMEA,https://mysite.com/shop?utm_source=email&utm_id=79c2b,"{'target_age': '46+', 'bidding_strategy': 'auto'}",39343,2831,149,6133.06
-355e6329-47a,2025-03-08,,Reel,APAC,https://mysite.com/shop?utm_source=email&utm_id=acda0,"{'target_age': '24+', 'bidding_strategy': 'auto'}",31432,1479,233,2350.04
-bc603788-944,,,Video,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=cb054,"{'target_age': '58+', 'bidding_strategy': 'auto'}",26085,696,301,
-923fd0d7-919,2025-07-11,Instagram,Reel,Global,https://mysite.com/shop?utm_source=instagram&utm_id=c84db,"{'target_age': '53+', 'bidding_strategy': 'auto'}",2696,1817,276,6649.52
-562ed43f-d48,2025-11-23,Facebook,Story,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=7a20e,"{'target_age': '22+', 'bidding_strategy': 'auto'}",35971,4365,372,7442.65
-05529111-242,,Facebook,Reel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=d79b3,"{'target_age': '24+', 'bidding_strategy': 'auto'}",24552,3464,,9859.53
-fc2bdb51-f19,,Email,CarousÃ©l,LATAM,https://mysite.com/shop?utm_source=email&utm_id=42d8c,"{'target_age': '42+', 'bidding_strategy': 'auto'}",23570,3097,492,2494.19
-67d9c8e4-593,2025-07-12,Google Ads,Video,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=1a617,"{'target_age': '34+', 'bidding_strategy': 'auto'}",,3924,103,5276.24
-c102da6e-7a9,2025-10-18,,Static Image,Global,https://mysite.com/shop?utm_source=instagram&utm_id=e10f2,"{'target_age': '50+', 'bidding_strategy': 'auto'}",1337,2832,204,7374.29
-4d547b96-0b8,2025-02-11,Google Ads,Carousel,Global,https://mysite.com/shop?utm_source=facebook&utm_id=1dc7b,,17896,686,214,5934.4
-67a0deec-1a4,2025-10-29,Google Ads,Carousel,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=61d9e,"{'target_age': '60+', 'bidding_strategy': 'auto'}",26540,1140,1190,6473.09
-1821b551-245,2025-06-16,,Story,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=2cfc8,"{'target_age': '39+', 'bidding_strategy': 'auto'}",34373,4677,,8142.62
-,2025-04-24,,Reel,Global,https://mysite.com/shop?utm_source=email&utm_id=9f498,"{'target_age': '49+', 'bidding_strategy': 'auto'}",41687,1825,448,2249.0
-b8ab2113-cc1,,TikTok,Video,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=f2b2c,"{'target_age': '45+', 'bidding_strategy': 'auto'}",45685,4958,,8665.65
-3509b022-12b,2025-01-16,Email,Story,Global,,"{'target_age': '30+', 'bidding_strategy': 'auto'}",21782,43564,130,2107.75
-c1e464fb-180,2025-12-01,LinkedIn,Carousel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=139a5,"{'target_age': '54+', 'bidding_strategy': 'auto'}",10704,21408,3,9282.04
-058cd5ca-1ec,2025-10-28,LinkedIn,Story,LATAM,https://mysite.com/shop?utm_source=email&utm_id=b0e8d,,9002,1519,244,9069.92
-6d8f75e7-b34,2025-09-06,,Static Image,APAC,https://mysite.com/shop?utm_source=email&utm_id=beae4,"{'target_age': '19+', 'bidding_strategy': 'auto'}",29095,4959,174,
-1c1f989f-dbd,2025-02-17,Instagram,Carousel,LATAM,,"{'target_age': '54+', 'bidding_strategy': 'auto'}",43035,534,258,7781.77
-6d090422-5be,2025-02-01,Facebook,,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=2ee4c,"{'target_age': '18-24', 'bidding': 'aut",27008,214,264,4885.94 
-e17adfd9-8b3,2025-11-03,Instagram,Static Image,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=6bd71,,22818,,59,
-e10d3cfd-0e9,2025-10-22,Google Ads,Video,NA,https://mysite.com/shop?utm_source=instagram&utm_id=0a882,"{'target_age': '59+', 'bidding_strategy': 'auto'}",2914,2627,114,8460.91
-0b16a65d-8f3,2025-07-28,Instagram,Static Image,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=9ec6e,"{'target_age': '22+', 'bidding_strategy': 'auto'}",28589,4635,303,9056.52
-8d5de8d9-249,2025-10-30,Facebook,Video,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=12e18,"{'target_age': '57+', 'bidding_strategy': 'auto'}",8198,4947,330,
-a7087c37-7b1,2025-07-12,Google Ads,Static Image,,https://mysite.com/shop?utm_source=email&utm_id=a4796,"{'target_age': '45+', 'bidding_strategy': 'auto'}",33866,1732,219,6494.82
-990e3a80-561,2025-07-27,Instagram,,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=52b52,"{'target_age': '50+', 'bidding_strategy': 'auto'}",47172,2292,265,6603.18
-408cd80d-d17,2025-04-29,TikTok,Reel,,https://mysite.com/shop?utm_source=instagram&utm_id=4b400,"{'target_age': '24+', 'bidding_strategy': 'auto'}",13729,3342,,8678.55
-0199c165-b2f,2025-03-08,Email,Carousel,,https://mysite.com/shop?utm_source=tiktok&utm_id=e16df,"{'target_age': '38+', 'bidding_strategy': 'auto'}",44480,1929,56,3316.16
-23d7eb5c-0ef,2025-09-06,Google Ads,Story,EMEA,,"{'target_age': '18+', 'bidding_strategy': 'auto'}",48734,1751,104,4135.91 
-3ccabde2-b5c,2025-06-12,Facebook,VidÃ©o,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=57ea3,,26336,1065,437,-384.0
-9c38e544-ed2,2025-11-12,Email,Video,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=2062c,"{'target_age': '29+', 'bidding_strategy': 'auto'}",17180,576,2,4740.39
-6f993420-1a5,2025-01-20,Instagram,,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=2afa3,"{'target_age': '33+', 'bidding_strategy': 'auto'}",43821,,2390,4984.74
-41e501fe-372,2025-01-25,Google Ads,Video,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=9902f,"{'target_age': '31+', 'bidding_strategy': 'auto'}",47529,3692,52,4494.15
-d21d0696-86b,2025-10-14,LinkedIn,Carousel,Global,https://mysite.com/shop?utm_source=instagram&utm_id=96620,"{'target_age': '31+', 'bidding_strategy': 'auto'}",41767,607,406,9261.22
-98c8ab51-693,2025-02-04,Google Ads,Static Image,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=43cb7,,19028,308,342,-467.0
+1fef9a77-f0f,2025-01-12,LinkedIn,Video,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=03255,"{'target_age': '43+', 'bidding_strategy': 'auto'}",48382,3323,150,7850.53
+ca8c5366-072,2025-08-04,LinkedIn,Story,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=70be9,"{'target_age': '49+', 'bidding_strategy': 'auto'}",,2913,172,5097.72
+f19293c9-847,2025-04-26,Instagram,Story,LATAM,https://mysite.com/shop?utm_source=email&utm_id=6450d,"{'target_age': '26+', 'bidding_strategy': 'auto'}",18553,37106,441,3050.44
+0d892ced-c1f,2025-08-16,TikTok ,Story,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=47b2e,"{'target_age': '52+', 'bidding_strategy': 'auto'}",34776,872,319,903.37
+bf1a61d7-085,2025-05-25,TikTok,Story,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=776ef,"{'target_age': '28+', 'bidding_strategy': 'auto'}",16382,3473,,988.18
+9e189a98-1d2,2025-05-13,Instagram,Reel,Global,https://mysite.com/shop?utm_source=email&utm_id=cfd6b,"{'target_age': '18-24', 'bidding': 'aut",1516,,269,284.77
+651076d6-c76,2025-06-07,Instagram,Video,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=1182e,"{'target_age': '34+', 'bidding_strategy': 'auto'}",,2801,378,6831.98
+104c6350-ce8,2025-01-10,LinkedIn,Reel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=63021,"{'target_age': '18-24', 'bidding': 'aut",22879,2751,346,5076.12
+90d5e87e-4f4,,Email,Static Image,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=43049,"{'target_age': '23+', 'bidding_strategy': 'auto'}",23133,52,102,2802.83
+c81484cd-cfd,2025-04-02,Facebook,Video,NA,https://mysite.com/shop?utm_source=google ads&utm_id=609cf,"{'target_age': '47+', 'bidding_strategy': 'auto'}",31752,3303,436,748.04
+72f68fe1-aac,2025-01-24,Instagram,Carousel,NA,https://mysite.com/shop?utm_source=facebook&utm_id=5f525,"{'target_age': '25+', 'bidding_strategy': 'auto'}",8909,4643,325,3351.73
+a55ac92f-470,2025-09-22,Facebook,Video,Global,https://mysite.com/shop?utm_source=facebook&utm_id=b1c12,"{'target_age': '59+', 'bidding_strategy': 'auto'}",24281,2340,76,194.83
+21939b93-77e,2025-11-19,Facebook ,Story,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=fac9b,"{'target_age': '37+', 'bidding_strategy': 'auto'}",10989,353,364,-320.0
+,2025-01-23,Facebook,Story,NA,https://mysite.com/shop?utm_source=email&utm_id=884c0,"{'target_age': '27+', 'bidding_strategy': 'auto'}",5162,,262,7161.68
+4ac8927e-ba7,2025-04-21,,,NA,http://site.com/??error=true,"{'target_age': '39+', 'bidding_strategy': 'auto'}",,3409,3459,3465.57
+e9365d1b-349,2025-03-07,TikTok,Static Image,NA,http://site.com/??error=true,,32948,,352,9345.1
+,2025-04-10,LinkedIn,Carousel,LATAM,http://site.com/??error=true,"{'target_age': '45+', 'bidding_strategy': 'auto'}",,2359,299,938.01
+818270d2-c31,2025-02-25,LinkedIn,Carousel,EMEA,http://site.com/??error=true,"{'target_age': '47+', 'bidding_strategy': 'auto'}",32857,65714,485,1887.03
+0bf2fb51-c4f,,LinkedIn,,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=be3eb,"{'target_age': '18-24', 'bidding': 'aut",47733,3607,286,
+2041e7ed-e13,2025-07-15,Facebook,Static Image,Global,https://mysite.com/shop?utm_source=instagram&utm_id=6e8d0,"{'target_age': '40+', 'bidding_strategy': 'auto'}",34268,,189,284.37
+c62f3461-d50,2025-06-30,Facebook,Carousel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=76d66,"{'target_age': '25+', 'bidding_strategy': 'auto'}",47871,95742,60,1343.16
+79ebb8bb-214,2025-02-18,Email ,Story,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=8f381,,44716,4530,110,9225.93
+3483a23b-a4d,2025-10-20,Instagram,Video,,,,19875,4268,4318,2765.95
+ab636d66-9ab,2025-07-25,LinkedIn,Static Image,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=a00f8,"{'target_age': '18-24', 'bidding': 'aut",33486,,202,8313.94
+dcff5f1e-836,,Google Ads ,Reel,Global,,"{'target_age': '25+', 'bidding_strategy': 'auto'}",33356,1987,,5387.48
+d93d8722-1f7,2025-10-26,Instagram,Static Image,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=e1896,"{'target_age': '27+', 'bidding_strategy': 'auto'}",48488,4348,498,3881.91
+7d2194cb-bd5,2025-11-12,Facebook,Static Image,LATAM,,"{'target_age': '41+', 'bidding_strategy': 'auto'}",33995,3686,427,6388.18
+6a6e94cf-f83,2025-02-04,TikTok,Carousel,Global,https://mysite.com/shop?utm_source=email&utm_id=463a5,"{'target_age': '49+', 'bidding_strategy': 'auto'}",41074,3464,213,1001.15
+e4f364d5-b6f,,Instagram,,EMEA,https://mysite.com/shop?utm_source=email&utm_id=7b3cf,"{'target_age': '37+', 'bidding_strategy': 'auto'}",45112,312,73,2527.1
+9f310fff-297,2025-02-02,Instagram,Reel,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=ec191,"{'target_age': '26+', 'bidding_strategy': 'auto'}",31899,1692,47,-193.0
+373058be-489,2025-01-01,,Carousel,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=48bad,,12450,1031,243,
+88859ae5-aa5,,Email,Story,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=2f98a,"{'target_age': '38+', 'bidding_strategy': 'auto'}",43762,4412,4462,9530.87
+96f19d54-c8a,2025-06-25,Google Ads,Carousel,APAC,,"{'target_age': '37+', 'bidding_strategy': 'auto'}",45363,1024,400,8040.36
+48af7f10-8a7,2025-05-30,TikTok ,Video,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=0e484,"{'target_age': '34+', 'bidding_strategy': 'auto'}",15398,74,292,5585.35
+c13d8929-b71,2025-09-21,Facebook,Story,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=00801,"{'target_age': '51+', 'bidding_strategy': 'auto'}",47811,3396,258,1908.42
+7570d730-e5e,2025-03-12,TikTok ,,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=7eddf,,38775,253,66,683.25
+208b326a-817,2025-07-14,Instagram,Story,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=54206,,7612,4863,178,2884.98
+0976e09f-159,2025-07-17,Facebook,,Global,https://mysite.com/shop?utm_source=google ads&utm_id=0fdf6,"{'target_age': '54+', 'bidding_strategy': 'auto'}",29712,2503,2553,6372.06
+8f31bf2e-a4d,2025-09-03,Email,Story,Global,https://mysite.com/shop?utm_source=google ads&utm_id=4b4f8,"{'target_age': '45+', 'bidding_strategy': 'auto'}",10907,4267,45,4940.87
+55a8d6a1-5d1,2025-04-10,LinkedIn,,,https://mysite.com/shop?utm_source=instagram&utm_id=eefe0,"{'target_age': '59+', 'bidding_strategy': 'auto'}",39734,1251,374,5326.23
+1915bb1c-744,2025-08-04,TikTok,Reel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=f863a,"{'target_age': '39+', 'bidding_strategy': 'auto'}",19511,1760,,6565.28
+fba2a5f1-56c,2025-09-04,TikTok ,Reel,NA,,"{'target_age': '23+', 'bidding_strategy': 'auto'}",26583,2480,14,5450.35
+c30f3c69-21f,2025-03-07,Instagram,Video,Global,,"{'target_age': '18+', 'bidding_strategy': 'auto'}",41472,1944,70,2185.18
+50970843-569,2025-06-01,TikTok,Reel,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=e14e2,"{'target_age': '37+', 'bidding_strategy': 'auto'}",43487,580,270,1077.57
+fd2f1be9-bee,2025-04-01,Facebook,Reel,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=82472,"{'target_age': '44+', 'bidding_strategy': 'auto'}",28319,700,,1765.06
+b50b9ff8-2a6,2025-05-28,LinkedIn,Reel,NA,https://mysite.com/shop?utm_source=email&utm_id=6df65,"{'target_age': '27+', 'bidding_strategy': 'auto'}",4058,4702,,1818.01
+447a4e2c-8e9,2025-01-10,Instagram,Reel,,https://mysite.com/shop?utm_source=email&utm_id=ae38c,"{'target_age': '18-24', 'bidding': 'aut",29297,3415,265,2822.13
+,,LinkedIn,Reel,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=5256e,"{'target_age': '45+', 'bidding_strategy': 'auto'}",47045,873,424,-84.0
+97ae50f0-8a3,2025-05-04,TikTok,Story,EMEA,https://mysite.com/shop?utm_source=linkedin&utm_id=9fbef,"{'target_age': '19+', 'bidding_strategy': 'auto'}",40459,80918,80968,6550.35
+5e8a10da-13f,2025-04-29,Facebook,Carousel,,https://mysite.com/shop?utm_source=facebook&utm_id=58045,"{'target_age': '23+', 'bidding_strategy': 'auto'}",32646,2567,93,2805.7
+53415fe2-ba5,2025-07-07,LinkedIn,,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=86e4a,"{'target_age': '19+', 'bidding_strategy': 'auto'}",37830,4378,235,9148.78
+,2025-05-05,Google Ads,Carousel,EMEA,https://mysite.com/shop?utm_source=email&utm_id=648df,"{'target_age': '41+', 'bidding_strategy': 'auto'}",16900,,66,-71.0
+c1cdc9a4-573,2025-04-15,Facebook,Static Image,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=9e078,,45890,91780,91830,1104.94
+851031c0-e03,2025-04-11,,Static Image,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=6e943,"{'target_age': '21+', 'bidding_strategy': 'auto'}",43348,3565,16,613.59
+366fbddd-b1c,2025-02-25,LinkedIn,,LATAM,,"{'target_age': '18+', 'bidding_strategy': 'auto'}",20900,2499,,792.36
+c62f3461-d50,2025-06-30,Facebook,Carousel,Global,https://mysite.com/shop?utm_source=google ads&utm_id=76d66,"{'target_age': '25+', 'bidding_strategy': 'auto'}",47871,95742,60,1343.16
+0abe8257-8ff,2025-02-08,Facebook ,Story,APAC,http://site.com/??error=true,"{'target_age': '23+', 'bidding_strategy': 'auto'}",20056,708,216,5930.04
+7506d74c-cc8,2025-05-29,Email,Carousel,NA,http://site.com/??error=true,"{'target_age': '29+', 'bidding_strategy': 'auto'}",38923,2806,,5837.57
+cb6b6306-842,2025-01-11,Instagram,Carousel,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=0b208,"{'target_age': '48+', 'bidding_strategy': 'auto'}",21699,3635,495,9615.12
+aa3d2111-a12,2025-03-07,LinkedIn,Carousel,EMEA,https://mysite.com/shop?utm_source=google ads&utm_id=ac504,"{'target_age': '23+', 'bidding_strategy': 'auto'}",,3363,65,7706.22
+e598e5c2-80a,2025-07-18,Instagram,Static Image,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=7d2e7,,44875,4240,319,6547.54
+e3d9de7f-aba,2025-11-23,TikTok,Static Image,Global,,"{'target_age': '48+', 'bidding_strategy': 'auto'}",23303,2461,229,142.36
+b0acb9ba-da7,,LinkedIn,Carousel,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=3106e,"{'target_age': '18-24', 'bidding': 'aut",,63,398,
+9a0278a6-1e6,2025-03-07,Email,,Global,https://mysite.com/shop?utm_source=instagram&utm_id=d08d1,"{'target_age': '48+', 'bidding_strategy': 'auto'}",37492,914,293,8321.93
+8db969af-b36,2025-11-18,Facebook,Video,Global,https://mysite.com/shop?utm_source=email&utm_id=d72b8,"{'target_age': '22+', 'bidding_strategy': 'auto'}",30381,3231,3281,6010.35
+cbd10fdc-a14,2025-05-17,LinkedIn,,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=ebc78,,37505,1156,372,5602.33
+0723e11e-05f,2025-01-24,LinkedIn,Video,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=dd554,"{'target_age': '50+', 'bidding_strategy': 'auto'}",23226,1213,267,7653.49
+d2a5d216-314,2025-10-24,Email,Static Image,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=9a73c,"{'target_age': '34+', 'bidding_strategy': 'auto'}",14579,2335,457,6245.23
+208b326a-817,2025-07-14,Instagram,Story,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=54206,,7612,4863,178,2884.98
+e4edc295-efd,2025-01-17,TikTok,Static Image,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=f9add,"{'target_age': '57+', 'bidding_strategy': 'auto'}",11394,401,193,8850.92
+,2025-04-17,Facebook,Reel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=9f8a4,"{'target_age': '30+', 'bidding_strategy': 'auto'}",15686,4888,389,1423.88
+a08262df-427,2025-01-26,Email,,Global,https://mysite.com/shop?utm_source=linkedin&utm_id=06a61,"{'target_age': '29+', 'bidding_strategy': 'auto'}",9595,19190,191,8478.15
+15d1e2f8-2bd,2025-06-08,Facebook,Carousel,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=ae411,"{'target_age': '59+', 'bidding_strategy': 'auto'}",16198,3522,73,2924.98
+b2904e73-72c,,Email,Static Image,,https://mysite.com/shop?utm_source=linkedin&utm_id=16f79,"{'target_age': '43+', 'bidding_strategy': 'auto'}",10710,3596,421,
+c0e5d883-c0d,2025-01-23,Facebook,Video,APAC,,"{'target_age': '36+', 'bidding_strategy': 'auto'}",,71246,248,1626.85
+b9a01137-63d,2025-10-20,TikTok,Reel,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=0e06a,"{'target_age': '34+', 'bidding_strategy': 'auto'}",16211,2579,61,9145.98
+0c3838a5-1fb,2025-07-08,LinkedIn,,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=967ae,,20227,,2888,5054.28
+7d52903f-f2a,2025-11-25,,Static Image,NA,https://mysite.com/shop?utm_source=email&utm_id=da1d3,"{'target_age': '52+', 'bidding_strategy': 'auto'}",40698,238,62,
+447a4e2c-8e9,2025-01-10,Instagram,Reel,,https://mysite.com/shop?utm_source=email&utm_id=ae38c,"{'target_age': '18-24', 'bidding': 'aut",29297,3415,265,2822.13
+f05ff9c3-9f6,2025-07-26,Email,,EMEA,,"{'target_age': '42+', 'bidding_strategy': 'auto'}",31371,62742,98,-44.0
+9c4e7b65-c81,2025-02-05,Google Ads,Carousel,EMEA,http://site.com/??error=true,"{'target_age': '58+', 'bidding_strategy': 'auto'}",48911,4147,255,5382.08
+1ef11a27-1c3,2025-10-31,Google Ads,Video,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=603bc,"{'target_age': '47+', 'bidding_strategy': 'auto'}",4083,501,158,7278.23
+b8541d6a-d59,2025-09-11,LinkedIn,Reel,NA,https://mysite.com/shop?utm_source=instagram&utm_id=a7a58,"{'target_age': '26+', 'bidding_strategy': 'auto'}",8469,2786,390,3284.22
+307c3f63-859,2025-11-23,Facebook,Static Image,APAC,,"{'target_age': '30+', 'bidding_strategy': 'auto'}",40602,81204,,8779.53
+fca91028-6c3,2025-08-03,Email,Carousel,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=9ec62,"{'target_age': '60+', 'bidding_strategy': 'auto'}",44054,1690,190,5725.63
+56d2bb12-af5,,Email,,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=cd539,,8632,844,50,-156.0
+bca2c581-928,2025-06-08,Email,Reel,LATAM,,"{'target_age': '20+', 'bidding_strategy': 'auto'}",,1626,248,1509.43
+d7abed02-da7,2025-04-06,Facebook,Story,LATAM,,,11885,23770,75,-437.0
+5f187c02-1e2,2025-07-28,Instagram,Reel,NA,https://mysite.com/shop?utm_source=facebook&utm_id=02884,"{'target_age': '60+', 'bidding_strategy': 'auto'}",24513,2137,231,8794.97
+ac249f30-92a,2025-09-20,TikTok,Reel,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=a6d62,"{'target_age': '60+', 'bidding_strategy': 'auto'}",31954,,215,513.74
+9b125dfb-280,2025-08-24,Email,Reel,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=b24d2,"{'target_age': '24+', 'bidding_strategy': 'auto'}",39353,2403,454,-410.0
+,2025-11-24,Email,Story,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=965af,"{'target_age': '33+', 'bidding_strategy': 'auto'}",18530,3103,,6995.25
+59410ea3-8c2,2025-06-30,TikTok,Story,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=d8f80,"{'target_age': '43+', 'bidding_strategy': 'auto'}",3095,2450,368,9798.44
+49bb1313-294,2025-01-08,TikTok ,,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=d49b8,"{'target_age': '36+', 'bidding_strategy': 'auto'}",32063,3754,398,-83.0
+210c78d9-7b9,2025-07-27,Email,Video,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=2c6cd,"{'target_age': '60+', 'bidding_strategy': 'auto'}",30459,1296,217,-302.0
+289a5e38-ad4,2025-07-10,Email,,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=1f982,"{'target_age': '46+', 'bidding_strategy': 'auto'}",26672,1273,39,-496.0
+bfcf214e-b0d,2025-11-10,Google Ads,Carousel,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=01187,"{'target_age': '40+', 'bidding_strategy': 'auto'}",2286,,31,-317.0
+0c0b6cd1-8e8,2025-08-17,,Story,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=89e4e,"{'target_age': '30+', 'bidding_strategy': 'auto'}",20322,4092,109,-85.0
+e9365d1b-349,2025-03-07,TikTok,Static Image,NA,http://site.com/??error=true,,32948,,352,9345.1
+9e63638c-f48,2025-03-24,Google Ads ,Video,Global,https://mysite.com/shop?utm_source=email&utm_id=3f46a,"{'target_age': '58+', 'bidding_strategy': 'auto'}",46228,2038,409,3988.63
+3ecd0888-01a,2025-03-01,,,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=05eb0,"{'target_age': '51+', 'bidding_strategy': 'auto'}",45477,1879,421,9799.88
+2a112eab-c5b,2025-02-08,Email,Story,EMEA,https://mysite.com/shop?utm_source=email&utm_id=fd81f,"{'target_age': '33+', 'bidding_strategy': 'auto'}",28337,704,60,1510.36
+196b58f1-ded,2025-03-12,Email,Story,EMEA,http://site.com/??error=true,"{'target_age': '32+', 'bidding_strategy': 'auto'}",34643,2020,250,338.16
+d2e55512-6ab,2025-09-04,LinkedIn,Story,APAC,https://mysite.com/shop?utm_source=instagram&utm_id=55edd,"{'target_age': '19+', 'bidding_strategy': 'auto'}",33255,4433,4483,8422.77
+c80682d3-567,2025-04-23,Google Ads,Video,NA,https://mysite.com/shop?utm_source=facebook&utm_id=d4d9a,"{'target_age': '26+', 'bidding_strategy': 'auto'}",29221,3722,67,
+d4147d03-6cf,2025-09-11,LinkedIn,Story,,https://mysite.com/shop?utm_source=email&utm_id=a85d8,"{'target_age': '29+', 'bidding_strategy': 'auto'}",46265,770,455,1757.08
+571f7cdb-fe6,2025-03-12,Instagram,Reel,LATAM,https://mysite.com/shop?utm_source=instagram&utm_id=3167d,"{'target_age': '18-24', 'bidding': 'aut",,1663,301,5365.41
+75ffe99a-a2e,2025-01-01,Facebook,Video,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=74c9c,"{'target_age': '30+', 'bidding_strategy': 'auto'}",,4774,258,
+b61d56f5-b91,2025-10-02,,Static Image,APAC,https://mysite.com/shop?utm_source=email&utm_id=45e43,"{'target_age': '49+', 'bidding_strategy': 'auto'}",49416,4165,,-3.0
+0a4fee3b-4a2,2025-04-06,Email,Static Image,NA,https://mysite.com/shop?utm_source=tiktok&utm_id=d37a4,"{'target_age': '43+', 'bidding_strategy': 'auto'}",2188,,289,9988.33
+0205e16a-581,2025-01-21,Google Ads,Static Image,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=d51fd,"{'target_age': '50+', 'bidding_strategy': 'auto'}",,1246,286,5135.35
+3a6a22d9-c98,,Google Ads,Carousel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=d826c,"{'target_age': '47+', 'bidding_strategy': 'auto'}",2246,4238,364,
+4dbc217c-7e6,2025-06-06,TikTok,Reel,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=e070b,"{'target_age': '50+', 'bidding_strategy': 'auto'}",14194,4154,4204,-107.0
+580661f1-782,2025-04-17,Email,Reel,,,"{'target_age': '59+', 'bidding_strategy': 'auto'}",28648,918,184,-157.0
+8a7e9cce-56c,2025-04-08,TikTok,Static Image,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=e1fa2,"{'target_age': '31+', 'bidding_strategy': 'auto'}",,2879,2929,
+1915bb1c-744,2025-08-04,TikTok,Reel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=f863a,"{'target_age': '39+', 'bidding_strategy': 'auto'}",19511,1760,,6565.28
+e1831003-5bd,,Email,Carousel,NA,https://mysite.com/shop?utm_source=facebook&utm_id=d0e91,"{'target_age': '49+', 'bidding_strategy': 'auto'}",38318,,228,-144.0
+4dbc217c-7e6,2025-06-06,TikTok,Reel,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=e070b,"{'target_age': '50+', 'bidding_strategy': 'auto'}",14194,4154,4204,-107.0
+c9d0c0fc-9fd,2025-08-20,TikTok,Story,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=724af,"{'target_age': '44+', 'bidding_strategy': 'auto'}",48592,2432,60,3251.53
+5e8c8bbf-8f1,2025-07-29,TikTok,Reel,APAC,https://mysite.com/shop?utm_source=linkedin&utm_id=7b122,"{'target_age': '59+', 'bidding_strategy': 'auto'}",14725,4149,246,7014.45
+70a91477-ff1,2025-02-02,TikTok,Carousel,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=77a7a,"{'target_age': '45+', 'bidding_strategy': 'auto'}",11244,201,1,8440.14
+59afb1d1-3bd,2025-08-04,LinkedIn,Video,APAC,https://mysite.com/shop?utm_source=facebook&utm_id=0b483,,49141,2750,401,9617.39
+53edc74f-1af,2025-04-06,LinkedIn,Static Image,EMEA,,"{'target_age': '57+', 'bidding_strategy': 'auto'}",41753,83506,,9615.03
+c8e7f2f6-aab,2025-08-16,Facebook,Carousel,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=95a34,"{'target_age': '47+', 'bidding_strategy': 'auto'}",24609,3204,301,5596.01
+3281f976-c68,2025-07-11,Instagram,Video,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=b1804,"{'target_age': '60+', 'bidding_strategy': 'auto'}",23534,4545,209,386.17
+079e8b0b-f19,2025-10-05,LinkedIn,Static Image,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=0c05e,"{'target_age': '37+', 'bidding_strategy': 'auto'}",,1202,360,1896.43
+0f589a93-bb6,2025-06-08,Instagram,Video,NA,https://mysite.com/shop?utm_source=facebook&utm_id=a6a2c,,31701,4469,156,4515.22
+a142d68f-2ac,2025-07-30,,Story,Global,http://site.com/??error=true,"{'target_age': '20+', 'bidding_strategy': 'auto'}",3425,2189,225,4965.58
+e4fb2a3b-dc0,2025-12-01,Facebook,Static Image,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=605a3,"{'target_age': '18-24', 'bidding': 'aut",4337,8674,189,7530.53
+f287b989-dbb,,LinkedIn,Static Image,APAC,http://site.com/??error=true,,,1412,325,3272.27
+395e54f0-8fd,2025-06-19,Email,Story,APAC,https://mysite.com/shop?utm_source=tiktok&utm_id=1ff08,"{'target_age': '18-24', 'bidding': 'aut",7728,1017,206,6616.72
+69d53317-6dc,2025-05-07,TikTok,Carousel,Global,https://mysite.com/shop?utm_source=email&utm_id=1f28e,"{'target_age': '45+', 'bidding_strategy': 'auto'}",28656,,234,6818.22
+be216c79-b8b,2025-02-16,Instagram,Static Image,Global,,"{'target_age': '20+', 'bidding_strategy': 'auto'}",46712,313,363,2441.26
+8d41d660-82f,,,Story,EMEA,,,39512,2301,148,5903.11
+7fb32568-959,2025-06-23,Google Ads,Carousel,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=79c91,"{'target_age': '24+', 'bidding_strategy': 'auto'}",14073,1320,250,9992.49
+ccbcbf4b-78e,2025-06-22,TikTok,Story,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=e9fd1,"{'target_age': '56+', 'bidding_strategy': 'auto'}",32788,977,41,-77.0
+ed37c2ce-0ce,2025-05-04,Email,Story,,https://mysite.com/shop?utm_source=linkedin&utm_id=389d2,"{'target_age': '18-24', 'bidding': 'aut",49305,3890,446,8405.28
+8508df91-60a,,Email,Video,LATAM,https://mysite.com/shop?utm_source=tiktok&utm_id=956b2,"{'target_age': '46+', 'bidding_strategy': 'auto'}",11618,4273,24,8145.17
+,2025-08-21,LinkedIn,Story,LATAM,https://mysite.com/shop?utm_source=linkedin&utm_id=b6004,"{'target_age': '19+', 'bidding_strategy': 'auto'}",32874,1925,230,9230.35
+bc0dbd13-a70,2025-08-14,Instagram,Reel,LATAM,https://mysite.com/shop?utm_source=email&utm_id=f5808,"{'target_age': '37+', 'bidding_strategy': 'auto'}",30180,60360,210,-308.0
+b3468999-259,2025-04-04,Google Ads,Carousel,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=12aa4,"{'target_age': '50+', 'bidding_strategy': 'auto'}",11573,483,471,9498.63
+211f632b-752,2025-03-21,TikTok,Static Image,,https://mysite.com/shop?utm_source=email&utm_id=e0487,"{'target_age': '43+', 'bidding_strategy': 'auto'}",28261,2129,34,1698.02
+383e69a4-81f,2025-11-02,Email,Static Image,LATAM,https://mysite.com/shop?utm_source=google ads&utm_id=35fa4,"{'target_age': '59+', 'bidding_strategy': 'auto'}",2429,877,232,-273.0
+5760c094-794,2025-04-30,TikTok,Reel,,https://mysite.com/shop?utm_source=google ads&utm_id=ad800,"{'target_age': '58+', 'bidding_strategy': 'auto'}",32975,1140,,5463.61
+c25a6eb3-64a,2025-05-05,,Story,LATAM,https://mysite.com/shop?utm_source=facebook&utm_id=b0864,"{'target_age': '51+', 'bidding_strategy': 'auto'}",32020,64040,355,8940.81
+0febecad-179,2025-11-01,,Carousel,EMEA,https://mysite.com/shop?utm_source=tiktok&utm_id=3cc56,"{'target_age': '31+', 'bidding_strategy': 'auto'}",6648,4201,145,695.73
+,2025-06-10,TikTok ,,Global,https://mysite.com/shop?utm_source=tiktok&utm_id=54481,"{'target_age': '36+', 'bidding_strategy': 'auto'}",33426,3300,233,9421.62
+4da273ed-5fd,2025-06-14,Facebook,Story,LATAM,,"{'target_age': '56+', 'bidding_strategy': 'auto'}",18092,4167,460,2187.42
+66e9a80e-6b5,,TikTok,Carousel,NA,https://mysite.com/shop?utm_source=email&utm_id=cc16a,"{'target_age': '53+', 'bidding_strategy': 'auto'}",23725,513,382,2472.27
+9696dc6c-671,2025-08-09,Instagram,Carousel,,,"{'target_age': '56+', 'bidding_strategy': 'auto'}",9460,4280,,2583.8
+6ae63480-0b7,2025-11-19,LinkedIn,Static Image,Global,https://mysite.com/shop?utm_source=google ads&utm_id=322c3,"{'target_age': '37+', 'bidding_strategy': 'auto'}",5172,,4749,7106.77
+871d5bfc-e67,2025-03-20,Google Ads,Reel,NA,https://mysite.com/shop?utm_source=instagram&utm_id=85096,"{'target_age': '24+', 'bidding_strategy': 'auto'}",2363,4726,189,5093.77
+851031c0-e03,2025-04-11,,Static Image,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=6e943,"{'target_age': '21+', 'bidding_strategy': 'auto'}",43348,3565,16,613.59
+a437199c-ec2,2025-02-25,,Video,LATAM,https://mysite.com/shop?utm_source=email&utm_id=eac03,"{'target_age': '45+', 'bidding_strategy': 'auto'}",8663,2588,2638,2653.55
+b28d7506-713,2025-08-16,LinkedIn,Video,EMEA,https://mysite.com/shop?utm_source=facebook&utm_id=f97a8,"{'target_age': '24+', 'bidding_strategy': 'auto'}",13596,3444,,5575.9
+b69f627c-fae,2025-05-06,TikTok,Carousel,EMEA,https://mysite.com/shop?utm_source=instagram&utm_id=a0135,"{'target_age': '54+', 'bidding_strategy': 'auto'}",41809,,242,
+fca91028-6c3,2025-08-03,Email,Carousel,NA,https://mysite.com/shop?utm_source=linkedin&utm_id=9ec62,"{'target_age': '60+', 'bidding_strategy': 'auto'}",44054,1690,190,5725.63
+efa99c7e-a88,2025-04-20,TikTok,Video,APAC,https://mysite.com/shop?utm_source=google ads&utm_id=c8dfd,"{'target_age': '37+', 'bidding_strategy': 'auto'}",7825,4780,209,5432.63

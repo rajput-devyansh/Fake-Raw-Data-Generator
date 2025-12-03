@@ -1,526 +1,159 @@
 Ticket_ID,Customer_Email,Customer_Name,Topic,Channel,Agent_Name,CSAT_Score,Priority,Created_Date,Resolved_Date,Resolution_Hours,Status
-TKT-64666,ambergonzalez@example.net,Dennis Fields,Login Issue,Chat,Bot,4,L,2025-07-08,2025-03-26,,Closed
-TKT-14780,juliagriffin@example.org,William Mcclain,Login Issue,Chat,Bot,3,Low,2025-11-08,2025-10-19,59.84,Open
-TKT-43718,abruce@example.net,Melissaa Hogaan,Feature Request,Email,,5,Med,2025-08-28,,46.8,Closed
-TKT-37672,hacevedo@example.net,MichaÃ©l BÃ©nnÃ©tt,,Phone,Adam,2,High,2025-11-24,2025-04-06,,Closed
-TKT-65602,gibsonanthony@example.org,Elizabeth Flores,Login Issue,Phone,Bot,5,H,,2025-08-31,60.24,Closed
-TKT-87763,dana72@example.net,Kathleen Davis,Login Issue,Social Media,Bot,3,H,2025-11-20,2025-07-28,26.35,Closed
-TKT-55756,garciadavid@example.org,Benjamin Forbes,Login Issue,Chat,Theresa,5,Medium,2025-11-05,,19.52,Closed
-TKT-45868,hollowayseth@example.com,Gary Graves DDS,Feature Request,Email,Bot,4,Urgent,2025-11-19,2025-04-19,38.24,Resolved
-TKT-95637,,,Login Issue,Chat,Bot,5,,,2025-04-29,-42.0,Closed
-TKT-78587,phillipmartinez@example.net,Nicholas Martin,Login Issue,Chat,Alexandra,2,H,,2025-04-29,39.52,Open
-TKT-95849,alexanderking@example.org,Jacqueline Schroeder MD,Feature Request,Chat,Erica,5,High,2025-04-22,2025-10-18,20.42,Resolved
-TKT-10880,hernandezshelly@example.org,Ryan Scott,Refund,,Bot,3,,2025-01-07,2025-11-23,,Closed
-TKT-56593,spencercarly@example.net,Karla Moreno,Feature Request,Social Media,Bot,3,,2025-08-18,2025-01-10,46.06,Resolved
-TKT-97472,owilson@example.net,Ashley Newton,,Social Media,Ricky,1,,2025-01-04,2025-01-02,29.27,Closed
-TKT-47186,beverly98@example.org,Autumn Newman,Feature Request,Chat,Bot,Angry,Medium,2025-03-28,2025-06-16,47.76,Escalated
-,matthew30@example.net,Andrea Gross,Login Issue,Phone,Bot,5,L,2025-06-02,2025-01-26,42.3,Resolved
-TKT-88027,boonelee@example.net,Virginiaa Anderson,Billing,Social Media,,3,Low,2025-06-15,2025-03-30,,
-TKT-76625,cadkins@example.net,Brian Carter,Refund,Social Media,,4,,2025-05-27,2025-05-08,,In Progress
-TKT-81592,virginia46@example.com,Andrew Brown,Login Issue,,,3,Med,2025-09-22,2025-05-04,65.51,Escalated
-TKT-69384,jonesfrancisco@example.com,AshlÃ©Ã© Carr,Login Issue,Chat,,2,,2025-08-09,,16.29,Closed
-TKT-46702,hhoward@example.com,Sandra Mcknight,Billing,Social Media,Bot,5,Urgent,,2025-02-07,29.45,Closed
-TKT-17288,tamaramurphy@example.org,Jason Jenkins,Billing,Pigeon Carrier,Bot,5,Medium,2025-10-03,,10.77,Closed
-TKT-34624,brandymiller@example.com,Jonathan Henry,Refund,Chat,,4,High,2025-02-24,2025-11-04,35.27,In Progress
-TKT-74428,michael80@example.net,Ronald Bryant,Feature Request,Social Media,Rebecca,4,Med,2025-02-09,2025-05-19,17.11,In Progress
-,carolyn43@example.org,Sherry Brown,Technical Support,Chat,,5,Urgent,2025-07-09,2025-09-05,0.61,
-TKT-67119,sheila55@example.org,Rodney Johnson,Login Issue,Pigeon Carrier,Bot,2,H,2025-03-17,2025-03-01,,Open
-TKT-23676,christopher63@example.com,Kimberly Phillips DDS ,Refund,Email,,3,Urgent,2025-01-22,2025-02-15,37.04,Closed
-TKT-30116,,Patricia Cherry,Refund,Social Media,Bot,2,H,2025-06-03,2025-11-26,32.12,In Progress
-TKT-40653,parksandre@example.com,Regina Wright,Billing,Social Media,,5,High,2025-11-26,2025-08-02,29.27,Open
-TKT-18129,tracymayer@example.net,Hannah Heath,Billing,Email,Christopher,3,L,2025-01-13,2025-09-19,15.54,In Progress
-TKT-56895,davidlopez@example.net,,Billing,Chat,Ryan,2,L,2025-04-04,2025-02-06,68.64,Closed
-TKT-35066,johnmiller@example.com,Anthony Wells,Feature Request,Pigeon Carrier,Bot,4,,2025-07-18,2025-07-16,11.79,
-TKT-68998,christopherrogers@example.com,Abigail Cole,Billing,Phone,Bot,2,Urgent,2025-08-12,2025-01-07,2.5,Closed
-TKT-35425,phillipsemily@example.net,Brad Turner,Technical Support,Pigeon Carrier,Bot,4,Low,,2025-06-06,,Closed
-TKT-73602,hernandezelizabeth@example.org,Kyle Jordan,,Pigeon Carrier,,,H,2025-05-24,2025-02-28,28.56,Open
-,shermanalexander@example.com,,Feature Request,Pigeon Carrier,Gabriel,2,Urgent,2025-02-24,2025-08-28,55.12,Closed
-TKT-38678,ashleypoole@example.net,Daniel James ,Billing,Chat,Bot,5,H,2025-01-03,,34.92,Resolved
-TKT-77578,charlenewalker@example.org,Dr. Tiffany Deleon DDS,Billing,Social Media,Dawn,10,Medium,2025-09-10,2025-02-06,13.21,Closed
-TKT-74370,kweeks@example.net,Bruce Fuller,Login Issue,Chat,,,H,2025-07-24,2025-06-15,-29.0,In Progress
-TKT-30402,newmanelaine@example.com,Donna Ellison,Technical Support,Email,,2,L,2025-04-19,,37.05,Resolved
-TKT-85529,alyssa06@example.net,Michael Simmons ,Login Issue,Email,,1,High,2025-03-26,,52.22,Open
-TKT-60160,williamsonlisa@example.org,Haley Bryant,Refund,Chat,,2,Medium,2025-11-24,2025-04-07,42.26,In Progress
-TKT-95632,dylan74@example.com,Darrell Aguirre,Feature Request,Chat,,2,L,2025-01-05,2025-07-09,31.51,Escalated
-TKT-69960,beckbethany@example.com,Travis Hughes,Technical Support,Pigeon Carrier,,5,Low,2025-01-01,,20.34,Closed
-TKT-98881,gayronald@example.com,Laura Ward,Billing,,,5,H,2025-09-04,2025-11-09,24.29,Open
-TKT-93476,judyewing@example.net,Mark Henry,Feature Request,Phone,,2,Low,2025-01-10,2025-09-25,-44.0,Closed
-TKT-42397,geraldandrews@example.net,Lindsey Bennett,,Chat,Christopher,4,Urgent,2025-06-06,2025-06-30,54.25,
-,aharding@example.net,Kathleen Arroyo,Technical Support,Email,Matthew,10,Low,2025-07-16,2025-01-10,48.97,Resolved
-TKT-13619,vstewart@example.com,Elizaabeth Weaaver,Login Issue,Email,Bot,0,,,2025-01-23,30.48,In Progress
-TKT-93088,daviddodson@example.org,Tyler Ellis,Refund,,Bot,4,H,2025-06-07,2025-09-14,46.43,Open
-TKT-10926,jorgelucas@example.net,Jared Gibbs,Technical Support,,,4,Urgent,2025-03-06,2025-01-19,,Escalated
-TKT-97392,cindy56@example.net,Bill PortÃ©r,Billing,Pigeon Carrier,,,H,,2025-06-30,,Escalated
-TKT-62090,mercedesortega@example.net,Jennifer Henderson,,Pigeon Carrier,Eric,1,Medium,2025-05-30,2025-06-29,18.68,Closed
-TKT-82615,kimberly39@example.com,Ronald Edwards,Refund,,Cody,1,Medium,2025-06-06,2025-11-29,7.87,Resolved
-TKT-34254,dixonjoshua@example.net,,Feature Request,Chat,Bot,5,L,2025-01-30,2025-02-24,29.66,Closed
-TKT-73096,summersjeanette@example.org,Sheila Acosta,Login Issue,Social Media,,3,,2025-09-20,2025-05-30,,Closed
-TKT-18790,biancahess@example.net,Sharon Krueger,Billing,Email,Robert,3,Urgent,2025-08-04,2025-04-07,62.25,Closed
-TKT-77566,scott01@example.org,Jamie Mccoy,Billing,Chat,Jennifer,2,Low,2025-11-01,2025-03-10,63.54,Closed
-TKT-89396,mlynch@example.org,Sydney Gaamble,Feature Request,Phone,Bot,3,High,2025-02-08,2025-07-02,-7.0,Resolved
-TKT-13152,johnparker@example.net,Thomas Rhodes ,Technical Support,Email,Bot,,High,2025-10-04,,0.84,Closed
-TKT-99458,davisnicole@example.com,Jennifer Prince,Feature Request,,,3,Medium,2025-04-26,,,Closed
-TKT-74198,bridget54@example.com,Shelly Wells,Login Issue,Chat,,2,Low,2025-10-27,2025-06-13,66.4,Open
-TKT-67234,,Megan Mcclure ,,Phone,Brian,5,Medium,2025-07-19,,4.83,
-TKT-36498,,Andrea Patterson,Billing,Social Media,Bot,2,High,2025-05-17,2025-04-23,7.29,Open
-TKT-91684,uwest@example.com,John Howe,Refund,Email,Bot,1,Med,2025-11-27,2025-10-23,49.13,Open
-TKT-26673,,Thomas Nunez ,Technical Support,Social Media,,3,Medium,2025-08-21,2025-02-10,3.78,Closed
-TKT-65861,ftucker@example.com,Tyler Morrison,Billing,Email,Patricia,0,L,2025-07-09,,69.65,Open
-TKT-28312,,Rachel Lee,Technical Support,,Bot,3,Low,2025-04-25,2025-01-06,36.33,Escalated
-TKT-96120,mckinneymorgan@example.net,Maria Cook,Refund,Social Media,,4,Medium,2025-07-06,2025-03-11,1.59,Open
-TKT-46243,myersmaria@example.com,,Technical Support,Phone,Mark,3,H,2025-09-01,2025-06-22,35.06,Closed
-TKT-41657,osanders@example.net,Sandra Wang ,Feature Request,Pigeon Carrier,,5,Urgent,2025-04-26,2025-06-07,30.44,Open
-TKT-72221,morrisjoshua@example.org,Gary Holland ,Billing,Email,Bot,4,L,2025-05-23,2025-01-04,4.17,Closed
-TKT-75767,tannererica@example.org,Cynthiaa Staanley,Technical Support,Phone,Bot,5,Medium,2025-01-29,2025-01-27,27.86,Open
-TKT-47104,brandondaniel@example.net,,,Email,,1,Urgent,2025-11-01,2025-11-05,38.39,In Progress
-TKT-95752,matthew92@example.org,Kara Dunlap,Technical Support,Social Media,Michael,1,High,2025-06-10,2025-04-09,-33.0,In Progress
-TKT-28309,danielwilliams@example.org,Anita Johnson,Technical Support,Email,Bot,3,Medium,2025-11-24,2025-01-21,51.08,Escalated
-TKT-51372,townsendjessica@example.com,Amy Fuentes ,,Social Media,,2,Low,2025-06-10,2025-04-12,18.43,Escalated
-,rodgersbrent@example.net,Charles Brown,Login Issue,Pigeon Carrier,,5,Med,2025-04-12,2025-09-22,24.93,Resolved
-TKT-19806,janetdrake@example.net,Jennifer Garcia ,Billing,Social Media,,4,H,2025-11-21,2025-04-07,8.08,In Progress
-TKT-99086,stephaniemckee@example.org,Heather Sampson,,Chat,,,Urgent,2025-07-14,2025-10-07,,Closed
-TKT-51000,,Susan Scott MD,Refund,Email,Bot,,Low,2025-10-24,2025-02-03,49.69,Escalated
-TKT-45796,bethany16@example.com,Gregory Monroe,Login Issue,Phone,,1,Low,2025-03-11,2025-04-21,66.14,Escalated
-,heatherward@example.org,Megan Clark,Login Issue,Pigeon Carrier,,2,,2025-07-18,2025-03-20,-17.0,Closed
-,reillykatelyn@example.net,Christopher Mason,Billing,Chat,Daniel,3,L,2025-04-26,2025-04-09,54.8,In Progress
-TKT-21497,bryanjackson@example.org,Sara Harris,Login Issue,Pigeon Carrier,,2,Med,2025-01-11,2025-09-05,27.34,Resolved
-,jasonrodriguez@example.com,Olivia Anderson,Refund,Pigeon Carrier,,3,Low,2025-01-14,,37.07,In Progress
-TKT-69805,,,,Chat,Curtis,,,2025-04-03,,49.36,In Progress
-TKT-78968,mosesdavid@example.org,Danny Smith,Feature Request,Phone,Julie,3,Medium,,2025-07-09,56.48,Closed
-TKT-71620,glambert@example.net,Anna Robinson,Feature Request,Phone,,5,Low,2025-10-05,2025-08-27,65.42,Open
-TKT-55036,josephallen@example.org,Julie Garcia ,Feature Request,Social Media,Bot,2,Low,,2025-05-01,45.85,
-TKT-61555,wayneschmidt@example.com,Justin Hansen,Feature Request,Chat,Amber,2,L,2025-01-03,2025-04-30,39.74,In Progress
-TKT-61471,eric63@example.com,Alyssa Franklin,Technical Support,,Kevin,1,Med,2025-03-20,2025-08-18,,Open
-TKT-48997,austinpollard@example.org,,Refund,Phone,,1,Low,2025-01-04,2025-04-29,67.24,In Progress
-TKT-20398,frivera@example.net,John Mendoza,Refund,Email,Bot,4,Med,2025-09-29,2025-10-16,23.38,Escalated
-TKT-63170,gerald51@example.net,Debra Francis,Login Issue,Social Media,Kayla,,L,2025-04-05,2025-02-23,,Escalated
-TKT-66595,leealejandro@example.org,Mark Williams III,Login Issue,,Gregory,2,Medium,2025-09-24,2025-09-22,16.85,Open
-TKT-98824,ann87@example.net,Mark Caldwell,Login Issue,Phone,Christina,4,Low,2025-03-26,2025-10-13,9.97,Closed
-TKT-74098,sarah00@example.net,Amber Smith,Refund,Pigeon Carrier,Paul,5,Low,2025-01-26,2025-01-15,61.51,Escalated
-TKT-96745,csoto@example.net,Yesenia Lawson,Login Issue,Email,,3,,2025-10-19,2025-10-31,38.15,Resolved
-TKT-60792,pauldiaz@example.net,David Ritter,Login Issue,,Travis,Angry,Urgent,2025-01-29,,61.02,Closed
-TKT-86707,frances83@example.com,Christopher Santos,Technical Support,Pigeon Carrier,Sergio,1,L,2025-01-23,2025-03-05,13.36,Open
-TKT-97977,megan40@example.org,LÃ©sliÃ© BoonÃ©,Feature Request,Social Media,Bot,3,Med,,,,Escalated
-TKT-84647,zwise@example.org,Colton Dickerson,Login Issue,Phone,Bot,4,Urgent,2025-06-22,2025-06-19,44.29,Closed
-TKT-90573,shawn60@example.org,Mary Turner,Technical Support,Pigeon Carrier,,4,High,2025-05-27,2025-08-10,41.61,Resolved
-TKT-34892,daniellewagner@example.com,Kimberly Olsen,Billing,Email,Gina,2,Urgent,2025-05-07,2025-09-28,21.24,Escalated
-TKT-79977,mark31@example.com,Sean Woods,Billing,Phone,,1,High,2025-01-11,2025-10-21,7.24,Resolved
-TKT-21660,,Barbara Woods,Refund,Email,,1,Urgent,2025-06-13,2025-08-19,60.35,Closed
-TKT-11898,johnsonjennifer@example.com,Tyrone Jones,Technical Support,Chat,,4,Med,2025-02-01,2025-06-03,32.14,Resolved
-TKT-25325,longlauren@example.org,Lacey Vincent,Login Issue,Chat,,5,,2025-09-03,2025-03-31,31.99,Closed
-TKT-49620,martinkyle@example.com,,Refund,Email,Bot,2,High,2025-11-01,2025-08-23,,In Progress
-TKT-74089,cschaefer@example.net,Thomas Wade,Refund,Chat,,2,H,,2025-06-18,40.46,Resolved
-TKT-15702,floresalex@example.org,,Technical Support,,,0,Medium,2025-11-20,2025-07-22,43.65,Open
-TKT-95218,vjones@example.com,Sarah Dyer ,Billing,Phone,,5,High,2025-06-11,2025-11-08,4.5,Open
-TKT-42342,george60@example.com,,,Pigeon Carrier,Melinda,4,Med,2025-03-30,2025-05-07,4.65,Resolved
-TKT-71672,millerjulie@example.net,Nicole Warren,Feature Request,Pigeon Carrier,Kimberly,1,Medium,2025-09-09,,13.21,Closed
-TKT-62090,mercedesortega@example.net,JÃ©nnifÃ©r HÃ©ndÃ©rson,,Pigeon Carrier,Eric,1,Medium,2025-05-30,2025-06-29,18.68,Closed
-TKT-66240,nancyrichardson@example.com,Pamela Freeman ,Billing,Chat,Mary,4,Urgent,2025-07-19,,11.28,Escalated
-TKT-90810,melissa74@example.com,Wendy Skinner,Refund,Chat,Bot,10,Urgent,2025-04-22,,68.36,In Progress
-TKT-85388,huffjon@example.com,Dustin Woodard MD,Billing,Pigeon Carrier,,3,L,2025-03-27,,37.38,
-TKT-98154,vduarte@example.net,Larry Holmes,Refund,Phone,,4,H,2025-08-05,2025-02-17,25.99,In Progress
-TKT-27185,rebekahgarcia@example.com,Christina Rodriguez ,Billing,Phone,,1,Med,2025-10-16,2025-09-03,51.44,Open
-TKT-34129,michelefoster@example.org,Ronnie Curry,Feature Request,,,3,High,2025-05-29,2025-08-19,,
-TKT-70087,christopherwalker@example.com,Christine Olson,Technical Support,Chat,Michael,4,,2025-04-01,2025-02-01,23.64,Closed
-TKT-42991,srodgers@example.net,Autumn Harris,Technical Support,,,4,Urgent,,2025-01-04,44.28,Closed
-TKT-91229,jacobkline@example.org,Cory Jones,Billing,Email,Bot,,H,2025-12-01,2025-03-17,15.94,In Progress
-TKT-58697,vazquezdavid@example.net,Christopher Edwards,Feature Request,,,4,Medium,2025-09-13,2025-05-16,64.21,Closed
-TKT-55419,morgan58@example.org,,Feature Request,Pigeon Carrier,Jessica,4,High,2025-01-02,2025-03-17,34.74,
-TKT-21664,,Stephanie Ferguson,Refund,Email,Cindy,4,H,2025-04-02,2025-07-12,11.43,Escalated
-TKT-51162,anne73@example.net,Amanda Hartman,Refund,Social Media,Bot,2,H,2025-02-11,2025-02-09,15.45,Resolved
-TKT-47685,edwardharrison@example.com,Nichole Cruz,Login Issue,,Bot,1,Medium,2025-03-10,2025-10-09,31.84,In Progress
-TKT-51140,olsenvalerie@example.net,Daniel Wallace ,Technical Support,Chat,Jamie,2,,2025-06-17,2025-11-04,34.22,Resolved
-TKT-43154,vmiller@example.org,Reginald Roach,,Email,Jonathan,,Low,2025-07-05,,69.45,Closed
-TKT-92859,annettereese@example.net,Jonaathaan Horne,Billing,Phone,Joanna,2,,2025-06-01,2025-09-19,9.65,Closed
-TKT-46408,florescynthia@example.com,Omaar Smith,Refund,Email,,Happy,Low,2025-07-12,,23.36,Closed
-TKT-70814,joshuanorris@example.com,Briaan Cherry,Technical Support,Chat,Bot,2,Low,,2025-09-28,60.6,Resolved
-TKT-24685,amberward@example.org,Andres Daniels,Refund,Social Media,Bot,,L,2025-04-16,2025-01-07,12.14,Resolved
-TKT-23017,mdickson@example.com,Gene Bond,Technical Support,Chat,,0,Urgent,2025-03-09,,59.05,Resolved
-TKT-15764,victor19@example.org,Brian Kelly,Feature Request,Pigeon Carrier,Bot,0,Urgent,2025-02-22,2025-04-13,51.06,Open
-TKT-32304,sgomez@example.com,Amber Morse,Refund,Email,Bot,4,Urgent,2025-07-10,2025-01-17,1.52,Escalated
-TKT-93483,susan49@example.com,Susan Jarvis,Technical Support,Phone,James,Angry,Urgent,2025-07-15,2025-05-06,15.48,Resolved
-,,Morgan Pearson,Login Issue,Phone,Joseph,5,Urgent,2025-02-05,2025-08-15,-41.0,In Progress
-TKT-72653,fowleranthony@example.org,David VÃ©lasquÃ©z,Technical Support,Email,David,3,Med,,2025-06-24,4.19,Open
-TKT-47941,christopher07@example.net,Stephanie Bennett ,Feature Request,Pigeon Carrier,,4,,2025-04-30,2025-05-29,62.55,In Progress
-TKT-59790,warrenjeffrey@example.com,Susaan Raamirez,Billing,Pigeon Carrier,Bot,5,H,2025-08-26,2025-03-07,71.92,Resolved
-TKT-50014,dduke@example.net,,Login Issue,Chat,Jacqueline,4,Low,,2025-03-30,61.88,In Progress
-,xsanchez@example.com,John Bonilla,,Email,,,Med,,,34.14,Closed
-TKT-18033,rebecca55@example.com,KÃ©ith RodriguÃ©z,Billing,Pigeon Carrier,,5,High,2025-09-06,,,Closed
-TKT-50484,kgray@example.net,Kenneth Gomez,Technical Support,Pigeon Carrier,,Angry,L,2025-10-31,2025-11-01,26.83,Closed
-TKT-51599,moralesjessica@example.org,Allison Gardner,Technical Support,Social Media,Bot,1,Low,,2025-02-15,71.05,Resolved
-TKT-69425,brandon04@example.com,Sheryl Rodgers,Technical Support,Social Media,Bot,4,Med,2025-11-29,2025-11-21,6.95,Open
-TKT-75553,donna14@example.com,Melissa Burton,Feature Request,,Bot,,Medium,2025-01-26,2025-02-11,57.21,Resolved
-TKT-57628,mcintoshpatrick@example.net,Anthony Oconnell,Technical Support,Email,,1,Med,2025-07-31,2025-04-11,67.22,Escalated
-TKT-47186,beverly98@example.org,Autumn Newman,Feature Request,Chat,Bot,Angry,Medium,2025-03-28,2025-06-16,47.76,Escalated
-TKT-57678,,William Sullivan ,Feature Request,Phone,,5,Low,,2025-06-22,69.17,Open
-TKT-16143,ipoole@example.org,John Walker,Feature Request,Social Media,Patrick,2,Med,2025-09-13,2025-05-14,58.65,
-TKT-78701,hendersonfernando@example.net,Vanessa Nelson,Technical Support,Pigeon Carrier,Jon,3,H,2025-02-20,2025-11-08,64.3,Open
-TKT-81301,xtownsend@example.com,Elizabeth Miller,Login Issue,Pigeon Carrier,Bot,5,Med,2025-02-21,2025-02-25,,Open
-TKT-75755,christopher06@example.com,Terry Andersen,Billing,Chat,,,Low,2025-05-12,,13.21,Resolved
-TKT-49943,charlescole@example.net,Diane Zimmerman,Refund,,Bot,,L,2025-02-13,2025-01-18,60.77,Open
-TKT-87110,bowersedward@example.org,Tanner Cook,Login Issue,Email,,1,Low,2025-07-17,2025-09-02,-44.0,
-TKT-54351,,George Rogers,Billing,Phone,Bot,2,Urgent,2025-10-30,2025-08-19,-44.0,Resolved
-TKT-96569,emartin@example.com,Norma Ramirez,Feature Request,Email,,Happy,Med,,2025-07-11,35.85,Escalated
-TKT-21277,noah64@example.com,Rebecca Hampton,Login Issue,Chat,Bot,5,,2025-10-08,2025-03-28,45.2,In Progress
-TKT-61195,pattonkendra@example.net,William Green,Login Issue,Phone,,2,Medium,2025-11-12,2025-05-09,28.51,Escalated
-TKT-60445,woodrussell@example.com,Lindsey Moore,Technical Support,Chat,Bot,3,,,2025-06-17,23.84,Resolved
-TKT-36651,,Daisy Rodriguez,Technical Support,Chat,Bot,1,L,2025-04-18,2025-10-14,33.68,In Progress
-TKT-56352,qcarpenter@example.org,Christopher Summers,,Phone,,5,Low,2025-05-22,2025-08-13,38.18,Resolved
-TKT-36940,williamsdavid@example.org,,Technical Support,Pigeon Carrier,Philip,2,Low,2025-08-20,2025-05-03,-1.0,Escalated
-,peterwagner@example.com,,Login Issue,,Bot,2,Urgent,2025-11-19,2025-03-16,25.99,Closed
-TKT-67295,mrogers@example.com,Briana FinlÃ©y,Login Issue,Phone,Steve,2,L,2025-05-26,2025-04-27,39.14,Closed
-TKT-61648,qgrant@example.net,,Login Issue,Email,,5,Low,2025-08-22,2025-07-22,32.44,Open
-TKT-35817,fpotter@example.net,,Login Issue,Chat,,Angry,,2025-10-29,2025-01-05,54.19,Closed
-TKT-16017,,James Wilson,Technical Support,Email,Sherry,4,Medium,2025-06-02,2025-09-04,,Resolved
-TKT-63170,gerald51@example.net,Debra Francis,Login Issue,Social Media,Kayla,,L,2025-04-05,2025-02-23,,Escalated
-TKT-62673,,Amanda Nichols,,Pigeon Carrier,Mark,1,L,,2025-04-07,,Resolved
-TKT-43418,qmartinez@example.net,Jeff Williamson,Refund,Social Media,,3,,,2025-01-11,15.0,Resolved
-,higginsheidi@example.org,Raymond Perry,Login Issue,Social Media,Hailey,4,Med,2025-02-06,2025-02-18,,
-TKT-11899,david68@example.com,Vanessa Wagner,Refund,Chat,Patrick,2,High,2025-04-21,2025-03-21,,Resolved
-TKT-26806,gina37@example.com,Jerry Brady,Billing,Pigeon Carrier,,2,H,2025-03-03,2025-10-15,8.93,Closed
-TKT-24220,deborah45@example.net,Tristan Arnold,,,Bot,3,Low,2025-08-12,2025-10-13,27.55,Closed
-TKT-97632,mccoychristian@example.org,Jerome Pierce,Billing,Social Media,,,Med,2025-07-08,2025-11-25,60.38,Resolved
-TKT-99055,littleandrea@example.net,Kimberly White,,Social Media,Angela,3,Med,2025-10-16,,44.02,Escalated
-TKT-75744,johnware@example.org,Raymond Dixon,Feature Request,Phone,,5,L,,,15.27,In Progress
-TKT-58816,patrickacevedo@example.org,Heidi Kim,Feature Request,Email,Bot,4,Med,2025-03-29,2025-08-13,11.83,Open
-TKT-11576,,Carla Green,Billing,Social Media,Bot,1,Low,2025-10-17,2025-10-15,18.17,Resolved
-TKT-16669,tamara19@example.com,Daniel Horn ,Login Issue,Chat,Phyllis,,H,2025-07-11,2025-01-03,25.12,Closed
-TKT-73304,austin89@example.org,Richard Rodriguez ,Refund,Phone,Diane,5,,,2025-05-01,57.28,In Progress
-TKT-45476,joseph98@example.net,Scott Kennedy,Feature Request,Social Media,,4,L,2025-11-27,,40.69,
-TKT-47951,munozdana@example.com,Jonathan Kelly,Billing,Email,,1,Med,2025-01-12,2025-04-18,42.77,Closed
-TKT-20102,woodwilliam@example.org,Meghan Powell,Login Issue,Phone,,2,,2025-03-04,2025-01-13,5.03,In Progress
-,dennisdarrell@example.org,Rachel Hickman,Technical Support,Social Media,Michelle,5,High,2025-02-16,2025-01-05,5.93,Open
-TKT-66572,burnettjennifer@example.net,Rodney Gutierrez,Login Issue,,,2,L,2025-08-13,,71.96,Open
-,rsalinas@example.org,Heidi Adams,Billing,Email,Brian,3,High,2025-07-13,,,Escalated
-,,Mrs. Heather Pollard,Login Issue,Chat,Connie,3,Medium,2025-01-12,2025-07-30,4.11,Open
-TKT-50176,urobles@example.org,Joshua Robinson,Technical Support,Social Media,,5,Urgent,2025-07-21,2025-09-23,21.43,Escalated
-TKT-49943,charlescole@example.net,Diane Zimmerman,Refund,,Bot,,L,2025-02-13,2025-01-18,60.77,Open
-TKT-89603,pmathis@example.net,Zachary Smith,Billing,Social Media,Bot,2,Low,2025-02-25,2025-10-27,37.26,Escalated
-TKT-26936,qbarnes@example.net,Maurice Anthony,Login Issue,Chat,Gary,1,H,2025-05-22,2025-05-26,21.21,In Progress
-TKT-10514,fhall@example.com,Samantha Brown,Feature Request,Chat,,1,Urgent,2025-12-01,2025-09-06,16.8,
-TKT-89456,hannahlyons@example.com,Susan Edwards,Login Issue,Chat,,2,Med,,2025-09-27,61.35,Closed
-TKT-14040,kimberlybryan@example.org,Whitney Brady,Feature Request,Social Media,,2,L,2025-10-17,2025-06-14,-22.0,Escalated
-TKT-50647,jose66@example.org,Michael Perez,Login Issue,,,4,Low,2025-03-07,2025-03-05,63.98,In Progress
-TKT-95184,michael81@example.com,Devin Roberts,Billing,Chat,,1,Med,2025-05-04,2025-05-29,67.64,In Progress
-TKT-53015,hughesjamie@example.org,Brandy Brown,Feature Request,Pigeon Carrier,Bot,1,High,2025-03-28,2025-05-03,14.45,Closed
-TKT-68345,jefferyroberts@example.net,Mario Thomas,Login Issue,Chat,Matthew,Happy,High,2025-10-05,2025-03-18,56.8,Closed
-TKT-93485,xbrown@example.net,Sara Martin,Refund,Chat,Bot,2,Low,2025-07-22,2025-04-04,67.11,Escalated
-TKT-40429,mistyenglish@example.net,James Dixon,Billing,Phone,Bot,5,H,2025-04-20,2025-01-06,37.36,Closed
-,debra88@example.org,,Refund,Phone,Bot,,Med,2025-10-16,2025-03-15,21.05,Resolved
-TKT-52340,kaufmanalan@example.org,Debra Nguyen,Technical Support,Phone,Laura,5,Med,2025-09-15,2025-04-22,9.46,Resolved
-TKT-21856,mlopez@example.com,Katie Orozco,Billing,Social Media,Bot,4,Med,2025-05-31,2025-02-03,34.62,
-TKT-98289,perrylisa@example.net,Becky Mills,Login Issue,Pigeon Carrier,Lindsay,1,Med,2025-09-19,2025-05-29,35.41,Escalated
-TKT-41406,,Andrew Price,Refund,Pigeon Carrier,Bot,Happy,Urgent,2025-11-30,2025-02-28,31.44,Resolved
-TKT-84274,,Stephanie Price,Refund,,,1,L,2025-01-27,,0.69,Resolved
-TKT-66757,qcook@example.com,Jessica Freeman,Login Issue,Pigeon Carrier,,2,Medium,2025-01-17,2025-07-19,34.45,Resolved
-TKT-64379,rmiller@example.org,MichÃ©al SummÃ©rs,Login Issue,Phone,,2,High,2025-09-25,2025-08-07,49.11,Closed
-,foxbrandon@example.net,Chelsea Marshall,Technical Support,Chat,,10,Urgent,2025-04-16,2025-05-06,10.47,Closed
-TKT-75293,graykelly@example.net,Jessica Turner ,Technical Support,Social Media,Cindy,1,H,,2025-10-22,4.8,Open
-TKT-92967,jeffrey98@example.org,Christopher Moore ,,Social Media,,3,Med,2025-09-26,,45.68,In Progress
-,jaimegarcia@example.com,Emily Santos,Feature Request,Email,,1,Med,,2025-07-25,28.59,Escalated
-TKT-64822,diazjudith@example.com,Matthew Murray,Feature Request,Phone,Bot,,,,2025-03-24,,Escalated
-TKT-36504,gutierrezjonathan@example.com,Tammy Jimenez,Login Issue,Phone,Brian,5,Urgent,2025-02-25,2025-04-15,68.0,Open
-TKT-42211,travis85@example.net,Raymond Hoffman,Feature Request,Phone,Bot,1,Urgent,2025-03-22,2025-10-14,28.26,Escalated
-TKT-37737,allison23@example.com,Richard Lindsey ,Billing,,Bot,5,High,2025-06-23,2025-11-12,62.72,In Progress
-TKT-89523,douglas05@example.net,Sharon Cervantes,Billing,Email,,1,Urgent,2025-01-23,,63.95,Resolved
-TKT-80476,,Jessica Hartman,Billing,Phone,,4,L,2025-01-27,2025-10-07,-35.0,Resolved
-,ellisonjohn@example.net,Lindsey Cruz MD,Refund,Chat,,5,High,2025-01-22,2025-03-20,5.34,Closed
-TKT-50318,brandonfrederick@example.com,Shane Mueller,Technical Support,Email,,5,Med,2025-02-17,2025-05-31,6.01,Open
-TKT-19549,woodsdaniel@example.org,Jerry Anderson,Feature Request,Pigeon Carrier,,1,Low,2025-05-12,2025-10-27,62.97,In Progress
-TKT-23219,,Kyle Mccullough,Refund,,,2,High,2025-05-26,2025-03-14,16.97,Closed
-,claytara@example.net,,Feature Request,,,1,High,2025-05-28,2025-09-09,,Resolved
-TKT-58573,scott12@example.com,Rachel Myers,,Email,,1,L,2025-06-03,2025-08-11,,Closed
-TKT-32547,stewartamy@example.net,Mr. Andrew Skinner ,Refund,Chat,Bot,3,,2025-05-19,2025-06-07,66.97,Escalated
-TKT-84001,sherri61@example.com,Marilyn Moore,Login Issue,Social Media,Steven,,L,2025-10-10,2025-11-11,69.49,Closed
-,zcoleman@example.org,Jodi Osborn,Refund,Chat,,4,,2025-01-20,2025-09-21,34.1,Closed
-,sarah98@example.org,Morgan Hobbs,Feature Request,Pigeon Carrier,Bot,,Urgent,2025-10-06,2025-07-10,22.0,
-TKT-56116,donaldbanks@example.net,Mitchell Thomas,Billing,Social Media,Emma,1,Med,2025-01-07,2025-06-29,15.55,Closed
-TKT-72777,robertdavis@example.com,Melissa Wiley,Technical Support,,Jennifer,5,Low,2025-10-13,2025-11-12,61.51,Closed
-TKT-13203,charles64@example.com,Jose Pearson,Billing,Pigeon Carrier,,5,Low,2025-10-20,2025-01-08,42.99,Closed
-TKT-84990,riggstheresa@example.net,Denise Hall,Billing,,Matthew,1,Med,2025-08-23,2025-04-08,49.06,In Progress
-TKT-19254,,Emily Myers ,Billing,Chat,,4,Low,2025-03-25,2025-01-05,38.84,Resolved
-TKT-75368,ybennett@example.net,Brenda Henry,Billing,Pigeon Carrier,,0,Med,2025-02-13,2025-06-17,26.62,Escalated
-TKT-56243,morrismelissa@example.org,Kendra Green,Billing,Phone,Jeffrey,3,,2025-05-18,2025-06-19,4.59,Closed
-TKT-92522,daniel18@example.com,,Billing,Phone,,1,Urgent,2025-05-18,2025-07-21,48.15,Open
-TKT-14548,elliottcheryl@example.net,JÃ©ffrÃ©y Dixon,,Pigeon Carrier,,1,High,2025-08-03,2025-09-18,6.96,Closed
-TKT-17092,hortoncarrie@example.net,Robert Phaam ,Refund,Phone,,3,H,2025-09-19,2025-06-07,34.1,Closed
-TKT-52386,,Michelle Hernandez,Technical Support,Social Media,,,Med,2025-10-11,2025-05-18,30.14,
-TKT-49459,kimnoah@example.net,Ricky Cowan,Feature Request,Email,Jeffrey,1,H,2025-08-18,2025-03-14,21.89,In Progress
-TKT-99921,salinasmelissa@example.com,,Refund,Social Media,,4,Med,2025-03-03,2025-03-01,28.36,Closed
-TKT-64747,jason80@example.com,Michael Barrett,Refund,Email,Bot,,H,2025-03-26,2025-05-18,52.86,Closed
-TKT-53731,cassandradiaz@example.org,Jennifer Mathews,Login Issue,Chat,Tanya,1,,2025-01-13,2025-01-08,-1.0,Open
-TKT-46437,ericgrimes@example.net,Rebekah Cooper,Technical Support,Phone,Bot,Happy,Med,2025-06-17,2025-06-15,23.0,Closed
-TKT-92282,,Joyce Mcneil,,Social Media,Bot,3,,2025-10-18,2025-10-16,38.78,Closed
-TKT-64284,ahampton@example.net,Samuel Coleman,Billing,,Edwin,4,H,2025-07-12,2025-07-10,64.29,Closed
-TKT-96561,dianawilliams@example.org,Jordan Haynes,Refund,Email,Julie,1,Urgent,2025-03-07,,58.71,Escalated
-TKT-67367,gdrake@example.net,Deborah Melendez,Technical Support,,Cynthia,Angry,High,2025-08-17,2025-05-21,69.89,Open
-TKT-71349,josephreese@example.net,Kimberly Anderson,Technical Support,Phone,Bot,3,Med,2025-07-02,2025-02-18,,Resolved
-TKT-74357,hernandezjacob@example.com,Nicole Graham ,Refund,Email,,4,High,2025-09-15,2025-04-06,28.09,Closed
-TKT-32792,patrick84@example.com,Devin Costa,,,,4,High,2025-04-25,2025-07-04,,Escalated
-,beverly50@example.com,Andrew Parker,Refund,Social Media,,,H,2025-11-05,2025-01-17,39.17,Closed
-TKT-40881,nicolepope@example.org,Valerie Hines,Billing,Chat,Bonnie,4,Medium,2025-05-11,,32.04,Closed
-,melissaescobar@example.net,Benjamin Cooper,Feature Request,,Rebecca,1,H,2025-02-10,2025-06-16,21.64,Open
-TKT-15434,nbenjamin@example.com,Danielle Burch,Technical Support,Chat,Bot,4,Low,2025-01-03,2025-10-11,17.09,Escalated
-TKT-42229,wardtimothy@example.net,Robert Anderson,Billing,Phone,,2,L,2025-06-05,2025-06-24,-18.0,Open
-TKT-66644,mary33@example.com,,Technical Support,Social Media,Bot,4,,2025-01-18,2025-05-07,58.44,Escalated
-TKT-80423,ncarter@example.com,Lisa Thompson,,Chat,Tiffany,4,Low,2025-08-08,2025-06-08,59.42,
-TKT-28312,,Rachel Lee,Technical Support,,Bot,3,Low,2025-04-25,2025-01-06,36.33,Escalated
-TKT-36500,peterarmstrong@example.com,Heather Estes,,Email,Bot,1,Medium,2025-03-09,2025-04-09,-48.0,In Progress
-TKT-54975,fritzjulia@example.org,Aaron Osborne,Refund,Email,,4,Urgent,2025-05-12,,3.63,Open
-,davislaura@example.com,Sean Rodgers,Technical Support,Chat,Bot,4,High,2025-05-16,,14.16,Escalated
-TKT-41658,fpowell@example.com,Tabitha Ellis,Feature Request,Phone,,2,H,2025-01-20,2025-08-25,38.03,Closed
-TKT-44854,jocelyn80@example.net,Erin Lozano ,Billing,Phone,Bot,3,High,2025-02-05,2025-08-04,,Escalated
-TKT-42443,jensencharles@example.org,Jeffery Alvarez,Billing,Email,,Happy,Med,2025-11-03,2025-11-21,64.36,Resolved
-TKT-22301,kevindiaz@example.com,Alexandra Hayes,Feature Request,Social Media,,3,High,,2025-03-16,37.88,Closed
-TKT-42812,,Chad Castillo,Login Issue,Pigeon Carrier,,4,High,,2025-03-07,46.17,Escalated
-TKT-34854,nicoleshields@example.org,Robert Newton,Billing,Social Media,,3,Med,,,54.43,Resolved
-TKT-86579,daviswilliam@example.org,Carolyn Rice,Refund,Social Media,,,L,2025-05-12,,7.9,Closed
-TKT-72106,mary47@example.org,Jessica Webb,Feature Request,Phone,Bot,1,Urgent,,2025-03-08,11.27,Escalated
-TKT-75610,laurie58@example.org,James Bridges,Login Issue,Chat,,,High,2025-02-05,2025-03-14,53.34,Closed
-TKT-26385,angela06@example.org,Melissa Mata,Login Issue,Email,James,3,H,2025-01-12,2025-06-10,-6.0,Resolved
-,kristinalong@example.net,Christopher Vasquez,Billing,Pigeon Carrier,Tammy,4,H,2025-01-31,2025-11-14,54.39,
-TKT-93840,sparkspatrick@example.org,Leslie Hart,Technical Support,Chat,Dustin,3,Urgent,2025-03-30,2025-03-31,0.98,Resolved
-,theresaroberts@example.net,Kristin Huynh,Feature Request,Social Media,Amanda,5,Med,2025-11-26,2025-08-08,1.95,Closed
-TKT-56477,oscarking@example.com,,Login Issue,Phone,,3,Med,2025-02-26,2025-04-13,23.03,Resolved
-TKT-11103,zsmith@example.com,Kevin Stokes,,Social Media,Scott,,,2025-05-06,2025-11-20,31.0,Resolved
-TKT-49201,petersonkevin@example.org,Destiny Brown,Login Issue,Phone,,4,Low,2025-05-31,2025-11-28,48.0,Escalated
-TKT-27872,kylewalker@example.org,Sean Avery,Technical Support,Email,Bot,2,,2025-05-01,2025-01-11,33.58,Closed
-TKT-10814,justin59@example.org,Robin Morales,Refund,Email,Melanie,2,H,2025-07-02,2025-03-14,53.81,Resolved
-TKT-52602,joshuafrost@example.com,Travis Rivera,Technical Support,Social Media,Bot,2,H,2025-08-10,2025-08-01,25.1,Open
-,cantubenjamin@example.com,David Hunter,Technical Support,Phone,Bot,1,Medium,2025-05-14,2025-08-14,65.18,In Progress
-TKT-68170,lutzstacy@example.net,Rita Fernandez,Feature Request,Pigeon Carrier,,10,L,2025-10-26,2025-04-12,61.71,Escalated
-TKT-54977,danielgraham@example.net,,,Chat,April,,,2025-09-01,2025-01-27,19.21,In Progress
-TKT-45920,mikaylabruce@example.com,Clayton Curry,Login Issue,Social Media,,5,High,2025-10-22,2025-06-24,62.98,Resolved
-TKT-11874,tiffany40@example.org,Tony Carr,Technical Support,Email,Bot,5,H,2025-07-10,2025-06-18,20.46,Closed
-TKT-46238,gmendoza@example.org,Mary Walter,Login Issue,Email,,5,Urgent,,2025-07-18,59.33,Closed
-TKT-44568,wwright@example.net,Alexander Edwards,Login Issue,,Bot,3,Low,2025-10-05,2025-06-07,66.22,Open
-TKT-81834,ksimpson@example.com,Sonia Jenkins,Login Issue,Chat,Bot,1,Med,2025-01-10,2025-01-23,65.67,Open
-TKT-53192,kendra75@example.org,Nancy Sanders,,Email,Corey,2,Med,2025-09-11,2025-09-23,30.37,Resolved
-TKT-16457,bmccoy@example.net,Larry Ray,Technical Support,Chat,Ashley,5,Medium,,2025-01-25,56.32,Open
-TKT-71031,,Bryan Martinez,,Pigeon Carrier,,1,L,2025-05-27,2025-10-10,31.7,In Progress
-TKT-56352,qcarpenter@example.org,Christopher Summers,,Phone,,5,Low,2025-05-22,2025-08-13,38.18,Resolved
-TKT-93985,,Pedro Salinas,Technical Support,,,4,Med,2025-09-05,,10.46,Resolved
-TKT-77037,millsdavid@example.net,Eric Hancock ,Billing,Email,Melissa,1,Low,2025-10-01,2025-05-31,57.45,Open
-TKT-60734,velazquezdarlene@example.com,Evelyn Cole,Refund,Phone,Ryan,4,Low,2025-02-09,2025-12-01,14.74,In Progress
-TKT-32481,gjones@example.net,Thomas Porter,Login Issue,,,4,Medium,2025-08-19,2025-07-27,19.52,In Progress
-TKT-73989,stefanie77@example.org,Juaan Daavis,Refund,Phone,,,Medium,,2025-01-24,3.15,Escalated
-TKT-37805,zachary53@example.com,Gordon Cox,Refund,Chat,,5,L,2025-07-03,2025-02-16,58.57,Closed
-TKT-75466,djoyce@example.com,Amber Smith,Technical Support,Email,,2,,2025-08-04,2025-02-07,4.33,Resolved
-TKT-19315,conniejohnson@example.net,Justin Wilcox,Feature Request,Phone,,3,H,,2025-05-27,69.36,Closed
-TKT-93076,tonya93@example.com,Chad Harris,Technical Support,,Bot,3,H,2025-04-04,2025-11-09,54.73,Open
-TKT-55408,davidcrawford@example.net,,Billing,,,4,Medium,2025-05-01,2025-08-03,30.27,In Progress
-TKT-26078,villathomas@example.com,Angela Greer,Login Issue,Email,Sheila,3,Urgent,,2025-06-14,34.06,Escalated
-TKT-54829,mbenson@example.com,,Login Issue,Chat,,2,,2025-06-04,2025-04-03,31.72,
-TKT-20768,lharrington@example.com,,Billing,Social Media,,4,Low,2025-08-29,2025-08-29,,Closed
-TKT-63380,,,Technical Support,Pigeon Carrier,Joseph,2,Urgent,2025-01-02,,-41.0,Closed
-,theodore65@example.com,,Login Issue,Pigeon Carrier,,5,L,2025-09-14,2025-03-05,,
-TKT-79365,,Jonathon Cox,Technical Support,Social Media,Erica,2,,2025-03-05,2025-06-12,24.06,Closed
-TKT-96120,mckinneymorgan@example.net,Maria Cook,Refund,Social Media,,4,Medium,2025-07-06,2025-03-11,1.59,Open
-TKT-32035,,Jonathan Fisher,Technical Support,Phone,,3,Med,2025-04-15,2025-01-25,56.48,Resolved
-TKT-66843,ugarcia@example.org,Michelle Hampton,,Pigeon Carrier,,10,Urgent,2025-08-05,2025-11-01,21.98,Escalated
-TKT-80411,renee82@example.org,Mark Gonzales,Feature Request,Chat,Bot,2,Medium,2025-02-09,2025-10-06,17.94,Open
-TKT-30868,qcoleman@example.com,Nathan Davenport,Login Issue,Phone,,,High,2025-09-24,2025-08-16,15.92,Resolved
-TKT-41695,jilladams@example.com,,Technical Support,Phone,,4,High,2025-05-02,2025-08-14,,
-TKT-12597,ricardobenitez@example.net,Eric Stevenson,Login Issue,Phone,,,High,2025-11-24,2025-09-09,65.84,Open
-TKT-76025,pwebb@example.com,Tammy Wilcox,Billing,Social Media,Nicholas,1,Medium,,2025-09-13,19.03,Escalated
-TKT-89004,eric53@example.org,Thomas Hall,Technical Support,Phone,Jennifer,5,High,2025-06-17,2025-05-05,50.19,Closed
-TKT-31838,amber02@example.org,Lori Clay,Technical Support,Phone,,4,High,2025-02-01,2025-10-30,14.97,Resolved
-TKT-84956,moorejacqueline@example.net,Wendy Ramos,Login Issue,Social Media,Bot,4,Low,,2025-09-04,59.68,In Progress
-TKT-31263,thanson@example.net,,Technical Support,Phone,Caleb,5,Medium,2025-05-21,2025-06-17,,In Progress
-TKT-55419,morgan58@example.org,,Feature Request,Pigeon Carrier,Jessica,4,High,2025-01-02,2025-03-17,34.74,
-TKT-60234,tracybarber@example.org,Lisa Carter,Refund,Phone,James,1,High,2025-09-09,2025-09-07,60.29,In Progress
-TKT-30820,thompsonjorge@example.net,Kirsten Griffith,Login Issue,Phone,Jason,3,Medium,,,17.64,Open
-TKT-79701,,Randy Nguyen,Feature Request,Pigeon Carrier,,5,,2025-11-11,2025-08-22,70.74,Open
-TKT-87496,aanderson@example.org,Randy Evans,Refund,Social Media,Bot,Happy,Low,2025-11-28,2025-04-25,31.09,Open
-TKT-21972,zachary07@example.org,Mark Davis,Refund,Social Media,,,Low,2025-07-20,2025-01-10,44.42,Escalated
-TKT-94288,hendersonmelanie@example.net,Brandon Velez,Billing,Social Media,Bot,4,High,2025-01-06,2025-07-25,,Closed
-TKT-99859,bleblanc@example.com,Jacob Brown,Login Issue,Pigeon Carrier,,4,Urgent,2025-10-04,2025-01-06,20.61,Resolved
-TKT-12811,victoria80@example.com,Jason Perez,Billing,Email,Howard,,H,2025-04-05,2025-07-10,45.82,Open
-TKT-45214,robert21@example.org,Douglas Bowman,Feature Request,,,5,L,2025-03-21,2025-02-22,-3.0,Escalated
-TKT-32326,carrolldiane@example.com,Evan Robinson,Feature Request,Social Media,Sarah,5,High,2025-01-13,2025-08-27,52.16,Closed
-TKT-36863,ballen@example.net,Debbie Mcgrath,Billing,Chat,,2,,2025-05-31,,53.11,In Progress
-TKT-11183,hendersonerin@example.org,Amy FlorÃ©s,Refund,Chat,Bot,5,Urgent,2025-01-09,2025-07-02,54.53,Resolved
-TKT-29561,,Christopher Rose,Billing,Chat,,2,Urgent,2025-04-12,,26.21,Open
-TKT-54116,floresjesse@example.com,Kenneth Hansen,Refund,Phone,,2,H,2025-02-16,2025-01-30,59.21,
-TKT-81120,,Shawn Fox,Login Issue,Phone,,5,Urgent,2025-03-19,2025-06-08,12.76,Resolved
-TKT-50484,kgray@example.net,Kenneth Gomez,Technical Support,Pigeon Carrier,,Angry,L,2025-10-31,2025-11-01,26.83,Closed
-TKT-78619,,Sandra Valencia,Technical Support,Chat,Erin,1,Medium,2025-11-02,2025-05-24,,Open
-TKT-59794,dcantu@example.net,Barbara Lucero ,Login Issue,Social Media,,2,High,2025-06-18,2025-03-29,17.63,Closed
-TKT-20806,rebecca57@example.org,Anne Miller,Refund,,Bot,Angry,L,2025-01-30,2025-03-07,39.44,Escalated
-TKT-64010,jacksonbianca@example.org,,Refund,Chat,Bot,2,L,2025-02-28,2025-11-07,59.18,Closed
-TKT-73917,pmerritt@example.net,Aaron Price,Billing,,Erika,1,High,2025-01-02,2025-12-01,57.09,Closed
-,evelyn82@example.net,Kristen Hall,Technical Support,Phone,,1,Urgent,,2025-02-16,22.15,Escalated
-TKT-42432,kelly26@example.net,Mr. Ryan Lewis MD,Feature Request,Pigeon Carrier,Katherine,2,L,2025-05-21,,46.42,
-TKT-74894,dbowman@example.com,Susan Hughes MD,Refund,Email,Kristine,5,Low,2025-08-06,,13.0,Open
-TKT-91284,michael87@example.com,ChristophÃ©r Irwin ,,Email,Victoria,1,L,,2025-09-01,59.01,Closed
-TKT-83041,andrew09@example.net,AshlÃ©y Mccarthy,Billing,Email,Bot,4,Medium,2025-06-20,2025-05-23,,Open
-TKT-73944,cameronkrista@example.com,Timothy Griffin,Technical Support,Phone,Lauren,4,Med,2025-11-25,2025-09-11,43.32,
-TKT-56240,brookegalvan@example.net,Michael Woodard,Refund,Social Media,Bot,4,Med,,2025-05-11,27.69,Closed
-TKT-27488,,Lisa Farley,Billing,Chat,Bot,2,L,2025-02-18,2025-02-16,21.68,Closed
-TKT-28820,kathrynjohnson@example.org,Kaylee Gay,Billing,Pigeon Carrier,,3,Urgent,2025-01-30,2025-11-22,46.25,Escalated
-,vperry@example.com,Stephanie Franco,Login Issue,Chat,,2,Low,2025-11-04,2025-06-26,27.65,Escalated
-TKT-88643,fowleramanda@example.net,Grace Martinez,Login Issue,Chat,Adam,3,L,2025-09-22,2025-09-20,18.71,Open
-TKT-75317,karen58@example.org,Patricia RivÃ©rs,Billing,Phone,Brian,,Urgent,2025-11-08,2025-09-08,60.82,Resolved
-,davidellis@example.com,Carolyn Hawkins,Refund,Pigeon Carrier,Bot,5,Urgent,2025-04-24,2025-07-22,9.99,Resolved
-TKT-97723,robbinsjoseph@example.com,Matthew Adams,Refund,Phone,Bot,5,,2025-08-15,2025-09-17,43.95,Open
-TKT-80675,cynthia88@example.org,Richard Reyes,,Social Media,,,Urgent,2025-02-15,2025-01-13,,Open
-TKT-74808,ewheeler@example.com,Amber West,Refund,Chat,Bot,5,L,2025-09-07,2025-06-17,66.14,In Progress
-TKT-50176,urobles@example.org,Joshua Robinson,Technical Support,Social Media,,5,Urgent,2025-07-21,2025-09-23,21.43,Escalated
-TKT-99865,diazcraig@example.com,Connie Ward,,Social Media,,4,High,2025-06-26,2025-11-05,64.67,Resolved
-TKT-80782,garciapamela@example.org,Angela Ferrell,Login Issue,Phone,,2,H,2025-03-24,2025-01-03,43.43,Closed
-TKT-87313,,Maxwell Salas,,Email,,4,,2025-11-24,2025-08-13,0.76,In Progress
-TKT-84967,ewest@example.org,Dr. Christy Lewis DVM,Login Issue,Phone,Bot,3,High,2025-05-31,2025-05-29,11.99,Resolved
-TKT-35680,antonio57@example.net,,Technical Support,Social Media,Michaela,1,Low,2025-05-21,2025-04-01,48.51,Open
-TKT-16052,kelly82@example.com,Henry Cole,Login Issue,Chat,Bot,3,Urgent,2025-04-20,,-34.0,In Progress
-TKT-28007,davismichael@example.com,James Williams,Technical Support,,,1,L,2025-03-29,2025-06-04,,Resolved
-TKT-88675,johnathan76@example.net,Laura Schroeder,Login Issue,Pigeon Carrier,Benjamin,1,Urgent,,2025-07-18,16.17,Resolved
-TKT-83179,qortiz@example.net,Suzanne Fields,Feature Request,Pigeon Carrier,,3,L,,2025-10-24,31.91,
-TKT-54829,mbenson@example.com,,Login Issue,Chat,,2,,2025-06-04,2025-04-03,31.72,
-TKT-88913,,,Refund,Chat,,10,H,2025-10-31,2025-03-03,,Escalated
-TKT-46127,jennawilkerson@example.org,Christopher Mcdonald,Refund,Social Media,Yolanda,1,Low,2025-08-10,2025-10-13,6.27,Resolved
-TKT-83376,hbrewer@example.com,,Technical Support,Email,Bot,Angry,,2025-10-05,2025-03-09,38.54,Escalated
-TKT-69532,xmurphy@example.net,Cheryl Roberson,Refund,Email,Bot,5,Urgent,2025-01-01,2025-09-22,56.87,Closed
-TKT-52028,richard88@example.net,Antonio Valenzuela,Technical Support,Pigeon Carrier,,2,,2025-01-07,2025-05-10,,Open
-TKT-57388,carolinemoore@example.net,Brian Jones,Billing,Email,Steven,5,Medium,2025-07-24,2025-10-27,46.11,In Progress
-TKT-28578,huntdaniel@example.com,Michael Lynch,,Chat,,4,Low,2025-05-31,2025-01-14,,Resolved
-TKT-95577,xfoster@example.org,Jimmy Miller,Technical Support,Chat,Jay,2,High,2025-08-03,2025-08-08,55.26,Open
-TKT-69805,,,,Chat,Curtis,,,2025-04-03,,49.36,In Progress
-TKT-89214,dmartinez@example.com,Steven Stanley,Feature Request,Pigeon Carrier,,4,Med,2025-03-06,2025-02-14,69.25,Escalated
-,kevinwallace@example.com,Jean Duffy,Feature Request,Pigeon Carrier,Dana,0,Urgent,2025-03-19,2025-04-26,66.67,Closed
-TKT-15320,bethany10@example.net,John Moreno,Technical Support,Social Media,Bot,2,High,2025-06-30,2025-11-11,28.68,Escalated
-,kristinharris@example.com,Samantha Bullock,Refund,Chat,Bot,1,L,2025-02-05,2025-02-15,12.65,Escalated
-TKT-22940,walkerandrew@example.net,Mary Miller,Login Issue,Social Media,Bot,3,Med,2025-05-14,2025-05-12,44.32,Escalated
-TKT-52359,stephanie87@example.net,Timothy Harrison,Feature Request,Email,Bot,10,Low,,2025-01-15,32.2,Open
-TKT-59106,igarcia@example.org,,Feature Request,Pigeon Carrier,Brian,5,L,2025-05-08,2025-08-12,17.73,Closed
-TKT-18951,corey59@example.org,Tracie King,Refund,Pigeon Carrier,Bot,2,High,2025-01-08,2025-04-13,54.06,Open
-TKT-58375,cherryalexander@example.com,Heather Rivera,Technical Support,Phone,,1,Med,2025-07-08,2025-10-30,68.11,In Progress
-TKT-16371,lopezkylie@example.com,Bianca Ortega,Billing,Chat,,3,Med,2025-04-23,2025-08-01,54.79,Closed
-TKT-31106,robertssusan@example.net,Veronica Jensen,Technical Support,Chat,,3,Low,2025-06-21,2025-02-10,41.97,In Progress
-TKT-66899,itucker@example.com,Debra Ross,Feature Request,Social Media,,2,L,2025-10-06,2025-06-22,43.92,Closed
-TKT-41533,parmstrong@example.org,John Shea,Technical Support,Phone,Paul,3,Urgent,2025-02-26,2025-06-29,15.62,
-TKT-95752,matthew92@example.org,Kara Dunlap,Technical Support,Social Media,Michael,1,High,2025-06-10,2025-04-09,-33.0,In Progress
-,lisacollins@example.com,Tanya Murphy,,Social Media,,,Med,2025-01-15,2025-12-01,50.62,Resolved
-TKT-14905,lsmith@example.net,Kaitlyn Graves,Billing,Email,,3,High,2025-04-04,2025-02-10,49.81,In Progress
-TKT-47742,kathyhall@example.org,Mitchell Mcdonald,Feature Request,,,2,Urgent,2025-06-05,2025-06-10,,Closed
-,jolson@example.org,,Technical Support,Phone,Gregory,3,Low,2025-06-29,2025-10-05,37.35,Resolved
-TKT-69614,rbenson@example.com,Terry Tucker,Refund,Phone,Christopher,3,High,2025-02-06,2025-09-07,45.29,Resolved
-TKT-99083,erica50@example.com,Nancy Brewer,,Social Media,Bot,10,,2025-04-12,2025-07-22,37.55,
-TKT-10648,dtaylor@example.org,Keith Sweeney,Refund,Email,Bot,5,High,2025-10-01,2025-05-16,1.68,In Progress
-TKT-26856,donalddaniel@example.org,Eugene Frederick Jr.,Technical Support,Email,Bot,1,L,2025-05-16,2025-04-03,69.16,Escalated
-TKT-28168,wgordon@example.com,Denise Mcintosh,Refund,Chat,Lisa,,High,2025-11-02,2025-01-24,13.76,Closed
-TKT-95632,dylan74@example.com,Darrell Aguirre,Feature Request,Chat,,2,L,2025-01-05,2025-07-09,31.51,Escalated
-TKT-67326,,Diane Jackson,Technical Support,Social Media,Tina,4,L,2025-08-17,2025-07-04,47.6,Closed
-TKT-50014,dduke@example.net,,Login Issue,Chat,Jacqueline,4,Low,,2025-03-30,61.88,In Progress
-TKT-51073,howellthomas@example.net,David Douglas,Billing,Phone,,3,High,2025-05-15,2025-10-19,35.14,Closed
-TKT-42976,williamslarry@example.org,Daniel Holmes,Feature Request,Chat,Benjamin,4,Medium,2025-09-16,2025-06-27,6.21,Closed
-TKT-73000,jonathan91@example.org,Leslie Hernandez,Feature Request,Email,,5,H,2025-06-28,2025-02-26,22.55,Closed
-TKT-28307,mmiller@example.org,Daaniel Daavis,Feature Request,Pigeon Carrier,,3,H,2025-03-07,2025-09-20,14.42,Closed
-TKT-78409,rjenkins@example.com,Bruce Hernandez,Refund,Email,Cheryl,1,Urgent,2025-01-09,,67.52,Resolved
-TKT-65649,qjohnson@example.com,Ashley Black,Refund,Pigeon Carrier,Kelsey,2,,,2025-10-25,62.45,
-TKT-87976,,,Technical Support,Email,,3,H,2025-03-02,2025-11-27,68.04,In Progress
-TKT-80577,natashakemp@example.com,Brian Jones,,Phone,,2,H,2025-09-05,2025-03-08,7.99,Closed
-TKT-44733,xhumphrey@example.org,,Technical Support,Social Media,Bot,2,Low,2025-02-04,2025-07-31,,Resolved
-,maxwelldebbie@example.com,Thomas Meyer,Feature Request,Email,,2,Urgent,2025-08-03,2025-03-16,17.23,
-TKT-18087,ivan68@example.com,Veronica Reed ,Technical Support,Pigeon Carrier,,2,L,2025-01-03,2025-07-30,58.2,Resolved
-,alexander19@example.org,Courtney Johnson,Refund,,,4,Low,,2025-08-07,57.72,Closed
-TKT-19591,ichang@example.com,,Refund,Email,,5,Medium,2025-10-01,2025-11-12,-7.0,In Progress
-TKT-33969,tracey73@example.net,Donald Oliver,Billing,Chat,Amanda,2,H,2025-10-25,2025-01-30,38.0,Closed
-TKT-71264,duanemclean@example.com,,Technical Support,,Bot,1,Urgent,2025-09-03,2025-05-12,29.47,Open
-TKT-66596,antonio57@example.net,Tonya Ward,Feature Request,Social Media,,1,Med,2025-09-28,2025-03-27,48.23,Closed
-TKT-53063,schneiderthomas@example.org,Abigail Andrews,Login Issue,Social Media,Bot,3,Low,2025-01-26,2025-02-10,,In Progress
-TKT-66508,vincentcopeland@example.net,Jake Robles,Login Issue,Social Media,Bot,5,Urgent,2025-04-02,2025-03-14,40.12,Closed
-TKT-75944,james87@example.org,,Technical Support,Email,,3,Med,2025-08-21,2025-06-23,71.67,Closed
-TKT-56020,fcosta@example.org,Melissa Perry,Refund,Phone,,,Med,2025-02-24,,,In Progress
-TKT-36177,charleschambers@example.org,Justin Smith,Refund,Chat,Bot,4,Med,2025-06-12,2025-10-17,31.29,Escalated
-TKT-83818,kelly05@example.net,Gina Miller,,Phone,,3,L,2025-02-21,,40.29,
-TKT-45367,vazquezpatricia@example.org,Sandra Reyes,Billing,Phone,Bot,5,H,2025-04-09,2025-09-09,60.57,Escalated
-TKT-85593,fclark@example.org,Mary Wilson,Feature Request,Phone,Bot,1,Med,2025-02-15,2025-01-31,20.39,Open
-TKT-20352,timothybell@example.net,Wayne Proctor,Technical Support,Social Media,,4,High,2025-11-20,2025-02-17,61.53,Open
-TKT-40909,brian28@example.com,Raymond Ponce,Refund,Email,,,Urgent,2025-11-13,2025-07-07,46.89,
-TKT-94306,rogerspatricia@example.com,Marc Arroyo,Billing,Pigeon Carrier,Bot,1,Medium,2025-08-23,2025-07-29,41.11,In Progress
-,xschmidt@example.net,Seth Owens,Billing,Chat,,0,,2025-10-30,2025-10-03,58.87,Resolved
-TKT-78559,oross@example.org,Ruben Stark,Technical Support,Email,Bot,2,L,2025-02-09,2025-04-24,,In Progress
-TKT-70903,richardfreeman@example.org,Sarah Nguyen,Refund,Phone,,4,L,2025-07-27,2025-05-19,0.57,Resolved
-TKT-73467,katrina92@example.net,Jill Griffin,Refund,Email,Bot,1,Medium,2025-02-14,2025-04-26,29.25,Resolved
-TKT-67169,,Kent Hill,Billing,Phone,,4,High,2025-01-20,2025-11-04,5.47,Open
-,dixonamanda@example.net,Jessica Mitchell,Feature Request,Chat,Bot,3,Urgent,2025-10-26,2025-11-29,,Closed
-TKT-45915,vcabrera@example.net,Mason Mitchell,Feature Request,Chat,William,,Low,2025-10-16,2025-03-25,25.87,Resolved
-TKT-47200,zryan@example.net,Joseph Scott MD,,Pigeon Carrier,Joseph,4,High,2025-10-16,2025-05-14,2.61,Escalated
-TKT-67694,robertmartinez@example.com,Melanie Edwards ,Login Issue,,,4,L,,2025-08-14,6.62,In Progress
-TKT-32691,adrian55@example.org,Anthony Terry,Feature Request,Email,Zachary,1,Urgent,2025-09-26,2025-03-21,33.68,Closed
-,jamie13@example.com,Robert Garcia,Feature Request,Phone,Thomas,5,Urgent,2025-08-01,2025-06-21,70.06,Open
-,joshua50@example.com,Billy Huang,,,Brandon,,Urgent,2025-11-11,2025-05-17,67.61,Resolved
-TKT-43890,millercynthia@example.net,Jasmine Mcdowell,,Email,Laurie,5,Med,2025-04-05,2025-04-03,11.58,Escalated
-TKT-30922,arthuredwards@example.org,Lisa Houston,Technical Support,Chat,Paul,,Urgent,2025-10-22,2025-11-17,64.11,Escalated
-TKT-50743,johnstonmichael@example.org,Jamie Banks,Feature Request,Email,,,High,2025-07-30,2025-05-06,4.77,Open
-TKT-65038,allen47@example.net,,Technical Support,Email,,4,Urgent,2025-07-11,2025-06-08,68.53,Closed
-TKT-57884,hfloyd@example.com,Victor Brandt,Feature Request,Social Media,Justin,,,2025-08-22,2025-10-19,54.75,Resolved
-TKT-47218,keithsimmons@example.net,John Sims,Refund,Chat,Bot,,High,2025-01-07,2025-06-24,3.9,In Progress
-TKT-70427,haley89@example.net,Tonya Hess,Login Issue,Phone,Scott,4,Low,2025-07-24,2025-02-12,40.56,Closed
-TKT-13120,qolson@example.org,David Jones,Feature Request,Chat,Bot,2,L,2025-01-29,2025-05-18,47.08,
-TKT-87582,gary05@example.net,,Login Issue,Chat,,1,Low,2025-06-01,2025-09-24,36.8,Resolved
-TKT-94587,benderkimberly@example.com,Rachel Wallace ,Feature Request,,,,Medium,2025-05-22,2025-06-18,58.41,In Progress
-TKT-57263,nancywebb@example.net,Kristy Blevins ,Technical Support,Email,,4,Low,2025-04-18,2025-11-04,67.2,In Progress
-TKT-75703,browningmark@example.com,Bruce Brown,Login Issue,Email,Ronald,4,L,2025-05-02,2025-02-17,37.73,Escalated
-TKT-66644,mary33@example.com,,Technical Support,Social Media,Bot,4,,2025-01-18,2025-05-07,58.44,Escalated
-TKT-41334,brownlisa@example.net,Colton Evaans,Billing,Email,Bot,2,,2025-01-14,2025-01-26,45.95,In Progress
-TKT-96549,danielwelch@example.net,Robert Mckenzie,Billing,Chat,Bot,Angry,Low,2025-09-23,2025-05-11,36.54,Resolved
-,larrythompson@example.com,Ashley Mcdaniel,Feature Request,Chat,Bot,,High,2025-10-22,2025-10-24,32.18,Escalated
-TKT-43847,arthur70@example.com,Trevor Pham,Technical Support,Pigeon Carrier,Bot,,,2025-02-17,2025-02-15,53.94,Open
-TKT-67326,,Diane Jackson,Technical Support,Social Media,Tina,4,L,2025-08-17,2025-07-04,47.6,Closed
-TKT-43890,millercynthia@example.net,Jasmine Mcdowell,,Email,Laurie,5,Med,2025-04-05,2025-04-03,11.58,Escalated
-TKT-48072,foxann@example.net,,Billing,Social Media,,3,Low,2025-03-10,2025-09-21,20.44,
-TKT-37163,hthomas@example.org,Annaa Taapiaa,Technical Support,Chat,Shaun,3,L,2025-02-10,2025-10-21,48.05,
-TKT-45698,paul53@example.org,Dwayne Cooley,Technical Support,Email,Bot,0,Med,,2025-09-16,,Escalated
-TKT-99086,stephaniemckee@example.org,Heather Sampson ,,Chat,,,Urgent,2025-07-14,2025-10-07,,Closed
-TKT-51914,,Jonaathaan Hernaandez,Refund,Email,,5,L,2025-03-27,2025-04-30,62.44,Closed
-TKT-56583,natalie66@example.org,,,Social Media,Bot,3,H,2025-08-23,2025-03-05,2.21,In Progress
-TKT-79081,,Christian Rosario,,Chat,Bot,2,Medium,2025-07-28,2025-10-12,51.57,Escalated
-,prestonsheila@example.org,Brittany Wood,Feature Request,,Michelle,3,High,,2025-07-04,13.29,Escalated
-TKT-38916,bparker@example.com,Teresa Davis,Billing,,Erica,3,,2025-08-06,2025-01-19,,Resolved
-,fthompson@example.net,James Clayton,Billing,Phone,Bot,2,H,2025-04-10,2025-09-11,25.83,Escalated
-TKT-69614,rbenson@example.com,TÃ©rry TuckÃ©r,Refund,Phone,Christopher,3,High,2025-02-06,2025-09-07,45.29,Resolved
-TKT-24264,christine15@example.com,Alvin Aguilar,Login Issue,Chat,,1,High,2025-06-29,2025-08-04,57.99,Escalated
-TKT-24528,cynthia44@example.com,Leonard Armstrong,Login Issue,Social Media,Bot,3,Medium,,2025-01-16,18.77,Closed
-TKT-61208,gonzalestracy@example.org,Mary Jones,Billing,Email,Tasha,4,Low,2025-05-14,2025-05-12,46.3,Resolved
-TKT-18325,ckelly@example.net,Jacob Rice ,Feature Request,,Michelle,,L,2025-07-03,2025-08-04,1.04,
-TKT-87214,turnergrace@example.com,Luis Mcknight,Login Issue,Social Media,Bot,2,Medium,,2025-10-17,26.28,Escalated
-TKT-96079,orozcodebra@example.org,Jason Flynn,Technical Support,Pigeon Carrier,,4,High,2025-08-07,2025-06-14,15.62,Escalated
-TKT-86566,ythompson@example.org,Sara Robinson,Feature Request,Pigeon Carrier,Bot,3,Urgent,,2025-01-08,51.5,Resolved
-,nicole77@example.com,Matthew Jones,Feature Request,Chat,,3,High,2025-04-24,2025-06-18,64.96,Open
-TKT-86579,daviswilliam@example.org,Carolyn Rice,Refund,Social Media,,,L,2025-05-12,,7.9,Closed
-TKT-86435,traceyhill@example.net,Justin Henderson ,Refund,Pigeon Carrier,,4,Low,2025-07-09,2025-09-16,23.15,Closed
-TKT-51162,anne73@example.net,Amaandaa Haartmaan,Refund,Social Media,Bot,2,H,2025-02-11,2025-02-09,15.45,Resolved
-TKT-97070,david11@example.com,Sara Barnett,Refund,Chat,Jeffrey,1,High,2025-05-05,2025-03-26,71.32,In Progress
-TKT-26896,nathanpena@example.net,Kaitlyn Nelson,Login Issue,Chat,Jonathon,5,L,2025-02-05,2025-06-08,12.71,In Progress
-TKT-41242,herbert74@example.com,Kevin Moore,Refund,Social Media,,3,L,2025-11-08,2025-09-14,42.18,Resolved
-TKT-69975,nataliehernandez@example.org,Tommy Walls,Technical Support,Pigeon Carrier,,3,Low,2025-05-21,2025-10-30,70.01,In Progress
-TKT-26111,johnsonamber@example.com,Ronald Hernandez,Refund,Email,Bot,4,Low,2025-02-14,2025-02-23,32.24,Open
-TKT-80343,,Sandra Riley,Refund,Pigeon Carrier,Jacob,4,Low,2025-10-31,,47.23,Open
-TKT-80268,,,Refund,Social Media,Bot,10,,2025-09-15,2025-08-25,58.18,Escalated
-TKT-42858,michaelcruz@example.org,Manuel Walker,Technical Support,Social Media,Bot,3,Med,2025-04-19,2025-03-05,46.25,Open
-TKT-14672,lambertbailey@example.com,Mary Phillips,Feature Request,Phone,Anthony,5,Low,2025-01-13,2025-04-13,70.95,Escalated
-TKT-65168,christine89@example.net,Hunter Ibarra,,Phone,Bot,1,Low,2025-02-17,,0.91,Open
-TKT-71344,tmartinez@example.net,Cynthia Dawson,Technical Support,Pigeon Carrier,Bot,3,Medium,,2025-08-07,28.75,In Progress
-TKT-20093,stephanie11@example.com,John Bishop ,Feature Request,Phone,,3,H,2025-11-13,2025-07-25,28.2,In Progress
-TKT-14113,,,,Chat,Melissa,Happy,L,2025-10-04,,39.36,In Progress
-,joshua65@example.net,Mr. Rick Abbott,Billing,Email,Bot,3,H,,2025-09-03,51.27,Closed
-TKT-21664,,Stephanie Ferguson,Refund,Email,Cindy,4,H,2025-04-02,2025-07-12,11.43,Escalated
-TKT-20399,plin@example.net,William Andrews,Refund,Email,,Happy,Urgent,,2025-02-13,53.13,Resolved
-TKT-95637,,,Login Issue,Chat,Bot,5,,,2025-04-29,-42.0,Closed
-TKT-86823,fcortez@example.org,Justin Johnson,Billing,Chat,Michael,,Low,2025-03-02,,56.23,Open
-TKT-63481,sallyarnold@example.org,Danielle Gray,,Phone,Bot,1,H,,2025-05-14,,Resolved
-TKT-17618,elizabethbradford@example.com,Michael King ,Refund,Social Media,Bot,2,H,2025-02-07,2025-11-11,21.62,In Progress
-TKT-22608,ugoodman@example.net,Brent Callahan,Feature Request,Phone,,3,Urgent,2025-09-24,2025-08-01,,Closed
-TKT-55036,josephallen@example.org,Julie Garcia,Feature Request,Social Media,Bot,2,Low,,2025-05-01,45.85,
-TKT-62516,,Robert Reynolds,Refund,Email,,3,Medium,2025-08-08,2025-03-02,4.16,Resolved
-TKT-84056,,Samantha Santiago ,Billing,Phone,Bot,5,Urgent,2025-04-21,2025-07-03,8.05,Open
-TKT-83680,lisamorton@example.com,Ronald Buck,Login Issue,Chat,Bot,1,Med,2025-11-22,2025-09-02,39.59,Open
-TKT-57423,,Dana BakÃ©r,Feature Request,Email,,5,,2025-01-14,2025-03-21,11.78,Resolved
-,pmorales@example.net,Joshua Graves,Technical Support,Social Media,,4,Medium,2025-01-10,2025-08-04,49.49,Open
-TKT-98617,lclark@example.com,Elizabeth Powers,Login Issue,Social Media,Andrew,5,Low,2025-09-08,2025-08-15,12.57,Resolved
-TKT-38451,maxwellanthony@example.net,Bryan Shaw,Technical Support,Phone,,,H,2025-03-04,2025-11-30,,In Progress
-TKT-17032,saunderssierra@example.org,Anthony Foley,Billing,Pigeon Carrier,Bot,2,High,,2025-06-29,49.9,Open
-TKT-37834,kennethfaulkner@example.com,Maurice Davidson,Technical Support,Pigeon Carrier,,2,Med,2025-11-18,2025-07-27,27.56,Open
-TKT-78079,carpentermegan@example.com,,Feature Request,Phone,,,L,2025-09-11,2025-05-12,67.94,Resolved
-TKT-74817,hweber@example.org,Margaret Cantu ,Technical Support,Phone,Bot,2,Medium,2025-09-19,,49.96,In Progress
+TKT-72744,ronald66@example.org,David Romero,Feature Request,Chat,Ryan,5,Low,2025-05-26,2025-07-17,56.91,Resolved
+TKT-14634,gregory26@example.net,Michael Farmer,Technical Support,Chat,,Angry,Urgent,2025-01-12,2025-01-10,61.45,In Progress
+TKT-54974,vsims@example.net,Travis Schmidt,,Email,Tina,3,Med,2025-01-23,2025-11-19,56.51,Open
+TKT-25149,nicholas72@example.net,Jeffrey Joyce,,Social Media,,4,,2025-02-06,2025-10-27,42.84,In Progress
+TKT-36769,emilyscott@example.org,William Marsh,Login Issue,Email,Bot,Happy,High,2025-03-04,2025-03-02,37.91,Open
+TKT-67482,,Brian Fuller,Refund,Phone,,5,Urgent,2025-03-08,2025-03-15,34.43,In Progress
+TKT-73199,ashley90@example.org,Kimberly Wilson,Technical Support,Chat,Alexander,3,Low,2025-03-19,2025-02-10,52.74,Resolved
+TKT-82416,kenneth75@example.com,Jodi Lewis,,Phone,Jason,,Low,,2025-07-10,11.4,Open
+TKT-17425,,Jeremy Chambers,Feature Request,Phone,Bot,2,H,2025-11-30,2025-04-28,27.48,Resolved
+TKT-66559,,Christina Robinson,Billing,Social Media,Ashley,1,L,2025-11-26,2025-05-05,16.66,
+TKT-14666,marnold@example.org,Ashley Alvarez DVM,Technical Support,Email,Bot,3,Medium,,2025-06-03,24.17,Open
+TKT-16000,carmenevans@example.org,Tiffany Sanchez,Billing,,John,2,Urgent,2025-01-11,2025-10-15,48.04,Resolved
+TKT-19556,yfritz@example.net,,Technical Support,Email,Regina,Happy,,2025-03-11,2025-10-21,67.44,Open
+TKT-54308,joshuaford@example.net,Jeremy Manning,Refund,,,0,High,2025-10-28,2025-04-03,66.42,Open
+TKT-99600,colton17@example.net,Kenneth Webb,,Chat,,2,Medium,2025-03-13,2025-07-10,47.64,Escalated
+,luisandrews@example.com,Cathy Mcdonald,Feature Request,,Bot,3,High,2025-02-21,2025-05-02,-3.0,Escalated
+TKT-47040,emartin@example.com,Patrick Gibson,Login Issue,Email,Cassandra,1,Low,2025-09-05,2025-07-28,37.82,Resolved
+TKT-95879,ashleymoore@example.org,Rebecca Blake,Refund,Pigeon Carrier,,5,Low,2025-03-26,2025-06-18,68.1,Closed
+TKT-64557,wayne86@example.org,Christopher Mayer,Billing,Pigeon Carrier,Heather,Angry,Urgent,2025-10-10,2025-02-05,59.8,Resolved
+TKT-90117,worozco@example.com,,Technical Support,Email,Bot,10,,2025-10-25,2025-09-13,12.38,Open
+TKT-59727,bowenmichael@example.net,Christopher Thomas,Refund,Phone,Bot,5,Medium,2025-07-14,2025-05-27,18.71,Resolved
+TKT-42949,yschmidt@example.net,Jeffrey Johnson,Login Issue,Pigeon Carrier,John,2,H,2025-07-29,2025-08-18,-34.0,Open
+,clarktraci@example.com,Adam Lara,Billing,,,Happy,,2025-03-17,2025-07-06,44.4,Open
+TKT-53374,dhenderson@example.com,Dawn Adkins,Refund,,,4,Med,2025-03-25,2025-02-11,-45.0,Open
+TKT-35381,judithcox@example.org,Rebecca Cox,Feature Request,Pigeon Carrier,Jasmine,1,High,2025-08-05,,12.52,In Progress
+TKT-24532,copelandryan@example.org,Alexander Guzman,Login Issue,Email,,10,H,2025-08-25,2025-09-17,35.33,Closed
+TKT-25456,greenstephanie@example.org,Joseph Carter,Feature Request,Pigeon Carrier,Bot,3,Urgent,2025-07-10,2025-07-28,-29.0,Open
+TKT-55908,yfritz@example.org,Karen Goodman,Login Issue,Pigeon Carrier,,4,Medium,2025-02-23,2025-04-20,40.48,Closed
+TKT-76532,mgiles@example.com,,Feature Request,Pigeon Carrier,Bot,,Med,2025-05-29,,,Escalated
+TKT-91087,reyestina@example.org,Patricia Andrews,Billing,Pigeon Carrier,Bot,10,Med,2025-05-03,2025-11-01,30.83,Escalated
+TKT-60741,jennifer42@example.net,,,Chat,Bot,2,Med,2025-05-17,,19.3,Escalated
+TKT-87151,pauljessica@example.org,Valerie English,Refund,Social Media,,4,Low,2025-07-25,2025-10-18,63.03,Closed
+TKT-66324,dana03@example.net,Amy Diaz,Billing,Social Media,Robert,5,L,2025-02-01,2025-05-31,42.49,Closed
+TKT-41640,fwright@example.net,Gina Rose,Feature Request,Email,Amy,2,High,2025-06-08,2025-05-12,-39.0,Closed
+TKT-22057,krausejoseph@example.com,Tiffaany Phillips,Feature Request,Social Media,,3,Med,2025-01-01,2025-08-17,12.28,In Progress
+TKT-58094,audrey81@example.com,Paula Caldwell,Refund,Pigeon Carrier,,1,Medium,2025-08-30,2025-03-21,27.85,Resolved
+TKT-26415,dwaynecarter@example.com,Mary Peterson,Feature Request,Chat,Bot,,,2025-09-03,,57.48,Escalated
+,samanthaberger@example.net,,,Chat,,10,High,2025-07-29,2025-08-01,31.79,Resolved
+TKT-28256,fdickerson@example.org,Nicole Stewart,Refund,Pigeon Carrier,,Happy,Med,2025-10-11,2025-01-17,10.62,In Progress
+TKT-85413,howardbenjamin@example.net,Marie Jones,Technical Support,Social Media,Kelli,2,,2025-07-17,2025-08-27,-10.0,Resolved
+TKT-89445,thomas45@example.org,Jennifer Little,Login Issue,Social Media,Bot,2,L,2025-03-02,2025-11-26,40.57,Resolved
+TKT-66324,dana03@example.net ,Amy Diaz,Billing,Social Media,Robert,5,L,2025-02-01,2025-05-31,42.49,Closed
+TKT-11317,alexandrabrown@example.org,Chad Hurley,Feature Request,,,4,High,2025-01-05,2025-08-10,23.62,In Progress
+,sara46@example.com,Spencer Camacho,Technical Support,Phone,,,L,2025-12-02,2025-06-23,12.71,Open
+TKT-50925,uwilliams@example.com,,Feature Request,,Bot,10,Urgent,2025-09-22,2025-11-20,,Resolved
+TKT-80047,,Jerry Gilmore,,Pigeon Carrier,,4,L,2025-11-07,2025-03-02,-8.0,Open
+TKT-13929,rbrowning@example.com,Henry Taylor,Feature Request,Phone,Jennifer,0,High,,2025-05-23,31.64,Escalated
+TKT-17255,baldwincatherine@example.net,Mary Meyer,Refund,Pigeon Carrier,Bot,3,Med,2025-05-18,2025-04-24,62.57,In Progress
+TKT-65234,colton30@example.net,Jamie Griffin,Login Issue,Phone,,0,Low,2025-01-28,2025-11-14,48.88,Resolved
+TKT-44194,jeffrey94@example.net,Daniel James,Feature Request,Social Media,Jacob,0,L,2025-08-27,2025-07-10,37.86,Open
+TKT-20066,andrew66@example.com,,Technical Support,Pigeon Carrier,,4,Urgent,2025-10-02,2025-01-18,25.39,In Progress
+TKT-48327,markblack@example.com,Linda Cox,Feature Request,Chat,Bot,1,Med,2025-02-07,,,Open
+TKT-80849,psmith@example.net,Gary Byrd,Refund,Email,,1,Low,2025-06-03,2025-04-24,-33.0,In Progress
+,,,Billing,Phone,,3,Low,2025-05-26,2025-01-19,40.55,Escalated
+TKT-17255,baldwincatherine@example.net,Mary Meyer,Refund,Pigeon Carrier,Bot,3,Med,2025-05-18,2025-04-24,62.57,In Progress
+TKT-64141,herrerakimberly@example.com,Thomas Austin,Technical Support,Chat,Dennis,5,,2025-05-07,2025-03-09,,Resolved
+TKT-95620,joshuapowers@example.net,Devin Mayer,Billing,Email,,0,Urgent,2025-05-20,2025-05-18,21.72,Closed
+TKT-88959,tgarcia@example.net,Kevin Walter,Feature Request,Chat,,,,2025-07-27,2025-09-23,68.81,Resolved
+TKT-88400,dsimpson@example.com ,Natalie Patrick,Feature Request,Pigeon Carrier,Bot,Angry,Low,2025-02-16,2025-09-15,1.2,
+TKT-81256,ldavid@example.com,Kyle Garza,Technical Support,Chat,,2,Med,2025-03-10,,33.82,Closed
+TKT-82273,markpayne@example.net,Keith Johnson,Login Issue,Pigeon Carrier,Bot,,L,2025-01-16,2025-07-12,13.3,In Progress
+TKT-15471,,Kelly Moore,Feature Request,Social Media,,2,L,2025-09-24,2025-07-26,50.12,Closed
+TKT-82029,kwoods@example.com,Jim Rodriguez,Refund,Email,Bot,3,Medium,2025-06-25,2025-07-13,,Open
+TKT-62326,,Erin Ellis,Technical Support,Phone,,10,Urgent,2025-08-16,2025-06-01,3.29,Open
+TKT-41217,johnrobles@example.org ,Brittany Dunlap,Billing,Pigeon Carrier,Mitchell,3,Med,2025-02-07,2025-02-04,,Closed
+TKT-40413,jeremylove@example.org,,Billing,Chat,Rachel,1,Medium,2025-03-07,2025-04-30,10.97,Open
+TKT-26608,michelle35@example.com,Alexandra Wilson,,Phone,,5,H,2025-01-27,,28.07,Closed
+,abrown@example.com ,Russell Bird,Feature Request,Email,Stephanie,2,Urgent,2025-08-11,2025-08-09,49.5,Resolved
+TKT-74871,mwright@example.net,Phillip Ward,,Social Media,,3,,2025-02-27,2025-03-28,52.59,Escalated
+TKT-53848,amber78@example.org,Misty Martinez,Billing,Social Media,Joseph,0,Urgent,2025-07-25,,27.07,
+TKT-67216,nelsonsuzanne@example.net,Brett Martin,Feature Request,Phone,,4,,,2025-01-17,71.22,In Progress
+TKT-56911,james97@example.com,Kenneth Walters DDS,Login Issue,Pigeon Carrier,Bot,1,Medium,2025-09-20,2025-03-07,-21.0,Resolved
+TKT-27002,rchan@example.org,Mary Copeland,Billing,Chat,Bot,5,Low,2025-09-23,2025-07-23,60.55,
+,marshallbill@example.com,Valerie Norman,,Chat,,1,High,2025-04-29,,-34.0,Escalated
+TKT-80283,gonzalezdarren@example.org,Amy Jenkins,Login Issue,,,2,Medium,,,37.09,Closed
+TKT-38873,joshua57@example.com,Patrick Reed,Billing,Chat,Jennifer,2,Urgent,2025-11-15,2025-05-05,40.53,In Progress
+TKT-39523,kellykline@example.org,Steven Anderson,Refund,Pigeon Carrier,Bot,,H,2025-09-28,2025-09-07,11.69,In Progress
+TKT-42013,katiefloyd@example.org,Brian Bright,Refund,Social Media,Steven,1,Urgent,2025-05-15,2025-10-14,60.1,Resolved
+TKT-75089,pwood@example.org,Kimberly Taylor,Billing,Chat,Bot,4,Medium,2025-06-08,2025-10-21,4.87,In Progress
+TKT-75367,raymondholmes@example.org,Raymond Jones,Technical Support,Phone,Bot,4,,2025-06-17,2025-11-05,-6.0,In Progress
+TKT-33670,floresterri@example.com,Matthew Evans,Technical Support,Email,,1,Med,2025-03-15,2025-05-17,22.79,In Progress
+TKT-18169,njohnson@example.net,Sara Hamilton,Login Issue,Phone,Bot,Happy,Low,2025-08-22,2025-08-20,37.64,Closed
+TKT-28057,brendamason@example.net,Elizabeth Marks,Feature Request,Chat,Bot,3,Urgent,2025-10-19,2025-11-02,55.7,Open
+TKT-42794,daniel32@example.com,Joseph Schaaefer,Technical Support,Email,Bot,3,Medium,2025-10-27,2025-10-25,26.65,Escalated
+,monica23@example.com,Tom Perez,Billing,Pigeon Carrier,Christopher,2,Low,2025-05-14,2025-02-22,45.46,
+TKT-17784,matthew57@example.org,Barbara Burns,Feature Request,Phone,,0,L,2025-06-10,2025-06-07,46.99,In Progress
+TKT-59444,thomas74@example.org,Katherine Dunn,Feature Request,Phone,Bot,,High,2025-09-09,2025-07-08,7.82,Open
+TKT-26969,montgomerydillon@example.net,Amanda Wiggins,Refund,Email,,,Med,2025-08-11,2025-08-12,22.8,Open
+TKT-35712,lisa05@example.com,Javier Stanley,Login Issue,Pigeon Carrier,Bot,2,,,2025-06-15,22.36,Closed
+TKT-16747,riosrichard@example.org,Susan Griffin,Feature Request,Pigeon Carrier,,1,Low,2025-10-24,2025-11-10,-15.0,Closed
+TKT-30691,,Rebecca Mathis,Billing,Phone,,2,H,2025-05-09,2025-07-13,-48.0,Open
+TKT-89954,fosterjason@example.org,Justin Anderson,Login Issue,Pigeon Carrier,,Angry,Low,2025-03-12,2025-08-18,51.99,Resolved
+TKT-36982,harringtonpeter@example.net,Tiffany Johnston,Refund,Email,,,Medium,2025-07-17,2025-03-14,,In Progress
+TKT-80016,hpatterson@example.org,Taylor Johnson,Refund,Pigeon Carrier,,4,Med,2025-06-17,2025-06-06,45.15,In Progress
+TKT-20011,laurenwilliamson@example.com,Kristina Monroe,Technical Support,Social Media,,2,Med,2025-11-25,2025-03-25,2.31,Closed
+TKT-90694,joshuastrickland@example.org,Ryan Walker,,Email,,4,Med,2025-01-08,2025-09-23,62.8,Resolved
+TKT-68135,ruiznicole@example.org,Sarah Berry,Billing,Email,Bot,5,H,2025-06-22,2025-01-29,71.85,Closed
+TKT-77863,martinezduane@example.com,Samantha Reynolds,Refund,Pigeon Carrier,,3,Medium,2025-02-26,2025-06-26,-20.0,Closed
+TKT-55831,kyletorres@example.net,Steven Rodriguez,Billing,Pigeon Carrier,Deanna,3,H,2025-03-12,2025-11-17,60.72,Resolved
+TKT-25465,petersonkyle@example.org ,Todd Lutz,Login Issue,Phone,Courtney,4,High,2025-04-11,2025-10-27,58.22,In Progress
+TKT-16834,aimeejohnson@example.com,Randy Bradshaw,Technical Support,Phone,,5,H,2025-03-30,2025-05-05,20.52,Closed
+TKT-42757,mwaters@example.net,Ruben Jones,,Chat,David,5,,2025-08-09,2025-07-27,36.28,Resolved
+TKT-12371,wgoodwin@example.com,Mark Montoya,Login Issue,Pigeon Carrier,Bot,1,L,2025-04-12,2025-01-10,6.04,Resolved
+TKT-47757,johnny54@example.org,Thomas Bishop,Technical Support,Email,,2,L,2025-04-01,2025-03-17,-43.0,Escalated
+TKT-39769,brendaperkins@example.com,David Peters,Feature Request,,,2,L,2025-01-02,2025-07-30,64.56,In Progress
+TKT-51173,jamesrodriguez@example.org,Dillon Travis,Refund,,Bot,1,,2025-07-13,2025-11-16,,In Progress
+TKT-13454,gonzalesmaria@example.org,Sophia Wolf,Login Issue,Social Media,,4,High,2025-03-10,2025-09-01,42.29,Escalated
+TKT-14230,adam30@example.com,Jessicaa Flowers,Feature Request,Pigeon Carrier,,0,High,2025-02-16,2025-02-24,21.54,
+TKT-44478,,Daniel Turner,Login Issue,Chat,Maria,0,Medium,2025-10-21,2025-05-12,29.06,In Progress
+TKT-81707,,David Rodriguez,Login Issue,Chat,,Happy,High,,2025-01-23,15.12,Closed
+TKT-55330,nbell@example.com,Robert Cline,Login Issue,Phone,Bot,Angry,Med,2025-09-10,2025-11-26,10.18,
+TKT-19801,guy56@example.org,Nicole Wang MD,Technical Support,Email,Laura,5,Urgent,2025-08-10,2025-08-23,-17.0,Resolved
+TKT-99383,,Robert Martin,Feature Request,Phone,John,4,Med,2025-02-05,2025-02-01,39.18,Resolved
+TKT-74691,potterjustin@example.net,Mason Price,Billing,Pigeon Carrier,Bot,Happy,H,2025-10-22,2025-10-02,,Resolved
+TKT-17592,wallerbrian@example.net,Lisa Bridges,,Social Media,,2,H,2025-05-25,2025-03-15,7.03,
+TKT-39362,,John Williams,,Email,,5,Med,2025-06-25,2025-09-23,-1.0,Resolved
+TKT-61173,hernandezmatthew@example.net,,Refund,Email,Bot,5,Medium,2025-09-28,2025-09-26,-37.0,Resolved
+TKT-56109,larsenmegan@example.net,Brittaany Heaath,Feature Request,Pigeon Carrier,,3,Low,2025-01-24,2025-01-22,34.35,Open
+TKT-73199,ashley90@example.org,Kimberly Wilson,Technical Support,Chat,Alexander,3,Low,2025-03-19,2025-02-10,52.74,Resolved
+TKT-15730,cody75@example.net,William Lozano,Billing,,Bot,4,H,2025-08-30,2025-01-21,38.44,In Progress
+TKT-56787,dbrown@example.net,Stephanie Fisher,Technical Support,Email,,4,Medium,2025-11-13,2025-10-04,15.79,Escalated
+TKT-72753,amccann@example.org,Richard Rivera,Billing,Pigeon Carrier,,Angry,Medium,2025-06-06,2025-08-07,70.35,Escalated
+TKT-11952,,Maria Myers,Login Issue,Pigeon Carrier,Bot,1,L,2025-11-07,2025-01-19,23.89,In Progress
+TKT-20563,aaron57@example.net,Jonathan Torres,Refund,Chat,Bot,Angry,Medium,2025-02-04,2025-05-05,11.25,Escalated
+TKT-42794,daniel32@example.com,Joseph Schaefer,Technical Support,Email,Bot,3,Medium,2025-10-27,2025-10-25,26.65,Escalated
+TKT-96060,jasonmoran@example.com,Jon Garza,Login Issue,Phone,,,High,2025-06-21,2025-09-29,31.63,Closed
+,ogreen@example.org,,Billing,Phone,Loretta,1,Urgent,2025-09-15,2025-05-16,-18.0,
+TKT-83905,nicholasrush@example.org,Erica Taylor,Technical Support,Email,,Happy,L,2025-11-21,2025-11-22,66.79,Closed
+TKT-40221,wdrake@example.net,Michelle Edwards,Refund,,Bot,5,Urgent,2025-10-01,2025-02-16,-18.0,
+TKT-67403,ythompson@example.org,Sean Wagner,Refund,Social Media,Beverly,4,L,2025-07-23,2025-04-22,,Open
+TKT-74691,potterjustin@example.net,Mason Price,Billing,Pigeon Carrier,Bot,Happy,H,2025-10-22,2025-10-02,,Resolved
+TKT-59444,thomas74@example.org,Katherine Dunn,Feature Request,Phone,Bot,,High,2025-09-09,2025-07-08,7.82,Open
+TKT-62142,matthew55@example.com ,Diana Ramsey,Technical Support,Email,Bot,,Urgent,2025-08-21,,35.54,Escalated
+TKT-49677,,,Technical Support,Chat,Stacey,2,High,2025-01-12,,67.67,Resolved
+TKT-88400,dsimpson@example.com,Natalie Patrick,Feature Request,Pigeon Carrier,Bot,Angry,Low,2025-02-16,2025-09-15,1.2,
+TKT-23639,xcohen@example.org,Steven Davis,Refund,Email,,1,High,2025-05-31,2025-07-22,38.95,Open
+TKT-39852,ecamacho@example.com,Ashley Perez,Login Issue,Pigeon Carrier,,3,Med,2025-02-07,,20.13,Resolved
+TKT-84455,igonzalez@example.net,Rodney Duraan,Login Issue,Chat,Bot,5,H,2025-04-29,2025-05-02,31.94,Closed
+TKT-17784,matthew57@example.org,Barbara Burns,Feature Request,Phone,,0,L,2025-06-10,2025-06-07,46.99,In Progress
+TKT-81557,,Raymond Harris,Login Issue,Social Media,,10,,2025-01-03,,57.93,
+TKT-19275,luis51@example.net,Jacqueline Perry,Refund,Pigeon Carrier,Raymond,Angry,H,2025-07-12,2025-07-21,37.99,Open
+TKT-36281,omatthews@example.net,Anna Thompson,Billing,Phone,Patrick,0,L,2025-01-25,2025-03-15,44.48,Escalated
+TKT-47997,,Susan Hunt,Feature Request,Phone,Bot,3,High,2025-05-01,2025-03-12,-37.0,Resolved
+TKT-86385,ashleycooley@example.net,Penny Fernandez,Billing,Social Media,Bot,10,,2025-01-21,2025-08-04,54.05,
+TKT-90272,lmoore@example.com,Shawn Rodriguez,Billing,Phone,Bot,Angry,Urgent,2025-05-09,2025-09-12,30.27,In Progress
+TKT-49769,smithantonio@example.net,Brandon Powell,Refund,Email,,4,Med,2025-03-13,2025-06-23,66.84,Closed
+,claudiacunningham@example.com,Elizabeth Key,Login Issue,Chat,Bot,Happy,Low,2025-10-28,,18.46,Open
+TKT-58196,michaelstevens@example.net,Nicholas Gomez,Refund,,Bot,4,H,2025-08-24,2025-09-29,48.3,Escalated
+TKT-45456,greenejessica@example.org,Amber Bennett,Feature Request,Chat,,1,,2025-09-30,2025-09-30,,Closed
+TKT-12810,logansusan@example.net,Maatthew Murphy,Feature Request,Email,Billy,1,Medium,2025-05-01,2025-03-18,59.18,Escalated
+TKT-82276,francesgarcia@example.net,Susan Baker,,Social Media,Natalie,Angry,Urgent,2025-02-06,2025-07-24,5.29,Resolved
+TKT-89709,melaniechang@example.net,Janice Williams,Refund,Social Media,,4,Low,2025-04-08,2025-06-18,29.33,Open
+TKT-17455,qgay@example.com,Desiree Stafford,Login Issue,Pigeon Carrier,Bot,5,High,2025-08-07,2025-01-11,8.89,In Progress
+,theresawang@example.org,Brian Shaffer,Feature Request,Social Media,Bot,2,H,,2025-09-22,40.39,Escalated
+TKT-65945,eddie04@example.com ,Traci Martinez,Technical Support,,Andrea,3,Med,2025-05-12,2025-05-10,55.27,Open
+TKT-71732,heatherwilliams@example.net,Erin Stewart,Billing,Phone,,10,L,2025-10-04,2025-01-26,39.62,Closed
+TKT-95240,rstevens@example.net,Holly Austin,Login Issue,Pigeon Carrier,Bot,2,High,2025-07-04,2025-03-20,25.56,Resolved
+TKT-96944,kelly57@example.net,Scott Gomez,Login Issue,Email,Bot,Happy,Urgent,2025-04-07,2025-11-11,,Open

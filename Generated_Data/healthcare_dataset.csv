@@ -1,526 +1,159 @@
 Patient_ID,Patient_Name,SSN_Last4,Blood_Type,Diagnosis,Bill_Amount,Insurance,Blood_Pressure,Age,Gender,Admit_Date,Discharge_Date
-P-94351,Jennifer Ramirez,1522,AB+,Viral Infection,1694.22,Aetna,116/66,8,Female,2025-11-16,2025-01-28
-P-14940,Jordan Nixon,8857,O-,Fracture,26292.54,Medicare,116/79,54,m,2025-03-26,2025-08-24
-P-68653,Tara Thomas,8226,B-,COVID-19,6662.1,Aetna,132/99,79,m,2025-01-16,2025-02-28
-P-89320,Brandi Cunningham,1616,,Diabetes Type 2,249.91,Aetna,114/88,104,Other,2025-03-24,2025-09-16
-P-48537,Taylor Morales,3832,AB-,Diabetes Type 2,36295.11,Aetna,124/86,,M,2025-07-04,2025-08-01
-P-80657,Alan Hoffman,6449,O+,COVID-19,4039.1,Uninsured,97/65,22,f,2025-08-11,2025-08-06
-P-63955,Ashley Santos,1956 ,B-,Fracture,$500.00,BlueCross,158/96,93,Male,2025-01-11,2025-06-07
-P-16446,Sandra Reyes,3747,O+,Fracture,25782.05,BlueCross,129/99,13,M,2025-06-13,2025-06-27
-P-32405,Joshua Martinez,4329,A+,Migraine,4249.58,Uninsured,103/73,18,M,2025-11-20,2025-02-21
-P-47324,Jason Garcia,3069,B-,Fracture,30577.62,BlueCross,143/68,0,NB,2025-09-04,2025-04-22
-P-70383,Matthew Reynolds,6523,,COVID-19,29720.48,,145/68,37,NB,2025-02-23,2025-06-12
-P-87415,Robert Benson,4510 ,O+,Hypertension,46544.44,BlueCross,113/76,49,Male,2025-11-19,2025-06-28
-P-39052,,1881 ,O-,Migraine,10650.66,Uninsured,147/85,23,Other,2025-08-17,2025-03-21
-P-26972,Valerie Roberts,8644,AB+,Hypertension,9263.88,Medicare,142/73,17,m,2025-02-20,2025-07-27
-P-19535,Craig Marsh,8211,AB+,Diabetes Type 2,30920.0,Aetna,110/68,82,,2025-05-27,2025-09-30
-P-78732,Spencer Butler,3960,O-,,42814.97,Aetna,155/61,78,,2025-01-01,2025-02-04
-P-46896,,6706 ,O+,Fracture,$500.00,Aetna,99/99,107,Other,2025-08-07,2025-11-21
-P-17626,Scott Smith,3242,B-,Fracture,$500.00,Aetna,109/79,80,Male,2025-07-09,
-P-23413,Aaron Reed,3960,O+,Migraine,,Medicare,140/82,56,f,2025-01-21,2025-08-01
-P-28314,Brian Ware,8014,B+,COVID-19,$500.00,BlueCross,121/87,,,2025-06-24,2025-03-10
-P-37549,Mary Day,5114,A+,,47678.97,Private,131/74,24,f,2025-07-14,
-P-99142,Ariel Murphy,3598,,Fracture,40204.92,Private,92/85,40,m,2025-08-12,2025-04-28
-P-91971,Krista Curtis,3264,O+,Fracture,47271.46,BlueCross,93/89,68,Other,2025-04-23,2025-06-01
-,Lucas Jackson,8540,AB-,Migraine,28922.69,,112/84,11,Male,2025-09-28,2025-02-10
-P-80694,Jeremy Fernandez,9371,O+,Viral Infection,31031.74,Private,96/73,67,Female,2025-10-13,2025-09-12
-P-79866,Crystal Shelton,,O-,COVID-19,17693.32,,114/66,53,NB,2025-07-21,2025-06-15
-P-77291,Joshua Smith,4341,A+,Viral Infection,13723.12,Uninsured,94/75,26,,2025-01-25,2025-07-29
-P-31602,Elaine Herman,8255,AB+,Fracture,,Medicare,112/61,65,Male,2025-05-11,2025-09-03
-P-12026,Brenda Cruz,4871,B+,,,Medicare,133/70,,,2025-10-16,2025-08-04
-P-34410,Dr. Travis Morris DDS,8315,O+,Viral Infection,2087.71,BlueCross,118/94,7,,2025-08-13,2025-06-18
-P-20301,Kevin Anderson,6308,AB-,Migraine,3636.92,,130/74,45,NB,,2025-02-19
-P-12048,Sharon Barajas,2753,O-,,47135.98,Private,118/82,23,Male,2025-07-27,2025-11-26
-P-73347,Jessica Holloway,3135,O+,COVID-19,39305.25,Private,95/80,,Male,2025-02-19,2025-09-28
-P-85504,Destiny Duncan,4516,A+,Fracture,23222.03,Uninsured,150/99,33,M,,2025-02-17
-P-29207,Tammy Cox,5967,O+,COVID-19,35164.59,Aetna,113/88,54,M,2025-03-11,2025-01-08
-P-12204,Jennifer Johnson,6914,O-,Viral Infection,1001.28,Uninsured,120 / 80,14,Other,2025-01-23,2025-07-03
-P-23749,Daniel Mercado,5159,O-,,10808.48,Private,123/91,109,M,2025-04-27,
-P-85051,Michael Cruz,,B+,COVID-19,17278.19,Private,115/67,42,,2025-08-08,2025-10-16
-,Anthony Scott,1553,A+,,,Medicare,139/77,98,f,2025-06-03,2025-09-29
-P-44543,Shannon Jackson,7913,B-,Migraine,19535.36,Private,104/98,21,,2025-02-28,2025-08-29
-P-85041,Alexandria Collins,,A-,Diabetes Type 2,20354.02,Medicare,,72,f,2025-02-19,2025-12-01
-P-89938,Hector Griffin,6609,,Diabetes Type 2,25475.16,Medicare,,40,f,2025-04-30,2025-11-14
-P-39301,Lindsey Chen,5553,AB+,COVID-19,23575.21,BlueCross,142/65,103,,2025-02-24,2025-02-08
-P-12550,Shawn Harris,8245,O-,Diabetes Type 2,39398.62,Aetna,152/90,48,m,2025-11-30,2025-01-26
-P-51738,Amy Mack,3976 ,AB-,Migraine,29743.92,Uninsured,,,NB,2025-08-15,2025-01-09
-P-27037,Ana Jensen MD,4450,B+,Hypertension,31380.36,Medicare,148/63,36,Other,2025-04-05,2025-04-24
-P-75072,Laura Daniel,2651,A-,COVID-19,14817.1,Uninsured,136/63,61,f,2025-11-13,2025-11-13
-P-15168,Derek Mckinney,9154,O+,Hypertension,23238.41,BlueCross,,39,f,2025-04-24,2025-08-21
-P-33906,Robert Grant,3899,A+,Fracture,27403.41,Aetna,149/81,,F,2025-11-12,2025-10-22
-,Carlos Walker,2354,O-,COVID-19,18810.94,Private,130/86,,m,2025-07-08,2025-03-17
-P-51714,Tamara Moore,,A-,Fracture,39484.91,BlueCross,138/64,62,Male,2025-09-11,2025-09-26
-P-81078,,9010,,Hypertension,43926.52,BlueCross,100/65,28,Other,2025-09-25,2025-02-12
-P-79931,,9225,,Fracture,24125.37,BlueCross,,50,F,2025-10-18,2025-04-14
-P-27982,Ashley Brown,8369,B+,COVID-19,16472.11,Uninsured,117/64,68,,2025-11-11,2025-08-07
-P-73932,Sara Barrett,5277,A+,Migraine,44970.81,Medicare,151/80,8,Female,2025-03-28,2025-02-22
-P-62645,Timothy Wilkinson,3444,O+,,27382.09,Aetna,146/61,81,M,2025-08-15,2025-08-10
-P-32323,Jeffrey Wallace,8588 ,B-,Viral Infection,27328.93,Private,91/62,,M,2025-06-27,2025-02-27
-P-99864,Tyler Russell,4414,A-,Hypertension,19689.85,BlueCross,141/79,39,Other,2025-06-06,2025-09-12
-P-46673,William Guzman,1110 ,AB-,COVID-19,41542.18,Medicare,120 / 80,108,m,2025-05-31,2025-03-10
-P-84110,Julie Hill,5581,A+,Viral Infection,12094.49,Medicare,120/100,1,f,2025-10-27,
-P-45301,,4243,AB+,Viral Infection,38238.84,Uninsured,109/66,,Female,2025-01-29,2025-04-08
-P-76523,Timothy Blair,2343 ,A-,COVID-19,3060.31,Aetna,,16,,2025-01-24,2025-08-22
-P-15636,Tammy Werner,2734,A+,Migraine,12965.06,Uninsured,157/95,100,m,2025-08-27,2025-05-06
-P-99397,Bryan Martin II,2517,,Fracture,48543.93,Private,103/60,92,NB,2025-02-16,2025-10-18
-P-93663,Tina Wilson,,O-,COVID-19,44248.74,Aetna,110/99,38,F,2025-01-11,
-P-20434,Erik Dean,7944,AB+,COVID-19,,,97/60,,Female,2025-06-14,2025-01-24
-P-73074,Crystal Beltran,6050,B+,Diabetes Type 2,41950.26,BlueCross,158/75,103,f,2025-10-12,2025-07-27
-P-92329,Emily Parker,,O+,Viral Infection,8489.26,,102/77,41,Other,2025-03-12,2025-11-08
-P-11836,Melissa Ruiz,9724,,COVID-19,9768.43,Aetna,138/64,37,f,2025-06-03,2025-07-02
-P-40838,Kara Blake,2533,B-,Hypertension,41229.97,BlueCross,115/78,30,Female,2025-05-02,2025-11-01
-P-87879,David Nguyen,9634,A+,COVID-19,42241.79,Private,153/80,63,,2025-07-07,2025-03-16
-P-44222,Lisa Caldwell,8606,B-,Fracture,46064.75,Uninsured,132/97,108,Female,2025-05-30,2025-01-30
-P-92348,Monica Morton,6735,,,,BlueCross,157/98,69,NB,2025-02-12,2025-11-02
-P-81239,Anthony Lee,7430,O-,,9220.34,,114/79,102,M,2025-05-11,2025-01-12
-P-99435,Johnny Garcia,3228,AB+,Hypertension,44762.01,Private,95/62,43,NB,2025-09-12,2025-07-11
-P-99373,Timothy Miller,6355,A-,Migraine,29535.37,Uninsured,136/100,69,F,2025-02-27,2025-02-22
-P-85028,,2037,A+,Migraine,24719.89,Private,143/92,54,Female,2025-07-08,2025-02-20
-P-31551,Jonathan Phillips,,AB+,Diabetes Type 2,9128.53,Aetna,142/61,68,F,2025-11-30,2025-04-12
-,Jessica Smith,4850,A+,Hypertension,,Uninsured,120 / 80,,Other,2025-08-18,2025-04-01
-P-69863,Carl Scott,8676,AB+,Diabetes Type 2,35238.81,Aetna,150/100,33,F,2025-09-24,2025-11-13
-P-35688,Jennifer Moses,2515,O-,Fracture,34803.05,Private,132/60,63,Male,2025-01-26,2025-10-29
-P-80016,Mary Church,9512,A+,Migraine,44077.32,Private,131/79,,Female,2025-03-05,2025-01-11
-P-61277,Pamela Dixon,8259,O+,Viral Infection,2318.41,Aetna,112/85,101,,2025-09-15,2025-11-04
-P-59930,Susan Bolton,8068 ,O+,Fracture,7658.19,BlueCross,109/87,33,NB,2025-10-16,2025-01-05
-P-14444,Lindsey Mendoza,,A+,COVID-19,28991.01,Private,121/100,,,2025-05-04,2025-11-25
-P-77278,Theresa Sandoval,5651,A+,Hypertension,25258.58,Private,138/74,71,f,2025-02-22,2025-08-12
-P-92514,Tonya Kemp,,A+,Diabetes Type 2,6681.33,BlueCross,140-90,79,Female,2025-01-28,
-P-45275,Maureen Bates,5116 ,A-,Viral Infection,37490.37,,131/88,45,Male,2025-02-19,2025-02-14
-P-82805,Kimberly Holmes,5579,AB-,COVID-19,352.34,Uninsured,,37,Female,2025-02-18,2025-04-14
-P-55215,Stephanie Li,3360,A+,Viral Infection,23469.43,Medicare,142/73,85,F,2025-03-27,2025-10-02
-,Kimberly Thompson,7208,A+,Migraine,16766.23,Aetna,114/76,97,NB,,2025-07-14
-P-57739,Ann Hansen,3242,AB+,Hypertension,21130.86,BlueCross,110/81,61,f,,2025-06-19
-P-71656,Hannah Perez MD,2472,AB-,Migraine,26248.49,Uninsured,95/90,51,F,2025-08-28,
-P-16251,Charles Romero,,B-,,34473.48,Aetna,150/94,37,m,2025-04-04,2025-11-02
-P-62793,Bridget Edwards DDS,6338,A-,Migraine,5095.84,Medicare,146/78,38,,2025-04-26,2025-10-28
-P-74595,,4249,A+,Diabetes Type 2,33337.51,Medicare,,15,,2025-05-26,2025-07-03
-P-20374,Denise Wiley,3148,O-,Migraine,11447.9,Aetna,,107,Other,2025-10-17,2025-10-07
-P-65839,,3333,AB+,COVID-19,2601.04,Uninsured,118/94,83,M,2025-10-19,
-P-35594,Samantha Washington,2944,B+,Diabetes Type 2,28166.67,Private,110/67,21,,2025-10-09,2025-05-24
-P-51958,,3287,AB-,Hypertension,5377.82,Uninsured,95/69,91,,2025-05-09,2025-11-05
-P-87803,Luis Nelson,1143,B-,Fracture,21232.54,Aetna,117/78,,M,2025-03-07,2025-11-28
-,Ryan Harris,4153,O-,Viral Infection,12224.49,Uninsured,137/94,11,F,2025-10-02,2025-06-05
-P-81381,James Lopez,4559,AB-,Viral Infection,44485.21,Medicare,125/84,29,m,2025-04-13,2025-03-06
-P-80026,Mrs. Amy Sharp,9033,B+,Migraine,35444.02,Medicare,96/84,38,Other,2025-03-18,2025-02-23
-P-24093,Bryan Paul,2941,AB-,Diabetes Type 2,750.98,Private,142/87,61,F,2025-06-21,2025-12-01
-P-98964,Katherine Phillips,3647,A+,Diabetes Type 2,3070.1,Private,108/90,61,m,,2025-10-28
-P-32525,Virginia Johns,1420,O-,Viral Infection,21743.37,Uninsured,143/99,82,m,,2025-11-22
-,,9535,O-,Migraine,47888.62,Medicare,129/68,81,M,2025-03-13,2025-10-27
-P-44452,Mary Atkinson,3129,O+,COVID-19,30233.31,Uninsured,110/72,36,Male,2025-02-14,2025-02-07
-,Martin Elliott,1889,AB+,Hypertension,,BlueCross,,,Female,2025-07-01,2025-08-11
-P-14692,Amy Gray,2793,B-,Viral Infection,28512.78,Uninsured,104/84,23,m,,
-P-40120,Donna Williams,1728,O+,Diabetes Type 2,17475.67,Private,99/71,29,Female,2025-01-25,2025-02-01
-P-98871,Andrew Powell,4413 ,AB-,Diabetes Type 2,10060.52,Medicare,92/86,106,Male,2025-01-31,2025-03-22
-P-59785,Jasmine Martin,,A+,Migraine,47853.36,Medicare,144/99,28,F,2025-04-04,2025-06-08
-P-71656,Hannah Perez MD,2472,AB-,Migraine,26248.49,Uninsured,95/90,51,F,2025-08-28,
-P-56907,Danielle Bennett,1702,A+,Fracture,44306.84,Medicare,107/86,5,,2025-08-05,2025-03-03
-P-23921,Brittney Bradley,3725,B-,,4800.4,Private,104/100,8,NB,2025-01-11,2025-09-30
-P-54364,Amanda Shelton,8680,A+,Fracture,38306.42,Medicare,128/74,96,M,2025-09-06,2025-03-22
-P-71306,Jose Mckinney,9598,O-,Viral Infection,14722.47,Aetna,112/83,5,M,,2025-04-08
-P-89376,Edward Keller,9426 ,A-,Hypertension,47775.05,Aetna,94/100,,M,2025-07-12,2025-06-28
-P-47854,Adriana Parks,2614,B+,Diabetes Type 2,,Medicare,130/98,28,F,2025-08-17,2025-01-05
-P-76881,Laura Davila,9902,O+,Fracture,3629.09,Medicare,123/61,57,Maale,,2025-03-29
-P-25071,Wesley Reyes,7265,B+,,18274.68,Medicare,114/86,20,Other,2025-05-29,2025-09-27
-P-79434,,6928,O+,COVID-19,4169.5,Uninsured,145/75,65,,2025-09-16,
-P-58323,Richard Perry,8170,AB-,Migraine,17872.86,,110/64,109,M,2025-11-11,2025-01-15
-P-74737,Alexander Shelton,2899,A-,Viral Infection,,,149/69,51,f,2025-01-21,
-P-45169,Daniel Molina,5660,AB-,COVID-19,22612.27,Uninsured,156/80,67,NB,,2025-01-16
-P-62645,Timothy Wilkinson,3444,O+,,27382.09,Aetna,146/61,81,M,2025-08-15,2025-08-10
-,Katherine Mcdonald,5949,,Migraine,7410.75,Aetna,121/74,94,Male,2025-05-26,2025-03-26
-P-94649,Carlos Castillo,1366,B+,,11893.03,Uninsured,103/60,60,Male,,
-P-29705,Ethan Russell Jr.,,AB-,Fracture,48333.96,,95/68,1,Other,2025-04-01,2025-11-19
-,Brenda Lee,3472,A-,Diabetes Type 2,10976.51,BlueCross,141/82,23,Male,2025-08-27,2025-06-12
-P-61850,Rebecca Dean,4578,B-,COVID-19,45094.66,Private,118/96,1,f,2025-02-06,2025-08-31
-,Morgan Grimes,9516,A-,COVID-19,16428.72,Uninsured,149/60,102,NB,2025-11-22,2025-10-18
-P-33927,Victoria Berry,7468,AB+,Hypertension,43049.12,Uninsured,141/78,95,F,2025-09-20,2025-07-25
-P-85424,Erik Harris,3558,AB+,Hypertension,28320.62,BlueCross,160/70,105,f,2025-01-15,2025-07-08
-P-40935,Michael Moore,5032,A-,,6670.79,Aetna,102/68,13,M,2025-05-10,2025-01-30
-P-99714,Allison Fisher,6882,,Viral Infection,5038.84,Private,134/72,24,NB,,2025-03-23
-P-81458,Shelby Simon,3452,,COVID-19,38322.96,Aetna,145/75,60,f,2025-10-09,2025-05-12
-P-98000,Raymond Mccall,6315,A+,Diabetes Type 2,$500.00,Private,148/85,74,F,2025-10-13,
-,Nancy Black,1530,A-,COVID-19,2765.68,Private,137/97,88,m,2025-09-07,2025-03-04
-P-16933,Laura Spence,4279,B-,COVID-19,11166.77,Uninsured,151/73,27,,2025-04-29,2025-06-09
-P-85623,Kimberly Jones,,AB-,Hypertension,30790.59,Aetna,154/67,93,Male,2025-03-25,2025-02-16
-P-11394,Jodi Jimenez,6340,A-,Viral Infection,39717.86,Uninsured,,22,,2025-06-11,2025-09-17
-P-99333,Bryan Franco,3121,B-,,15454.99,Medicare,132/76,47,Male,2025-11-22,2025-04-14
-,Mrs. Miranda Johnston,1876,B+,,26908.22,BlueCross,,109,Female,2025-10-23,2025-02-08
-P-58281,Mitchell Garza,1985,A-,Viral Infection,7162.64,Private,120 / 80,77,Male,2025-04-17,2025-09-05
-P-29705,Ethan Russell Jr.,,AB-,Fracture,48333.96,,95/68,1,Other,2025-04-01,2025-11-19
-P-61711,Cristina Thompson MD,8565,A+,Migraine,18059.09,Aetna,124/87,37,F,2025-06-05,2025-11-26
-P-25725,Darrell Wong,6950,,,8209.43,Aetna,,84,NB,2025-05-28,2025-02-04
-P-92511,,7460,O+,Viral Infection,47996.23,Private,112/98,89,M,2025-07-19,2025-09-19
-P-41854,Frank Franklin,8431 ,B+,Migraine,17686.72,,127/71,,Other,2025-09-07,2025-03-18
-P-32494,Adam Sanchez,6950 ,B+,COVID-19,42505.5,Aetna,145/65,57,f,2025-10-19,2025-05-18
-P-78017,Crystal Hill,4738,O-,Migraine,40433.96,Uninsured,,1,f,2025-01-30,2025-10-01
-P-32111,Richard Case,7042,A-,Migraine,7148.41,BlueCross,105/85,70,,,2025-09-08
-P-54588,Melanie Watson,,O+,COVID-19,35713.34,Medicare,97/74,62,Male,2025-01-08,2025-04-28
-P-22093,Sarah Proctor,7619 ,A-,Fracture,49823.15,Aetna,96/61,33,f,2025-04-30,2025-04-02
-P-81010,Dr. Roberto Johnston,5621,A+,Diabetes Type 2,37736.43,Uninsured,154/91,98,M,2025-05-11,2025-11-26
-P-52339,Mariah Brown,4426,AB+,Diabetes Type 2,40258.2,Aetna,121/76,53,F,2025-08-28,2025-06-12
-P-65032,John Kennedy,,AB-,Hypertension,31568.04,Aetna,150/60,55,Male,2025-07-10,2025-02-07
-P-31531,Zachary Yu,2134,A+,Viral Infection,28518.64,Private,132/62,68,,2025-06-19,2025-05-12
-P-16798,,5074,O+,Hypertension,380.37,,,81,M,2025-10-08,2025-01-29
-P-74431,Michael Woodward,9498,AB+,Diabetes Type 2,44560.69,Aetna,108/82,98,m,2025-02-24,2025-08-28
-P-13436,Kevin Carrillo,5541,O+,COVID-19,,Private,138/92,34,F,2025-07-06,
-P-27043,Stephanie Valdez,,,Hypertension,$500.00,Medicare,94/96,68,Other,2025-02-19,2025-11-13
-P-31978,Andrea Moody,2227,O-,COVID-19,,Private,90/82,30,m,2025-04-18,2025-02-07
-P-89938,Hector Griffin,6609,,Diabetes Type 2,25475.16,Medicare,,40,f,2025-04-30,2025-11-14
-P-18754,Ashley Greene,6562,B-,Fracture,21042.3,Uninsured,129/72,77,m,2025-11-12,2025-01-24
-P-69245,Sarah George,4159,AB-,Fracture,,Private,130/72,82,,2025-06-10,2025-10-12
-,Shelly Horton,,A+,Diabetes Type 2,23150.99,Uninsured,104/65,25,M,2025-02-10,2025-02-26
-P-19550,Jennifer Cochran,8189,AB+,Diabetes Type 2,32768.35,Aetna,159/78,42,NB,2025-01-26,2025-09-03
-P-99198,Casey Hardy,6351,,Hypertension,39783.56,BlueCross,110/94,15,,2025-03-21,2025-05-04
-P-70850,Bridget Bell,2896,A+,Hypertension,40865.33,BlueCross,115/84,,Other,2025-05-27,2025-05-22
-,Jordan Clark,1960,B+,Diabetes Type 2,25744.29,Aetna,158/93,52,Other,,2025-08-04
-P-52911,Michael Walters,1908,AB+,Diabetes Type 2,47797.5,Uninsured,,56,,2025-09-28,2025-10-19
-P-18679,Jason Mathews,3842 ,AB+,COVID-19,14088.51,Aetna,152/77,-23,m,2025-08-25,2025-08-15
-,Mrs. Miranda Johnston,1876,B+,,26908.22,BlueCross,,109,Female,2025-10-23,2025-02-08
-P-17338,Jessica Robinson,7872,,Hypertension,47004.27,Private,130/74,-2,NB,2025-01-25,2025-06-16
-P-29649,Kiara Sexton,3486 ,AB-,Fracture,31680.87,Medicare,159/65,74,Male,2025-09-18,2025-11-20
-P-76123,Brandon Johns,,B+,Viral Infection,35228.49,BlueCross,154/81,71,Female,2025-09-12,
-P-96078,,4257,B+,Migraine,24001.2,Aetna,92/70,54,m,2025-03-30,2025-04-06
-P-33056,Dr. George Hernandez,3885 ,,Fracture,49801.52,Private,146/100,18,f,2025-09-09,2025-05-01
-,Lori Williams,3307,AB-,COVID-19,38662.85,Aetna,111/96,66,NB,2025-05-05,2025-08-18
-P-87667,Kevin Fernandez,9442,AB+,Fracture,,,122/64,95,,2025-03-27,
-P-85313,Candice Sanders,4395,A-,Viral Infection,3736.64,Private,107/61,39,Other,,2025-09-13
-P-48408,Karen Ross,7983,B+,,16779.94,Aetna,,,m,2025-03-04,2025-01-22
-P-88159,Aaron Ayers,7807,AB+,Migraine,28043.5,Private,156/90,103,Other,,2025-05-10
-P-27445,Aaron Boyd,7234,AB+,Viral Infection,26080.97,Uninsured,126/91,73,Maale,2025-07-06,2025-04-06
-P-81022,,1460,AB+,COVID-19,,BlueCross,113/69,76,F,2025-10-31,2025-04-27
-,Clayton Blankenship,1102,AB-,Migraine,30559.88,Private,,17,F,2025-03-14,2025-09-29
-P-61534,Ronald Juarez,3303,,COVID-19,29711.61,Aetna,105/98,93,Female,2025-11-19,2025-11-19
-P-74549,Michael White,7517,AB+,Migraine,7943.06,Medicare,109/61,41,m,2025-02-07,2025-07-04
-P-44681,Mark Stephens,7001,,Hypertension,47970.87,Aetna,118/79,,NB,2025-08-04,2025-03-02
-P-79181,Patricia Hayes,4513,A-,Viral Infection,29651.81,Aetna,90/91,-25,Female,2025-06-14,2025-06-17
-P-72600,Heather Bradford,1393,AB+,Hypertension,2300.03,Uninsured,155/98,59,,2025-02-05,2025-06-05
-P-74867,Kimberly Curtis,2522,O+,Fracture,24589.75,Private,153/90,86,F,2025-01-31,2025-04-16
-,Autumn Hill,8927,A-,COVID-19,6981.2,Aetna,123/83,6,F,2025-05-28,2025-03-29
-P-14015,Anthony Carr,,A+,Fracture,14151.34,Private,158/63,97,Other,2025-03-17,2025-09-13
-P-57977,Breanna Flores,5748,B-,Hypertension,20942.27,,121/63,,Other,2025-07-27,
-P-78627,Mr. Daniel King Jr.,9598 ,A+,Viral Infection,4477.57,Private,141/79,109,f,2025-05-07,2025-08-07
-P-99591,Sara Flores,2081,AB-,COVID-19,3979.11,Aetna,155/96,58,f,2025-01-15,2025-04-24
-P-83227,Miguel Williams,5610,A-,,27419.7,,,71,NB,2025-03-22,2025-09-22
-P-72694,Stephanie Barton,4507,,Viral Infection,49315.38,Private,116/80,76,Other,2025-03-26,2025-07-28
-P-74915,Christopher Jensen,3126,A-,COVID-19,36742.43,BlueCross,120 / 80,52,f,2025-10-01,2025-11-19
-P-60630,Lisa Gibson,3072,A+,Diabetes Type 2,,Aetna,118/98,105,F,2025-10-22,2025-10-17
-P-15004,Melissa Hanson,,AB-,,47356.55,,142/71,14,F,2025-06-07,2025-08-07
-P-38606,Anthony Werner,8356,AB-,Migraine,20665.04,Private,127/93,30,Other,2025-07-31,2025-08-19
-P-94157,,7273,A-,Diabetes Type 2,41766.92,BlueCross,140-90,35,,2025-03-30,2025-04-05
-P-56271,Ryan Smith,5697,,,12089.44,Aetna,99/72,,Other,2025-02-07,2025-07-31
-P-47167,Christopher Ayala,1284,B-,Hypertension,18752.61,Medicare,,7,NB,2025-07-25,
-P-66355,Jennifer Lewis,4981,B+,Hypertension,,,109/90,100,Female,2025-02-14,2025-11-10
-P-96364,Mark Adams,9850,O+,COVID-19,34961.77,BlueCross,141/96,48,Female,2025-03-22,2025-02-15
-P-90135,Erik Williams,7153,B+,COVID-19,33584.72,,113/61,15,f,2025-04-23,2025-04-18
-P-63533,Andrew Cortez,8201,O-,Migraine,27088.02,Medicare,142/73,14,NB,2025-10-22,2025-07-13
-P-14952,Larry Reynolds,,O+,Migraine,709.02,Private,154/69,12,m,2025-08-17,2025-08-12
-P-59090,Adam Stewart,2476,A-,,49102.88,BlueCross,121/80,56,,2025-05-11,
-P-95367,Edward Shields,4060,O+,COVID-19,13055.52,Private,92/65,27,M,2025-05-21,2025-05-31
-P-91741,Elizabeth Serrano,2893,AB-,Fracture,41439.27,Aetna,108/98,85,m,2025-06-07,2025-07-07
-P-60997,Victoria Carpenter,5249,,Migraine,36167.19,Uninsured,120/95,25,M,2025-02-23,2025-09-18
-P-61558,Walter Bailey,4585,AB+,Viral Infection,43608.95,Aetna,146/87,55,m,2025-07-06,
-P-54287,Amanda Hess,6028,AB+,Viral Infection,45528.25,Private,,10,Other,2025-02-24,2025-01-24
-P-36557,James Anderson,6027,O+,COVID-19,40832.45,,,51,,2025-06-11,2025-06-21
-P-23398,Catherine Walls,9107,A+,Fracture,34544.34,BlueCross,117/90,,m,2025-05-27,2025-07-06
-P-24192,Gavin Howell,5009 ,A-,Hypertension,12173.63,Aetna,156/82,75,f,,2025-06-10
-P-44302,Taylor Howard,4634,B+,Migraine,48076.1,Aetna,139/66,15,,2025-03-16,2025-09-17
-P-34464,Jennifer Anderson,6652,AB-,COVID-19,2042.0,Medicare,128/77,45,M,2025-04-29,2025-04-25
-P-21296,Mitchell Jordan,9078,O-,Fracture,28337.93,Medicare,136/60,76,F,2025-06-05,2025-05-31
-,Chris Martin,3745,AB+,,26056.52,Aetna,146/84,74,F,2025-06-07,2025-10-24
-P-63071,Ms. Stephanie Duran,3324,AB+,Viral Infection,,Aetna,145/87,65,Male,2025-02-07,2025-08-03
-,Melissa Short,7589,AB-,Migraine,$500.00,BlueCross,153/66,58,f,2025-03-20,2025-10-28
-P-40003,Michael Davis,3876,B+,Diabetes Type 2,5446.29,Private,147/97,26,f,2025-03-12,2025-07-04
-P-10085,Casey Garcia,1685,B+,Migraine,3580.23,Medicare,160/81,10,M,2025-02-25,2025-10-10
-P-81580,Eric Wright,7321,A+,Diabetes Type 2,7128.38,Uninsured,,61,F,2025-09-22,2025-04-23
-P-34338,Joseph Stevens,1280,O+,Fracture,39887.24,Aetna,,74,M,,2025-01-29
-P-67400,Randy Wang,1535,A+,Viral Infection,22272.24,BlueCross,139/74,92,Female,2025-08-16,2025-02-09
-P-28396,Pamela Cook,3459,B-,Hypertension,47667.24,Medicare,108/71,108,Other,2025-02-07,2025-06-06
-P-80860,Jennifer Williams,6326,,Fracture,11767.01,Medicare,119/60,21,M,2025-01-25,2025-04-17
-P-36855,David Ayers,5994,AB+,Diabetes Type 2,14908.82,Uninsured,,44,Female,2025-06-06,2025-07-14
-P-85865,Terry Rivera,5717 ,AB+,Migraine,23759.33,Medicare,121/98,44,F,2025-05-20,2025-09-29
-P-69393,Jennifer Cummings,3452,AB-,Diabetes Type 2,13290.26,BlueCross,High,71,M,2025-06-07,2025-06-19
-P-12118,Karen Wells,6968,O-,COVID-19,31139.83,Medicare,133/84,55,,2025-07-24,2025-06-03
-P-35710,Kimberly Kane,2462,O+,Hypertension,,BlueCross,145/75,12,Male,2025-11-22,2025-01-18
-P-62244,Steven Oconnor,2981,AB+,COVID-19,36887.72,Private,102/72,57,m,2025-06-16,2025-01-25
-P-77541,Michelle Clark,4950,A-,Hypertension,19913.59,Medicare,110/68,,Male,2025-08-26,2025-08-21
-P-89817,Frank Lawson,3445 ,A-,Diabetes Type 2,3381.57,,154/64,47,,2025-09-28,2025-09-02
-P-36858,,6199,A-,Viral Infection,2756.68,Uninsured,94/76,34,f,2025-06-10,2025-06-05
-P-81524,Melissa Johnson,7354,AB+,,3626.02,Medicare,110/61,50,NB,2025-01-21,2025-03-27
-P-52830,Kimberly Santos,,B+,Hypertension,1902.17,,128/64,56,f,2025-06-16,2025-06-16
-P-90224,Megan Stokes,8796,AB+,Fracture,21843.55,Private,129/67,-6,Male,,2025-03-17
-P-28185,Cristian Smith,3655,AB+,Viral Infection,,Medicare,137/63,37,Other,2025-10-14,2025-05-14
-P-59785,Jasmine Martin,,A+,Migraine,47853.36,Medicare,144/99,28,F,2025-04-04,2025-06-08
-P-60393,Patrick Huerta,1793 ,AB+,,,,143/65,21,F,2025-01-18,2025-09-16
-P-69464,John Scott,1973,AB-,COVID-19,31402.41,BlueCross,150/69,94,,2025-08-25,2025-04-25
-P-55185,Melissa Williams,7103,AB+,Migraine,4400.07,Private,159/87,37,f,2025-05-27,2025-10-29
-,,2030,O+,Diabetes Type 2,28117.87,Aetna,,6,Female,2025-02-28,2025-09-14
-P-46601,Eric Li,,A-,Diabetes Type 2,7131.57,Aetna,91/64,-4,NB,2025-05-11,2025-03-09
-P-89499,Alex Lambert,6198,A+,Diabetes Type 2,,Aetna,High,87,M,2025-01-30,2025-11-11
-P-90685,,,O+,Fracture,35861.16,Private,134/64,,M,2025-07-27,
-P-79748,Dana Smith,7597,AB+,Hypertension,7557.64,Aetna,95/87,41,m,2025-08-01,2025-11-06
-P-50251,Robert Simpson,3125,A-,Diabetes Type 2,36661.85,,123/78,106,Female,2025-06-14,2025-02-01
-P-18320,Patricia Kim,8702,AB+,COVID-19,48162.69,Medicare,116/70,44,Male,2025-01-06,2025-02-01
-P-78082,Melvin Weeks,6256,O-,,,Aetna,133/100,37,,,2025-06-11
-,,4473,B+,COVID-19,26160.47,BlueCross,112/77,8,Male,2025-02-22,2025-07-05
-P-91204,,7230,O-,Hypertension,45152.36,Private,,57,Female,2025-03-18,2025-04-20
-P-54265,Kelly Preston,6855,AB+,Migraine,,,118/98,,,2025-09-10,2025-02-04
-P-44174,James Cox,4125,O+,Viral Infection,21629.31,Aetna,111/60,3,F,,2025-03-02
-P-23324,,,AB-,Diabetes Type 2,1738.12,Medicare,121/82,32,NB,2025-01-01,2025-08-06
-P-98425,Wendy Fisher,3912,O+,Viral Infection,18719.77,Uninsured,93/92,103,NB,,2025-02-10
-P-67208,Jonathan Vasquez,3578,B+,COVID-19,10704.58,Uninsured,137/96,21,M,2025-07-23,2025-11-07
-P-52975,,9841,AB+,COVID-19,36305.3,Uninsured,133/72,67,Other,2025-11-26,
-P-91681,Mr. Thomas Garcia,1276,B+,Hypertension,37724.24,Aetna,,106,,2025-07-20,2025-09-12
-P-23513,Kevin Sandoval,8433,A+,COVID-19,8188.92,Aetna,160/61,29,Other,2025-02-25,2025-05-08
-,Kevin Oliver,4216,O+,Diabetes Type 2,28556.77,Uninsured,122/99,93,m,2025-09-03,2025-08-29
-P-49077,Kelli Carter,7098,AB-,,45501.88,Aetna,152/78,42,Other,2025-06-21,2025-08-09
-P-97770,Thomas Morrison,5968,O-,Diabetes Type 2,,Aetna,131/73,,Female,2025-11-05,2025-08-03
-P-68854,Tiffany Nelson,6421,AB+,Fracture,$500.00,Uninsured,99/72,43,F,2025-11-11,2025-09-25
-P-50315,Nancy Jones,8113,A+,Diabetes Type 2,30161.93,Uninsured,91/88,,,2025-04-26,2025-07-18
-P-40423,Albert Davis,1416,B-,Diabetes Type 2,28760.61,BlueCross,,20,NB,2025-10-02,2025-11-26
-P-23398,Catherine Walls,9107,A+,Fracture,34544.34,BlueCross,117/90,,m,2025-05-27,2025-07-06
-P-42325,Jose Coleman,7008,O-,,7159.12,Private,122/94,89,,2025-06-06,
-P-21561,Patrick Medina,1044,A-,Viral Infection,,Medicare,128/68,48,M,2025-10-28,2025-05-24
-P-33228,David Le,2675,AB-,Hypertension,10378.9,Medicare,94/75,82,Other,,2025-02-04
-P-74177,,7755 ,AB+,Hypertension,26795.4,Aetna,99/72,25,Male,2025-11-27,2025-10-31
-P-94319,,7268,O+,Diabetes Type 2,35152.58,Aetna,,64,Other,2025-09-07,2025-07-31
-P-56784,Elizabeth Brown,,,Hypertension,21480.81,Private,114/60,99,F,2025-04-05,2025-03-07
-P-68024,Lawrence Martin,9425,O+,Viral Infection,20024.99,Uninsured,120 / 80,,Male,2025-04-10,2025-05-19
-P-99972,Tina Jennings,8853,B-,Fracture,15716.07,Aetna,116/92,64,M,2025-01-19,2025-05-06
-P-73471,Deborah Cherry,7076,A-,Viral Infection,33158.02,Medicare,,100,Female,2025-04-09,2025-11-27
-P-48892,Claudia Wilson,1104,AB-,Viral Infection,20729.64,Aetna,128/81,33,F,2025-06-19,2025-07-04
-P-88878,,9869,O-,Fracture,6898.86,BlueCross,116/100,101,F,2025-01-12,2025-07-18
-P-28828,,9580,AB+,Fracture,6408.31,Uninsured,140-90,24,m,2025-04-27,2025-08-11
-P-77931,David Warner,2234,,,2793.77,Private,140/81,43,m,2025-01-01,2025-10-04
-P-16280,Timothy White,,A+,COVID-19,27616.15,Aetna,124/85,-40,F,2025-10-15,2025-04-13
-P-69863,Carl Scott,8676,AB+,Diabetes Type 2,35238.81,Aetna,150/100,33,F,2025-09-24,2025-11-13
-P-48255,Amber Allen,,AB+,Diabetes Type 2,3314.03,Private,160/86,10,NB,2025-05-06,2025-05-29
-P-54582,Philip Munoz,3222,AB-,Fracture,2466.9,,160/79,64,F,2025-03-26,2025-09-19
-P-44722,Pamela Sanders,9161,AB+,Migraine,36001.77,Medicare,111/75,23,NB,2025-07-02,2025-02-25
-P-39387,,5676,B+,COVID-19,15618.49,Medicare,,56,M,2025-03-30,2025-01-02
-P-51182,Jennifer Velasquez,1645,A+,Viral Infection,42207.64,Uninsured,96/60,58,Female,2025-02-15,2025-05-25
-P-89494,Allison Clark,3535,O+,Hypertension,22331.25,BlueCross,131/85,61,,2025-08-09,2025-02-02
-P-55003,Michael Arnold,1443,A+,COVID-19,45502.06,,121/93,88,F,2025-11-28,2025-08-08
-P-69450,Tina Brown,3542,,Migraine,4828.26,Medicare,94/79,76,F,,2025-04-17
-P-57232,Kaitlyn Phillips,5810,,Viral Infection,25570.79,Private,155/67,,NB,2025-03-11,
-P-36009,Christopher Fitzgerald,2359,A-,Hypertension,34930.95,Private,98/82,15,M,2025-09-08,2025-03-27
-P-61651,Rhonda Williams,6351,AB+,COVID-19,8457.61,Medicare,,106,M,2025-04-22,2025-06-11
-P-88410,Chelsea Martin,9497,AB+,Hypertension,25373.47,BlueCross,157/89,0,Female,2025-04-23,2025-09-07
-P-67855,,2088,AB+,Viral Infection,32241.85,Medicare,131/76,8,M,2025-07-28,2025-07-23
-P-72146,Sandra Kirby,9072,AB-,Fracture,40859.67,BlueCross,133/96,3,M,,2025-03-03
-,Thomas Hunt,,,Viral Infection,6890.45,BlueCross,104/93,60,Male,2025-01-21,
-P-68106,Caitlin Wilson,8481 ,,Fracture,24356.72,Aetna,,51,Male,2025-02-08,2025-11-15
-P-86344,Megan Knight,3905,A+,COVID-19,14753.06,Private,140-90,36,,2025-04-22,2025-08-31
-P-39123,Joshua Moran,9135 ,B+,Viral Infection,154.76,BlueCross,125/96,77,Other,2025-05-05,2025-03-19
-P-30753,Kimberly Sanchez,,B-,COVID-19,48494.75,Aetna,140/94,41,M,2025-07-20,2025-11-15
-P-20499,Melissa Oneill,4901,AB-,Migraine,,BlueCross,High,76,NB,2025-01-06,
-P-98327,Crystal Rodriguez,9013,AB+,Migraine,15755.98,Uninsured,98/67,44,NB,,2025-08-18
-P-34338,Joseph Stevens,1280,O+,Fracture,39887.24,Aetna,,74,M,,2025-01-29
-,April Hull,3554,A+,COVID-19,5549.44,Private,149/85,,F,2025-03-15,
-P-32834,Javier Dorsey,3856,A+,Migraine,31722.45,Medicare,148/70,81,Male,2025-04-18,
-P-98529,Anthony Morales,7644 ,AB+,Hypertension,2793.32,Aetna,146/86,27,M,2025-02-15,2025-04-23
-P-31274,Nathaniel Rodriguez,3667,O+,Diabetes Type 2,$500.00,,107/65,66,,2025-09-27,2025-02-05
-,Amanda Palmer,6331,A-,COVID-19,13907.34,Medicare,100/64,2,NB,2025-10-31,2025-06-02
-P-88490,Mrs. Susan Newton MD,9630 ,,COVID-19,46274.5,Aetna,120 / 80,,f,,2025-06-07
-P-32009,Alexandria Carrillo,2697,B-,Hypertension,46184.13,Medicare,90/62,27,Male,2025-07-15,2025-07-10
-P-39348,Amy Yang DDS,6047,B-,Viral Infection,132.44,Uninsured,119/61,99,Male,2025-04-16,2025-04-21
-P-25596,Michael Phillips,3826,B-,COVID-19,47076.05,Private,123/72,16,M,2025-01-18,
-P-23318,Jared Smith,7179,O+,Hypertension,36445.76,Uninsured,,97,Male,2025-04-25,2025-04-06
-P-18653,Lisa Harris,1997,A-,Viral Infection,18022.79,BlueCross,130/67,106,F,2025-03-17,2025-01-10
-P-21056,Nicholas Eaton,5006,A+,Viral Infection,,Medicare,107/81,4,Other,2025-10-08,2025-03-22
-P-90010,Susan Rivera,2886,,Viral Infection,18911.15,BlueCross,130/70,,M,2025-08-02,2025-04-16
-P-21273,Christine Johnson,,O+,Migraine,5574.34,Private,154/97,87,,2025-04-29,2025-03-24
-P-30868,Chelsea Long,8586,A-,Diabetes Type 2,39714.92,BlueCross,144/89,78,Male,2025-08-02,2025-07-28
-P-62213,Jon Day Jr.,1132 ,,Migraine,21948.73,BlueCross,104/90,86,Other,2025-01-11,2025-09-17
-P-70015,,6254 ,B-,Migraine,48191.33,Private,109/69,84,f,,
-P-93092,Terry Mills,6733,A+,Viral Infection,,Aetna,117/67,103,Female,2025-06-08,2025-01-16
-P-42926,Michael Evans,1372,A-,,42874.77,Aetna,139/100,,Male,2025-01-08,2025-02-28
-P-69852,Marcus Patrick,9784 ,A-,Migraine,11075.21,,91/66,34,M,,2025-10-03
-P-34458,Lauren Hooper,7007,,Diabetes Type 2,8628.75,,159/85,27,F,2025-10-15,2025-01-30
-P-12550,Shawn Harris,8245,O-,Diabetes Type 2,39398.62,Aetna,152/90,48,m,2025-11-30,2025-01-26
-,,3346,B+,Diabetes Type 2,9240.48,Uninsured,158/93,5,f,,2025-08-02
-P-89026,Latasha Washington,6569,A-,Fracture,21566.38,Medicare,150/72,66,Female,2025-05-02,2025-09-29
-P-93558,Ray Rosario,8831,A+,Migraine,18421.73,Private,120 / 80,,NB,2025-07-06,2025-05-21
-P-70477,Nathan Willis,9189,B-,Viral Infection,238.68,,113/88,91,Female,2025-08-02,2025-03-31
-P-16145,Sabrina Henderson DVM,6702,A+,Fracture,12672.9,,109/85,6,Other,,
-P-24836,Jeremy Brown,7933,AB+,Fracture,31301.08,BlueCross,143/97,61,f,2025-04-05,2025-11-23
-P-79748,Dana Smith,7597,AB+,Hypertension,7557.64,Aetna,95/87,41,m,2025-08-01,2025-11-06
-P-87200,Joshua Reed,2426,A+,Fracture,46554.35,,103/68,,Other,2025-11-11,
-P-78529,Emily Henderson,1044,B+,Diabetes Type 2,34351.04,BlueCross,148/64,30,m,2025-04-09,2025-03-05
-P-62157,Gregory Alexander,5038,O+,,38272.75,Medicare,,3,f,2025-05-26,2025-03-21
-P-33224,Benjamin Hines,5644,B+,Hypertension,13393.41,Medicare,High,87,,2025-08-03,2025-06-26
-P-21011,Rachel Rollins,4309,,Hypertension,,Medicare,112/71,76,Female,2025-09-29,2025-09-22
-P-63449,James Lopez,2787 ,A-,Migraine,36597.42,,High,,f,2025-08-08,2025-08-03
-,Timothy Perez,3378,,COVID-19,42418.51,BlueCross,,70,Other,2025-06-27,2025-03-25
-P-88512,Lori Howard,2063,O-,Hypertension,11509.06,Uninsured,159/79,103,,2025-08-21,2025-06-28
-P-84431,Jonathan Davis,6424,B-,COVID-19,24666.4,BlueCross,123/94,101,f,2025-02-02,2025-06-07
-P-34954,,7931,AB+,Hypertension,43273.71,,130/99,70,,2025-08-17,
-P-45405,Douglas Hampton,5451,,Migraine,35544.3,Private,120 / 80,,m,2025-09-29,
-P-53499,Sharon Cross,6526,A+,Hypertension,4510.47,Aetna,158/91,,M,2025-01-05,2025-08-13
-P-22388,William Wood,3190,AB-,COVID-19,2365.66,Medicare,111/69,47,Female,2025-01-29,2025-04-16
-P-61183,Jared Ballard,6705,A-,,23927.28,BlueCross,156/91,81,Other,2025-05-07,2025-02-14
-P-90135,Erik Williams,7153,B+,COVID-19,33584.72,,113/61,15,f,2025-04-23,2025-04-18
-P-38687,Benjamin Chavez,7974,B-,Diabetes Type 2,35062.99,BlueCross,146/65,71,M,2025-03-09,
-P-34479,Christine Mills,8831 ,O-,Diabetes Type 2,13426.09,Aetna,91/83,98,m,2025-06-18,2025-08-09
-P-83391,Kelly Hughes,2007,O-,Fracture,27845.05,BlueCross,159/85,45,M,2025-02-07,2025-02-03
-P-70383,Matthew Reynolds,6523,,COVID-19,29720.48,,145/68,37,NB,2025-02-23,2025-06-12
-P-84636,Brittany Snyder,3956,A-,,,Aetna,124/68,77,NB,2025-04-04,2025-08-13
-P-99142,Ariel Murphy,3598,,Fracture,40204.92,Private,92/85,40,m,2025-08-12,2025-04-28
-P-80286,James Bonilla,,B+,Fracture,25218.65,Private,104/73,24,Female,2025-05-27,2025-10-20
-P-66512,Sherry Miller,4119,AB-,COVID-19,17654.57,Medicare,118/63,1,Other,2025-05-08,2025-03-24
-P-94972,John Harris,9593,O+,Viral Infection,8933.61,Medicare,131/69,-32,m,2025-01-02,2025-04-14
-P-53369,,4087,B+,COVID-19,34532.47,Uninsured,,,Female,2025-11-16,2025-07-16
-P-92557,Emily Gamble,8329,AB+,Fracture,29422.98,,High,39,f,2025-03-06,2025-10-11
-P-48556,Patrick Ortega,,A-,Hypertension,44127.04,Aetna,129/64,45,M,2025-11-03,2025-10-18
-,Vincent Zuniga,9502,A+,Viral Infection,1499.71,Aetna,158/88,87,m,2025-02-06,2025-12-01
-P-80683,Jason Jones,5960,A+,,,Medicare,124/89,20,M,2025-04-08,2025-10-07
-P-11944,Tonya Campbell,5049,,Migraine,40641.56,Medicare,112/77,,F,2025-07-28,
-P-70477,Nathan Willis,9189,B-,Viral Infection,238.68,,113/88,91,Female,2025-08-02,2025-03-31
-P-57946,Thomas Hughes DDS,8065,AB+,COVID-19,49621.52,BlueCross,121/87,61,m,2025-08-27,2025-02-15
-P-92179,Omar Weeks,,,Viral Infection,38997.16,Medicare,140-90,65,NB,2025-10-24,2025-09-15
-P-74431,Michael Woodward,9498,AB+,Diabetes Type 2,44560.69,Aetna,108/82,98,m,2025-02-24,2025-08-28
-P-40926,,7997,A-,Viral Infection,47127.23,Private,,35,m,2025-08-01,2025-07-27
-P-17120,Pamela Hubbard,5354,O-,Hypertension,45679.31,Uninsured,High,,F,,2025-04-07
-P-32494,Adam Sanchez,6950,B+,COVID-19,42505.5,Aetna,145/65,57,f,2025-10-19,2025-05-18
-P-75172,Betty Cole,8542,A+,,12829.68,BlueCross,126/67,,Male,2025-06-14,2025-09-24
-P-91946,Dawn Jordan,6618,B-,,21145.57,BlueCross,,6,F,2025-03-18,2025-08-22
-P-16263,George Hall,2140,A-,Hypertension,40565.75,Medicare,125/97,110,,2025-10-15,2025-03-18
-P-68935,Sharon Miller,8490,A+,COVID-19,,Uninsured,140/94,47,m,2025-09-24,2025-05-28
-,Jessica Doyle,3100,O+,Diabetes Type 2,29832.3,Aetna,142/97,108,Female,2025-04-10,2025-04-05
-P-33467,Debra Leonard,4441,B+,COVID-19,45708.96,BlueCross,159/72,60,Male,2025-02-03,2025-05-16
-,,4874,B+,COVID-19,35882.63,BlueCross,107/93,104,,2025-05-10,2025-05-31
-P-15636,Tammy Werner,2734,A+,Migraine,12965.06,Uninsured,157/95,100,m,2025-08-27,2025-05-06
-P-86280,Heather Duffy,3825,O+,Viral Infection,10649.98,Aetna,135/96,110,m,2025-04-21,2025-04-16
-P-35448,Diana Williams,5091,,COVID-19,4889.13,,111/60,39,m,2025-03-09,2025-07-22
-,,,AB-,Migraine,39762.58,Aetna,129/72,65,,,2025-04-27
-P-94839,Becky Smith,1662,B-,Hypertension,38022.26,Uninsured,153/66,110,f,2025-01-21,2025-06-09
-P-35347,Russell Green,8865 ,A-,Fracture,,Medicare,140/72,85,NB,,2025-07-28
-P-12979,James Smith,6959,AB+,,46704.62,Private,,84,,,2025-06-11
-P-69210,Patricia Atkinson,1116,O-,Fracture,23466.78,BlueCross,124/66,86,Other,2025-11-13,2025-05-08
-P-87150,George Williams,8256,AB+,COVID-19,30044.41,Aetna,108/96,6,,2025-11-27,2025-09-26
-P-99226,Adam Woods,3978,B+,Fracture,38967.57,Uninsured,98/89,,F,2025-08-25,2025-01-02
-P-13003,,4523,O+,Hypertension,36557.93,Medicare,93/62,88,Male,2025-06-20,2025-01-23
-P-69210,Patricia Atkinson,1116 ,O-,Fracture,23466.78,BlueCross,124/66,86,Other,2025-11-13,2025-05-08
-P-47657,Melanie Saunders,1124,AB+,Viral Infection,13877.94,Private,151/91,23,F,2025-02-09,2025-06-30
-P-62072,Casey Smith,6199,B+,Fracture,46217.38,Aetna,138/81,81,Other,2025-11-28,2025-06-11
-P-62777,,,,COVID-19,16493.84,Uninsured,119/94,50,Female,2025-11-04,
-P-97461,Zachary Hill,3623,B+,Viral Infection,20341.02,Uninsured,106/68,,f,2025-05-17,2025-10-11
-P-44445,Robert James,3111,AB+,Migraine,3039.98,Aetna,119/67,1,,2025-01-12,2025-07-03
-P-59280,Curtis Rice,9185,O+,Fracture,29695.59,BlueCross,144/79,104,,2025-04-15,2025-10-21
-P-35502,Carol Fisher,1279 ,O+,COVID-19,22301.39,Medicare,157/66,26,F,2025-10-14,2025-04-11
-P-63075,Sean Harper,2908,,Fracture,9236.33,Private,93/73,15,M,2025-10-21,2025-10-16
-P-59177,Maria Parsons,6998,,Fracture,30466.73,Aetna,103/75,-16,Female,2025-02-14,2025-07-18
-P-81393,Tricia Russo,4873,O+,COVID-19,37219.02,Private,147/79,2,F,2025-08-21,2025-06-18
-P-28461,Kari Simmons,9615,B+,Viral Infection,,Aetna,147/78,30,m,2025-01-07,2025-10-17
-P-90201,Christine Sanders,6370,A-,,4918.94,,151/75,-16,NB,2025-09-01,2025-11-04
-P-33651,Laurie Vargas,6246,O-,Diabetes Type 2,8938.61,,116/60,,m,2025-10-31,2025-02-17
-,Jonathan Johnson,2144,O+,COVID-19,1696.33,Aetna,127/63,84,m,2025-10-11,2025-04-26
-P-99329,Mrs. Sarah Gordon,1869,B-,,41250.13,Private,148/78,4,Male,2025-05-19,
-P-48489,Daniel Carter,1722,AB+,Viral Infection,6414.0,Medicare,124/100,11,,2025-04-26,2025-05-28
-,Karen Novak,2981,,Migraine,16731.99,Private,103/61,80,NB,2025-03-03,2025-11-10
-P-96991,Stephanie Garcia,4447 ,A+,Hypertension,11328.91,Aetna,119/77,41,f,2025-11-07,2025-03-29
-P-81660,Cody Sanchez,,B+,Diabetes Type 2,47873.89,Medicare,95/97,76,NB,2025-06-27,2025-03-25
-P-19853,William Leblanc,1396 ,A+,Fracture,21520.42,Aetna,145/79,,f,,2025-08-08
-P-19743,Nicole Jones,5795,A-,Hypertension,12928.83,Private,140/82,76,Male,2025-01-29,2025-04-26
-P-28825,,6958,AB-,,40896.87,Medicare,,38,Male,2025-10-10,2025-08-11
-P-13340,Michael Clay,2756,B-,Diabetes Type 2,41755.81,Medicare,158/63,-45,NB,2025-04-14,2025-03-09
-,Jacob Mcdonald,3001,A-,,21943.1,Medicare,149/88,41,Female,2025-09-23,2025-03-18
-P-41191,Jamie Galloway,2644,O+,Diabetes Type 2,4422.52,Private,135/68,73,M,2025-01-13,2025-01-08
-,Christopher Cameron,3743 ,O-,Fracture,35884.73,Aetna,129/92,18,f,2025-02-02,2025-01-11
-P-89918,Michael Rivera,4025,A+,COVID-19,16906.86,BlueCross,109/82,27,F,,2025-08-29
-,,9020,AB+,Migraine,26543.99,BlueCross,133/90,45,Female,2025-11-30,2025-06-02
-P-31414,,,,Migraine,15764.11,Uninsured,94/97,13,,,2025-09-25
-P-16592,,,AB-,Diabetes Type 2,42261.6,,140-90,102,m,2025-11-22,2025-08-02
-P-62600,Michael Coleman,4761 ,AB+,Migraine,,BlueCross,153/85,70,M,,2025-04-16
-P-36563,Matthew Barrett,8014 ,O-,Hypertension,47444.69,BlueCross,93/82,106,Femaale,2025-08-16,2025-04-07
-P-65299,Lauren Thompson,3984,A-,Viral Infection,49399.92,Private,104/100,69,Other,2025-11-12,2025-09-04
-P-57852,Elizabeth Anderson,3357,AB+,Migraine,1287.27,Aetna,115/72,51,F,2025-11-08,2025-02-24
-P-76296,Patricia Fox,2934,O+,,19036.2,,110/69,87,Other,2025-05-05,2025-03-21
-P-52630,Rebecca Johnson,2811,AB-,Fracture,609.37,Aetna,92/88,63,Male,2025-11-09,2025-07-10
-P-70713,John Clark,5299,B+,Hypertension,7654.06,Medicare,142/83,76,,2025-10-29,2025-02-09
-P-19589,Charles Poole,1750,A+,Migraine,40577.02,BlueCross,High,87,M,2025-07-19,2025-08-15
-P-53727,,7965,B+,Hypertension,14010.18,Uninsured,139/70,72,Other,2025-09-21,2025-07-08
-P-22014,Roger Bowman,6683,A+,Hypertension,,,138/72,91,m,2025-07-06,2025-02-11
-P-38902,Mary Compton,3156,B-,Fracture,42243.75,Private,120 / 80,102,m,2025-09-17,
-P-66189,,1479,AB-,COVID-19,4258.4,,101/91,37,F,2025-02-05,2025-11-19
-P-63888,Patricia Hall,9670,B-,Migraine,16016.13,BlueCross,140-90,9,F,,2025-04-18
-P-63095,Yolanda Anderson,6356,B+,COVID-19,34130.66,BlueCross,125/87,85,NB,2025-05-06,2025-08-04
-P-46031,Kyle Mccarthy,1928 ,B+,Migraine,,Aetna,147/91,,Other,2025-03-08,2025-08-16
-P-90481,Rebecca Clark,7808,A-,Hypertension,29094.55,Private,144/100,79,Female,2025-11-07,2025-10-20
-,Tonya Jones,5893,AB+,Fracture,,Uninsured,113/68,99,Other,2025-07-28,
-P-93763,Lori Madden,8727,A-,Viral Infection,,Medicare,118/96,71,F,2025-06-18,2025-09-06
-P-28582,,7805 ,O+,,43580.72,Aetna,114/78,99,NB,2025-04-06,
-P-96810,Tammy Morris,5346,AB+,Diabetes Type 2,46890.62,Aetna,102/68,68,Other,,2025-09-17
-,Kimberly Lewis,5659,B-,COVID-19,28132.54,,96/83,85,Male,2025-11-26,2025-05-12
-P-34464,Jennifer Anderson,6652,AB-,COVID-19,2042.0,Medicare,128/77,45,M,2025-04-29,2025-04-25
-P-55160,Brittney Mccoy,9829,O-,Migraine,,,111/87,13,,2025-10-07,2025-11-25
-P-92059,Todd Perry,4871,B-,COVID-19,18131.16,Medicare,148/71,31,Male,2025-07-14,2025-05-08
-,Linda Bailey,5276,B-,Migraine,5638.59,,112/74,23,Female,2025-01-01,2025-04-18
-P-18802,Maria Cook,5989 ,AB+,,17636.47,BlueCross,108/62,41,Male,2025-08-12,2025-10-31
-P-85161,,9038,,,28417.6,Private,,39,Female,2025-09-29,2025-03-20
-P-36102,Robin Jones,7094,,COVID-19,,Medicare,138/83,12,NB,,2025-05-04
-,Dr. Lori Jackson,3017,AB-,Viral Infection,27556.88,BlueCross,110/89,4,Male,2025-03-13,2025-03-08
-P-78359,Chad Flores,5670,A-,Fracture,24415.01,Uninsured,141/94,65,F,2025-06-09,2025-02-23
-P-26972,Valerie Roberts,8644,AB+,Hypertension,9263.88,Medicare,142/73,17,m,2025-02-20,2025-07-27
-P-46647,Samantha Alvarez,3451,AB+,Migraine,22881.27,Aetna,139/71,45,M,,2025-01-19
-P-55453,Mario Maxwell,5556,O-,COVID-19,28397.4,Aetna,139/76,0,M,2025-11-09,
-P-52000,Jessica Singh,6233,B-,Viral Infection,29136.03,Uninsured,98/93,87,,2025-03-23,2025-01-07
-P-96975,Debbie Carrillo,1606,A-,Migraine,45684.87,Aetna,137/78,39,NB,2025-04-13,2025-02-05
-P-25894,Phillip Miller,4638,AB-,,28696.91,Medicare,120/65,69,Female,2025-08-27,2025-05-31
-P-44222,Lisa Caldwell,8606,B-,Fracture,46064.75,Uninsured,132/97,108,Female,2025-05-30,2025-01-30
-P-93447,Kirk Powell,,O-,COVID-19,5076.52,Aetna,96/69,34,m,2025-11-12,2025-10-28
-P-98212,Amanda Franklin,,AB-,Hypertension,33949.08,,139/79,46,Male,2025-01-22,2025-02-02
-P-53888,Mary Johnson,4314,A+,Hypertension,33681.42,BlueCross,98/67,-13,Male,2025-07-09,2025-01-02
-P-85602,Eric Adkins,2886,,Migraine,9270.14,,141/74,40,Male,2025-06-26,2025-04-20
-P-18007,,7749 ,O+,COVID-19,1052.92,Private,97/69,,f,2025-11-30,2025-08-27
-P-53915,Gary Palmer,1320,AB-,COVID-19,45956.75,Medicare,137/73,,,2025-03-30,2025-05-06
-P-74978,Cody Hendricks,7276,B+,Migraine,40555.34,Aetna,134/67,42,,,2025-03-01
-P-97539,Natalie Stanley,7771,B-,Hypertension,47831.84,Aetna,126/86,94,,,2025-02-10
-,Matthew Brooks,6444,A-,Diabetes Type 2,4664.19,Uninsured,152/84,4,f,2025-05-30,
-P-31165,Richard Franklin,3704,B+,Hypertension,27442.89,Uninsured,108/99,12,NB,2025-05-21,2025-08-18
-P-81299,Jessica Fisher,1374,A+,Fracture,3033.61,Private,127/79,99,F,2025-03-22,2025-10-28
-P-76500,Nathan Dillon,9288,O+,Diabetes Type 2,38039.82,BlueCross,120/82,106,Female,2025-08-15,2025-09-30
-P-54909,Daniel Price,2645,A-,,27868.53,Aetna,157/90,38,Female,2025-09-26,2025-09-12
-P-13363,Amanda Wilson,,B+,Viral Infection,17049.5,Medicare,160/79,69,m,2025-10-22,2025-03-20
-P-39133,Kevin Wood,7921,A+,Migraine,18634.28,Private,,54,F,2025-02-20,2025-07-31
-P-44543,Shannon Jackson,7913,B-,Migraine,19535.36,Private,104/98,21,,2025-02-28,2025-08-29
-P-19766,Mark Johns,7038,,COVID-19,26879.06,Uninsured,135/97,28,NB,2025-03-03,2025-02-21
-P-52125,Amy Wong,1263,A-,Viral Infection,44093.91,Aetna,High,63,M,2025-09-16,2025-05-19
-P-91715,Stephen Spencer,3140,O-,,37574.71,Aetna,108/81,41,M,2025-04-12,2025-04-07
-P-13340,Michael Clay,2756,B-,Diabetes Type 2,41755.81,Medicare,158/63,-45,NB,2025-04-14,2025-03-09
-P-78394,Corey Pacheco,1576,A-,Hypertension,41183.04,Private,140-90,,M,2025-09-08,2025-09-18
-P-24249,Angela Patel,4802,AB+,Viral Infection,4135.45,Private,128/96,77,M,2025-06-28,2025-10-24
-P-58503,Chris Wheeler,4781,B-,Hypertension,,Private,139/73,68,Other,2025-05-25,2025-11-02
-P-24761,Manuel Smith,4343,O+,Migraine,12895.64,Medicare,113/89,0,f,2025-04-18,2025-02-19
-P-15022,Christopher Salinas,3930,B+,Fracture,46383.17,Aetna,,29,NB,2025-03-13,2025-09-15
-P-92467,,5370,A-,Hypertension,4226.38,Medicare,118/72,16,,2025-10-30,2025-06-04
-P-45195,,,AB-,COVID-19,18371.26,Uninsured,159/74,36,Other,2025-05-19,2025-08-16
-P-35704,Brandon Pruitt,,O-,Viral Infection,2416.67,Uninsured,,,,2025-10-15,2025-02-16
-P-87217,Daniel Palmer,8894,AB-,Migraine,25206.33,Private,97/63,76,F,2025-04-01,2025-02-08
-P-71235,Jacob David,,A-,,44017.59,,147/97,7,Maale,2025-02-17,2025-06-02
-P-30173,Mariah Brown,,A+,Hypertension,44952.31,Medicare,99/80,44,NB,2025-04-27,2025-04-17
-P-59298,James Rivera,3728,AB-,Hypertension,18610.36,Aetna,109/99,47,Female,2025-05-14,2025-10-12
-,,6535,A+,Hypertension,9220.13,Medicare,157/94,33,f,2025-09-05,2025-05-24
-P-42869,David Fitzpatrick,9248,,Hypertension,34966.61,Uninsured,,62,Female,2025-01-06,2025-06-10
-P-55783,Michael Saunders,7846,O+,Fracture,6848.13,Uninsured,122/86,14,NB,,2025-11-01
-,,2030 ,O+,Diabetes Type 2,28117.87,Aetna,,6,Female,2025-02-28,2025-09-14
-P-89683,,3653,O-,Hypertension,29468.21,Aetna,119/71,60,Other,2025-03-10,2025-02-01
-P-45291,Matthew Robinson,6656,A+,COVID-19,1330.74,Uninsured,147/69,37,Other,,2025-01-25
-P-96449,Robert Jarvis,7440,AB-,Hypertension,7979.64,Uninsured,134/80,17,m,2025-03-12,2025-06-21
-P-21689,Tina Ellis,3230,B+,Diabetes Type 2,48738.76,Medicare,148/78,51,F,2025-11-15,2025-08-14
-P-82553,Beth Price,9765,A-,Viral Infection,44606.15,Uninsured,122/82,21,M,2025-02-06,2025-06-25
-P-41127,Anthony Mills,9669,AB+,Hypertension,33870.67,Uninsured,158/74,67,F,2025-04-05,2025-03-26
-P-66773,Julia Williamson,8628,A+,,21477.57,BlueCross,96/67,40,f,2025-01-04,2025-03-12
-P-42784,Cory Guerrero,1966,B-,Hypertension,39205.21,Uninsured,147/68,49,NB,2025-04-17,2025-06-16
-P-62850,Sharon Blake,7817,A-,Diabetes Type 2,,Private,141/89,51,Male,2025-04-22,2025-05-29
-P-40360,Lori Steele,,O+,Diabetes Type 2,18069.29,Private,160/83,15,Male,2025-05-19,2025-07-20
-P-83076,Monique Diaz,2843 ,AB-,Diabetes Type 2,27582.15,Medicare,103/99,61,Other,2025-08-14,2025-02-12
-P-81589,Dr. Daniel Sweeney,2592,,Migraine,4632.62,Medicare,,4,Female,2025-08-17,2025-07-14
-,Joe Mendez PhD,9700,AB+,Hypertension,18834.34,,159/92,55,M,2025-04-10,
-P-31098,Gina Cunningham,6526,A-,Migraine,35882.13,,143/82,40,m,2025-03-20,2025-04-06
-P-58395,Robert Banks,2398,AB+,,2612.16,,148/66,22,Female,2025-10-15,2025-07-12
-P-77135,,4879,A-,,30807.14,Medicare,103/97,,Female,2025-06-15,2025-06-09
-P-35676,Pamela Hicks,6797,O-,Diabetes Type 2,17395.91,Medicare,140-90,73,Female,2025-11-20,2025-07-03
-P-94983,Kenneth King,,AB-,Diabetes Type 2,27183.78,Uninsured,96/64,17,m,,2025-10-07
-P-13918,Christian Snow,4507,O+,Viral Infection,,BlueCross,112/64,46,m,2025-05-25,2025-07-31
-P-77149,Ashley Burton MD,9132,AB-,COVID-19,27604.87,Aetna,104/89,41,Female,2025-11-06,2025-02-05
-P-20222,Erik Delacruz,1080 ,A-,Migraine,14519.9,Private,113/85,31,F,2025-02-10,2025-10-23
+P-58114,Michael Ellis,7237,B+,Migraine,,Private,109/100,88,Male,2025-06-16,2025-06-17
+P-25799,Stacy Johnson,7343,O+,Fracture,19664.64,Aetna ,159/79,53,f,2025-03-11,2025-01-25
+P-79685,Donna Williams,8118,O+,Hypertension,48483.7,Private,120 / 80,80,Female,2025-10-27,2025-03-08
+P-27705,Mark Edwards,1301,O+,COVID-19,16025.57,Uninsured,127/89,5,Female,,
+P-57187,Sydney Welch,4424,A-,,2402.37,Aetna,118/78,,F,2025-06-15,2025-10-26
+P-43546,Janet Shelton,5993,,Fracture,405.95,BlueCross,113/87,-48,f,2025-01-03,2025-06-11
+P-37359,,9231,AB+,COVID-19,16592.69,,151/83,-46,F,2025-10-12,2025-10-22
+P-43586,Anthony Cook,,A-,COVID-19,29846.46,Aetna,140/96,60,F,,2025-10-14
+P-76151,Sharon Lester,3773,B-,Diabetes Type 2,1344.25,Private,150/94,103,,2025-05-20,2025-01-06
+P-16433,Marco Davis,9591,A-,Hypertension,34323.21,BlueCross,90/96,-27,,2025-05-08,2025-10-01
+P-82085,Samuel Stuart,1396,B+,COVID-19,45676.36,Aetna,149/85,54,Male,2025-08-23,2025-02-18
+P-82120,Dawn Davis,1372,AB+,COVID-19,4445.09,Private,157/66,35,Male,2025-06-18,2025-02-03
+P-42749,Melissa Reeves,,B-,,21380.64,Uninsured,139/77,101,m,2025-08-09,2025-11-26
+P-95950,Justin Dalton,4617,,Viral Infection,16963.05,Medicare,104/97,-15,Male,2025-10-13,2025-09-18
+P-88632,Tara King,1735,O+,,36648.81,Private ,91/78,41,m,2025-07-19,2025-09-28
+P-56918,Ronald Brown,2843,AB-,Diabetes Type 2,$500.00,BlueCross,108/98,63,,2025-04-26,2025-09-26
+P-20118,,1352,AB-,Hypertension,35673.64,Private,105/96,66,Other,2025-06-10,2025-07-09
+P-51307,Paul Young,7124,B-,Fracture,7250.42,BlueCross,95/66,73,Male,2025-06-22,2025-01-11
+P-42605,Joshua Gonzalez,7476,B+,Migraine,28591.98,Private,120 / 80,58,Female,2025-03-05,2025-09-13
+P-49833,,1807,B+,COVID-19,,,140-90,5,M,2025-08-22,2025-06-18
+P-81516,Heidi Burnett,5999,A+,Migraine,46623.63,Private,91/60,42,Female,,2025-11-03
+P-23644,,4120,AB+,Migraine,5700.34,Uninsured,134/63,8,Male,2025-11-10,2025-11-09
+P-82918,Caroline Morales,8617,AB-,Fracture,7163.69,Medicare,,62,NB,2025-01-31,2025-08-10
+P-85571,Elizabeth Graham,2467,A-,Diabetes Type 2,$500.00,,133/65,14,Female,2025-02-16,2025-05-21
+P-51275,Christina Perry,1984,B+,,31184.95,Medicare,97/84,78,NB,2025-07-23,2025-06-24
+P-79339,Ana Torres,6507,O-,Diabetes Type 2,41771.78,Uninsured,140-90,2,Other,2025-10-16,
+P-52395,Alisha Rasmussen,5713,AB-,Fracture,23022.48,Aetna,120/97,97,Other,2025-02-05,2025-01-31
+P-49365,Melissa Sparks,1712,O+,Migraine,7551.1,,,101,Female,2025-07-24,2025-07-03
+P-38499,Debbie Gordon,8503,A-,Hypertension,40890.35,Medicare,139/90,34,,2025-06-15,2025-01-15
+P-73246,Andrew Anderson,5053,,,26720.9,Medicare ,132/79,52,Male,2025-06-30,
+P-89423,Dennis Cooper PhD,9846,AB+,Viral Infection,,Medicare,,-9,m,2025-08-30,
+P-39083,John Moss,5185,O+,Migraine,,Medicare,122/70,108,,2025-09-02,2025-01-08
+P-49373,David Johnson,1301,O-,Hypertension,23466.97,Private,95/84,23,,2025-04-09,2025-07-09
+P-31864,Christopher Taylor,6254,AB-,Migraine,39268.7,BlueCross,123/67,102,Female,2025-05-01,2025-04-28
+P-10860,Sandra Hines,9631,AB+,Viral Infection,5970.78,Private,148/77,12,NB,2025-07-12,2025-07-08
+P-33644,Robert Hopkins,6644,AB-,COVID-19,38911.74,Private,96/70,25,Other,2025-09-24,2025-02-04
+P-25799,Stacy Johnson,7343,O+,Fracture,19664.64,Aetna,159/79,53,f,2025-03-11,2025-01-25
+P-83140,Erica Johnson,4638,B+,Viral Infection,44613.71,Private,,9,,2025-11-08,
+P-84714,Mario Chavez,4212,B+,COVID-19,19539.36,Private,120 / 80,78,F,2025-05-31,2025-10-17
+P-84922,Travis Wilson,2091,A-,,14235.06,Medicare,152/66,0,Other,2025-07-05,2025-11-20
+,Michael Graham,6681,B+,Fracture,22833.65,,114/79,91,f,2025-08-16,2025-04-01
+P-68066,Cynthia Martinez,4825,AB+,Hypertension,26229.04,Medicare,147/84,15,Female,2025-03-19,2025-03-15
+P-78969,,4245,B-,Diabetes Type 2,31362.89,Aetna,120 / 80,101,Female,2025-11-28,2025-09-26
+P-62402,Elizabeth Foster,4258,,Diabetes Type 2,30854.14,Uninsured,98/94,18,Male,2025-02-11,2025-08-04
+P-46170,Courtney Vaughan,4288,O+,Viral Infection,10408.21,BlueCross,97/76,99,M,2025-04-23,2025-04-05
+P-52553,Jessica King,2405,A-,Viral Infection,41124.71,Aetna,135/87,17,M,2025-07-05,2025-07-06
+P-84588,Walter Hansen,9202,A-,Hypertension,15690.79,Private,118/60,81,,,2025-04-23
+P-23267,Heidi Graham,7529,AB+,Diabetes Type 2,44412.67,Uninsured,120 / 80,1,F,2025-03-11,2025-02-15
+P-55603,,5519,O+,Migraine,,Uninsured,114/61,100,F,2025-10-15,2025-08-12
+P-62047,Kaitlin Gutierrez,4339,A+,Diabetes Type 2,15692.79,Uninsured,101/63,89,Female,2025-07-19,
+P-84774,,4054,B+,Fracture,34998.34,Aetna,145/85,,m,2025-07-19,2025-10-11
+P-94181,,3572,B+,Viral Infection,45992.48,Aetna,112/95,76,F,2025-05-19,2025-11-14
+P-22046,Tracy George,2442,O-,Migraine,,Aetna,152/90,16,Other,2025-01-18,2025-08-20
+P-52558,,1651,O-,Viral Infection,,Aetna ,158/82,57,Other,2025-02-06,2025-06-05
+P-82569,Maria Sims,5444,A+,COVID-19,17580.88,BlueCross,,20,,,2025-03-20
+,Russell Bailey,8076,,Viral Infection,26894.68,BlueCross,High,4,m,2025-09-07,2025-03-23
+P-38298,Kenneth Stokes,7540,,,10492.3,Aetna,140-90,89,Male,2025-02-05,2025-01-07
+P-83156,,2173,B-,Hypertension,$500.00,Aetna,137/71,8,,2025-09-09,2025-04-28
+P-88018,Pamela Hernandez DVM,7445,A+,Viral Infection,40661.27,BlueCross,127/72,4,M,2025-04-09,2025-09-21
+,Rachel Taylor,3315,B-,Migraine,13904.81,BlueCross,113/76,74,Female,2025-09-24,2025-10-14
+P-96184,Tony Ramsey,,,Migraine,25052.71,Uninsured,139/90,94,Other,2025-02-07,2025-02-13
+P-28141,Charles Roberts,7332,AB-,COVID-19,23589.71,Private,122/88,36,NB,2025-04-07,2025-11-26
+P-11498,Jordan Moses,3485,B-,Fracture,44131.95,,97/81,24,,2025-06-02,2025-05-28
+,Catherine Smith,9589,,COVID-19,$500.00,Uninsured ,,21,f,2025-10-30,2025-08-22
+P-49562,Christopher Black,7170,AB-,Hypertension,22111.67,Uninsured,99/100,17,f,2025-03-02,2025-06-22
+P-60010,Karina Vasquez,6822,B+,COVID-19,35539.77,BlueCross,135/91,78,m,2025-10-26,2025-01-24
+P-71349,Michael Keller,,B+,COVID-19,39882.99,,High,19,Male,2025-02-20,
+P-38039,Sean Mathews,8373,AB+,Fracture,34383.91,Uninsured ,98/60,8,,2025-08-27,2025-07-29
+P-58018,Paul Saunders,,AB+,Viral Infection,,Private,153/75,-27,Other,2025-01-18,2025-04-26
+P-17956,Katie Myers,9269,B+,Viral Infection,24126.63,Uninsured,High,74,,2025-12-02,2025-05-13
+P-97194,Brian Lee,,O-,COVID-19,10885.38,Private,120/88,,M,2025-06-17,2025-09-20
+P-38930,Christina Bates,6231,B-,,36247.39,BlueCross ,154/77,-39,Female,2025-09-12,2025-05-02
+P-77013,,1869,B+,Fracture,15992.4,Uninsured,146/64,2,M,2025-06-19,2025-04-25
+P-66925,,,O+,Diabetes Type 2,30885.41,Private,120/91,38,f,2025-09-14,2025-05-03
+P-38157,Michael Serrano,3790,AB-,COVID-19,861.31,,99/77,80,M,2025-09-09,2025-11-30
+,Mr. Scott Miller,5994,B+,,22244.33,Medicare,150/79,43,NB,2025-02-20,2025-02-22
+,Heather Guzman,5237,A+,Hypertension,,Medicare,101/98,21,,2025-09-20,2025-02-15
+P-57307,,2475,B-,Viral Infection,31397.3,BlueCross,,29,,2025-01-19,2025-11-11
+P-11715,Thomas Reyes,6354,B+,Hypertension,8863.89,Private ,,-5,Female,2025-05-07,2025-06-26
+,Diane Mcdowell,5995,B+,Migraine,37811.57,Aetna ,101/83,22,Male,2025-10-07,2025-08-18
+P-41551,Melissa Mccormick,6624,AB+,Diabetes Type 2,,Uninsured,133/71,75,Male,,2025-09-01
+,Austin Solis,8879,B+,Hypertension,49182.58,Medicare,120 / 80,105,,2025-01-08,2025-06-28
+P-91785,Mark Taylor Jr.,7266,,Hypertension,25383.81,Private ,147/84,-21,F,2025-08-19,2025-01-18
+,Diane Byrd MD,5792,,Viral Infection,6590.69,Medicare,99/96,,M,2025-11-23,
+P-90862,Gregory Stanley,3425,B+,,20756.26,,140-90,62,m,2025-11-06,2025-10-18
+P-19225,Scott Bradley,8796,A-,Fracture,36275.71,Private,140-90,79,F,2025-08-01,2025-02-11
+P-56918,Ronald Brown,2843,AB-,Diabetes Type 2,$500.00,BlueCross,108/98,63,,2025-04-26,2025-09-26
+P-64594,Billy Tate,,AB-,Migraine,45651.79,Uninsured,139/64,44,M,2025-06-29,2025-08-03
+P-17641,Brent Reed,7460,AB+,COVID-19,39221.05,Uninsured ,High,18,NB,2025-05-06,2025-01-31
+,Michael Wilson,5445,B+,Fracture,3655.02,Aetna,145/73,22,Other,2025-02-27,2025-01-20
+P-96098,Elizabeth Brock,8993,A-,Hypertension,42136.05,Uninsured,120 / 80,12,f,,2025-06-07
+,Charles Hernandez,6298,O-,Viral Infection,$500.00,Uninsured,157/62,13,NB,2025-03-01,2025-08-28
+P-68654,Sean Morrow,4471,AB-,Migraine,32983.32,Medicare,94/61,21,Other,2025-01-16,2025-02-27
+P-15328,Alejandro Nguyen,2352,A-,COVID-19,15037.25,Private,140-90,60,M,2025-01-28,2025-09-19
+P-30732,Brian Navarro,3389,AB+,COVID-19,9591.56,,123/69,86,Female,2025-11-20,
+,Diane Byrd MD,5792,,Viral Infection,6590.69,Medicare,99/96,,M,2025-11-23,
+P-14946,Cheryl Atkins,6901,,Diabetes Type 2,30701.82,Private,103/88,11,,2025-02-19,2025-05-10
+P-85534,,6765,,Fracture,34255.45,Aetna,139/66,63,M,2025-02-01,2025-10-05
+P-65977,Ronald Marshall,6706,,Migraine,15185.68,Medicare,111/73,28,NB,2025-10-13,2025-06-03
+,Sean White,4869,A+,Diabetes Type 2,11661.54,Private,146/72,80,m,2025-01-07,2025-01-08
+P-85527,Pam Baker,6465,AB+,Diabetes Type 2,23338.2,BlueCross,158/81,78,f,2025-08-09,2025-10-09
+P-22499,Steven Stewart,,,,6676.58,BlueCross,100/89,,Other,2025-11-12,2025-08-26
+P-82100,Charles Thompson,3555,B-,Fracture,43602.77,,158/100,69,M,2025-05-31,
+P-86304,Casey Morris,9331,,Viral Infection,,,90/62,103,,2025-04-25,
+P-12844,Shawn Duffy,5653,AB+,Fracture,25751.63,Uninsured ,139/81,48,,2025-02-02,2025-08-16
+P-49365,Melissa Sparks,1712,O+,Migraine,7551.1,,,101,Female,2025-07-24,2025-07-03
+,Nancy Scott,6168,AB-,Diabetes Type 2,9031.25,Aetna,109/81,98,Female,2025-01-19,2025-07-12
+P-43303,Cynthia Clark,6437,A+,,23397.11,,147/82,18,Female,2025-09-02,2025-04-27
+P-23829,Lori Boyd,8046,,Hypertension,$500.00,BlueCross,152/71,104,Female,2025-09-12,2025-11-12
+P-58114,Michael Ellis,7237,B+,Migraine,,Private,109/100,88,Male,2025-06-16,2025-06-17
+P-82100,Charles Thompson,3555,B-,Fracture,43602.77,,158/100,69,M,2025-05-31,
+P-56179,Erin Silva,4271,B-,Fracture,38799.11,Private,130/93,87,f,2025-07-10,2025-11-30
+P-96184,Tony Ramsey,,,Migraine,25052.71,Uninsured,139/90,94,Other,2025-02-07,2025-02-13
+P-70125,Dawn Burke,7939,,Fracture,47541.26,Uninsured,,102,Other,2025-11-08,2025-09-26
+P-79979,,8216,A+,Fracture,46189.47,Uninsured,157/87,51,f,2025-05-23,2025-01-07
+P-89745,Sarah Bates,1225,B-,Viral Infection,,,114/93,,NB,2025-10-21,2025-11-24
+P-44732,Luke Solomon,4787,A+,Migraine,33807.25,Private,92/91,53,Female,2025-07-23,2025-10-04
+P-54238,Jack Sandoval,6729,B-,Viral Infection,24184.89,BlueCross,,106,Male,2025-09-16,2025-03-16
+P-87371,Barry Gregory,1886,AB+,COVID-19,16263.8,,135/74,-11,F,2025-09-13,2025-02-02
+P-93744,Laura Alvarez,8300,,Migraine,32318.05,Aetna,High,94,Male,2025-03-24,2025-04-13
+P-64419,Patricia Hamilton,5362,B-,Hypertension,$500.00,Aetna,123/75,104,NB,,2025-08-29
+P-44840,Matthew Watkins,3165,B+,Hypertension,37154.97,Medicare,140-90,,f,2025-01-22,2025-01-17
+P-60506,Jennifer Perez PhD,3136,AB-,Migraine,,Private ,120 / 80,,Other,,2025-09-12
+P-12136,Anthony May,8913,A+,Migraine,9708.03,Uninsured ,113/67,31,NB,2025-09-09,2025-09-04
+P-70341,,2767,AB+,COVID-19,17003.07,Uninsured,123/66,90,Female,,2025-01-04
+,,9814,AB-,Diabetes Type 2,26076.83,Medicare,122/72,53,NB,2025-02-06,2025-06-29
+P-20286,Sharon Martinez,5953,B+,Migraine,23323.29,Aetna ,,11,NB,2025-07-15,2025-07-25
+P-19289,Tiffany Johnson,3450,B-,COVID-19,1552.96,Private,136/62,-15,M,2025-06-25,2025-10-09
+P-33448,Shari Ray,5034,O+,Fracture,$500.00,Medicare,112/97,106,Female,2025-06-06,2025-10-09
+P-53829,Jordan Nelson,9212,AB+,Hypertension,,Private,107/62,105,,2025-02-14,2025-06-13
+P-95561,Tiffany Hood,5590,A-,Hypertension,,,147/61,71,F,2025-03-12,2025-09-09
+P-20215,Victoria Gray,9980,O-,Migraine,26840.69,Private,140-90,31,Male,2025-05-29,2025-07-27
+P-83812,Juan Parker,2823,AB+,Hypertension,305.08,Medicare,130/95,22,f,2025-11-11,2025-11-30
+P-58722,Katherine Brooks,2841,B+,Hypertension,46907.39,,124/81,41,m,2025-04-15,2025-09-09
+P-93000,Tracey Suarez,4982,AB-,COVID-19,,BlueCross,102/76,101,F,2025-08-22,2025-09-10
+P-64046,Emily Coleman,1893,AB-,Viral Infection,33868.19,Uninsured,124/77,107,,2025-08-07,2025-02-26
+P-58374,Alyssa Vance,5747,B+,Hypertension,,,High,94,,2025-04-20,2025-03-13
+P-66438,Heidi Baldwin,3419,,Hypertension,36256.07,Aetna,140/89,27,Other,2025-06-14,2025-04-04
+P-88087,Nancy Chavez,9991,AB+,COVID-19,16111.93,BlueCross,,,M,2025-03-29,2025-03-06
+P-20480,Mike Freeman,1827,AB-,Diabetes Type 2,45816.54,Uninsured,High,68,Other,2025-08-10,2025-08-31
+P-60010,Karina Vasquez,6822,B+,COVID-19,35539.77,BlueCross ,135/91,78,m,2025-10-26,2025-01-24
+P-49361,Terry Barajas,9709,O+,Diabetes Type 2,29678.54,Private,90/92,88,M,2025-01-30,2025-08-13
+,Jason Colon,7776,B+,Migraine,$500.00,Uninsured,,76,Other,2025-07-10,2025-09-19
+P-74409,Michael Henry,3509,O-,Diabetes Type 2,,Medicare,High,86,Other,,2025-06-24
+P-78089,Michael Rogers,5301,A+,Diabetes Type 2,34306.12,Uninsured,140-90,,M,2025-06-04,2025-01-03
+P-30278,Jessica Mora,7367,A-,COVID-19,12316.77,BlueCross,108/94,0,F,2025-04-27,2025-06-02
+,,2393,O-,Hypertension,39996.81,Aetna,140-90,16,Other,2025-04-10,2025-06-03
+P-32662,Sandy Adkins,9673,AB+,Hypertension,48686.73,,141/63,30,,2025-09-14,2025-07-19
+P-88944,Brad Rivas,4695,B+,Fracture,39460.06,Private,94/81,30,NB,2025-11-24,2025-06-12
+P-10025,Michelle Mcdowell,9952,B-,COVID-19,,,117/98,47,Other,2025-05-13,2025-06-13
+P-59160,Theodore Long,8719,O-,Fracture,29754.95,Uninsured,142/66,15,Male,2025-03-14,2025-03-16
+P-34832,Ryan Davis,3209,O+,Fracture,1655.54,BlueCross,120 / 80,39,f,2025-02-04,2025-07-05
+P-14543,Samantha Hale,9573,,Hypertension,15675.93,Private,,70,Other,2025-06-30,
+P-56616,Scott Greene,1312,AB+,COVID-19,22238.02,Private,94/64,83,F,2025-04-27,2025-02-09
+P-83193,Victor Harmon,4970,B-,Fracture,$500.00,Uninsured,109/88,75,F,2025-04-21,
+P-40279,Ryan Cobb PhD,9221,AB+,Diabetes Type 2,17744.42,Aetna ,120 / 80,22,F,2025-04-04,2025-01-06
+P-39716,Melanie Long,1482,B+,Fracture,35010.77,Private,,0,M,2025-11-02,2025-04-15
+P-84798,David Davis,1136,AB-,COVID-19,35247.25,BlueCross,140/71,10,NB,2025-11-08,2025-11-19

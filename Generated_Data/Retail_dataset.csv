@@ -1,526 +1,159 @@
 Trans_ID,Date,Customer_Name,Customer_Email,Store_City,Payment_Method,Is_Member,Discount_Pct,Category,Qty,Price,Total
-7250ee18,11-07-2025,,zunigathomas@example.org,Jaimetown,,True,0.05,Electronics,0.0,91.93,0.0
-ad238d36,,Jose Williams,Ã©mily61@Ã©xamplÃ©.org,Port Penny,UPI,False,0.1,books,1.0,,302.13
-bec39a37,2025-11-11,,amber70@example.net,Martinezport,UPI,True,0.1,home,10.0,158.39,
-069f14f1,,Joanna Jordan,rosskaitlyn@example.com,New Tara,Wallet,False,0.1,Toys,1.0,280.99,252.89
-5fb8d16c,03-11-2025,Denise Lloyd,donna43@example.org,Port Paul,Credit Card,False,0.2,home,-5.0,187.27,149.82
-,2025-08-12,Jay Bennett,craigromero@example.com,South Kaylee,UPI,False,0.0,,,286.34,2863.4
-07f194f9,2025-03-03,Elizabeth Gonzalez,,West Amy,Debit Card,False,0.5,BOOKS,10.0,77.37,386.85
-,2025-08-14,Sarah Flynn,anthonyalvarado@example.com,Port Kirk,UPI,False,0.5,ELECTRONICS,0.0,472.67,0.0
-8e485223,2025-03-21 ,Angela Mcgee,,Mosleystad,Cash,True,0.1,Home,10.0,415.75,3741.75
-bf85bf0e,07 Jul 2025,,meganrivera@example.net,Troyton,,False,0.0,Toys,5.0,29.38,146.9
-7914c120,,Christopher Mckinney,rjohnson@example.com,East Misty,,True,0.0,books,-5.0,217.61,652.83
-a9ba5a27,2025-03-03,Elizabeth Stout,jonesgregory@example.com,Turnerside,Credit Card,True,0.5,,3.0,277.81,416.72
-ebd34616,21-05-2025,Alison Cooper,kchurch@example.com,South Jennifer,UPI,False,0.0,Books,5.0,484.77,2423.85
-,,Jeffery Murray,scottpatrick@example.org,West Derekmouth,UPI,False,0.5,TOYS,5.0,393.94,984.85
-371ecd7b,26 Nov 2025,Mrs. Elizabeth French DDS,zunderwood@example.com,,Credit Card,True,,TOYS,3.0,309.37,981.7
-f8cda88b,2025-02-21 ,Stacey Stewart,brooke97@example.net,East Grace,Credit Card,True,0.0,,-5.0,301.95,603.9
-9132b63e,2025.03.25,Julie Gilbert,susan56@example.net,Michaelport,Credit Card,False,0.2,TOYS,5.0,462.32,1949.28
-1327f1bc,2025-06-20,Mario Barber,laurakelley@example.org,,Debit Card,False,0.0,HOME,3.0,225.71,677.13
-eededb07,26 May 2025,Kelly Hoffman,jamiejennings@example.org,West Steventon,,True,1.5,HOME,1.0,439.37,351.5
-c5c5b37a,14-02-2025 ,Kari Lee,jacob43@example.com,Lopezstad,Wallet,True,0.5,electronics,10.0,472.05,-1.0
-01d74256,19 Aug 2025,Joseph Mcintyre,luis11@example.com,Johnsonmouth,UPI,False,0.05,Books,-5.0,339.66,1613.38
-6fa17735,2025.01.20,Kelly Small,smithsarah@example.net,Amandafurt,,False,0.0,HOME,5.0,200.33,1001.65
-2a96e1e2,2025-01-29,Lisa Ramos,zcollins@example.com,Port Shari,UPI,False,0.05,grocery,3.0,370.09,
-beb79919,2025-10-28,David Fowler,elizabetholsen@example.com,West Penny,UPI,True,,Books,,322.97,358.38
-03802b70,27 Feb 2025,Danielle Golden,,Lake Timothyshire,Debit Card,False,0.5,electronics,2.0,302.49,302.49
-,2099.01.01,Roberto Allen,lawrencegary@example.com,Kimberlyberg,Cash,True,0.2,Electronics,2.0,292.29,467.66
-,02/13/2025,,hessbeth@example.net,,Debit Caard,True,0.15,,5.0,470.46,1999.45
-a748dbcf,2025.04.28,Julie Bird,andrew44@example.com,East Adam,Cash,True,0.2,electronics,-5.0,,1792.68
-ecab3301,06/17/2025,Stephanie Foster,fhernandez@example.net,East Charles,Credit Card,True,,Toys,0.0,342.59,0.0
-82010c62,01/01/2099,Scott Flores,gabrielle71@example.com,New Anna,Credit Card,False,0.0,Toys,3.0,419.06,1257.18
-e87466d7,07/08/2025,Chris Robinson,wlynn@example.org,Livingstonview,Caash,False,0.5,Clothing,2.0,333.05,333.05
-,06-11-2025,Brandon Shaffer,melissawhite@example.com,Port Annette,Cash,True,0.2,Electronics,,305.57,488.91
-40a26c60,2025-06-04,Karen Thompson,campbellnancy@example.com,North Adrianland,Credit Card,True,,Electronics,10.0,332.47,3158.46
-085b15fb,14-02-2025,Erin Hogan,christinacraig@example.com,Robertsonland,Wallet,True,0.05,clothing,,347.76,
-1d0bc9bd,,Sean Wilson,ann45@example.org,West Michael,Credit Card,,0.5,,,433.22,2166.1
-,2025-10-16,Susan Mendez,scott43@example.com,Phillipshire,UPI,True,0.15,grocery,-5.0,226.5,577.57
-956269f0,03-11-2025,Mr. Mark Andrews DDS,rushstacy@example.com,South John,Wallet,False,0.5,clothing,3.0,190.1,385.15
-,24-01-2025 ,Carl Warner,jamesmorales@example.net,New Christina,Credit Card,False,0.05,grocery,10.0,16.9,260.55
-6553867d,2025.10.14,Gabriel Willis,llopez@example.net,Hansenmouth,Debit Card,True,0.1,home,,399.57,0.0
-17fc695a,08-09-2025,Betty Fletcher,codygarcia@example.org,South Anita,Cash,True,0.05,Books,10.0,327.66,3212.77
-,2099.01.01,Valerie Lane,ryan25@example.com,Hunterfort,Wallet,True,0.1,home,10.0,496.81,4471.29
-e49d681d,17-05-2025,Nicole Parsons,david94@example.org,,Debit Card,True,0.0,HOME,,17.95,0.0
-1dde7969,06/08/2025,Douglas Williams,jonathanevans@example.net,South Davidview,UPI,,0.0,clothing,10.0,283.42,2834.2
-7c16128d,2025.11.15,Wendy Weaver,otaylor@example.net,Michaelside,,True,0.05,Books,10.0,,575.79
-a9f25336,2025.10.24,Kelly Rice,user_at_gmail.com,,,True,0.5,Clothing,2.0,455.41,455.41
-d32e6dcd,2025.07.26,Justin Delgado,vmullen@example.com,Padillatown,Credit Card,False,0.0,HOME,3.0,227.92,683.76
-2e85cb21,2025.05.02,Nicole Rocha,ohughes@example.com,Wellsberg,Cash,False,0.15,Toys,3.0,,1136.76
-638c254c,03/25/2025,Jerry Watson,,,Debit Card,False,0.0,Home,5.0,372.4,1862.0
-a0a11839,07/14/2025,Frances Patterson,gregoryjohnson@example.org,Port Jordanshire,UPI,False,0.05,GROCERY,2.0,295.3,561.07
-0b49452d,01/01/2099,Linda Baker,,Port Jamesland,,True,0.1,Grocery,0.0,78.67,0.0
-f143262f,08 Apr 2025,,ysnyder@example.com,,,True,0.5,toys,3.0,457.27,785.9
-f93e08d5,06/24/2025,Jeffrey Ashley,caseymoore@example.com,West Kevin,Cash,False,0.15,home,1.0,78.2,66.47
-1238d630,09-01-2025,Kristin Watts,kimberly56@example.com,Robertmouth,Credit Card,False,0.0,Grocery,1.0,375.27,-1.0
-c88a618e,01 Jan 2099,Travis Wise,josephortiz@example.org,West Thomasville,Debit Card,,0.2,,2.0,,120.27
-87f7e1fb,,John Peterson,anna99@example.com,Aliciastad,Credit Card,,0.05,,10.0,489.57,4650.92
-11c58ef0,,Brooke Delgado,evaughn@example.com,Ruizbury,,True,0.05,BOOKS,5.0,,475.48
-43d88870,27-01-2025,Jessica Davis,bkhan@example.com,South Sarahberg,UPI,,0.0,HOME,5.0,221.0,1105.0
-da743152,06/29/2025,Micheal Wang,jhall@example.net,Pageberg,Debit Card,True,0.0,HOME,3.0,400.87,
-32a447b2,11/08/2025,Mrs. Elizabeth Knapp MD,michael43@example.net,Kanefurt,Credit Card,False,0.15,home,5.0,123.75,525.94
-71d79665,2025.05.09,Randy Hayes,,Richardsonshire,Wallet,True,0.15,Books,10.0,461.07,3919.1
-44007d5a,,Richard Boyd,gregory81@example.net,Brownchester,Wallet,False,0.15,Toys,5.0,306.53,1302.75
-,2025-05-05,Gregory Holmes PhD,alexandriajimenez@example.net,Cunninghamview,Wallet,False,,grocery,5.0,194.73,486.82
-78660765,2025.08.20,,catherine47@example.com,Josephville,Cash,True,0.0,Toys,10.0,46.42,464.2
-bdd640fb,2025-02-08,Jasmine King,margaret90@example.org,East Matthew,Credit Card,True,0.1,Books,3.0,143.69,487.96
-ce777f00,22 Apr 2025,Jonathan Nelson,kchristian@example.org,Allenbury,,True,0.5,clothing,2.0,134.95,134.95
-4b0dbb41,09/07/2025,Tracy Bishop,crystalpham@example.org,Port Marissa,Wallet,True,0.2,Grocery,5.0,56.74,326.96000000000004
-fa745761,2025.05.17,Lisa Martin,joseph70@example.org,Howardmouth,Credit Card,False,0.1,books,10.0,205.14,1846.26
-7135f221,01-05-2025,Brian Bell,moraemma@example.net,,UPI,True,0.05,Grocery,3.0,154.74,441.01
-b0b862ef,,Alexis Lewis,sarah00@example.com,Davischester,UPI,False,,Clothing,1.0,472.06,472.06
-23b8c1e9,2025.09.24,Tracey Morrison,eddie35@example.com,Duncanton,Credit Card,True,0.15,Home,3.0,406.32,
-39118497,2025-01-24,Gary Kennedy,watsonmatthew@example.org,North Lisa,Cash,False,1.5,Home,5.0,210.05,1050.25
-eec259dc,10-04-2025,Shannon Bishop,,Brianstad,UPI,False,0.5,BOOKS,2.0,212.77,212.77
-fb10987f,26 Jun 2025,Robert Matthews,elucas@example.net,Brianview,Credit Card,False,0.1,GROCERY,10.0,182.57,1643.13
-59e4b671,2025.08.07,Karen Santos,danielhorton@example.org,Port Paula,,False,0.0,Books,5.0,,1367.9
-ff37d19c,17 Oct 2025,Christopher Nunez,,South Tinaton,Credit Card,True,0.05,,0.0,130.76,0.0
-,2025.10.02,Emily Miller,amandagreene@example.com,Port Davidtown,Cash,False,0.0,HOME,5.0,310.21,
-35ce8841,12-02-2025,Melissa Fowler,aaronkelly@example.net,Schmidtfurt,,False,0.0,Home,1.0,,297.92
-3eabedcb,,Anna Lozano,robin05@example.net,North Kellyfurt,,False,0.5,electronics,3.0,138.16,307.24
-8eb22579,05 Aug 2025,Steven West,user_at_gmail.com,Englishchester,Cash,,,TOYS,1.0,327.87,327.87
-dc713d96,04/18/2025,Heather Ashley,markmiller@example.com,Lake Dillon,,False,0.0,Electronics,0.0,244.31,100.0
-,2025-04-28,Brent Hall,,Millermouth,Wallet,False,0.15,Clothing,3.0,,126.22
-7412b293,2025-05-10,Curtis Jacobs,terrigarcia@example.net,,Cash,True,0.05,clothing,3.0,228.9,752.36
-a34b6cf6,,James Skinner,xboyd@example.org,Lake Mitchell,Debit Card,,0.1,ELECTRONICS,5.0,462.84,2082.78
-506e5a9a,01-01-2099,Shawn Jimenez,megan82@example.com,Lake Jamesport,Debit Card,,0.15,ELECTRONICS,0.0,,0.0
-0964fbbf,2025.07.18,Dylan Lopez,astewart@example.org,Lake Stephen,Wallet,True,0.1,electronics,10.0,186.74,1680.66
-28c13091,10/14/2025,Mary Burgess,lwilliams@example.org,North Patrickland,Credit Caard,False,1.5,Electronics,5.0,178.76,715.04
-,,Jamie Williams,,Sandrafort,Credit Card,False,0.1,Toys,0.0,333.5,0.0
-5da8d6d2,2025.11.22,Scott Smith,wardjulia@example.com,,Credit Card,True,,TOYS,1.0,484.53,
-6e417d47,25-06-2025,Richard Wright,qwhite@example.com,Leemouth,Wallet,True,0.05,Grocery,10.0,,3735.12
-587ef344,2025-09-16,Rachel Lopez,alexander89@example.net,Singletonport,,True,0.0,Home,0.0,38.24,0.0
-a748dbcf,2025.04.28,Julie Bird,andrew44@example.com,East Adam,Cash,True,0.2,electronics,-5.0,,1792.68
-e726be23,11-08-2025,Logan Brown,bgross@example.net,Whitebury,Credit Card,True,0.1,,2.0,133.81,240.86
-30cbd755,01 Mar 2025,Eileen Armstrong,mirandadavidson@example.com,East Patriciamouth,Cash,False,0.2,books,2.0,496.44,794.3
-,02-05-2025,Eric King,adkinssean@example.net,New Michaelside,UPI,False,0.0,GROCERY,0.0,156.65,0.0
-9f871ce7,2025.02.10,Levi Fowler,csolis@example.org,Amybury,,False,,Books,1.0,191.83,153.46
-09cb3942,18-05-2025,Taylor Johnson,qwilliams@example.net,Rodriguezfort,,False,0.05,electronics,3.0,236.88,675.11
-4223623b,22 Jan 2025,Megan Fernandez,hoopermario@example.net,East Angela,,True,0.15,books,0.0,351.65,0.0
-ccc56569,02/03/2025,John Castro DVM,arivera@example.org,East Amyside,UPI,False,1.5,BOOKS,5.0,370.25,1666.12
-080aadfb,25-06-2025,,astark@example.net,,Cash,False,0.0,CLOTHING,-5.0,20.67,103.35
-ab9099a4,02/18/2025,Timothy Dawson,gallagherstacie@example.net,Port Heather,Waallet,False,0.5,Grocery,5.0,171.52,
-f1738856,,,evansjeffrey@example.com,North Roger,UPI,True,0.5,toys,3.0,61.91,
-dc8aee30,12-03-2025,Colin Golden,,Nixonland,Debit Card,False,0.0,Toys,,,500.73
-dabac50d,12-09-2025,Anthony Ramirez,denise49@example.net,,Wallet,True,0.0,,5.0,345.8,1729.0
-7e8adee7,,Samantha Hickman,,,Cash,False,,Home,5.0,234.91,1057.1
-e9ff1cae,05 Oct 2025,Tyler Johnson,,Ginastad,Wallet,False,0.15,Home,10.0,408.03,3468.25
-e4855aa1,30-08-2025,Kimberly Brown,user_at_gmail.com,North Charles,Cash,False,0.5,Toys,5.0,127.27,318.18
-9f044aed,01/01/2099,,vfrench@example.com,Ramseytown,,True,,Books,1.0,385.09,308.07
-093923de,,Jason Gutierrez,,East Jenny,Cash,False,0.15,BOOKS,,388.54,1651.3
-e2aa7a5d,03-09-2025 ,Erika Chavez,julieatkinson@example.org,Port Belindatown,Debit Card,False,0.1,TOYS,,83.87,
-,2025.05.21,Jacob Edwards,hendersonvanessa@example.com,Lake Vincentburgh,Debit Card,False,0.2,Toys,-5.0,286.32,0.0
-a9f948b2,23 Apr 2025 ,Elizabeth Wright,olsontimothy@example.org,South Davidhaven,Wallet,True,0.0,,10.0,243.24,
-b92da22b,2025-08-27 ,Victoria Contreras,mikayla56@example.com,South Andrea,Caash,False,0.0,Grocery,-5.0,116.77,116.77
-db20a56e,05-06-2025,Betty Shaw,,North Jack,Cash,False,0.5,,-5.0,367.35,1836.75
-,2025-06-17,Ashley Davis,robinsoncatherine@example.com,East Cynthiaport,UPI,True,0.2,electronics,0.0,172.32,0.0
-6fb78271,2025.10.19,Shelia Roberts,tiffanysantiago@example.com,Cassandraberg,,False,0.1,Toys,3.0,212.21,572.97
-965befdf,2025.11.03,,nichole66@example.org,New Ashley,UPI,False,,Grocery,0.0,348.31,0.0
-,,Jamie Williams,,Sandrafort,Credit Card,False,0.1,Toys,0.0,333.5,0.0
-,10 May 2025,James Thomas,wwhite@example.net,South Tylerland,Cash,False,,Grocery,5.0,196.2,833.85
-,2025-02-20,,christianelizabeth@example.org,Lisaside,Credit Card,False,,clothing,1.0,266.99,
-f510ab53,2025.03.02 ,Juan Silva,susan24@example.net,New Matthew,,True,0.2,Electronics,0.0,13.13,0.0
-134c6c92,26-11-2025,Kristen Matthews,cameronmckinney@example.com,Christineside,Debit Card,True,0.0,,-5.0,324.35,0.0
-b92da22b,2025-08-27,Victoria Contreras,mikayla56@example.com,South Andrea,Cash,False,0.0,Grocery,-5.0,116.77,116.77
-7cd0129d,21-08-2025,Justin Knight,,,Debit Card,,0.15,Electronics,10.0,129.17,1097.94
-9a1de644,2025.05.20,Justin Schneider,smithmaria@example.org,Fostershire,Cash,True,0.2,electronics,2.0,,679.38
-766ecb15,2025.07.06,Joseph Anderson,xmalone@example.org,New Carolbury,Debit Caard,True,0.05,GROCERY,-5.0,76.36,725.42
-14fcdd54,01 Jan 2099,Victor Barrera,vsullivan@example.org,Port Christina,Wallet,True,0.15,Grocery,10.0,217.82,1851.47
-8beddb12,02/05/2025,James Combs,fosterjohn@example.org,Port Brenda,Credit Card,True,,ELECTRONICS,0.0,386.13,
-ce9e1a11,2099-01-01,William Grant,freemancrystal@example.org,Angelatown,Credit Card,False,0.0,books,2.0,,85.94
-90b2b633,2099.01.01 ,Taylor Griffith,matthewreeves@example.net,Gutierrezmouth,Credit Card,True,0.15,TOYS,3.0,195.85,499.42
-ce177b4e,22-03-2025 ,Charles Johnson,jennifer50@example.org,Matthewfurt,,True,0.15,TOYS,2.0,88.26,250.04
-d56f0350,11/26/2025 ,Tammy Barron,,Port Dwayneberg,,True,0.05,,2.0,404.28,768.13
-,2025-03-07,John Medina,imendoza@example.org,West Kenneth,Cash,False,0.0,HOME,2.0,85.6,171.2
-a9488d99,09 Jan 2025,Cheyenne Gregory,,Jasonside,Cash,False,0.2,grocery,10.0,468.55,3848.4
-10f1bc81,08/16/2025,,brendastark@example.org,North Michael,UPI,False,0.05,GROCERY,1.0,346.18,428.87
-1986b4b2,01 Sep 2025,Elizabeth Baxter,justin80@example.net,Mikeborough,Debit Card,True,0.15,electronics,3.0,422.39,
-3805f907,2025.09.20 ,Christopher Taylor,user_at_gmail.com,Proctorberg,Wallet,False,0.5,BOOKS,3.0,148.7,223.05
-696608aa,07-02-2025,Raymond Thomas,cummingscraig@example.com,Amberton,Cash,False,,clothing,5.0,282.37,1341.26
-a14923c2,2025.09.08,Olivia Alexander,kristen44@example.net,New Jennaborough,,,0.15,Home,5.0,53.91,229.12
-1d9af659,2025.06.14,Edwin Morrison,reynoldsjessica@example.com,South Lisaville,,False,0.05,grocery,0.0,214.09,0.0
-3d114802,,,fmedina@example.com,New Daltonmouth,Debit Card,True,0.2,HOME,2.0,43.3,69.28
-bfddc3d9,05 Feb 2025,Edwin David,michaelortiz@example.org,West Edwardview,Credit Card,True,1.5,Home,0.0,282.79,0.0
-0ab54bde,2025-04-09 ,Ryan Luna,qmartinez@example.com,North Larryton,Wallet,False,1.5,electronics,0.0,126.08,0.0
-93829b43,01/17/2025,Krista Roberts,kpena@example.net,Port Georgemouth,Credit Card,False,0.5,,-5.0,45.78,
-5304317f,2025.10.25,Brad Walker,carolynsmith@example.com,East Jamesmouth,UPI,True,0.2,clothing,2.0,337.22,639.55
-c1581092,2025.11.19,Cameron Irwin,howardshaun@example.net,Bradfordbury,Credit Caard,True,0.0,clothing,,238.34,1191.7
-,27 Jan 2025,Stacey Arias,annalopez@example.com,South William,Debit Caard,True,0.05,Grocery,0.0,186.18,100.0
-6a34c854,2025-02-25,Sabrina Young,charles58@example.org,New Brett,Cash,False,0.5,,3.0,362.81,544.22
-3810ae66,,Chad Smith,barrettamber@example.com,New Julieshire,Credit Caard,True,0.0,Books,0.0,217.33,0.0
-c074718e,2025.04.17,Amanda Keller,ogreer@example.net,Lake Jessica,,False,,Clothing,1.0,109.53,109.53
-1d34d08e,01-12-2025,Francis Navarro,,Robertfort,Wallet,True,0.1,,2.0,,-1.0
-b253d218,2099-01-01,Amanda Shields,,Port Ronaldside,,False,0.2,Toys,3.0,438.53,1052.47
-eb2263dd,17-08-2025,Gina Lopez,briansmith@example.org,North Ricky,Credit Card,,0.0,CLOTHING,-5.0,64.98,129.96
-b540b30e,,,thomasmendez@example.org,Port Brandon,,True,0.05,TOYS,0.0,349.22,0.0
-fc377a4c,20 Jan 2025,Jessica Hammond,anthonycochran@example.com,East Amy,Wallet,True,0.1,electronics,1.0,13.35,112.02
-11df12d7,2025.10.22,Brandy Brady,millermatthew@example.com,Susanland,UPI,True,0.15,Books,0.0,,0.0
-624c69b6,10/26/2025,David Smith,,Maryberg,Cash,False,0.0,Toys,5.0,354.85,1774.25
-7e570ddf,02-01-2025,Chelsea Barnett,daniellegarcia@example.com,Shaneberg,Credit Card,True,0.2,CLOTHING,3.0,479.11,1249.86
-,03/08/2025,Melissa Hernandez,dunnjÃ©ssica@Ã©xamplÃ©.nÃ©t,North Joel,UPI,False,0.0,toys,3.0,57.87,173.61
-ab0e664e,27-03-2025,Daniel Thomas,qhall@example.com,Brownland,Credit Card,False,0.05,ELECTRONICS,2.0,,912.11
-,2025.06.05,Nancy Thompson,jeffrey35@example.com,Port Kristenview,Wallet,False,0.05,Home,1.0,122.71,116.57
-49bc473f,,Laura Adams,thomassmith@example.com,Diazton,UPI,,0.5,toys,3.0,261.1,391.65
-00a81de9,,Frank Wright,lgutierrez@example.org,West Robertside,,False,0.2,electronics,5.0,141.77,567.08
-269cd696,03-01-2025,Wyatt Young,steven20@example.org,Garyport,,False,0.05,books,0.0,281.12,0.0
-e0ccedc5,01 Jan 2099,Regina Stone,xglover@example.org,,Cash,True,0.0,Toys,0.0,339.29,0.0
-292bd156,30-10-2025,Kyle Andrews,raymond92@example.org,Lake Jessicaborough,UPI,False,0.0,HOME,3.0,394.11,-1.0
-98c7472a,26-07-2025,Dana Meyer DDS,hallpaul@example.org,Port Jamesmouth,Cash,False,0.1,clothing,3.0,460.38,
-f8cda88b,2025-02-21,Stacey Stewart,brooke97@example.net,East Grace,Credit Card,True,0.0,,-5.0,301.95,603.9
-,2025.02.11,,joshuacolon@example.net,Samanthaton,Cash,,0.05,home,-5.0,446.75,2122.06
-,,,user_at_gmail.com,New Alanhaven,Credit Card,True,0.0,Home,,454.45,-1.0
-551ac8ea,06/30/2025,Paul Neal,,Port Stacey,Caash,False,0.0,HOME,3.0,145.22,435.66
-1d0bc9bd,,Sean Wilson,ann45@example.org,West Michael,Credit Card,,0.5,,,433.22,2166.1
-ce3714af,2025-03-25,Jonathan Wolfe,john36@example.com,Stephanieview,Wallet,True,0.1,Grocery,1.0,363.87,327.48
-366eb16f,11/12/2025,Alicia Lewis,rogersmarcus@example.org,New Joshua,Credit Card,False,0.5,Electronics,2.0,445.02,545.02
-96ef2ad6,2025.05.28 ,Misty Hansen,,Larsonbury,Debit Card,False,0.1,Clothing,10.0,448.45,
-ae9bec36,24 Sep 2025,Kimberly Lowe,robertroach@example.net,New Katherineborough,UPI,True,1.5,,0.0,265.41,0.0
-aee1e86b,2025-11-19,Lawrence Lopez,thomasmaldonado@example.com,Sawyerland,UPI,True,0.15,Toys,2.0,188.86,321.06
-94a1875d,06/09/2025,Thomas Butler,timothyfreeman@example.com,Freemanland,,False,0.2,Books,2.0,,129.17
-b227462c,09/07/2025,,,East Dawnchester,Debit Card,False,0.15,,5.0,238.46,1013.46
-770c7798,19 Sep 2025 ,Julia Oconnor,robertbrewer@example.net,Jamestown,Debit Card,False,0.05,Electronics,5.0,117.17,556.56
-eededb07,26 May 2025 ,Kelly Hoffman,jamiejennings@example.org,West Steventon,,True,1.5,HOME,1.0,439.37,351.5
-aaf91531,2099-01-01,Charles Morrison,cynthia07@Ã©xamplÃ©.com,New Gina,UPI,True,,grocery,0.0,301.03,0.0
-ddd1dfb2,02-11-2025,Kathryn Barnes,stokesthomas@example.com,Anaberg,Debit Caard,True,0.5,home,3.0,197.95,396.92
-8dcdcd03,19-07-2025,Tyler Johnson,wendyburton@example.net,South Robert,Debit Card,False,0.5,Home,-5.0,283.81,0.0
-,,Ryan Liu,gonzalezjill@example.org,West Michaelport,Credit Card,True,0.5,Home,2.0,395.07,395.07
-287d06ca,2025-09-14 ,Chad Baldwin,george62@example.net,East Anthony,Wallet,False,0.05,BOOKS,-5.0,,0.0
-a8f1e091,,Lori Brooks,,,Cash,,0.2,GROCERY,10.0,81.51,652.08
-94340a03,2099-01-01,Tony Lin,rioswhitney@example.com,,Debit Card,True,0.0,TOYS,0.0,362.36,0.0
-c1101266,09 Mar 2025,Michael Williams,xreese@example.net,East Ericbury,Debit Card,True,0.0,books,0.0,131.63,0.0
-,08 Sep 2025 ,Roger Duncan,ashleymeza@example.net,Jenkinsburgh,UPI,True,0.0,Electronics,0.0,,0.0
-7e8adee7,,Samantha Hickman,,,Cash,False,,Home,5.0,234.91,1057.1
-a8e56e0c,2025-06-13,Mark Moody,hernandezheather@example.org,New Danielmouth,Cash,True,0.05,grocery,-5.0,,1630.86
-,18 Jul 2025,John Mckinney,victorclark@example.net,South Patriciamouth,Credit Card,True,0.05,Clothing,0.0,383.06,0.0
-ded255d0,07/15/2025,David Moon,amandalopez@example.net,East Aprilstad,Debit Card,True,0.05,Electronics,10.0,458.06,4351.57
-9c2e58de,25 May 2025,Jamie Rojas,ingramsherry@example.com,North Andrewfort,Debit Card,False,0.05,Books,1.0,58.32,55.4
-dc713d96,04/18/2025,Heather Ashley,markmiller@example.com,Lake Dillon,,False,0.0,Electronics,0.0,244.31,100.0
-,2025.02.02,Dale Edwards,bshort@example.com,Destinyfurt,,True,0.15,CLOTHING,3.0,410.82,1047.59
-23e2fcb4,24 Jan 2025,Evan Jones,lopezjason@example.com,Chavezmouth,Debit Card,False,0.15,HOME,-5.0,,166.92
-ec1b8ca1,2025.03.24,Amanda Diaz,ramirezderrick@example.org,North Jodibury,,False,,Books,2.0,,306.40999999999997
-3c07c574,2025.05.12,Andrew Gonzales,bennettroy@example.net,South Shawnfort,Credit Card,False,0.0,Grocery,10.0,373.21,3732.1
-b4323070,2025-07-17,Daniel Goodman,,New Danielleshire,UPI,True,0.1,Grocery,0.0,166.38,0.0
-,04-02-2025,Robert Spears,kathÃ©rinÃ©ali@Ã©xamplÃ©.com,Theresaborough,Wallet,False,0.1,Books,10.0,169.92,1529.28
-517400f8,2025.06.24,Walter Summers,imcdonald@example.com,Jeremystad,Debit Card,False,0.05,home,10.0,363.24,3450.78
-9854ce4e,25-09-2025,Austin Williams,nancy94@Ã©xamplÃ©.nÃ©t,Thompsonstad,UPI,False,0.2,CLOTHING,2.0,301.85,482.96
-f2e9702d,17-05-2025,,fmontoya@example.com,Muellerchester,,False,0.0,Books,,230.4,2304.0
-6a5e6920,10-02-2025,,smithsamantha@example.net,West Kellyland,Wallet,False,0.2,Books,0.0,214.97,0.0
-b8a6171f,2025.10.18,,johnsjessica@example.com,Lake Deborah,Cash,False,0.15,electronics,3.0,326.0,831.3
-3985fb62,2025.04.02,Dennis Atkins,colematthew@example.com,Port Julie,Cash,False,0.1,,3.0,394.37,1064.8
-b5b453ca,13-11-2025 ,Jeffery Fitzgerald,rosshannah@example.org,West John,Cash,False,0.0,Clothing,2.0,281.57,563.14
-3270e4fa,05/02/2025 ,Michelle Smith,huntÃ©randrÃ©a@Ã©xamplÃ©.com,Jaredshire,,False,0.1,Books,10.0,48.74,438.66
-4d3485c5,2025-04-17,Nathan Nichols,lindsey62@example.org,Cookton,,True,0.0,CLOTHING,,18.2,182.0
-c3c75611,07/23/2025,Kimberly Diaz,victorgonzalez@example.net,Hoodview,Credit Card,False,0.0,toys,,297.08,
-d56ce8ea,,Tony Taylor,hbrown@example.org,Lake James,Debit Card,True,0.15,Electronics,10.0,498.87,4240.39
-af34cf65,18 Aug 2025,,blopez@example.org,Mcculloughberg,UPI,True,0.0,Grocery,10.0,244.71,2447.1
-21813d25,2099-01-01,James Bryant,ruizjoyce@example.net,Kristyport,Wallet,True,0.0,Grocery,3.0,86.01,258.03
-aa38d0a1,2025-09-13,Kevin Berry,xclements@example.org,New Danielfurt,,True,0.0,GROCERY,3.0,306.44,919.32
-f1faf665,27 Aug 2025 ,Joshua Thompson,jbarker@example.com,East Jaredfort,Wallet,False,0.5,Grocery,2.0,23.19,23.19
-6bebac31,08/09/2025,Stephen Owens,howardwesley@example.com,Bishopview,Debit Card,False,0.15,CLOTHING,5.0,421.14,1789.84
-,2025-09-11,Mary Thompson,kimberly35@example.net,North Kathyfort,Debit Card,False,0.05,TOYS,5.0,85.53,406.27
-3c9ad14c,11/20/2025,,kelleyrenee@example.net,North Susanside,UPI,False,1.5,home,3.0,299.92,449.88
-5380b904,03/24/2025,Timothy Smith,petersenlatoya@example.net,Angelamouth,,True,0.2,Books,5.0,35.25,141.0
-63d62a39,2025-09-03,Clinton Medina,hmoon@example.com,,Cash,True,0.0,Toys,0.0,472.3,0.0
-dd59ba71,2099.01.01,Denise Weber,allentracy@example.com,Cherylshire,Wallet,False,0.0,BOOKS,1.0,459.39,459.39
-0f1259e0,2025-02-12,Reginald Padilla,rarnold@example.net,,Wallet,True,0.5,home,-5.0,,
-dd2467ac,07/22/2025,Johnny Ward,brandonalvarÃ©z@Ã©xamplÃ©.com,Courtneyville,Credit Card,False,0.2,,-5.0,39.53,158.12
-1a432f0a,2025.11.10,Scott Alexander,zperez@example.com,South John,Wallet,False,0.1,Home,3.0,345.37,932.5
-0de051a6,,Christopher Cunningham,michael64@example.com,West Ronaldview,Credit Card,,0.5,BOOKS,0.0,60.09,0.0
-1fa382e8,2025.06.20,Nancy Sanchez,umckenzie@example.net,Port Scott,Debit Card,True,,BOOKS,,326.07,326.07
-8861fe18,18-07-2025,Kelly Allen,thoward@example.com,,UPI,True,0.1,Clothing,1.0,150.48,135.43
-eb6c1016,2025.08.19,Erin Madden,dennis88@example.org,Rebeccashire,Credit Card,False,0.05,HOME,10.0,,1216.66
-d5385b0e,2025.09.13,Donald Hawkins,zdaniels@example.org,Toddberg,Cash,True,0.15,,1.0,106.13,90.21
-ce88cb2d,09-03-2025 ,Zachary White,wellsdarrell@example.com,,Debit Card,False,0.5,books,-5.0,109.06,54.53
-ccf3a171,09/07/2025,Mitchell Mendoza,dennismccann@example.com,Stephenstown,UPI,True,0.5,TOYS,-5.0,241.31,
-,2025.01.30,Cynthia Cruz,,Laraport,,False,0.0,Electronics,0.0,107.9,0.0
-dca02eec,,,jacob83@example.org,Lake Kelly,Cash,True,0.0,CLOTHING,3.0,489.46,1468.38
-989d9d4a,03-01-2025,Patrick Gibbs,,,Wallet,,0.05,BOOKS,3.0,156.99,447.42
-65c17795,02-07-2025,Daniel Miller,frankmclaughlin@example.com,Reillyberg,UPI,False,0.2,,0.0,413.53,-1.0
-d0e6e660,2025-02-19,Jeremy West,,New Jillfurt,UPI,False,0.15,books,-5.0,428.7,3643.95
-ff233d5f,16 Feb 2025,Brittany Price,andersonbrittany@example.org,Lake Beth,Wallet,,0.2,Grocery,5.0,354.39,1417.56
-b24cc64f,01/21/2025,Bianca Carter,dmiller@example.com,Michaelhaven,Wallet,False,0.0,Home,5.0,342.98,1714.9
-cc530e36,05/27/2025,,michellecoleman@example.org,Barberburgh,Wallet,False,0.2,Books,,235.81,188.65
-f1578470,10/15/2025,Melissa Russell,susanfleming@example.com,New Joanne,Debit Card,False,0.05,clothing,3.0,279.81,797.46
-e2add909,2025-08-27 ,Victoria Kennedy,,East Jenniferfort,,False,0.0,electronics,5.0,167.59,837.95
-,2025-06-15,Sandra Holmes,,Lake Michaelberg,UPI,,0.1,Electronics,-5.0,482.25,868.05
-b09b2a5c,01/25/2025,,thomasmiller@example.net,Kimport,Cash,False,0.5,BOOKS,-5.0,,114.14
-aefcfad8,02-11-2025,Belinda Miller,lkelly@example.org,Briantown,UPI,True,0.0,BOOKS,2.0,295.41,690.82
-5a104129,04 Jan 2025,Brandon Hahn,macdonalddylan@example.org,North Jillfort,UPI,False,,Grocery,1.0,50.52,40.42
-698c206f,06-02-2025,Donna Berry,meadowsmary@example.net,Josephport,Cash,,1.5,,2.0,,162.89
-9b49bd26,2025.02.14,Nicole Moore,angelarandall@example.net,New Paulton,Credit Card,False,0.0,Toys,-5.0,249.53,
-0ba6eab9,05 Aug 2025 ,,davisdonna@example.net,West Bryan,Credit Card,True,0.5,TOYS,1.0,287.72,143.86
-03edd1f8,03 May 2025,,earroyo@example.com,Lake Loganstad,Cash,False,0.2,Books,0.0,196.15,0.0
-30a900ad,2025-10-08,Frances Gibson,elizabeth62@example.net,,,True,0.0,books,3.0,269.7,809.1
-3d67cde9,,Ashley Wright,jennifer90@example.org,Kingmouth,Wallet,False,0.0,Toys,1.0,198.08,198.08
-97ac6aa8,2025-07-24,,melaniedrake@example.net,Grahamland,Credit Card,False,0.2,Grocery,2.0,133.68,213.89
-8f15ba58,2025-09-13 ,Barbara Haney,user_at_gmail.com,South Cassandra,Cash,False,0.0,grocery,10.0,442.58,4425.8
-39669fa7,2025-01-21,Sean Figueroa,amandataylor@example.com,Mejiabury,Credit Card,True,0.0,Home,10.0,33.77,337.7
-0bd4a990,10-11-2025,Michael Love,user_at_gmail.com,Garrettfurt,Wallet,False,0.15,ELECTRONICS,0.0,375.97,0.0
-a2a9d4d8,2025.04.20,Daniel Bird,,Williamsville,Wallet,False,0.05,Grocery,1.0,118.78,
-c01f36bf,2025.01.18,Cassie Jefferson,ccrosby@example.org,Mathewport,Wallet,False,0.2,CLOTHING,,,116.93
-2812859a,2025.06.12,Carol Salazar,mgonzales@example.net,,Wallet,False,,,10.0,372.48,2979.84
-f6b751f7,04/16/2025,Steve Mooney,dannylambert@example.net,Lake Susanland,Debit Card,False,0.2,Toys,3.0,39.62,95.09
-9384ec2b,01/31/2025,Brian Lambert,moniqueclark@example.org,Lake Ronniebury,Credit Card,False,0.05,Toys,2.0,196.24,372.86
-3d225c30,23-10-2025,William Reid,scott22@example.net,Ellisshire,Cash,True,0.2,Clothing,10.0,186.95,1495.6
-033d2bce,2025.05.15,Angela Chung,patriciagonzalez@example.net,Robinsonville,Credit Card,True,0.0,home,0.0,351.95,0.0
-f10c718b,2099.01.01,Jerry Thomas,rguerrero@example.org,North David,Cash,,0.1,Home,2.0,236.87,426.37
-6786d506,10 Apr 2025,Kevin James,guerrerorobert@example.com,North Matthewmouth,Debit Card,True,0.2,BOOKS,0.0,194.81,0.0
-295d6fbf,2099.01.01,Anthony Castillo,karen26@example.org,East Matthew,Wallet,True,0.05,BOOKS,3.0,124.74,
-a6846099,21 Sep 2025,,xwalker@example.net,Lake Peterberg,Cash,False,0.0,toys,2.0,266.95,533.9
-3d85de89,2025-10-26,Tracy Nguyen,aeaton@example.net,Lake Wendybury,Credit Card,True,0.1,electronics,,,2956.05
-473bd358,2025-10-29 ,Matthew Parker,avilabrenda@example.net,North Samanthastad,Debit Card,False,0.1,Clothing,,,2400.57
-5be6128e,26 Jun 2025,,,Hansonmouth,Credit Card,False,0.15,TOYS,1.0,208.69,277.39
-74eff545,2025-08-22 ,Linda Jackson,daustin@example.net,Shannonstad,Cash,True,0.15,,0.0,284.17,0.0
-,05/31/2025,Tyrone Kaufman,josephpreston@example.org,Port Donnashire,,True,,,3.0,375.96,1071.49
-5ab33edf,09/13/2025,William Conner,fosternatasha@example.net,Parkermouth,UPI,False,0.2,home,-5.0,275.17,220.14
-dd750e98,2025-01-16,Marie Day,mario74@example.net,North Kylie,Wallet,True,0.1,Books,2.0,339.76,611.57
-ef8c485b,01 Jan 2099,Kyle Cameron,walkerjeffrey@example.com,North Ginamouth,Wallet,True,0.0,Home,10.0,438.85,4388.5
-,03 Sep 2025 ,,zacharymarsh@example.net,Deborahport,Cash,False,0.0,Home,0.0,301.25,0.0
-,02/17/2025,Ralph Lee,williamssteven@example.org,,,True,0.1,,0.0,104.65,100.0
-c9a7d91f,,Meredith Anderson,cnÃ©lson@Ã©xamplÃ©.com,Hernandezborough,Debit Card,False,0.15,Clothing,,93.06,237.3
-29a3b2e9,2025.04.05,Amy Castillo,josephvelasquez@example.net,West Georgeport,Debit Card,,0.5,Toys,0.0,140.83,100.0
-7b85179a,09 Mar 2025,Renee Hudson,champton@example.org,South Jenniferside,UPI,False,0.15,Books,3.0,365.17,931.18
-7c0e8cd8,24 Oct 2025 ,Austin Wheeler,kellythompson@example.net,East Thomasland,Credit Card,True,0.5,GROCERY,3.0,32.4,48.6
-9f64eeed,10/29/2025,Connie Johnson,ashleykrause@example.net,Port Gail,Cash,True,0.15,BOOKS,0.0,52.78,0.0
-2cd94cbb,2025-06-03,Vincent Edwards MD,marykelly@example.org,West Ryan,Debit Card,False,0.15,ELECTRONICS,10.0,388.36,3301.06
-35ebd32d,01-01-2099,Sarah Wheeler,fergusonjessica@example.org,Janetmouth,UPI,,0.0,Clothing,10.0,31.68,
-b4a69f3c,01/01/2099,Michelle Hampton,jeffreymercer@example.org,Oconnorhaven,Cash,False,0.2,TOYS,0.0,459.03,0.0
-0e5dd462,29 Jun 2025 ,Nicholas Bell,brianrowe@example.org,Rhodesland,,False,0.05,CLOTHING,1.0,484.2,-1.0
-63f2ae24,01 Jan 2099 ,Lauren Jackson,,Sarahland,,False,0.05,Toys,10.0,49.32,
-82dc4c8e,2025.08.05,Jacqueline Miles DVM,nrodriguez@example.org,Robbinsstad,,True,0.15,Clothing,5.0,112.36,477.53
-d5f25073,2025.01.12,Darin Mathews,amber40@example.net,Kimberlybury,UPI,False,0.0,CLOTHING,,175.41,526.23
-f6febc0e,2025-09-04 ,Sara Smith,regina78@example.org,Ianburgh,Credit Card,,,toys,2.0,76.39,152.78
-91b0e1d9,2025.03.29,Julie Moore,,East Lisashire,,False,,HOME,2.0,45.66,45.66
-,2025.02.02,Michelle Rios,,New Bettyberg,UPI,,0.2,BOOKS,2.0,300.97,481.55
-ce7ae7f6,29 Mar 2025,Carmen Bond,user_at_gmail.com,South Jacqueline,Credit Card,False,0.0,clothing,10.0,373.32,3733.2
-7c967f79,01-01-2099,Daniel Armstrong,wellsdavid@example.org,Markchester,UPI,False,0.05,grocery,2.0,431.54,819.93
-787f2425,2025-11-12,Denise Rodriguez,daviskatherine@example.org,Jensenport,Debit Card,False,1.5,,0.0,196.77,0.0
-fd08b32c,2025.08.08,Samuel Kramer,brittanybryant@Ã©xamplÃ©.nÃ©t,West Justin,UPI,False,,,5.0,312.17,1482.81
-1d53434b,07 Nov 2025,Brandi Bell,egarcia@example.net,Port Lucaschester,UPI,False,0.1,CLOTHING,2.0,381.1,785.98
-,07/17/2025,,garciarobÃ©rt@Ã©xamplÃ©.nÃ©t,Wilsonmouth,,True,0.2,ELECTRONICS,2.0,416.41,666.26
-ac9ed156,17 Aug 2025,Daniel Ramirez,spencergregory@example.com,,Debit Card,True,0.5,,0.0,193.96,0.0
-03c72ba8,,Christopher Donovan,wrightstephen@example.com,Lake Belindaport,Cash,False,0.0,,-5.0,,386.98
-,2025-04-01,Todd Lynch,fconner@example.net,Lake Jonathanfurt,Debit Card,False,0.2,Grocery,0.0,387.22,100.0
-de9e3757,2025.08.07,Sheila Boone,pparker@example.net,Toddhaven,,False,0.05,Electronics,1.0,393.51,373.83
-9384ec2b,01/31/2025,Brian Lambert,moniqueclark@example.org,Lake Ronniebury,Credit Card,False,0.05,Toys,2.0,196.24,372.86
-1a2a73ed,17 Nov 2025,Nancy Rose,reyesronald@example.com,Garystad,Credit Card,True,0.0,Grocery,,322.98,745.96
-5f18e583,25 Aug 2025 ,Brittany Randolph,barbertonya@example.net,Port Heather,Wallet,False,0.5,ELECTRONICS,2.0,172.48,
-771ad655,11/29/2025,,knguyen@example.com,Chandlerchester,Credit Card,False,0.0,grocery,2.0,98.16,196.32
-9e11d2cd,,Jacob Evans,,Morganville,Debit Card,False,,home,2.0,350.69,596.17
-ddd1dfb2,02-11-2025,Kathryn Barnes,stokesthomas@example.com,Anaberg,Debit Card,True,0.5,home,3.0,197.95,396.92
-5958a499,01/01/2099,Justin Cox,kennedyjames@example.org,Roblesberg,Credit Card,True,0.2,,2.0,311.31,
-61ee411a,05/25/2025,Ronald Nelson,michael56@example.net,Myersshire,Credit Card,False,1.5,Toys,1.0,325.22,308.96
-bf3c4c06,2025.02.27,Amy Copeland,jessica42@example.org,North Jessica,UPI,False,0.2,home,0.0,470.91,100.0
-42c18a62,01/01/2099,Christopher Ferrell,,Annborough,Debit Card,True,0.05,Clothing,2.0,122.54,232.83
-9191b363,16 Jun 2025,Kyle Aguilar,martintamara@example.org,West Brian,Cash,True,0.5,Toys,5.0,287.68,719.2
-c9e26074,02/28/2025 ,Deborah Proctor,clee@example.net,East Luisberg,Debit Card,True,,Home,3.0,,733.97
-a6eab79e,2025-09-07 ,Pamela Williams,omills@example.net,New Sandra,,False,0.0,,3.0,234.35,703.05
-f065c817,05/10/2025,Ashley Garcia,amber25@example.net,Georgeside,Debit Card,False,0.2,Toys,5.0,246.56,986.24
-670acc5c,19-06-2025,Kelli Arnold,bmosley@example.com,Davidshire,Cash,,,Electronics,10.0,320.72,3046.84
-f93e08d5,06/24/2025,Jeffrey Ashley,caseymoore@example.com,West Kevin,Cash,False,0.15,home,1.0,78.2,66.47
-5738811d,01/28/2025,Elizabeth Morrison,colemanjonathan@example.org,North Nichole,Credit Card,True,0.0,Home,10.0,,2760.9
-839fbc50,07/15/2025,Mrs. Brandy Jones MD,jrodriguez@example.org,North Dannymouth,UPI,True,0.1,grocery,-5.0,134.68,606.06
-2a45c2ab,2025-07-24,Michael Sullivan,barnettlindsey@example.com,East Aprilfurt,UPI,False,0.5,Toys,-5.0,361.29,1806.45
-bfbf397b,07/23/2025,Wesley Cuevas,annalewis@example.net,Geraldport,Debit Card,False,0.05,BOOKS,,326.9,1552.78
-7a0ecfea,01 Jan 2099,Michael Moore,asilva@example.net,Lynchmouth,Debit Card,False,0.2,,3.0,72.4,173.76
-7d7ddbed,2025.06.16 ,David Terry,lunapatricia@example.net,Baldwinville,Wallet,True,,electronics,3.0,220.98,629.79
-,2025-01-06 ,James Ochoa,reynoldsdesiree@example.net,Christopherfort,Credit Card,True,0.0,Clothing,-5.0,395.81,1187.43
-1f115b76,01/11/2025,Jamie Miller,user_at_gmail.com,South William,Debit Card,True,0.05,CLOTHING,1.0,161.13,
-4ac9778d,2025.11.20,Judith Taylor,princekimberly@example.net,Donaldchester,Credit Card,False,0.1,Grocery,10.0,142.84,1285.56
-bc594585,,Maria Turner,rodney65@example.com,North Ashleyhaven,Cash,False,0.1,toys,0.0,496.49,
-b495db4e,18-03-2025,,tiffanymitchell@example.com,Shaunhaven,Credit Card,True,0.5,Clothing,,391.79,587.69
-c241330b,2025.03.15,Eric Bean,flamb@example.com,North Emilychester,Waallet,,,,3.0,340.46,917.1
-14296c07,01/21/2025,Jeremy Robbins,maypaul@example.com,South Richard,Cash,,0.05,clothing,-5.0,90.62,860.89
-5cd8fe1a,2025.02.06 ,Samuel Davis,walkerkeith@example.com,South Emily,Debit Card,True,0.15,GROCERY,5.0,52.07,221.3
-,04/30/2025,Diana Daniels,ashleyknight@example.org,Martinezside,Credit Card,True,,,10.0,399.52,3395.92
-bec39a37,2025-11-11,,amber70@example.net,Martinezport,UPI,True,0.1,home,10.0,158.39,
-771ad655,11/29/2025,,knguyen@example.com,Chandlerchester,Credit Card,False,0.0,grocery,2.0,98.16,196.32
-,2025.09.08,Mark Jones,,Port Jessica,UPI,False,0.0,books,10.0,498.66,4986.6
-3e896c64,01-01-2099,James Cole,amoreno@example.org,Mooremouth,Wallet,True,0.05,Clothing,10.0,468.76,4453.22
-bc0a6a5d,2025-04-05,Jennifer Mclaughlin,haynesjose@example.com,West Cassandra,,False,0.5,ELECTRONICS,0.0,121.79,-1.0
-8dedf9fb,03/02/2025,Jeremy Adams,pamela83@example.net,West Stephanie,,True,0.15,Books,1.0,194.81,165.59
-,,Lisa Glenn,nicolasgarcia@example.com,South Stevenberg,Debit Card,True,,Home,3.0,54.85,-1.0
-d52721e7,10/01/2025,Derrick Adams,harrismichele@example.net,Nguyenshire,UPI,False,0.0,toys,0.0,122.59,0.0
-118a9d29,01/01/2099 ,Haley Ross PhD,danielle44@example.net,Vasquezburgh,Credit Card,True,,BOOKS,1.0,380.53,304.42
-54c63cd8,18 Sep 2025,Randy Pearson,ywhite@example.com,Lake Samantha,,True,0.05,Clothing,3.0,120.42,
-f6b751f7,04/16/2025,Steve Mooney,dannylambert@example.net,Lake Susanland,Debit Card,False,0.2,Toys,3.0,39.62,95.09
-edcb8cb6,2025-06-14,Chad Mccoy,kingjames@example.net,Kennethland,Cash,,0.1,Electronics,2.0,457.25,823.05
-6b65a6a4,2025-06-04,Yolanda Gaines,aguilarjonathan@example.org,East Charles,Wallet,,0.0,ELECTRONICS,,175.18,625.54
-48603b32,2025-06-07,Brett Walker,dianacantrell@example.org,Lake Sean,UPI,False,0.5,HOME,2.0,48.43,48.43
-f4188f3f,03 Apr 2025 ,James Gonzales,longandrea@example.com,,Cash,True,0.1,CLOTHING,-5.0,459.45,827.01
-b8db0672,11-01-2025,Amanda Harris,paynerachael@example.org,Catherinebury,,False,0.2,Books,-5.0,343.37,0.0
-4d71c366,01 Jan 2099,,tthomas@example.org,Port Adrianashire,,False,0.1,clothing,2.0,,230.27
-b07aa066,2025.04.23,Maria Lucas,james98@example.net,,Credit Card,True,0.2,books,0.0,,
-964db03f,2025.06.05,Rebecca Ray,jeffery94@example.org,Atkinsborough,UPI,True,0.2,TOYS,2.0,101.01,161.62
-61a11729,08/14/2025 ,James Davidson,linda73@example.org,,Wallet,True,0.05,home,0.0,417.33,0.0
-,2025-01-30,Tara Thompson,phillip27@example.org,North Timothyport,Debit Caard,True,0.2,,5.0,200.91,803.64
-,2025-01-26,Erik Martinez,,Lake Coreyborough,Cash,False,0.0,CLOTHING,2.0,154.76,309.52
-7de31a51,10/16/2025,Tracy Casey,meyernicholas@example.org,,,False,0.05,CLOTHING,0.0,426.71,
-19b17e80,06 May 2025,Jessica Forbes DVM,kevinsmith@example.org,West Autumnmouth,Credit Card,True,0.0,Home,1.0,,203.89
-bd1531c8,2025.02.20,Alexandria Gutierrez,,Port Lisaville,UPI,,0.0,Home,5.0,487.18,2435.9
-b0e6a969,2099-01-01,Melody Lee,brooksdanielle@example.net,Port Tonihaven,UPI,True,0.2,Books,10.0,292.96,2343.68
-6502d6a2,,Jacob Carter,andrea55@example.com,Baileystad,,True,0.0,Toys,2.0,285.98,571.96
-c342bd2b,2025.06.07,,qdavis@example.org,Thompsonton,Wallet,False,0.0,Books,,341.75,0.0
-,2025.03.10,Linda Mueller,ajackson@example.net,South Cherylshire,Cash,False,0.5,Electronics,,488.89,244.44
-,15-01-2025,Danielle Burke,martinezkayla@example.org,Lake Michaelberg,UPI,True,0.2,,0.0,169.68,0.0
-c0398710,2025-03-09,Marvin Greer,franciscojones@example.org,Turnerview,Wallet,True,0.0,home,,402.98,0.0
-618ae305,2025.07.23,Morgan Payne,michael77@example.com,Lake Lisabury,Cash,False,0.0,Clothing,5.0,483.74,2418.7
-899ca782,2025-09-21,Kathy Walsh,spetersen@example.net,East Ellen,Debit Caard,,,Books,3.0,193.32,
-5a8aaeca,04-07-2025,Melanie Lara,campbellkristen@example.com,Jamesport,Debit Card,False,1.5,BOOKS,10.0,212.64,1913.76
-66245bfa,07/04/2025,Heidi Herring,shawrachel@example.net,Jacksonport,Wallet,False,0.1,TOYS,-5.0,37.26,33.53
-a5d04d53,26-02-2025,Christine Rojas,rmartinez@example.net,Wesleychester,UPI,False,0.15,,3.0,16.05,40.93
-d72b6108,06/13/2025,Larry Williams,amandapark@example.net,New Jessica,Credit Caard,False,0.0,toys,10.0,369.06,3690.6
-709b7d97,2025-04-30,Michael Brennan,lopezglenn@example.net,Chloemouth,Credit Card,True,0.0,ELECTRONICS,5.0,433.4,2167.0
-5cec4eb5,,Bradley Coleman,johnsongÃ©orgÃ©@Ã©xamplÃ©.com,Port James,,False,0.0,CLOTHING,,452.42,2262.1
-28f49481,30-11-2025,Rachel Romero,gary15@example.com,Port Devin,Wallet,False,0.2,toys,1.0,232.94,
-271e3ee2,12-03-2025,,candice94@example.com,Bryanfort,Credit Card,,0.5,BOOKS,5.0,296.18,740.45
-4fa03f26,2025.09.15,Robert Williams,enewman@example.com,North Heather,,False,0.0,home,,467.61,1402.83
-9b4e2c24,16 May 2025,Holly Walker,amy51@example.org,Gonzalezmouth,,False,0.0,home,1.0,339.01,339.01
-5c62b3a2,31 Mar 2025,Christopher Hill,mserrano@example.org,West Mary,,,0.1,,0.0,451.62,0.0
-,24 Mar 2025,,wgomez@example.com,East Austin,Wallet,True,0.15,,10.0,495.92,4215.32
-541cdfcd,06/21/2025,Kelly Wallace,,,Cash,False,0.2,BOOKS,3.0,329.01,789.62
-2303f6c6,,Morgan Wilson,daniel81@example.org,Williamshire,Cash,True,0.0,Books,0.0,302.99,0.0
-,11-08-2025,Stephanie Harris,user_at_gmail.com,Port Juliantown,UPI,True,0.15,CLOTHING,3.0,103.11,262.93
-90e0f4a0,2025-10-21,Todd White,dennis57@example.com,South Chad,Credit Card,False,0.2,ELECTRONICS,1.0,272.51,218.01
-0f844fef,27-06-2025,Stephen Jones,rgarrison@Ã©xamplÃ©.org,Alexanderfort,Wallet,False,0.1,Home,-5.0,,0.0
-53cd6268,08-10-2025,Michele Sanders,ystewart@example.net,Smithmouth,Cash,True,0.15,toys,1.0,495.26,420.97
-f5c9b047,11-08-2025,Tammy Kane,morrowthomas@example.net,Port Edwardfort,,False,0.0,Electronics,2.0,426.23,852.46
-43b7a3a6,,Brittany White,austinharvey@example.org,Port Jesusstad,Caash,True,0.5,grocery,1.0,219.57,209.78
-8edddfcd,06/28/2025,Terri Clark,jwhite@example.net,,UPI,False,0.0,grocery,2.0,412.14,824.28
-,21 Sep 2025,John Walsh,jvaldez@example.com,Lake Danielle,Wallet,,0.0,grocery,5.0,459.84,2299.2
-7701f7bb,08-07-2025 ,,,New Jasminefort,Wallet,False,0.15,clothing,10.0,,2666.36
-45df16b6,26-07-2025,David Rivera,vaughangary@example.net,Port Tyler,Credit Card,False,0.15,Clothing,,364.54,309.86
-8db06746,08-05-2025,Derrick James,deborahjenkins@example.org,,Wallet,True,0.5,BOOKS,,322.01,483.02
-405cacec,29 Jul 2025 ,Austin Allen,,West Carlos,Credit Card,False,0.05,toys,3.0,353.95,1108.76
-7d154385,2025.05.06,Holly Salinas,madison97@example.org,West Stephaniebury,,True,,toys,-5.0,416.1,832.2
-e08596db,2025.02.17,Parker Jefferson,,Kristinamouth,,False,0.15,Toys,,430.2,3656.7
-,03-11-2025,Scott Williams,terriortiz@example.net,Josephstad,,,,Clothing,-5.0,268.8,510.72
-c693da11,2025.12.01,Rebecca Chambers,kim62@example.net,East David,Cash,True,0.1,Electronics,0.0,465.15,0.0
-759cde66,,Lori Orr,,Port Jessica,Cash,False,0.2,BOOKS,0.0,170.68,100.0
-709b7d97,2025-04-30,Michael Brennan,lopezglenn@example.net,Chloemouth,Credit Card,True,0.0,ELECTRONICS,5.0,433.4,2167.0
-5e6fea07,02/01/2025,Charles Payne,eugenewalker@example.com,North Sheenaborough,UPI,True,0.1,,,233.44,
-750cab75,01 Jan 2099,Kevin Williams,staceylam@example.net,Williammouth,Debit Card,True,0.2,Electronics,10.0,102.36,
-1dba1267,12-05-2025 ,Judy Adkins,cummingslaura@example.org,Port Davidborough,Cash,False,0.1,CLOTHING,1.0,118.31,106.48
-bc10fa52,2025-02-05,Joel Brown,,Whitehaven,Debit Card,True,,home,5.0,384.05,1536.2
-d6d7b3b8,10/20/2025,Kelly Sanchez,davidsmith@example.net,Port Carloschester,Credit Card,,0.5,Grocery,1.0,,159.52
-,2025.08.20,Aaron Gomez,whitelucas@example.net,South Tara,UPI,False,0.0,HOME,0.0,118.22,100.0
-6d3ee1dc,14-04-2025 ,Nathan Coleman,heather06@example.com,Arthurton,Debit Caard,,0.05,clothing,2.0,363.98,691.56
-,16-06-2025,Steven Griffin Jr.,user_at_gmail.com,Jamesside,,False,0.0,,3.0,379.62,1138.86
-a2607723,01 Jan 2099,Steven Wiggins,gary04@example.com,North Neil,Credit Caard,True,0.0,GROCERY,1.0,390.27,390.27
-504867ba,01-01-2099,Robert Sullivan,jeffery48@example.net,South Jenniferport,,False,0.5,Books,,202.6,202.6
-b63b4dc3,23-02-2025,,scotthall@example.net,Priceside,Wallet,True,0.0,Home,10.0,25.53,255.3
-e82c7d7b,13-05-2025,Claire Clark,andrÃ©wlovÃ©@Ã©xamplÃ©.org,,Wallet,True,0.1,Grocery,2.0,78.58,141.44
-afffcfd2,,Katrina Burns,kathÃ©rinÃ©83@Ã©xamplÃ©.org,West Robertfort,Wallet,False,0.0,home,1.0,225.09,225.09
-dfed2c43,2025.01.27,John Bernard,chelseastrickland@example.net,Amandamouth,Credit Card,,1.5,Grocery,3.0,144.83,347.59
-8d7248e2,16-09-2025 ,Jonathan Carr,williamsdarrell@example.com,Hugheshaven,Wallet,False,1.5,,10.0,411.01,3699.09
-f1738856,,,evansjeffrey@example.com,North Roger,UPI,True,0.5,toys,3.0,61.91,
-,04-08-2025,Brett Espinoza,riverachristina@example.org,North Johnhaven,Cash,False,0.0,,1.0,238.04,338.03999999999996
-0f44704f,20 Nov 2025,Brent Bowen,gordonmatthew@example.org,East Sarah,Cash,True,0.05,GROCERY,0.0,310.79,0.0
-e87d1c78,01 Jan 2099,Brian Butler,larry16@example.net,Javierport,Wallet,False,0.15,,1.0,379.65,322.7
-,2025-03-28,Yolanda Cochran,buckleyanna@example.org,Christopherfurt,Credit Card,False,0.0,electronics,-5.0,11.48,114.8
-d0725b5c,2025-05-12,Tamara Lawrence,charlesnathan@example.com,Quinnhaven,Credit Card,False,0.0,Electronics,5.0,46.02,230.1
-6553867d,2025.10.14,Gabriel Willis,llopez@example.net,Hansenmouth,Debit Card,True,0.1,home,,399.57,0.0
-78b2b549,2025-03-03,Joshua Fields,holmesvictoria@example.com,West David,Wallet,False,0.0,CLOTHING,0.0,400.15,0.0
-722764e6,01/12/2025,David Murray,rfrye@example.com,,UPI,True,0.5,BOOKS,10.0,383.2,1916.0
-82dc4c8e,2025.08.05,Jacqueline Miles DVM,nrodriguÃ©z@Ã©xamplÃ©.org,Robbinsstad,,True,0.15,Clothing,5.0,112.36,477.53
-a013ac6e,,Andrew Lucas,gmoore@example.com,New Meghan,Cash,,0.05,,-5.0,267.5,2541.25
-0986bbeb,28 Oct 2025,Ryan Gutierrez,ncarroll@example.net,North Kevintown,UPI,,0.0,Electronics,10.0,346.96,3469.6
-ebd34616,21-05-2025,Alison Cooper,kchurch@example.com,South Jennifer,UPI,False,0.0,Books,5.0,484.77,2423.85
-1d48a071,2025.01.20,,kaitlinberger@example.com,Jeffreyport,UPI,,0.15,Toys,1.0,84.0,71.4
-3da9c2a9,2025.04.14,Brian Murphy,qburns@example.com,Wattsmouth,UPI,False,0.15,electronics,-5.0,,
-,10/17/2025,Jason Moreno,phillipsdenise@example.com,West Traceyberg,Cash,True,,GROCERY,3.0,249.42,673.43
-a28defe3,08 Aug 2025,Jerry Palmer,brittanydrake@example.net,South Donnastad,Credit Card,True,0.15,Home,10.0,,
-0769165f,2025-05-01,Steven Taylor,steven05@example.org,Jamesland,Wallet,True,0.0,home,2.0,,640.24
-4c955f6a,2025.08.19,William Jones,wrightvincent@example.net,Carlshire,Debit Card,False,0.15,TOYS,1.0,,311.38
-785299f4,28 Mar 2025,Emily Allen,kvillanueva@example.com,South Amandafort,UPI,True,0.15,Books,10.0,141.31,1201.14
-935f2b0a,08/06/2025,Megan Parker,user_at_gmail.com,East Angela,Debit Card,False,,TOYS,2.0,350.86,350.86
-1825bc54,01 Nov 2025,Carrie Ward,christinebecker@example.com,Port Jennifer,Debit Card,,0.5,Home,-5.0,,0.0
-9793b9b4,21 Jun 2025,Susan Hopkins,todd59@example.net,Fernandoland,Cash,True,0.1,GROCERY,10.0,270.78,
-11c58ef0,,Brooke Delgado,evaughn@example.com,Ruizbury,,True,0.05,BOOKS,5.0,,475.48
-24933b83,08-05-2025,,grant89@example.com,New Stacybury,Credit Caard,,0.5,home,,348.24,970.6
-,31-01-2025,Sandra Jones,tking@Ã©xamplÃ©.nÃ©t,Robertside,Credit Card,False,0.2,electronics,10.0,,3297.92
-c8fe3ccd,2099.01.01,Stephanie Morgan,hughesfrank@example.net,Marcusfurt,Debit Card,True,0.2,toys,2.0,482.43,771.89
-680ac07a,01 Jan 2099,Blake Gonzalez,hreid@example.net,South Victoriaburgh,,True,0.15,electronics,10.0,229.78,1953.13
-,22 Sep 2025,Frank Campbell MD,staylor@example.net,Kaylaton,Caash,,0.05,Home,5.0,252.94,1201.46
-56666f9f,06 May 2025,Frank Campbell,nicholsdarlene@example.net,Gregoryhaven,Debit Card,True,0.0,grocery,5.0,479.05,2395.25
-046a0df5,24-10-2025 ,Juan Bennett,jason22@example.com,Victormouth,Credit Card,False,0.5,grocery,5.0,208.59,521.48
-7394988f,10/30/2025,Jeremy Jones,,Gallegosmouth,Cash,False,0.05,Books,-5.0,213.56,1014.41
-afbb411a,01/17/2025,Douglas Hartman,robert12@example.com,Alexandrachester,Wallet,True,0.2,,1.0,17.67,14.14
-5f987c71,24 Jun 2025 ,Christian Cole,,Lake Zacharyberg,Cash,True,0.5,BOOKS,-5.0,74.65,111.98
-c958e75e,11/11/2025 ,Ashley Yang,fhebert@example.com,Port Courtney,UPI,False,0.2,home,1.0,28.01,22.41
-,10/17/2025,,rsheppard@example.com,West Scott,Wallet,True,0.05,GROCERY,-5.0,450.46,4279.37
-71299889,2025-05-16,Dylan Norman,lisale@example.org,Jillton,Wallet,True,0.05,,0.0,221.18,0.0
-17e8392a,,Thomas Rodriguez,user_at_gmail.com,Lake Annstad,Credit Card,False,0.5,Clothing,2.0,113.79,113.79
-65bcc272,2025.04.07,Shawn Cline,andreawagner@example.net,South Stevenland,,True,0.15,GROCERY,2.0,91.51,155.57
-48ca7651,2025.05.18,Rodney Curtis,zbÃ©ll@Ã©xamplÃ©.nÃ©t,East Craigfurt,Wallet,True,0.2,CLOTHING,0.0,147.38,0.0
-,2025.10.03,,christopher06@example.com,Lake Michaelborough,UPI,False,0.1,TOYS,2.0,,494.78
-45c45a3e,14-05-2025,Jack Mora,laura09@example.com,Moniqueport,UPI,True,0.1,GROCERY,0.0,353.8,0.0
-25c73c44,2025.11.14,Benjamin Henderson,user_at_gmail.com,,Wallet,False,0.05,Books,10.0,204.35,1941.32
-43b9da13,,James Ford,aprilmclaughlin@example.org,Port Daniel,Cash,False,0.15,Electronics,5.0,,762.75
-9360715f,2025-02-25,Mason James,wilsonmichael@example.org,Alexisville,,True,0.0,GROCERY,2.0,130.41,260.82
-988c24c9,2025.02.20,,jonathan10@example.org,Lake Sarah,Debit Card,False,0.0,electronics,10.0,193.08,
-3a3c8a71,22 Jan 2025 ,Megan Jones,bookerandrew@example.org,West Angelbury,UPI,True,0.1,,3.0,97.04,262.01
-310c0c00,13 Jan 2025,Jason Andrews,joseph69@example.net,Youngshire,Cash,True,0.5,ELECTRONICS,-5.0,150.67,226.0
-98ae4334,26-02-2025,Shane Williams,bakerjohn@example.org,,,True,,Books,,494.53,4056.24
-9918ee46,2025.02.11,Lori Lopez,laurengutierrez@example.com,,,True,0.2,Home,0.0,230.77,
-a075e927,2025.04.28,Melissa Woods,justin84@example.com,Kempshire,Credit Card,,0.0,home,5.0,157.21,786.05
-,2025-08-16 ,Brenda Oconnell,dross@example.com,,,True,,Books,5.0,156.95,392.38
-0a368ce7,2025.03.01,Mrs. Jamie Frye DDS,,New Katieport,Wallet,False,,Electronics,5.0,492.99,1971.96
-972a8469,2025.07.31,Emily Douglas,cranemelissa@example.net,Ayalaberg,Cash,False,,grocery,,368.25,413.01
-5efa9c5b,21-08-2025,Kevin Brown,larsonkevin@example.net,North Dustinview,Wallet,False,0.1,HOME,3.0,236.9,639.63
-2e183554,2025-01-23,,cwise@example.org,Woodstad,Credit Card,False,0.05,GROCERY,10.0,147.35,1399.82
-a8aa7158,14 Feb 2025,,user_at_gmail.com,Abbottport,Cash,False,0.0,grocery,5.0,158.56,792.8
-,01 Jan 2099 ,Amanda Small,walkercharlene@example.com,Lake Jason,,False,0.15,TOYS,3.0,68.13,173.73
-adf4e62d,09 May 2025 ,Donna Mitchell,dalepruitt@example.com,Robertafurt,,,0.2,Grocery,2.0,128.07,204.91
-5715bd6f,2025.02.12,Veronica Mendoza,andrew41@example.org,Port Jacob,UPI,False,0.15,home,-5.0,414.55,0.0
-,17 Sep 2025,Denise Glass,katherinetaylor@example.org,North Patrick,Cash,,0.15,ELECTRONICS,3.0,183.68,468.38
-3e2b6091,10 Jun 2025,Joseph Jenkins,hÃ©athÃ©r29@Ã©xamplÃ©.nÃ©t,Kimberlyfurt,Credit Card,True,0.2,toys,5.0,211.56,846.24
-27cb6f2a,01/01/2099,Emily Long,ysanford@example.org,Lopezville,Credit Card,True,0.1,toys,3.0,129.92,
-,2025-10-17,Tyler Miller,stephenmadden@example.com,North Thomas,Wallet,,1.5,Home,3.0,32.97,98.91
-c478f6f1,08/23/2025,Jacob Brady,chloemorris@example.net,Mccannville,Wallet,True,,Clothing,5.0,230.04,977.67
-6090d697,10/20/2025,Jordan Freeman,bakereric@example.net,Robertmouth,Debit Card,False,0.0,clothing,3.0,156.88,
-398d1ca6,08/29/2025,,shawnpowell@example.org,,Credit Card,True,,CLOTHING,2.0,47.25,80.32
-1fe771d6,2025.08.13,Jeffrey Murphy,hwest@example.com,Lake Elizabeth,,False,,Toys,3.0,272.46,817.38
-47378190,18-04-2025,Michael Romero,osbornjames@example.net,,Credit Card,True,0.5,Grocery,5.0,154.56,486.4
-81627cf1,01-01-2099,Karen Smith,simsjohn@example.net,West Shannon,Cash,False,0.0,Home,1.0,274.48,274.48
-d664d264,2025-10-28,Jenna Thomas,jessicastanley@example.net,South Michael,Cash,,0.5,Books,,141.52,212.28
-46fde062,2025-09-30,Taylor Small,kari89@example.org,Stevenland,Debit Card,False,,books,1.0,163.33,
-e8dd5e5a,2025-06-24,Scott Jackson,brandon39@example.net,Robertstad,UPI,False,,Electronics,3.0,436.12,1242.94
-2812859a,2025.06.12,Carol Salazar,mgonzales@example.net,,Wallet,False,,,10.0,372.48,2979.84
-7746d0ba,08/08/2025,Victoria Boyd,abigailhartman@Ã©xamplÃ©.org,Lisatown,Cash,True,0.0,Grocery,10.0,,1546.4
-059dd55d,2025.11.04,Thomas Mccann,,Maryport,Credit Caard,False,,ELECTRONICS,1.0,425.42,340.34
-bd9c66b3,23 May 2025,Brad Alvarado,,Bakerfurt,UPI,False,0.05,electronics,5.0,172.04,917.19
-,,Nicole Good,juliahoffman@example.org,,Credit Card,,0.15,CLOTHING,2.0,403.38,685.75
-ee87905e,01 Jan 2099,,kathleenjackson@example.org,Carlberg,Debit Card,True,0.0,,10.0,228.76,
-76f2dbfe,25 Aug 2025,Shelly Anderson,user_at_gmail.com,Cruzbury,,True,0.5,toys,5.0,,465.58
-7118e364,2025-11-25,Karen Gibson,travisunderwood@example.net,Ashleyport,,False,0.5,Clothing,3.0,116.34,174.51
-e2acf72f,06-09-2025,Rachel Young,wcasÃ©y@Ã©xamplÃ©.com,,Credit Card,,,Home,10.0,491.03,5010.3
-1d53434b,07 Nov 2025,Brandi Bell,egarcia@example.net,Port Lucaschester,UPI,False,0.1,CLOTHING,2.0,381.1,785.98
-4d57d880,2025.05.30 ,Tiffany Sanders,jacquÃ©linÃ©moody@Ã©xamplÃ©.org,Robertside,UPI,False,0.2,TOYS,5.0,112.73,450.92
-11a72609,14 Feb 2025,Dawn Gomez,,Rodriguezside,,True,0.0,GROCERY,,256.09,512.18
-f72169bb,31-08-2025,,ramosmichael@example.com,,Debit Caard,False,0.5,GROCERY,3.0,,19.98
-74962764,25-11-2025,Jason Elliott,user_at_gmail.com,Lake Glenn,UPI,False,0.5,,2.0,458.08,458.08
-19985f15,2099.01.01,Cesar Baker,brenda71@example.com,East Mark,Wallet,,0.5,electronics,10.0,25.79,128.95
-f0b5156b,22-08-2025,Erin Simon,vflorÃ©s@Ã©xamplÃ©.com,South Patrick,,False,0.5,BOOKS,3.0,171.83,257.74
-d20eac17,05-08-2025,Courtney Hall,michael79@example.com,Port Kathyshire,Wallet,False,1.5,,2.0,351.19,632.14
-2a25a888,,Anna Davidson,susanwells@example.net,South Kara,UPI,False,0.1,electronics,1.0,194.97,175.47
-bd1531c8,2025.02.20 ,Alexandria Gutierrez,,Port Lisaville,UPI,,0.0,Home,5.0,487.18,2435.9
-b02b61c4,19-11-2025,,gregory01@example.org,West Toddside,UPI,True,0.0,Electronics,5.0,125.79,728.95
-4e7ed827,07/13/2025,Philip Garcia,,South Rebeccaton,UPI,False,,TOYS,3.0,424.21,636.31
-0e5dd462,29 Jun 2025 ,Nicholas Bell,brianrowe@example.org,Rhodesland,,False,0.05,CLOTHING,1.0,484.2,459.99
-def57689,2025.02.28,Matthew Banks,cannonlauren@example.net,,Cash,True,0.1,,1.0,432.48,389.23
-,2025-08-14,Sarah Flynn,anthonyalvarado@example.com,Port Kirk,UPI,False,0.5,ELECTRONICS,0.0,472.67,0.0
-05000bc6,2025.01.28,Kristi Williams,kelly98@example.com,,Debit Card,True,0.0,Books,5.0,,
-3139d32c,2025.08.20,,kcooper@example.net,Shannontown,Wallet,False,0.15,electronics,,243.95,1136.79
-f1043785,08/24/2025,,craigharvey@example.org,Schwartzmouth,UPI,False,0.1,Home,10.0,17.71,159.39
-75b17a55,2025.04.21,Marie Johnson MD,rebeccaarnold@example.net,Smithfort,Wallet,True,0.0,Electronics,10.0,97.84,
-6db99102,05/24/2025,Colton Figueroa,,South Frances,Credit Card,False,0.05,GROCERY,10.0,100.18,951.71
-15ce6a66,08-01-2025,Catherine Saunders MD,cheryl63@example.com,New Hectorfort,Cash,False,0.05,toys,5.0,80.65,383.09
-,04 Aug 2025,Brittany Miller,ihoward@example.com,Angelaton,Wallet,,0.1,electronics,5.0,43.89,197.5
-5d678bb1,25-01-2025,Kathleen Dixon,hbarrett@example.net,Frankview,Credit Card,False,0.0,GROCERY,3.0,462.51,1387.53
-bf0d073d,10/23/2025,Kayla Mccullough,kwelch@example.com,North Peterburgh,Credit Card,True,0.2,Grocery,,128.94,0.0
-c71d5e60,2025.06.22,Kelly Combs,yorksarah@example.net,South Diana,Wallet,False,0.0,ELECTRONICS,10.0,322.49,3224.9
-e3c43657,01-01-2099,Steven Taylor,christinaschultz@example.com,Simsburgh,Debit Card,False,,TOYS,10.0,,4155.11
-445dcc38,2025-05-17,Patricia Simpson,mchase@example.org,Pamelaville,Credit Card,True,0.0,,0.0,282.92,0.0
-702cdd20,01-01-2099,Samantha Hanson,derrickgonzalez@example.com,,UPI,False,0.2,Electronics,10.0,445.63,3565.04
-9549c931,22-04-2025,Matthew Bowers,eric08@example.net,Lake Pamela,Cash,False,0.15,home,1.0,,396.7
-cfa701cd,06/19/2025,Timothy Gonzalez,jose86@example.net,,,True,0.05,BOOKS,10.0,111.51,1059.34
+ccf3a171,12 Feb 2025,Elizabeth Chapman,tberry@example.net,Brandonport,UPI,False,0.0,CLOTHING,-5.0,100.34,501.7
+766ecb15,2025-05-15,Deborah Miller,christopher13@example.com,Andersonview,Debit Card,,0.0,Electronics,-5.0,244.09,2440.9
+14296c07,28 Mar 2025,John Kelly,lisa80@example.net,Lake Stephanie,Cash,True,,toys,,272.57,
+680ac07a,01 Jan 2099,Christina Wilson,thompsonkendra@example.com,,Wallet,True,0.2,grocery,0.0,83.11,0.0
+702cdd20,01/01/2099,Jesus Thomas,pyoung@example.com,Keithshire,UPI,False,0.05,Toys,3.0,356.41,1015.77
+5715bd6f,2025.02.11,Kevin Rivas,hayesjeffrey@example.net,West Angelastad,UPI,False,0.15,Grocery,,348.98,889.9
+7914c120,14-02-2025,Scott Wilson,kevinclark@example.org,Wrightburgh,UPI,False,0.0,,-5.0,435.55,1306.65
+7394988f,2025.04.19,Nathan Stewart,vjones@example.net,Sanchezfurt,Cash,True,,GROCERY,,,210.24
+c241330b,19-02-2025,Joy Mercado,dlittle@example.com,North Michael,Wallet,True,0.2,toys,3.0,480.79,1253.9
+dca02eec,01-01-2099,Jason Simpson,rschroeder@example.net,Jacksonfurt,Cash,True,0.0,Grocery,5.0,314.3,1571.5
+66245bfa,01/27/2025,,anthony44@example.com,South Pamelaside,Wallet,,0.0,Clothing,-5.0,148.67,0.0
+b02b61c4,02-12-2025,James Snow,thomasharvey@example.net,Hillton,UPI,True,0.1,electronics,2.0,195.7,452.26
+81627cf1,,Evan Kennedy,brooksanthony@example.org,South Markfort,Cash,True,0.2,Clothing,0.0,276.84,0.0
+c88a618e,01-01-2099,,,West Sarah,Debit Card,True,0.0,GROCERY,10.0,307.1,3071.0
+,2025-11-08,Amy Crane,ndavis@example.net,Kimberlymouth,UPI,False,0.5,grocery,5.0,51.95,229.88
+a2607723,01 Jan 2099,Marissa Hernandez,ihorton@example.net,South Denise,Credit Card,True,0.15,GROCERY,,455.12,386.85
+90b2b633,01-01-2099,April Booth,kyle62@example.net,Hernandezborough,Credit Card,True,0.05,toys,2.0,111.82,212.46
+24933b83,2025.10.14,Catherine Green,rcrosby@example.org,New Michael,Credit Card,True,0.05,Home,5.0,353.58,1779.5
+f4188f3f,28 Jun 2025,Marie Gilbert,farrelldebra@example.net,Port Tammy,Cash,,0.5,TOYS,-5.0,354.4,886.0
+ec1b8ca1,2025-05-19,Joseph Hansen,lozanojulie@example.com,,Wallet,True,0.15,,2.0,142.34,341.98
+7c967f79,01/01/2099,Lindsey Johnson,newmantiffany@example.org,Franciscoport,UPI,True,0.5,Grocery,2.0,397.46,397.46
+287d06ca,2025-05-29,Michael Turner,acostaregina@example.net,Laraside,Wallet,True,0.0,Books,-5.0,160.04,800.2
+4b0dbb41,23 Mar 2025,Pedro Ramos,catherinegomez@example.net,Kingborough,Wallet,False,0.0,Books,5.0,406.02,2130.1
+27cb6f2a,01-01-2099,Phillip Bennett,mariahdavis@example.org,North Christina,,,0.2,,1.0,333.98,
+f8cda88b,,Amanda Patel,gsimmons@example.com,West Raymondfort,Credit Card,True,0.0,CLOTHING,-5.0,241.9,241.9
+dc713d96,2025-12-02,Andre Wright,caseyhubbard@example.org,Gonzalezberg,,True,0.2,grocery,10.0,249.4,2095.2
+9f044aed,01 Jan 2099,Emily Smith,ericphillips@example.org,Ericaview,UPI,False,0.0,Grocery,2.0,11.31,22.62
+e3c43657,01/01/2099,Jill Washington,christopher24@example.com,Sarahview,Debit Card,True,,Toys,2.0,316.28,600.93
+3139d32c,2025-04-07,Jill Moore,courtneyberger@example.net,Joshuastad,Wallet,False,0.05,ELECTRONICS,2.0,246.91,569.13
+b253d218,01/01/2099,Dillon Fernandez,bellcharles@example.com,Hernandezhaven,,False,0.05,books,1.0,,365.35
+0f1259e0,2025-06-05,Dr. Elizabeth Ward,moorekaren@example.org,Michellemouth,Wallet,True,0.5,electronics,-5.0,271.73,407.6
+366eb16f,01/10/2025,Susan Vargas,,New Ericmouth,Credit Card,,0.1,ELECTRONICS,10.0,176.77,1690.93
+e3c43657,01/01/2099,Jill Washington,christopher24@example.com,Sarahview,Debit Card,True,,Toys,2.0,316.28,600.93
+,2099-01-01,Brian Kirk ,scottmary@example.net,Manuelton,Wallet,False,0.0,Home,3.0,44.99,
+839fbc50,2025-11-24,Anthony Carter,nperry@example.net,Zacharyville,UPI,True,-1.0,Toys,-5.0,487.4,731.1
+5cec4eb5,2025-11-15,Timothy Ramirez,edwardslarry@example.com,West Sarah,UPI,True,0.15,HOME,,69.12,293.76
+,2025-05-17,,davisalyssa@example.com,Shawnton,Debit Card,,0.2,Books,-5.0,121.47,485.88
+,,,lindsaybruce@example.net,,Wallet,False,0.0,Grocery,,488.54,488.54
+f10c718b,2099.01.01,Jennifer Hodges,mccormickdeborah@example.org,Port Erin,Cash,False,0.0,clothing,0.0,308.72,0.0
+2a45c2ab,04 Jun 2025,Cynthia Alvarez,ericolson@example.org,Meganshire,UPI,False,0.5,grocery,-5.0,247.26,1236.3
+fc377a4c,,Destiny Strickland ,jessica14@example.com,Morganburgh,Wallet,True,0.0,Toys,2.0,368.2,836.4
+ce88cb2d,05 Nov 2025,Paul Hudson,,West Stacey,Debit Card,False,0.0,,-5.0,104.37,
+5958a499,2099.01.01,Timothy Carter,jenniferwilliams@example.com,Kellieborough,Credit Card,False,0.0,BOOKS,10.0,152.72,1527.2
+295d6fbf,01-01-2099,Thomas Smith,srodriguez@example.org,Lake Audreyside,Wallet,False,0.0,Clothing,0.0,91.3,0.0
+,02 Jul 2025,,fjones@example.com,Hammondshire,Credit Card,False,0.2,toys,-5.0,270.15,1080.6
+a748dbcf,2025-04-14,Jennifer Carlson,sandersjudy@example.com,Johnsonfurt,,True,0.5,home,-5.0,240.0,360.0
+,2099-01-01,Travis Holland,carlamoore@example.org,Angelabury,,False,0.2,Grocery,1.0,,240.78
+87f7e1fb,01/01/2099,Zachary Graham,,Lauratown,Credit Card,,0.0,books,1.0,431.48,431.48
+dd59ba71,01 Jan 2099,Chase Baker ,wwebster@example.net,Angelastad,Wallet,False,0.5,,1.0,285.79,
+c8fe3ccd,2099-01-01,John Torres ,harrisoncrystal@example.com,East Jenniferfort,Debit Card,True,0.0,Books,2.0,68.04,136.08
+ee87905e,,Aaron Barber,moniquewilliams@example.com,Sandraview,Debit Card,True,0.5,Toys,5.0,462.72,1156.8
+1825bc54,,John Ray,keith10@example.com,Sarahmouth,Debit Card,False,0.0,Electronics,-5.0,250.53,1252.65
+4d71c366,2099.01.01,Kyle Francis,mmckee@example.com,Huangfurt,,False,0.05,toys,10.0,354.46,3367.37
+f143262f,03 Mar 2025,Carla Collins,alfred40@example.org,Port Michael,WallÃ©t,False,0.15,clothing,2.0,398.54,777.52
+,11-03-2025,Angela Patterson,fpena@example.net,Nathanland,Debit Card,True,0.5,Books,5.0,441.36,1203.4
+c0398710,,Jaime David,xwest@example.net,East Kristy,Wallet,False,0.1,books,-5.0,118.58,213.44
+93829b43,11 Jan 2025,Glen Sheppard,randallgreene@example.org,North Kellyfurt,Credit Card,False,,Toys,,71.88,172.51
+3eabedcb,03/02/2025,Alicia Gilmore,gibsonemily@example.net,,Cash,True,0.05,home,5.0,237.71,1229.12
+,01/01/2099,Richard Baker,fbrown@example.net,Port Randyfort,,False,0.0,Home,1.0,376.99,
+10f1bc81,10-03-2025,,wendy11@example.org,Port Deanna,UPI,True,0.0,home,0.0,113.94,100.0
+17fc695a,24 May 2025,Nancy Hopkins,wallaceheather@example.org,South Morganton,Cash,True,0.0,Grocery,5.0,257.92,
+94340a03,01/01/2099,Brandon King,cody64@example.com,New Stacyville,Debit Card,True,,,3.0,372.64,558.96
+eb2263dd,16 May 2025,Patricia Marshall,russellbeasley@example.com,Shawton,Credit Card,True,0.05,Electronics,-5.0,142.75,
+35ebd32d,2099.01.01,,bwilkerson@example.com,East Brent,UPI,True,0.15,,10.0,467.5,3973.75
+5f987c71,10/28/2025,Jesse Parker,adam29@example.net,Dawnport,Cash,False,0.2,toys,-5.0,,
+7d154385,29 Apr 2025,Leslie Morris,maria66@example.net,New Ericburgh,Debit Card,True,0.15,Home,-5.0,133.19,226.42
+e0ccedc5,2099-01-01,,,Lewisside,Cash,False,0.05,Books,0.0,396.04,0.0
+ab9099a4,2025-06-07,Daniel Perry,linda71@example.org,Manuelland,Wallet,,0.2,BOOKS,3.0,52.46,225.9
+,05/02/2025,Dwayne Campbell,schmidtjames@example.com,West Angela,UPI,False,0.5,toys,-5.0,,46.3
+29a3b2e9,08/06/2025,Chris Reyes,scoffey@example.net,South Carrieburgh,Debit Card,False,0.0,Books,5.0,417.06,2185.3
+,2025.09.14,Kristi Black,uparrish@example.org,New Danielleshire,,True,0.05,Books,-5.0,100.72,478.42
+db20a56e,02 Nov 2025,Michael Harrison,jeffrey21@example.net,South Brettside,Cash,False,0.05,GROCERY,-5.0,,588.1
+,,Jack Snow,oscar98@example.com,Owenshaven,UPI,False,0.15,,-5.0,375.51,0.0
+afffcfd2,,,sandersnathaniel@example.com,Lake Jesse,Wallet,False,,Grocery,0.0,218.32,0.0
+dd2467ac,08/14/2025,Angela Wright,vincentwhitaker@example.com,Jimenezport,Credit Card,False,-1.0,,-5.0,291.29,1456.45
+ce177b4e,2025.11.11,John Price,cwilson@example.org,Johnsonland,Cash,True,0.0,,10.0,99.1,1091.0
+1a2a73ed,2025.05.22,,danielle64@example.com,Port Dennis,Credit Card,True,-1.0,GROCERY,10.0,356.58,3487.51
+,2025.04.02,Karen Bender,brenda51@example.net,Williamsstad,DÃ©bit Card,True,0.15,GROCERY,1.0,309.06,362.7
+5f987c71,10/28/2025,Jesse Parker,adam29@example.net,Dawnport,Cash,False,0.2,toys,-5.0,,
+7d154385,29 Apr 2025,Leslie Morris,maria66@example.net,New Ericburgh,Debit Card,True,0.15,Home,-5.0,133.19,226.42
+310c0c00,2025-08-20,Keith Brown ,zroberts@example.org,Harperfort,Cash,True,0.1,CLOTHING,-5.0,35.17,
+759cde66,01/16/2025,Barbara Anderson,andrew64@example.org,Sarahhaven,Cash,True,0.2,home,2.0,,872.93
+28f49481,13 Oct 2025,Lisa Allen,lisahall@example.org,South Geraldmouth,Wallet,,0.05,books,0.0,381.5,
+19985f15,01 Jan 2099,Danny Skinner,stanleynancy@example.net,Leebury,Wallet,True,0.0,clothing,3.0,230.75,692.25
+bc594585,2099.01.01,Alicia Hubbard,colelisa@example.net,Ericksonport,Cash,True,0.0,,2.0,266.06,532.12
+82010c62,2099-01-01,Tracy Harrison,hritter@example.net,Bakershire,Credit Card,True,0.5,Electronics,10.0,495.12,2475.6
+23e2fcb4,,Annette Farmer,george97@example.net,Amandaville,Debit Card,False,0.0,electronics,-5.0,471.12,0.0
+e2acf72f,,Stephanie Simmons ,christinebyrd@example.net,Michaelton,Credit Card,True,0.05,Grocery,0.0,273.7,100.0
+63f2ae24,2099-01-01,Samantha Morse,michelle52@example.com,,Wallet,True,0.5,CLOTHING,,,497.02
+972a8469,2025.11.21,Kayla Leon,juliehamilton@example.org,,Cash,False,0.15,Toys,3.0,191.58,588.53
+504867ba,2099-01-01,Laura Hines ,marcalvarez@example.org,Cabrerastad,Wallet,True,0.1,Clothing,5.0,230.75,1038.38
+94340a03,01/01/2099,Brandon King,cody64@example.com,New Stacyville,Debit Card,True,,,3.0,372.64,558.96
+21813d25,2099-01-01,Derek Anderson,lucasrodney@example.com,Whitneyfort,Wallet,False,0.5,toys,0.0,86.96,0.0
+bdd640fb,02/27/2025,,melissa86@example.com,West Ruben,Credit Card,True,0.15,HOME,5.0,393.49,
+42c18a62,2099.01.01,Anthony Stone,collinsnicholas@example.com,Shawfort,Debit Card,True,0.05,Grocery,10.0,,1077.3
+,07 Nov 2025,,tblankenship@example.net,North Douglas,Cash,False,0.5,Home,5.0,426.97,1167.43
+beb79919,10-05-2025,,jeff73@example.com,Debrabury,UPI,True,0.0,toys,1.0,145.37,245.37
+aefcfad8,2025-08-30,John Brown,,Donnaport,UPI,False,0.2,books,10.0,442.0,
+03c72ba8,2025.06.19,Andrea Hall,jessica23@example.org,South Williamside,Cash,False,0.1,electronics,-5.0,318.43,0.0
+bd9c66b3,2025-01-14,Erica Ramos,younggabrielle@example.com,Lake Elizabeth,UPI,False,0.2,,2.0,,451.86
+01d74256,2025-07-17,Paige Carlson,jennifer99@example.org,Harrisberg,UPI,True,0.05,BOOKS,-5.0,16.93,16.08
+,08/03/2025,Trevor Young,,West Kristinastad,Credit Card,False,0.5,books,0.0,426.29,100.0
+23b8c1e9,31 Jul 2025,Daniel Floyd,cbrennan@example.net,Johnchester,Credit Card,,0.5,,0.0,180.13,100.0
+ef8c485b,2099.01.01,Mark Lloyd,stacey73@example.org,Barrmouth,Wallet,True,0.0,electronics,1.0,46.78,46.78
+a8e56e0c,2025.03.17,,caroline51@example.net,East Donna,Cash,True,0.05,Home,-5.0,116.03,1102.28
+,2025.07.28,Margaret Mullins,reeddaniel@example.net,Johnville,Credit Card,,0.1,,-5.0,281.15,506.07
+5fb8d16c,14 Nov 2025,Christian Thompson,bwagner@example.org,Davidside,Credit Card,False,0.0,Grocery,-5.0,172.09,0.0
+ce9e1a11,,Benjamin Barton ,smurray@example.com,Stephanieberg,Credit Card,False,0.5,Home,,232.48,0.0
+080aadfb,21-09-2025,Michael Martinez ,nelsonebony@example.com,Theresaberg,Cash,True,0.15,home,-5.0,144.41,613.74
+2a25a888,2099.01.01,Anthony Sparks,kmaldonado@example.net,East Carrie,UPI,True,0.2,toys,1.0,158.88,127.1
+,02 Jul 2025,,fjones@example.com,Hammondshire,Credit Card,False,0.2,toys,-5.0,270.15,1080.6
+988c24c9,2025.04.07,,,Jennaside,Debit Card,True,0.2,,10.0,326.49,2711.92
+43b7a3a6,,Julie Grant,patrickhoward@example.com,Port Jameston,,True,0.0,Clothing,2.0,369.56,839.12
+98ae4334,11-11-2025,Brian Gould,ramireztracey@example.org,Port Evelynmouth,Credit Card,False,0.0,Home,0.0,348.4,
+47378190,16-06-2025,William Carr,,Port Bonniemouth,Credit Card,True,0.05,GROCERY,2.0,61.71,217.25
+b8db0672,16-01-2025,,stephen00@example.com,New Nicole,Cash,True,0.0,Books,-5.0,294.96,1474.8
+9b49bd26,05/08/2025,,megan51@example.com,Port Michelleland,,True,0.5,GROCERY,-5.0,365.05,0.0
+b92da22b,2025-05-09,Adam Mitchell,trose@example.org,Shannonberg,Cash,True,0.15,Books,-5.0,351.73,1494.85
+,2025.08.24,Rick Lawrence,jonathanthompson@example.org,Marciaville,,True,0.5,,-5.0,36.27,18.14
+9132b63e,2025-06-10,,paulwatson@example.net,Patrickshire,Credit Card,True,0.2,Books,1.0,400.94,420.75
+bf3c4c06,,Diana Bean,pollardmichael@example.net,,UPI,True,0.0,home,3.0,14.97,144.91
+0b49452d,2099.01.01,Beth Sanford,awest@example.org,Woodsborough,UPI,True,,GROCERY,0.0,,
+7412b293,30-10-2025,George Orozco,alyssa42@example.com,Lauriechester,Cash,False,,Books,5.0,427.34,2129.8599999999997
+6b65a6a4,27 Feb 2025,Robert Hernandez ,georgemiller@example.com,Lake Diane,Wallet,False,0.15,HOME,3.0,412.94,1153.0
+b09b2a5c,02 Dec 2025,Jackie Tran,lynchdiane@example.net,Port Ashley,Cash,True,0.05,,-5.0,267.07,253.72
+371ecd7b,2025.04.30,,charleslandry@example.net,Pollardfort,Credit Card,True,0.0,ELECTRONICS,3.0,416.07,1348.21
+b4a69f3c,01-01-2099,Seth Booker,david36@example.net,East Robertburgh,Cash,,0.05,Books,10.0,160.73,
+,01/17/2025,Michelle Cruz,nolansteven@example.com,,Debit Card,True,0.0,toys,3.0,321.44,1064.3200000000002
+1d53434b,11/02/2025,Tanya Johnston ,vfox@example.org,,UPI,True,,GROCERY,5.0,55.6,322.4
+506e5a9a,01/01/2099,,elizabethcalderon@example.net,,Debit Card,False,0.5,Electronics,10.0,333.61,1668.05
+5ab33edf,2025-03-11,Brittany Shepherd ,ythompson@example.net,Port Erik,UPI,True,0.5,,-5.0,437.63,656.44
+ddd1dfb2,18-05-2025,Mr. Jeremiah Reeves,,Holtstad,Debit Card,True,,books,1.0,141.51,213.20999999999998
+9a1de644,2025-08-15,Matthew Harvey,nguyenbrian@example.com,Zavalaview,Cash,True,0.2,home,1.0,177.2,241.76
+956269f0,2025.06.09,Ruben Ruiz,bruce43@example.org,Mcintyreville,Wallet,True,0.05,books,,474.55,1452.47
+134c6c92,10-10-2025,Juan Moore,zwarren@example.com,Kathrynstad,,False,0.2,clothing,-5.0,412.84,
+7e570ddf,18-09-2025,Barry Bernard,williamsmatthew@example.org,New Justin,Credit Card,True,0.0,Home,5.0,362.84,1914.2
+3e896c64,01 Jan 2099,Jennifer Olson,tarabishop@example.net,Stewartstad,Wallet,,0.1,toys,1.0,123.42,
+3da9c2a9,2025-03-30,Gabrielle Snyder,,Meghanview,UPI,False,0.1,,-5.0,68.58,617.22
+7a0ecfea,01-01-2099,Joseph Ramos,hayeslisa@example.com,Emilychester,Debit Card,True,0.5,Books,0.0,226.93,
+ab9099a4,2025-06-07,Daniel Perry,linda71@example.org,Manuelland,Wallet,,0.2,BOOKS,3.0,52.46,225.9
+a28defe3,19 Oct 2025,Jean Carrillo,christopher60@example.com,Morrisonchester,Credit Card,False,0.5,Clothing,5.0,129.49,423.73
+a013ac6e,28-03-2025,Jason Henry,cameronhill@example.net,East Teresaland,Cash,,0.0,Toys,-5.0,218.5,655.5
+750cab75,01/01/2099,,coxhenry@example.org,Edwardsburgh,,False,0.5,clothing,0.0,95.17,0.0
+5be6128e,06 Nov 2025,Colleen Brock,james67@example.org,,Credit Card,False,0.0,Toys,1.0,,323.39
+0f844fef,2025-01-15,Patricia James,stevenschristian@example.com,Levyborough,Wallet,True,0.5,Clothing,,225.83,112.92
+b0e6a969,,,,Lake Suzanne,,,0.15,,10.0,288.91,
+8dcdcd03,2025.09.07,Parker Hill,,South Robert,Debit Card,False,0.0,Clothing,-5.0,97.93,195.86
+14fcdd54,2099-01-01,Raymond Hancock ,mathewaguilar@example.org,North Scott,Wallet,,0.1,,3.0,474.32,1280.66
+e87d1c78,01/01/2099,Jane Mcneil,lacey20@example.com,Lake Kellitown,Wallet,False,0.5,Books,2.0,327.34,327.34
+118a9d29,2099-01-01,Frank Garcia,michaelhardin@example.com,Lake Brett,Credit Card,True,0.1,Electronics,,159.64,287.35
+,,,jford@example.net,Williamhaven,,False,,GROCERY,2.0,120.59,192.94
+d0e6e660,10-01-2025,Douglas Carlson,elizabeth65@example.net,Davidport,UPI,True,0.0,TOYS,-5.0,,383.47
+9f044aed,01 Jan 2099,Emily Smith,ericphillips@example.org,Ericaview,UPI,False,0.0,Grocery,2.0,11.31,22.62
+3139d32c,2025-04-07,Jill Moore,courtneyberger@example.net,Joshuastad,Wallet,False,0.05,ELECTRONICS,2.0,246.91,569.13
+a9488d99,09/17/2025,Joanna Walton,,Prestonmouth,Cash,False,0.15,TOYS,0.0,,100.0
+aaf91531,2099.01.01,,mburch@example.net,Bobbyland,UPI,,0.0,Grocery,5.0,346.82,1734.1
+5304317f,2025.03.05,Kimberly Navarro,rose31@example.net,Lake Danastad,UPI,True,,books,5.0,24.06,214.28
+405cacec,14 Apr 2025,Tracey Higgins,howardkristina@example.net,Patriciaburgh,Credit Card,True,0.1,clothing,10.0,,2354.5

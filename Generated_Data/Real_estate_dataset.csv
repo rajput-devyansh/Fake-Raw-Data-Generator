@@ -1,526 +1,159 @@
 Property_ID,Address,City,Zip_Code,Prop_Type,Year_Built,Bathrooms,Garage,Price,Bedrooms,SqFt,Listed_Date,Sold_Date,Status
-MLS-634501,,Kristinechester,86026,Townhouse,,,,692110,3,,2025-01-16,,Withdrawn
-,209 Diaz Radial,Theresaberg,04701,Multi-Family,1920,1.0,1,517846,,2142,2025-08-17,,Withdrawn
-MLS-348404,44641 Moore Port,West Adriennemouth,10614,Land,2005,1.5,False,1606682,3,1967,2025-10-15,2025-09-22,Withdrawn
-MLS-964672,821 Patricia Islands,North Annette,42089,Multi-Family,1939,4.0,0,597879,6,8529,2025-07-06,2025-03-28,Foreclosure
-MLS-885383,7456 Campbell Views Suite 333,East Sandrabury,77866,Land,,2.0,Yes,1811286,5,6088,2025-04-15,2025-06-06,Withdrawn
-,590 Smith Street Suite 951,New Jackie,00847,Land,1989,1.5,,747102,4,1017,2025-11-20,,Sold
-MLS-987600,8362 Cisneros Overpass,New Roger,24081,Townhouse,1920,4.0,No,,100,500,2025-10-10,,
-MLS-223604,,Williamsmouth,18667,,1948,1.5,No,1638403,5,,2025-03-30,,Withdrawn
-,29856 Vazquez Green,Leestad,32823,,1965,,False,1754074,1,2325,,2025-09-07,
-MLS-512567,81580 Richmond Pike,Jenniferchester,47100,Condo,1944,1.5,,53450,4,2803,2025-03-10,2025-09-05,
-MLS-317601,741 Rhonda Port Apt. 539,New Karen,34968,Single Family,1934,1.5,Yes,,5,6809,2025-11-17,2025-07-10,Active
-MLS-572789,158 Nelson Keys Apt. 364,Kimburgh,30501,Land,,5.0,False,1271213,4,1893,2025-02-04,2025-10-10,Foreclosure
-MLS-453948,6430 Jeffrey Drive,Mcdanielborough,20766,Land,1922,5.0,False,330876,1,6588,2025-03-26,,Active
-MLS-133412,0933 Cummings Mill,New Samanthaside,18616,Townhouse,1984,2.5,True,281937,2,9064,2025-07-16,,Sold
-MLS-673513,215 Brianna Coves,Reedmouth,,Townhouse,1978,2.0,No,$1M+,3,6286,2025-06-02,2025-08-27,Withdrawn
-MLS-632230,836 Smith Prairie Apt. 340,Lisaview,67736,Townhouse,2007,5.0,1,1331689,4,9825,2025-09-14,,Active
-MLS-500540,059 Green Drive,,87534,Multi-Family,1986,1.0,No ,1860822,4,3678,2025-02-04,,Sold
-MLS-136234,5325 Kimberly Lock,Jamesburgh,41872,Single Family,1958,5.0,Yes,334619,5,8356,2025-01-07,2025-06-04,Withdrawn
-MLS-174643,5052 Brandon Circles Apt. 704,Danielville,79243,Condo,2008,2.5,0,1200903,6,6811,2025-05-16,2025-04-18,Sold
-MLS-680271,28742 Butler Lodge,Christophershire,19315,Townhouse,1942,1.0,1,875570,2,7059,2025-02-07,2025-01-13,Foreclosure
-MLS-155502,,South Scottfort,93722,Condo,1900,5.0,True ,1179065,4,8906,2025-04-09,2025-08-04,Sold
-MLS-590479,554 Stuart Gateway Apt. 997,Lake Christopher,51648,Multi-Family,1970,5.0,1,1671187,2,4342,2025-04-27,2025-06-24,Withdrawn
-MLS-568977,378 Philip Roads,,84535,Single Family,1902,2.0,True,1482370,3,2422,2025-10-12,2025-05-01,
-MLS-932013,5264 Katherine Summit Suite 374,,90501,Single Family,1943,3.0,Yes,904609,3,7797,2025-09-27,2025-03-04,Withdrawn
-MLS-466491,5785 Murphy Squares Suite 530,West Thomas,79922,Multi-Family,1920,5.0,No,547046,1,2409,2025-06-17,2025-07-11,Active
-MLS-750802,9545 Quinn Lodge Suite 771,Maryburgh,66275,Townhouse,1971,1.0,Yes,1273090,2,4031,2025-05-15,,Sold
-MLS-615316,03675 Paul Tunnel Apt. 289,Port Coreystad,81892,Land,1955,3.0,False,,1,3365,,2025-08-06,Foreclosure
-MLS-583569,,Timothystad,96986,Townhouse,1943,4.0,No ,,6,515,2025-02-14,,Sold
-MLS-372317,84571 Berry Spur,West Anthony,69342,Land,,,1,1945519,,,2025-10-22,,Active
-MLS-463402,49633 Jefferson Port,North Patricia,13129,Multi-Family,,5.0,,1084250,6,3143,2025-08-31,,Active
-,,Samuelstad,,Townhouse,2010,4.0,No,569652,3,9988,2025-10-17,2025-07-09,Sold
-MLS-631583,3611 April Oval,Jamestown,95940,,2000,1.5,True,1766571,,5955,2025-05-16,,Foreclosure
-MLS-327763,4651 Wells Turnpike Suite 978,West Peterfurt,49152,Land,1961,1.0,Yes,1300376,3,,2025-01-09,,
-MLS-103716,14616 Larry Skyway,North Douglasland,,Single Family,,4.0,False,1528869,1,9143,2025-05-29,2025-10-04,Foreclosure
-MLS-898867,109 Gregory Expressway Suite 539,Wandaborough,64243,Townhouse,2005,1.0,,$1M+,5,7884,2025-01-18,,Pending
-MLS-585187,21242 Lisa Underpass,Lake Joseph,61611,,1997,5.0,0,,3,2563,2025-03-16,,Pending
-MLS-540712,6606 William Tunnel,,10984,Condo,2014,4.0,False,1133503,100,500,2025-09-08,,Pending
-MLS-769643,5376 Karina Trace Apt. 564,Wutown,06305,Multi-Family,1914,1.5,False,943527,1,7503,2025-11-28,,Withdrawn
-,4839 Tony Orchard Apt. 715,New Madison,,Townhouse,2020,1.0,1,225944,3,3714,2025-09-25,,Sold
-MLS-667719,09251 Christine Avenue,North Jamesburgh,66303,Multi-Family,1913,2.0,0,1298261,3,7733,2025-03-23,2025-01-28,
-MLS-429765,358 Thomas Spur,Cherylberg,69749,Multi-Family,1997,2.0,True,1516257,1,5458,,,
-MLS-665703,4878 Linda Glens,Ramirezfort,96912,Land,2001,4.0,True ,$1M+,5,9350,,2025-06-26,Withdrawn
-MLS-995246,8735 Brooks Fork,Changshire,75095,Multi-Family,1911,1.0,True ,444841,6,9533,2025-05-12,,
-,362 Darren Square Apt. 501,Daniellemouth,,Multi-Family,1968,4.0,1,,,2061,2025-07-15,2025-04-07,Foreclosure
-MLS-732504,43968 Robertson Fords Suite 960,,49504,Land,1974,4.0,1,1918855,4,4859,2025-06-06,,Active
-,740 Parker Harbor Apt. 739,Tuckershire,70962,Land,,1.0,,879707,4,2865,2025-11-20,,Withdrawn
-MLS-845896,998 Allison Courts Suite 281,Daltonview,38110,Single Family,1907,1.5,Yes,83872,1,5902,2025-10-13,2025-10-07,Foreclosure
-MLS-759680,50956 Riley Street Apt. 385,,52829,Townhouse,2011,1.5,False,743688,100,500,,,Withdrawn
-MLS-162995,1641 Ibarra Forks Apt. 768,Clarkchester,17705,Land,2021,,True,731555,3,9344,2025-11-25,2025-05-08,Active
-MLS-374612,,Maryburgh,,Condo,1973,1.0,1,,4,3718,,,Withdrawn
-MLS-944686,643 Melissa Meadows,Sanchezmouth,,Multi-Family,1945,5.0,False,922602,100,500,2025-01-01,,Pending
-MLS-597230,437 Jane Mall,East Robert,94250,Condo,1940,2.0,1,281430,5,9749,2025-09-20,2025-06-12,Sold
-MLS-275895,93191 Oneal Plaza Suite 586,East Elijahfurt,04315,,2015,2.5,1,1383626,5,9851,2025-03-12,,Pending
-MLS-318268,583 Smith Street,Port Robert,82437,Land,1985,3.0,1,1587174,3,8594,2025-07-18,2025-06-29,Foreclosure
-MLS-737614,,West Victor,87703,Single Family,,3.0,False,,3,8366,2025-01-19,,Sold
-MLS-801826,9958 Jessica Oval Suite 286,Simpsonshire,93054,Townhouse,1905,3.0,1,1690265,3,1564,2025-10-30,2025-07-11,Foreclosure
-MLS-706446,3942 Antonio Turnpike,New Debbie,,Single Family,,,False,Call for Price,3,1522,2025-08-27,,Sold
-MLS-403337,555 Felicia Port Apt. 240,Williamschester,18028,Single Family,1911,2.0,True,Call for Price,1,,2025-06-30,,
-MLS-288537,145 Catherine Rapid Apt. 395,Garyhaven,69959,Land,1937,2.5,Yes,408739,2,1584,2025-07-29,2025-03-03,Pending
-MLS-944044,8496 Elizabeth Fords,Susanfurt,58023,Single Family,,3.0,Yes,299351,1,3330,2025-09-23,,Active
-MLS-813465,1354 Cooper Mill Suite 079,Lake Davidstad,59044,Single Family,1960,,Yes,716057,4,7695,2025-06-29,2025-11-21,Withdrawn
-MLS-431157,42076 Anthony Valley,Mckayfort,75544,Townhouse,1983,3.0,0,973203,6,7390,2025-09-26,,Pending
-MLS-700980,87512 Ashley Cape,Sotoburgh,45227,Land,1934,,True,189773,4,7057,2025-08-31,2025-06-24,Foreclosure
-MLS-941847,952 Scott Ports Apt. 528,Johnborough,61803,Multi-Family,1982,,,732396,,8947,2025-10-16,,
-MLS-913504,689 Michael Crossing,Lindaabury,23175,Condo,1931,1.0,,,3,3433,2025-05-29,,Withdrawn
-MLS-416180,8320 Rachel Unions,,02346,Multi-Family,2099,3.0,0 ,415252,1,7042,2025-08-10,2025-03-14,Active
-MLS-768221,4385 Fernandez Points,Port Denise,44188,Multi-Family,1956,1.5,True ,464881,2,935,2025-12-01,2025-03-16,Pending
-MLS-953145,36245 Dawson Streets Apt. 714,Fuentesberg,70437,,2003,,No,122314,100,,2025-05-13,2025-04-10,Withdrawn
-MLS-878341,7446 Torres Glen Apt. 187,North Jenniferbury,,,1989,4.0,No,315927,4,1577,2025-01-07,2024-09-29,Foreclosure
-MLS-495889,8263 Stacey Pines Suite 510,Pachecochester,,,1986,5.0,1,393881,5,4045,2025-03-28,,
-MLS-979105,172 Davis Isle,New Carrie,39623,Single Family,,5.0,1,1674949,1,4349,2025-02-20,,Active
-MLS-169501,94462 Gray Islands,Gabrielleport,05489,Townhouse,2015,2.0,No,858271,4,4494,2025-07-14,,Pending
-MLS-818439,446 Michael Walks,Alvarezview,83153,Land,2006,1.0,0,421957,1,3760,2025-06-28,2025-03-20,Active
-MLS-271813,81173 Gloria Ports Apt. 821,Lake Jeremyfort,96699,Multi-Family,1958,2.0,False,984858,,7880,2025-07-27,,Withdrawn
-MLS-672905,8068 Stephanie Camp,,14527,Multi-Family,2016,3.0,No,825495,1,-1000,2025-02-15,,Foreclosure
-,0764 Hayes Squares,North Jennifer,,,1935,3.0,0,1992812,6,8946,2025-04-03,2025-10-08,Active
-MLS-645686,079 Butler Garden,Gomezland,69231,Condo,1963,3.0,1,289628,5,7465,2025-04-09,2025-08-06,Pending
-MLS-863604,0262 April Lock Apt. 363,Davisburgh,61960,Single Family,2008,5.0,Yes,1500896,3,,2025-07-16,,
-MLS-550949,5237 Andrew Branch,East Gabrielle,45439,Townhouse,1931,,Yes,551992,4,2905,2025-03-29,2025-07-19,Foreclosure
-MLS-370778,45237 Jared Lights,Prestonport,54771,Condo,1966,,Yes,1222198,100,500,2025-08-28,2025-06-04,Active
-MLS-272512,4009 Brown Passage Apt. 256,Hickshaven,79473,Townhouse,1923,,Yes,,2,6090,2025-07-02,,Foreclosure
-MLS-330555,174 Wright Circles,Carlsonchester,86461,Multi-Family,,2.0,,74269,5,5349,2025-03-25,,Pending
-MLS-184586,850 Steven Plaza Suite 385,Timothyfurt,94094,Condo,2013,4.0,True,1707193,6,4837,2025-08-11,,
-MLS-162301,5252 Evans Island,Carlosville,06561,Townhouse,1968,1.5,No,1709797,5,,2025-06-29,,Sold
-MLS-885049,623 Cole Roads Apt. 330,,45785,,1975,,No,1776464,6,1705,2025-04-23,2025-09-09,Foreclosure
-MLS-928272,76777 Nixon Skyway,North Kimberly,68172,Single Family,1936,1.0,0,,6,9684,2025-03-09,,Withdrawn
-MLS-468158,70377 Karen Drives,Nancyside,90715,,1997,5.0,1 ,$1M+,,4432,2025-02-08,2025-05-01,Foreclosure
-MLS-810941,7428 Odonnell Well,Kaylaland,87399,Single Family,1984,,0,1403903,2,8902,,,
-MLS-130608,8749 Mccoy Island,South Tom,,Land,1917,4.0,True,1005287,3,9569,2025-08-25,2025-05-25,Withdrawn
-MLS-696367,2175 Hall Glens Apt. 465,East Nathan,,Single Family,1916,,1 ,1458936,4,7522,2025-10-27,,Pending
-MLS-576285,959 Lee Cliffs,Port Raachelton,71025,Condo,1927,2.0,No ,1360268,1,2796,2025-03-04,2025-11-06,Sold
-MLS-989882,5868 Martin Trail,Michelleville,91603,Land,2011,2.5,Yes,1175331,4,,2025-06-07,,Sold
-MLS-825432,64960 Martin Junctions,Seanshire,28890,Single Family,1966,2.5,False,,6,7972,2025-05-16,,Foreclosure
-MLS-606548,4050 Kayla Junctions Apt. 346,Adrianbury,79325,Multi-Family,1947,1.5,True,492881,,7320,2025-05-02,,
-MLS-676548,16332 Wong Alley Suite 244,Lisaville,31936,Townhouse,1953,1.0,,366731,4,6988,2025-07-10,,Active
-MLS-765484,9769 Melissa Square Apt. 514,North Sierra,85521,Townhouse,2010,5.0,Yes,1395712,5,2093,2025-10-28,,Withdrawn
-MLS-745990,86816 White Divide Apt. 507,Port Bryan,31346,Single Family,2013,5.0,False,1508647,1,6134,2025-04-19,,Pending
-MLS-769897,87576 Tracy Landing Suite 224,Lambside,77521,Land,,1.5,No,1297976,5,1734,2025-09-04,,Active
-MLS-626508,96175 Peterson Oval Apt. 618,Schmittchester,18851,Condo,1981,4.0,False,1039817,2,,2025-10-20,,Withdrawn
-MLS-945486,4805 Meza River,Port Christinaside,89675,Townhouse,1993,2.0,False,925393,6,8735,2025-01-26,,Active
-MLS-894076,8110 Eric Ways Apt. 883,East Charlesfurt,,Land,2009,2.5,False,224086,6,6166,2025-07-02,,
-MLS-875406,,East Tracymouth,34257,Multi-Family,1920,2.5,1,,4,7258,2025-07-16,2025-03-02,Pending
-MLS-667719,09251 Christine Avenue,North Jamesburgh,66303,Multi-Family,1913,2.0,0 ,1298261,3,7733,2025-03-23,2025-01-28,
-MLS-748605,4601 Allen Locks,West Cynthia,,,1996,1.0,Yes,1458466,2,3981,2025-01-26,2025-09-02,Active
-MLS-713857,143 Estrada Street Suite 342,West Aaronton,85410,Condo,1926,2.0,1,988400,1,9830,2025-06-22,,Sold
-MLS-618972,0736 Miller Parks,South Laura,71516,Multi-Family,1942,1.5,Yes,1728816,6,2007,2025-11-12,,Withdrawn
-MLS-401496,81903 Wallace Cove Suite 510,Jenniferfurt,07491,Townhouse,1984,2.0,1,691526,3,4721,2025-06-23,2025-07-20,Pending
-MLS-774694,44379 Richard Meadow Apt. 448,Rodriguezton,90386,Condo,2021,1.0,1,948658,6,3352,2025-11-16,,Sold
-MLS-264147,29670 Smith Islands Suite 237,Aprilfurt,34925,Townhouse,,2.0,Yes,613903,5,3735,2025-06-11,,Sold
-MLS-909262,225 Wade Pike Suite 313,Phelpsburgh,05755,Single Family,1926,2.0,Yes,1900714,,4766,2025-08-25,,Withdrawn
-MLS-717685,544 Anthony Mountain Suite 577,Lake Rossfurt,79470,Condo,,5.0,No,1647260,6,,2025-11-15,2025-08-07,Withdrawn
-MLS-271813,81173 Gloria Ports Apt. 821,Lake Jeremyfort,96699,Multi-Family,1958,2.0,False,984858,,7880,2025-07-27,,Withdrawn
-MLS-369708,630 Butler Way Suite 629,East Whitneyburgh,48432,Single Family,1965,3.0,Yes,508319,5,2767,2025-06-05,2025-11-14,Active
-,4372 Janet Islands Apt. 196,Ericside,87282,Multi-Family,2024,1.5,No,,2,4341,2025-04-06,2025-02-10,Withdrawn
-MLS-815169,8578 Chelsea Viaduct,,20709,Multi-Family,,2.5,True,Call for Price,100,500,2025-10-08,,Active
-MLS-193700,974 Mason Turnpike Apt. 305,Lake Monicashire,04565,Land,1978,5.0,True,970411,2,,2025-06-11,2025-09-20,Active
-MLS-887598,14324 Crystal Mills,West Kimberlytown,94227,Condo,1961,5.0,0,1551263,3,7110,2025-03-29,,Active
-MLS-231413,,West Juaanberg,32701,,2024,2.5,Yes,446415,,7623,2025-05-17,2025-09-04,Active
-MLS-419341,1528 Young Plaza,Lake Lorimouth,07717,Townhouse,1961,2.5,True,476515,3,9201,2025-10-09,,Foreclosure
-MLS-112705,987 Michael Skyway Suite 411,Port Andrew,11283,Land,1912,2.0,Yes,680490,,7451,2025-01-08,,Sold
-MLS-910423,248 Michelle Hills Suite 046,Nicoleburgh,97227,Multi-Family,1952,4.0,,Call for Price,,9711,2025-11-11,2025-03-09,Pending
-MLS-517146,,Davisshire,10675,Single Family,1901,2.5,1,1882634,6,5610,2025-05-05,,Sold
-MLS-175916,180 Davis Pine Suite 370,North Kristenton,80817,Condo,2019,5.0,,870154,3,1321,2025-12-01,2025-08-23,Active
-MLS-870545,97505 Wilkins Rest Apt. 151,North Scott,16162,Townhouse,1949,3.0,True ,68008,1,8529,2025-01-31,2024-10-23,Withdrawn
-MLS-550089,614 Tanner Plaza,West Justinfort,,Land,1998,4.0,No,1214371,5,6705,2025-04-23,,Withdrawn
-MLS-707928,40728 Kimberly Ridges,East Erinberg,65676,Land,1971,2.0,Yes ,997220,3,7006,2025-03-06,2025-07-31,
-MLS-983856,8058 Anthony Stravenue Suite 895,West Devin,,Land,1977,1.0,True,125032,,500,2025-10-07,,Active
-MLS-958091,879 Cole Isle,West Steven,,Single Family,2024,2.5,,703534,4,9968,2025-11-15,2025-08-07,Active
-MLS-628254,31867 Decker Turnpike,North Deborahview,20064,Land,1917,2.5,1,1736737,,2444,2025-05-21,,
-MLS-593989,450 Brown Grove,East Alishastad,40814,Multi-Family,1992,,True,635266,5,5026,2025-03-01,2025-01-03,Pending
-MLS-118586,3725 Brian Garden Apt. 195,West Kellymouth,73953,Single Family,1968,1.5,False,81319,2,8371,2025-11-24,,Pending
-MLS-446585,489 Kelly Skyway,North Steven,10633,Single Family,1942,2.0,0,1228446,5,530,,2025-07-04,Withdrawn
-MLS-458087,7639 Alvarez Drive,Danielburgh,97152,Condo,,2.5,Yes,1450649,2,1207,2025-10-23,,Sold
-MLS-384608,114 Christian Circle,Melissaport,43734,Condo,1961,4.0,Yes,792854,5,,2025-03-02,2025-08-15,Active
-MLS-417283,545 Miller Shore,North Mark,17255,Condo,1999,,No,1839762,3,8934,2025-06-21,,Pending
-,1446 Davis Ranch,,23066,,1933,3.0,0,173496,3,3042,,,Pending
-MLS-238577,,West Mikayla,59897,,1945,1.0,Yes,1281513,1,7571,2025-01-04,2025-03-22,Sold
-MLS-182915,513 Erica Flat,Stricklandshire,90478,Townhouse,1960,2.0,0 ,977159,,1201,,2025-02-04,Foreclosure
-MLS-702047,7663 Tami Turnpike Suite 997,South Christopher,53648,Land,1993,1.5,1,1538625,,5289,2025-09-07,2025-08-14,
-MLS-147862,184 Rivera Lakes,Port Claudiahaven,56467,Single Family,2015,,Yes,1398232,100,500,2025-09-28,,Pending
-,762 Cooper Gateway,Port Alejandro,05939,Land,1900,,True,1620365,4,1273,2025-08-02,,Active
-MLS-908360,8795 Haynes Neck Apt. 149,Port Brookeshire,67812,Single Family,1905,1.0,Yes,1383147,5,7019,2025-08-16,,
-MLS-461863,209 Wayne Dale Apt. 120,Michelleshire,54867,Single Family,1944,2.0,No,586985,5,-1000,2025-01-28,,Withdrawn
-MLS-212527,1170 Todd Highway Suite 344,,06288,Land,1932,4.0,Yes,1833259,4,,2025-04-04,2025-07-07,
-MLS-122322,717 Jerry Spur Apt. 589,North Scottfurt,85373,Land,1922,1.0,False,507416,4,1798,2025-08-27,2025-09-10,Pending
-MLS-100436,,New Kelly,65997,Condo,1914,2.5,True,1925347,1,2606,2025-01-18,,Active
-,71198 Merritt Turnpike Apt. 157,Rhondaville,04678,Single Family,1969,2.0,1 ,1558293,1,9335,2025-09-25,2025-08-17,Sold
-MLS-568368,3509 Massey Island Suite 731,South Elizabeth,40569,Land,1967,5.0,False,246448,6,5984,2025-05-04,,Foreclosure
-MLS-578255,11581 Monroe Forest Apt. 539,West Daltonstad,63046,Land,1954,5.0,Yes,1084370,2,6224,2025-08-13,,Sold
-MLS-464083,266 Dustin Shoals Suite 776,Sextonbury,24652,Multi-Family,2020,2.0,,993547,,3800,,2025-04-06,Foreclosure
-MLS-458247,10420 Cervantes Wells Apt. 865,,90253,Townhouse,2020,,,1499479,3,632,2025-07-17,2025-04-08,Foreclosure
-MLS-655062,5673 Jeffrey Stream Apt. 684,Gregoryport,71672,Townhouse,1972,2.5,True,205989,3,4181,2025-06-06,2025-07-25,
-MLS-241744,061 Matthews Creek Apt. 512,Jonesport,10759,Single Family,2023,1.5,,577316,3,4511,2025-02-03,2025-07-07,Pending
-MLS-593799,29649 Rebecca Route Apt. 471,East Danielland,66221,Single Family,1952,1.0,False,1761747,2,803,,,Foreclosure
-MLS-568368,3509 Massey Island Suite 731,South Elizabeth,40569,Land,1967,5.0,False,246448,6,5984,2025-05-04,,Foreclosure
-MLS-308222,497 Dean Run,Lake Reneeton,,,1988,3.0,Yes,420774,5,5440,2025-06-14,2025-09-05,Pending
-MLS-246278,406 Sheryl Mountains,Lake Mary,54788,Condo,2008,,True,1503536,5,8617,2025-08-09,,Withdrawn
-MLS-658957,,Kathleenport,26118,Land,1949,4.0,1,776529,5,8778,2025-10-09,2025-07-01,Pending
-MLS-233036,132 Shawn Fields,Williamsberg,44397,Land,1972,4.0,False ,1711896,5,8728,2025-11-22,2025-06-22,Pending
-MLS-848139,2266 Dixon Inlet,West Victoria,67187,Townhouse,1973,4.0,Yes,660559,2,8762,2025-04-01,2025-07-03,Sold
-MLS-266029,972 Phillips Ville Apt. 047,East Brandon,81043,Multi-Family,1956,2.0,False,428097,5,6404,2025-07-13,,Foreclosure
-MLS-412341,67545 Barnes Radial Apt. 941,New Lindatown,50256,,1947,1.0,,1534140,3,2809,2025-11-25,2025-02-20,Sold
-MLS-940441,60485 Nguyen Ridge,Lake Joshua,15836,Multi-Family,2004,1.5,,1444229,100,500,2025-09-30,,Withdrawn
-MLS-130916,7095 Charles Parkways Suite 868,Jamesmouth,49529,Multi-Family,,1.0,0,Call for Price,2,7811,2025-08-08,2025-06-19,Active
-MLS-509685,76380 Patrick Flat Apt. 676,Jenningsfurt,17226,Single Family,1964,3.0,True,763804,2,7620,2025-07-27,,Sold
-MLS-863273,36305 Navarro Mountain Suite 607,Stephenville,09597,Land,1979,3.0,No,1789485,6,2177,2025-01-05,,Foreclosure
-MLS-160738,60639 Suzanne Cliff,East Dawnport,39892,Townhouse,1948,4.0,Yes,1892823,2,1572,2025-02-16,2025-05-30,Pending
-MLS-893085,312 Moore Lake Suite 013,North Jasmine,88929,Townhouse,,2.0,1,1473497,4,4925,2025-10-10,,Sold
-MLS-571713,8362 Collier Roads,Stephaniefort,94825,Land,1906,2.0,1,161860,4,9032,2025-08-24,,Foreclosure
-MLS-435754,51852 Brooke Corners,Stewartstad,43214,Land,1931,2.5,No,,4,8587,,,Sold
-MLS-861310,802 Patricia River,Geraldland,11319,Townhouse,1976,,No,1194500,3,3395,2025-06-16,,Sold
-MLS-958361,3649 Garcia Circle Suite 799,Nathanieltown,65202,Multi-Family,1910,2.0,No,,4,5914,2025-10-28,2025-11-02,
-MLS-962490,047 Christine Points Apt. 337,Clarkfurt,51624,Single Family,1923,4.0,True,1800361,2,2470,2025-08-27,,Foreclosure
-MLS-364948,330 Eric Cove Suite 666,Christopherborough,,Townhouse,,4.0,False,618516,4,,2025-01-08,2025-11-12,Pending
-,35066 Heath Meadows,Hughesside,35510,Townhouse,1933,1.5,Yes,1351900,3,9786,2025-05-24,,
-MLS-867036,09928 Guerrero Shore,North Heidi,33748,Townhouse,1933,2.0,1,1362258,1,4992,2025-06-18,,Pending
-MLS-886806,1465 Walter Court Suite 332,Barnesville,57924,,1956,,True,1109075,,3543,,2025-11-18,Foreclosure
-MLS-835058,369 Good Tunnel Suite 958,Port Amberville,28053,Land,1960,4.0,No,162843,4,4482,,2025-03-25,Withdrawn
-MLS-268758,9655 Teresa Squares Suite 218,Mullenside,18351,Single Family,1946,2.5,1,1158621,6,3892,2025-01-15,2025-09-12,Active
-MLS-817951,37598 Vargas Corner Apt. 878,Port Eric,38597,Townhouse,,4.0,False ,801851,5,,2025-09-20,2025-07-16,Foreclosure
-MLS-447122,45540 Hernandez Brooks,Pennyton,08167,Multi-Family,2011,,True ,127422,6,1124,2025-07-01,,
-MLS-184626,,Jerrybury,43964,Townhouse,1900,2.0,No,1361457,100,500,2025-02-24,,Foreclosure
-MLS-484480,90937 Conley Trace Suite 079,Martinezshire,,Townhouse,2003,4.0,No,332596,6,6410,2025-08-13,2025-06-18,Withdrawn
-MLS-393082,50766 Williams Lights,Port Davidton,14014,Land,1965,3.0,No,124767,1,2264,2025-08-26,,Sold
-MLS-664183,95108 Stacy Track,Ibarrahaven,93397,Condo,1977,1.5,True,1275507,2,9839,2025-05-05,,Withdrawn
-MLS-255574,18005 Phillips Brooks Apt. 776,Port Veronicamouth,70223,Multi-Family,1939,2.0,True,295650,4,7658,2025-04-20,,Sold
-MLS-666161,7299 Fisher Light Suite 620,,30756,Condo,1985,1.5,1,873002,3,2610,,,Foreclosure
-MLS-754461,99055 Martinez Orchard Apt. 904,Nelsonview,74713,Condo,1988,1.5,,875678,6,,2025-04-02,2025-05-27,Withdrawn
-MLS-139514,009 Erin Track,Roseport,38110,Townhouse,2006,1.0,Yes,,,3661,2025-03-16,,Withdrawn
-MLS-237052,65354 Marissa Ford,Millerfurt,29110,Single Family,1999,1.5,No,1480212,6,2418,2025-03-18,,Withdrawn
-MLS-503242,060 Taylor Prairie,Toddstad,31555,Land,2099,2.5,0,1824336,1,1304,2025-06-14,,Withdrawn
-MLS-342918,5201 James Court,Thompsonland,31406,Land,1989,1.0,False,1716623,6,5850,2025-06-25,,Foreclosure
-MLS-612016,,Christopherport,95904,Condo,,2.0,1,1656286,2,,,,Active
-,0010 Karen Curve,Port Donaldbury,55494,Townhouse,1964,,1,,,7559,2025-11-11,,
-MLS-948506,,Port Samantha,81830,Land,1956,2.0,Yes,270653,4,5133,2025-11-07,,Pending
-MLS-156051,392 Gina Stream Suite 954,North Andrew,68127,Condo,2006,2.0,1,,,3278,2025-02-16,2025-09-25,
-MLS-499276,974 Michael Highway Apt. 904,New Michael,31449,Townhouse,1972,5.0,True,,,6676,2025-02-12,2025-04-07,Foreclosure
-MLS-381978,5359 Reed Fields,North Scott,69242,Condo,1989,2.5,Yes,944168,100,500,,,Foreclosure
-MLS-540716,078 Thompson Isle Apt. 541,Smithchester,67060,Single Family,1946,1.5,Yes,1918074,2,4152,2025-09-16,2025-07-10,Active
-,4839 Tony Orchard Apt. 715,New Madison,,Townhouse,2020,1.0,1,225944,3,3714,2025-09-25,,Sold
-MLS-763990,6130 Navarro Garden Suite 148,Vincentview,86233,Single Family,1930,2.0,,1288451,6,4792,2025-08-28,2025-01-31,Sold
-MLS-780482,024 Myers Ridges Apt. 385,Jessicamouth,,Multi-Family,1987,4.0,No,1580061,6,9769,2025-06-19,,Withdrawn
-,0590 Schneider Square,Jamesburgh,29419,Condo,,,True,725790,3,2108,2025-06-07,,Sold
-MLS-511722,064 Villanueva Junctions Suite 918,East Joshuaside,,Single Family,1941,1.0,1,602656,1,548,2025-09-09,,
-MLS-758958,285 Holmes Port,Jessicaton,39880,Land,1933,2.5,0,,,7320,,,Withdrawn
-MLS-336060,8705 James Fork Apt. 056,,87405,,1906,1.5,No,1923036,4,6555,2025-10-29,,Foreclosure
-MLS-121883,56343 Heather Club,Shannonmouth,,Multi-Family,1957,3.0,False,753449,6,,2025-07-09,2025-09-25,
-MLS-567348,46442 Julian Mountain,West Thomasmouth,07079,Multi-Family,1987,2.0,0,1569613,3,9275,2025-03-18,,
-,86569 Norris Forges Suite 447,Randolphchester,95555,Townhouse,1904,1.5,1 ,926148,2,5693,2025-07-15,2025-07-25,Foreclosure
-MLS-848139,2266 Dixon Inlet,West Victoria,67187,Townhouse,1973,4.0,Yes,660559,2,8762,2025-04-01,2025-07-03,Sold
-MLS-828109,35849 Ryan Key Apt. 595,Hopkinsfurt,10198,Condo,,4.0,No,1114511,,,2025-04-03,2025-08-20,Pending
-,501 Kevin Glens,Stephanieshire,70220,Townhouse,1943,1.5,,1841455,,4418,2025-10-07,,Pending
-MLS-660244,111 Romero Crescent Apt. 592,Johnsonhaven,33133,Condo,1944,1.5,No,103981,4,828,2025-06-04,,Active
-MLS-994545,,Port Michael,37169,Townhouse,1949,1.5,1,829725,4,6539,2025-05-21,2025-08-16,
-MLS-283792,440 Amy Village,Port Kimberly,74320,Condo,1924,1.5,0,,2,9769,2025-10-02,,Active
-MLS-811893,11305 Gloria Prairie,Lake Alicia,72563,Multi-Family,2011,1.0,False,1797243,3,,2025-09-04,2025-04-14,Active
-MLS-998846,7496 Compton Streets Suite 527,Stephensmouth,44130,Multi-Family,2022,1.5,False,1293571,4,,2025-02-19,2025-11-15,
-MLS-564485,400 Jensen Lakes Apt. 445,South Christina,85098,Condo,,1.0,Yes,1120974,6,5782,2025-04-28,2025-08-22,Foreclosure
-,835 Stafford Parkway,Carolynville,57473,,1999,2.5,,,1,2787,2025-04-26,2025-02-22,Sold
-MLS-394411,542 Smith Key,North Johnchester,59036,Condo,1901,5.0,True,,1,3660,2025-10-05,,Foreclosure
-MLS-591374,68687 Deborah Ford,West Allenfurt,,,1935,4.0,True,80088,4,1046,2025-07-31,,Pending
-MLS-474007,,North Brian,01802,Multi-Family,2013,4.0,0,1109206,5,7017,2025-10-04,,Active
-MLS-870676,9207 Brown Cove Suite 032,Kellymouth,06121,Land,2000,4.0,0,1515571,1,1880,2025-01-17,,Sold
-MLS-124594,70022 Ray Manors Apt. 445,,05018,Condo,1978,2.0,True,1084558,1,2566,2025-07-04,2025-08-24,Pending
-MLS-148745,143 Perry Throughway,Dwaynemouth,81339,Condo,1969,2.5,No,,3,1170,2025-08-08,2025-07-18,Active
-MLS-406614,73141 Thomas Keys,Jacobburgh,64187,Single Family,1920,1.5,0,532839,4,2197,2025-11-21,2025-10-27,Sold
-MLS-609227,97451 Janet Locks,North Jose,67409,Condo,2002,,,1437823,1,,,2025-05-08,Withdrawn
-MLS-874211,0063 Jimmy Rapids,East Peter,03985,Multi-Family,2009,2.0,False,862384,,1597,,,Foreclosure
-,7069 Olivia Mall,Jessicastad,50738,Multi-Family,,2.5,Yes,1105532,,,2025-01-22,2025-09-26,Sold
-MLS-380800,3433 Elliott Motorway Apt. 972,Stephenborough,67279,Townhouse,1991,5.0,1 ,985784,3,6576,2025-08-03,2025-06-18,Pending
-MLS-363607,45365 James Path,West Emily,,Land,1978,4.0,Yes,1355733,2,6929,2025-04-04,2024-12-25,
-,929 Katherine Mountains Apt. 969,South Jonathan,48944,Condo,1946,3.0,0,602064,5,-1000,2025-01-07,2025-09-16,Pending
-MLS-996922,3446 Gregory Parkways,,,Multi-Family,1941,1.0,1,441942,1,903,2025-07-19,,Active
-MLS-972107,287 Dustin Tunnel,Joanntown,68618,,2020,2.0,1,,5,2974,2025-11-03,,Active
-MLS-505019,40305 Berry Isle Apt. 733,Port Jadebury,01530,Single Family,2014,1.0,1,1647973,6,9852,2025-09-20,2025-07-23,Pending
-MLS-916675,8482 Reeves Flat,Lake Christina,77366,Condo,1991,1.5,True,592556,6,9418,2025-03-23,2025-11-30,Withdrawn
-MLS-983621,48944 Jake Unions,Floresshire,93616,Single Family,1948,2.0,True,1883940,4,3170,2025-03-18,,
-MLS-194979,44968 Johnson Curve,Lake Gloriashire,49232,Townhouse,1927,1.5,No ,164845,2,,2025-07-06,,Active
-MLS-612453,95458 Jessica Plains,Carrchester,99053,,1939,4.0,0,1012114,5,3718,2025-10-20,2025-11-23,Active
-MLS-969198,,Paatriciaabury,71514,Land,1927,5.0,No,570792,5,3775,2025-11-01,2025-04-07,Foreclosure
-MLS-555256,8735 Daniel Rapids,Port Rosemouth,72563,Condo,,1.5,True,246242,,7578,2025-09-17,2025-06-04,Pending
-MLS-288859,52217 David Inlet Apt. 487,West Haannaah,16798,,1959,,True,116775,4,,2025-10-06,2025-11-17,Foreclosure
-MLS-923354,330 Robert Prairie,,50228,,,,False,1930492,5,4866,2025-10-13,2025-09-06,Active
-MLS-756214,362 Miranda Fields Suite 135,Fernandezborough,21120,Condo,1915,5.0,1,191619,3,6714,2025-02-03,,Foreclosure
-MLS-977423,,Hallbury,46898,Single Family,1919,3.0,No,927605,1,2667,2025-04-05,2025-05-20,Sold
-,2237 Bradley Hills Apt. 975,Pricemouth,56981,Townhouse,1912,,Yes,1539978,4,1173,2025-02-12,,
-MLS-403051,65030 Moon Green,Millerborough,02147,Multi-Family,1942,1.0,No,138728,3,1721,2025-03-18,,Pending
-MLS-133845,8577 Erica Mountain,New Daniel,62569,Single Family,1946,5.0,Yes,491438,100,500,2025-02-16,,Sold
-MLS-860035,16453 James Hill,South Danielle,57740,Single Family,2099,,True,,3,,2025-05-20,,Foreclosure
-MLS-201106,12918 James Fields,Johnburgh,29236,Townhouse,1964,1.5,False,1817176,5,5420,2025-09-05,2025-07-31,Foreclosure
-MLS-419341,1528 Young Plaza,Lake Lorimouth,07717,Townhouse,1961,2.5,True,476515,3,9201,2025-10-09,,Foreclosure
-MLS-149021,4446 Washington Path,East Jeffrey,98923,Condo,1985,2.5,False ,572080,2,9230,2025-05-12,,Sold
-MLS-346563,845 Michelle Forks,Brianport,83839,Land,,3.0,No ,1401429,6,7370,2025-07-28,,Foreclosure
-MLS-597759,52185 Luke Way Apt. 831,Lopezborough,83168,Condo,2020,3.0,Yes,1401875,1,2134,2025-09-15,2025-07-20,Pending
-MLS-376549,08590 Williams Tunnel,West Mark,66485,Single Family,1950,3.0,0,1108544,4,7321,2025-07-14,,Pending
-MLS-629520,705 Patel Stream,Brianborough,,Single Family,2099,4.0,False,961057,4,4380,2025-07-25,2025-11-11,Pending
-MLS-126150,6949 Ryan Brooks,Tapiachester,67298,Townhouse,1962,3.0,No,1328590,5,,2025-02-19,,Sold
-MLS-964754,692 Matthew Rue Suite 376,,39418,Multi-Family,1964,1.0,,361739,6,6571,2025-07-30,,Sold
-MLS-953216,157 Grimes Center,West Paul,76673,Condo,1919,1.5,Yes,1952520,6,7718,2025-11-29,2025-01-14,Foreclosure
-MLS-364381,6539 Lopez Course,Josephport,32312,Land,1924,1.0,0 ,937661,100,500,2025-05-23,2025-02-01,Active
-MLS-851023,0393 Tiffany Mill Suite 744,Ryantown,75459,Multi-Family,1995,2.0,True,151024,4,796,2025-03-27,,Active
-,702 Cole Island Apt. 564,Jamesfurt,32288,Multi-Family,1919,1.5,True,128696,4,5655,2025-07-11,,Pending
-MLS-603327,,Ricemouth,74420,Multi-Family,1916,,True,,,7760,2025-07-17,2025-04-08,Sold
-MLS-640564,5995 Gary Forks Suite 423,Castillofurt,16325,Multi-Family,1953,3.0,True,,3,5943,2025-11-24,,Withdrawn
-MLS-270115,3203 Elizabeth Mews,Mossshire,38081,Condo,1925,,False,427610,6,,2025-04-03,,Sold
-MLS-164284,1193 Linda Loop Suite 199,Lindaville,72326,Townhouse,1958,,No,1462239,5,,2025-08-28,,Pending
-MLS-367806,,Craigstad,75692,Multi-Family,1953,4.0,No,142174,2,,2025-09-24,,Sold
-MLS-175512,520 Aaron Creek Suite 444,Lake Jonathan,,Condo,1936,2.5,Yes,334521,6,,2025-01-31,2024-10-23,Active
-MLS-126009,53834 Sanchez Circles,Lake Danaville,45715,Land,1975,5.0,1,1371935,1,4050,2025-02-22,,
-MLS-631583,3611 April Oval,Jamestown,95940,,2000,1.5,True,1766571,,5955,2025-05-16,,Foreclosure
-MLS-760387,,Vernonmouth,65803,Townhouse,1965,2.0,1,1793736,6,1004,2025-06-12,2025-10-10,Sold
-MLS-688098,59332 Kathryn Corner,Carlsonbury,68506,Land,,2.5,,1135402,4,9641,2025-01-21,,Pending
-MLS-671022,47189 Pitts Lock Apt. 177,Morganmouth,18227,Land,1925,,1 ,1933778,100,500,,2025-09-27,Withdrawn
-MLS-299379,,Gordonburgh,81042,Land,1944,1.5,No,796464,6,4885,2025-03-11,,Active
-MLS-322333,35456 Victoria Stravenue,Jasminemouth,89537,,1913,2.5,True,1648705,3,6075,2025-08-13,,Pending
-MLS-876154,5289 Owen Estates Suite 597,East Kimberly,59553,Multi-Family,1939,1.0,1 ,,3,4390,2025-07-06,,Sold
-,152 Gary Coves Suite 651,Amandahaven,15851,Multi-Family,1936,2.5,1,1276915,2,2265,2025-08-04,,Foreclosure
-MLS-643615,055 Joanne Neck Suite 026,Snowtown,08347,Land,1993,,False,,2,621,2025-02-17,2025-09-24,Withdrawn
-MLS-321059,1033 Joshua Point,South Andrewshire,33192,Multi-Family,1978,1.5,No,828776,4,785,2025-11-18,2025-01-30,Active
-MLS-741591,,Port Sean,93826,,1982,2.5,No,279761,5,795,,,Sold
-,529 Jensen Plaza,North Jackberg,70942,Land,1906,5.0,Yes,795464,6,8220,2025-01-19,,Sold
-MLS-322570,4763 Ryan Course Suite 559,,,Condo,2013,,False,1898878,100,,2025-09-17,,Active
-MLS-511363,86506 George Trail Suite 451,East Debrashire,68091,Multi-Family,1988,1.5,1,1037226,,2416,2025-07-25,2025-05-18,Sold
-MLS-256285,46161 Mccarthy Plains Suite 039,Port Katie,08533,Condo,1997,4.0,1,674643,5,8040,2025-05-07,2025-07-22,Pending
-MLS-404731,99508 Ford Stravenue Apt. 662,Garciamouth,21783,Multi-Family,1919,,0,1658147,1,5550,2025-03-07,2025-06-24,Active
-MLS-933016,88231 Edgar River Suite 783,Matthewstown,04183,Single Family,1981,3.0,1,,3,7972,2025-09-15,2025-10-17,Foreclosure
-MLS-444152,2137 Cole Fall,Gabrielleport,79199,Multi-Family,1902,1.5,1 ,1557536,100,500,2025-11-29,,Sold
-MLS-960036,27027 Harmon Walks,West Ronaldfurt,50145,Single Family,1900,4.0,1,760915,4,6337,2025-07-25,,Foreclosure
-MLS-513962,77599 Dennis Tunnel,Stewartbury,76420,Land,1961,1.5,Yes,1891231,3,7784,2025-09-29,,Foreclosure
-MLS-949295,715 Jonathan Mountain,Crystalland,80906,,1941,5.0,True,1298911,4,8882,2025-04-25,,Withdrawn
-MLS-775173,7053 Bob Stravenue Apt. 613,Port Cassandra,23310,Townhouse,1999,2.5,True,106551,1,1751,2025-06-06,2025-06-20,
-MLS-261391,8430 Jeffrey Plains,Nancytown,,Single Family,,3.0,True,1144455,4,1463,,,Pending
-MLS-148745,143 Perry Throughway,Dwaynemouth,81339,Condo,1969,2.5,No,,3,1170,2025-08-08,2025-07-18,Active
-MLS-721350,51569 Collins Plaza,Port James,85952,Single Family,1906,1.0,False,,4,777,2025-10-01,,Foreclosure
-MLS-763525,3354 Fuller Squares,Hannahshire,39672,Condo,1941,5.0,0,1538932,6,7440,2025-10-12,,Foreclosure
-MLS-126659,8771 Eric Drives Apt. 613,,10977,,,5.0,No ,1912241,3,,2025-06-13,2025-05-10,Sold
-MLS-233033,187 Jason Burgs,Kristinview,94676,Condo,1910,2.5,True,1085578,2,8335,2025-07-12,,Sold
-MLS-335844,427 Rivera Island Apt. 672,Kristinshire,93939,Townhouse,1951,1.0,No,1354214,1,3960,2025-09-27,,Sold
-MLS-139989,4548 Watson Ridge,,63560,Land,2011,3.0,Yes,1834374,3,944,2025-11-28,,Withdrawn
-MLS-461596,981 Anthony Prairie,Trevinoland,,Land,1934,1.0,,1711038,4,,2025-09-01,2025-06-20,Active
-MLS-670512,5789 Margaret Mountains Apt. 919,Darrylport,98165,Land,1979,4.0,No,,1,524,2025-09-01,2025-04-05,Active
-MLS-186564,590 Golden Club,North Nicole,74834,Condo,1944,5.0,False,1593352,6,8235,,,Pending
-MLS-406533,21517 Martinez Lane,,09452,Condo,1975,4.0,0,1423399,6,7162,2025-06-16,,Withdrawn
-MLS-411180,19778 Rodriguez Lodge,West Rachelshire,34132,Multi-Family,1958,1.0,1,1588257,100,500,2025-07-28,,Withdrawn
-MLS-843337,339 John Flat Apt. 876,Kylehaven,01378,Condo,1924,5.0,Yes,1231727,4,4111,2025-08-18,2025-02-09,
-MLS-760810,95755 Eric Forest Suite 007,Adamchester,40571,Townhouse,1900,3.0,1,1767973,1,7888,2025-01-14,,
-MLS-149278,162 Gonzalez Parks Suite 744,Alexisland,25346,Townhouse,2023,1.0,True,1848560,6,3471,,2025-02-10,Sold
-MLS-517820,,Port Michael,45530,Multi-Family,1982,2.0,Yes,441787,3,4436,2025-01-09,,Withdrawn
-MLS-324402,961 Amber Turnpike,,25716,Condo,2009,5.0,Yes,243383,4,722,2025-03-18,2025-08-28,Sold
-MLS-377415,761 Heather Port Suite 676,Deanstad,73218,Single Family,1966,5.0,True,296731,,1845,2025-04-12,2025-02-10,Withdrawn
-MLS-992655,46676 Gary Square Suite 617,Lake Suzanne,30903,Condo,1917,1.5,1,1229129,2,997,2025-09-03,,Foreclosure
-MLS-247109,522 Mark Vista,East Jasminview,27876,Land,1933,5.0,True,,1,9995,2025-02-10,2025-11-23,Withdrawn
-MLS-519838,7655 Shelly Ranch,Lake Audreyshire,62653,Single Family,1936,5.0,No,1132860,4,5612,2025-03-24,2025-01-18,Active
-MLS-890295,10020 Vasquez Summit Apt. 406,Smithburgh,,Multi-Family,1934,3.0,False,1592210,1,6093,2025-09-14,2025-01-31,Sold
-MLS-121703,442 Martinez Parkways,Kimport,23934,Condo,1939,3.0,No,820123,4,1035,,2025-06-08,Pending
-MLS-105416,4957 Linda Bypass,Roseton,22150,Multi-Family,1949,2.0,False,,6,5287,2025-05-16,2025-10-12,Pending
-MLS-104675,,South Dean,13548,Land,2016,4.0,Yes,1329305,6,947,2025-03-28,,Sold
-MLS-478919,,Manningberg,33795,,1909,5.0,False,1601241,2,3766,2025-01-07,,Active
-,467 Andrea Mountains,West Patrickberg,97970,Multi-Family,1999,3.0,Yes,1430532,6,7821,,2025-03-07,
-MLS-768714,7949 Lauren Pines,Christopherstad,03990,Condo,1912,2.5,Yes,1273136,4,6402,2025-01-16,,Withdrawn
-,18811 Jennifer Fort Suite 952,Knightfurt,14679,Condo,1968,4.0,,224576,3,5413,2025-06-01,2025-01-07,Active
-MLS-957553,3313 Roth Drive,Johnsonton,62921,Land,1915,5.0,Yes,1606035,,6807,2025-08-18,,Withdrawn
-MLS-622008,8636 Bird Inlet,Hallborough,46367,Single Family,2099,2.5,,1570241,1,3277,2025-01-12,,Pending
-,3352 Victoria Pines Suite 837,Ianshire,62866,Single Family,2000,5.0,1,1398326,1,4854,2025-10-24,2025-02-06,
-MLS-657458,3169 Seth Ridge,Port Julie,36889,Single Family,1983,3.0,False,1424056,6,,2025-01-18,,Foreclosure
-MLS-517131,91341 Hunter Bridge Apt. 719,Christopherfurt,98778,Townhouse,1966,1.5,Yes,207309,1,5815,2025-11-11,,
-MLS-717100,711 Richard Pine Apt. 773,Marcfurt,,Condo,1978,4.0,1,1464011,2,8489,2025-03-19,,Active
-MLS-708647,3053 Laura Key,,10704,Condo,1975,2.5,False,Call for Price,,1615,2025-04-13,,Foreclosure
-MLS-545002,740 Moore Glens,Randychester,,Single Family,,,1 ,,3,9339,2025-11-11,,Withdrawn
-MLS-346967,2154 Bowen Well,West Rachaelbury,19774,Townhouse,1954,5.0,1,1054962,2,1403,2025-10-31,,Active
-MLS-535273,9059 Morgan Ville,West Curtistown,12565,Multi-Family,1905,1.0,1,1093724,4,3932,2025-05-29,2025-02-18,Withdrawn
-MLS-569247,6456 Kelly Trace,South Jaason,82247,Land,2024,3.0,0,1670244,100,500,2025-05-28,,Foreclosure
-MLS-811828,9509 Martin Row,Robertshaven,01246,Land,1984,2.0,No,64462,4,8137,2025-09-02,2025-11-04,Pending
-MLS-998972,00366 Ruiz Inlet,Lake Matthewtown,55841,Land,1998,4.0,Yes,344490,2,7603,2025-04-10,2025-04-06,Pending
-MLS-678988,816 Elizabeth Burg Apt. 988,Riverachester,27543,Single Family,,5.0,,,3,9438,2025-10-05,,Pending
-,,Lake Jonathan,66100,Multi-Family,1978,5.0,False,1756419,1,4752,2025-06-30,,Pending
-MLS-456626,9157 Nathan Junction,Edwardport,61203,Multi-Family,1905,,False,725089,,5708,2025-05-22,2025-10-19,Withdrawn
-MLS-564070,50595 Henry Meadow,,05349,Multi-Family,2022,2.0,No,1625809,6,-1000,,2025-03-15,Pending
-MLS-354016,131 Cox Track Suite 253,Port Ryanside,11082,Multi-Family,1965,3.0,No ,722935,5,3053,2025-03-12,2025-01-23,Active
-MLS-364328,3698 Shea Turnpike,,19070,Townhouse,1963,2.0,Yes,,5,3451,,2025-07-09,Foreclosure
-MLS-614573,70506 Nunez Point,New Angela,08609,Condo,2004,2.0,Yes,891317,2,5569,2025-01-07,2025-04-12,Withdrawn
-MLS-970702,726 Hampton Shoal,Bryanborough,28591,Condo,1999,4.0,1,1408851,3,5092,2025-10-30,,Foreclosure
-MLS-321034,0932 Hernandez Trail,South Erictown,98406,Multi-Family,1988,2.5,1 ,,5,6862,2025-02-22,,Withdrawn
-,38276 Wilkins Trace,Gloriaport,37220,Single Family,1982,1.0,0,,4,2355,2025-11-13,2025-10-06,Withdrawn
-MLS-829529,834 Kimberly Alley Suite 433,Laurafurt,,Single Family,1904,1.0,,222690,3,5523,2025-10-09,,Withdrawn
-MLS-461596,981 Anthony Prairie,Trevinoland,,Land,1934,1.0,,1711038,4,,2025-09-01,2025-06-20,Active
-MLS-340581,9205 Weaver Ford Suite 090,North Sabrina,22122,Townhouse,1902,1.5,No,,1,-1000,2025-04-22,,
-MLS-554616,9582 Hayden Keys Suite 219,Josemouth,90347,Land,2016,1.0,No,90328,,7974,2025-08-21,,Sold
-,633 Hunter Canyon Suite 119,New Matthew,36941,Multi-Family,1942,5.0,1,91944,6,9104,2025-11-19,2025-08-11,
-MLS-805332,884 Cooper Ports,North Michaelchester,73034,Condo,1971,4.0,,967180,1,4913,2025-05-08,2025-06-09,Active
-MLS-957553,3313 Roth Drive,Johnsonton,62921,Land,1915,5.0,Yes,1606035,,6807,2025-08-18,,Withdrawn
-MLS-417283,545 Miller Shore,North Mark,17255,Condo,1999,,No,1839762,3,8934,2025-06-21,,Pending
-MLS-199647,619 Rachel Spring Suite 701,West Michael,03248,Townhouse,2022,5.0,1 ,1397981,3,6521,2025-07-03,,Active
-MLS-766318,,Hinesstad,56296,Condo,,2.5,False ,559291,1,924,2025-10-27,,Pending
-MLS-661267,1710 Mikayla Lodge Suite 626,,,Land,1928,3.0,False,496501,6,1687,2025-07-21,,Pending
-MLS-387925,504 Robert Track,Garyberg,19275,Single Family,1983,4.0,True,,1,5378,2025-10-12,,Withdrawn
-MLS-581434,616 Thomas Circles Suite 025,Monicahaven,12713,Multi-Family,1957,5.0,1,1674298,5,,2025-09-14,,Active
-MLS-549379,8474 Angela Prairie,New Paulfurt,54576,Condo,1951,2.5,False,105593,5,,2025-09-09,,Withdrawn
-MLS-814518,736 Stephanie Mountain,North David,06073,Condo,1974,1.5,0,,3,8920,2025-07-16,2025-03-13,Withdrawn
-MLS-496140,390 Wilson Dale Apt. 257,,,Land,1931,1.5,True,1286544,1,8214,2025-01-22,,Withdrawn
-,220 David Harbor,North Austin,85067,Multi-Family,2000,1.5,No,131738,3,9509,,,Pending
-MLS-658856,816 Mike Hill,South Justinview,36757,,2016,2.5,1,588747,4,2179,2025-07-04,,
-MLS-958738,101 Matthew Hills,Whiteborough,07456,Condo,2099,4.0,No,1952568,5,,2025-10-25,,Sold
-MLS-616205,421 Sheila Courts Apt. 699,Hinesfort,23557,Land,,2.0,True,858126,6,9541,2025-02-08,2025-04-19,Foreclosure
-MLS-470660,48541 Evelyn Shores,Leroyburgh,94645,Multi-Family,2009,5.0,No,$1M+,1,9010,2025-08-09,,Active
-MLS-736485,,West Brendaview,97227,,2099,4.0,Yes,1864078,5,5388,2025-07-25,2025-02-23,Withdrawn
-MLS-102248,19993 Travis Stravenue,New Steven,46372,Single Family,1983,1.5,0,916243,2,3900,2025-09-14,,Active
-MLS-866762,014 Barnes Road,Wrightborough,20119,,1938,5.0,0,1459606,1,3670,,,Foreclosure
-MLS-904127,318 Louis Park,,47675,Single Family,1915,2.5,1,319125,6,5535,2025-10-16,2025-04-07,
-MLS-489511,810 Galvan Fields Apt. 673,Meganburgh,74775,Single Family,2099,5.0,1,1037512,2,3468,2025-04-24,,Active
-MLS-396070,34125 Danielle Path Apt. 410,Angelashire,56764,Townhouse,1942,1.5,True,188060,5,9822,2025-06-17,2025-03-09,Foreclosure
-MLS-796811,4522 Howard Green,Amymouth,76211,Multi-Family,1902,1.0,False ,1709550,,9956,2025-04-29,,Sold
-MLS-170849,,Gonzalezstad,35574,,1999,,0,1200717,3,8336,2025-05-13,2025-08-14,Foreclosure
-MLS-194090,2878 Taylor Ports Apt. 028,Parktown,90058,Single Family,1937,,True,793263,3,5238,2025-01-23,,Withdrawn
-MLS-150587,8275 Robertson Prairie,Youngfort,07726,Land,1961,4.0,,1213241,5,877,2025-08-02,,Sold
-MLS-633162,136 Troy Bypass,Ellisfurt,47856,Townhouse,,4.0,True,$1M+,5,2904,2025-03-16,2025-04-12,Withdrawn
-MLS-121736,,Whitemouth,54924,Townhouse,1980,4.0,Yes,,100,500,2025-02-02,,
-MLS-282554,292 Austin Cove Suite 274,West Russellview,50047,Single Family,1968,1.0,0,1937679,4,3944,,2025-10-27,Sold
-MLS-586985,907 Kristin Stream,Hansonside,31307,Townhouse,1964,3.0,True,1437040,5,1238,2025-04-23,2025-03-22,Withdrawn
-MLS-944593,72810 Regina Ranch,Smithfurt,60601,Land,,,0,361245,100,500,2025-01-20,,Withdrawn
-MLS-693353,08727 Ashley Crossing,,21355,Condo,1983,5.0,1,354153,100,500,2025-07-15,,Foreclosure
-MLS-434896,,Hudsonshire,09189,Multi-Family,1973,2.0,True ,205969,4,8508,,2025-02-27,Withdrawn
-MLS-904672,3002 Freeman Dam Apt. 656,,15058,Single Family,2023,2.5,,1551573,3,1788,2025-01-15,,Pending
-,24125 Jennifer Walk Apt. 412,Guzmanmouth,95577,,1979,2.0,,1787760,4,3557,,,Pending
-MLS-585499,519 Myers Orchard Apt. 457,Ramosshire,25069,Land,,1.5,True,1889970,6,3704,2025-09-24,,Sold
-MLS-606898,0209 Henry Extensions Apt. 238,East Rhondafurt,18639,Condo,1957,1.0,True,,4,5623,2025-04-15,2025-10-12,Pending
-MLS-905528,85261 Robert Ridges Suite 553,Smithhaven,30720,Condo,1944,5.0,1 ,787116,6,2461,2025-05-20,,Sold
-MLS-141266,9411 Perez Fall,South Annburgh,36078,Townhouse,1944,3.0,Yes,914003,5,1479,2025-11-23,,Pending
-MLS-204234,,East Gabriel,68334,Townhouse,1950,4.0,True,173567,3,5280,2025-07-01,,Foreclosure
-MLS-654700,3651 Chan Creek Suite 613,Davidton,57477,Land,1958,1.5,Yes,,6,5422,2025-10-26,2025-07-18,Foreclosure
-MLS-768695,64614 William Flats,New Alexaberg,,,1921,2.5,No,1153366,1,6861,2025-03-06,,Withdrawn
-MLS-925781,32404 Velasquez Road,New Juliaside,89795,Land,1956,5.0,True,1331986,3,6462,,,Withdrawn
-MLS-882695,,,83676,,1922,1.5,0,1877558,6,6694,2025-10-16,2025-04-23,Active
-MLS-482373,117 Martinez Freeway,South Adrianview,96249,Condo,1905,2.5,,1325942,5,7381,2025-08-21,,Withdrawn
-MLS-643615,055 Joanne Neck Suite 026,Snowtown,08347,Land,1993,,False,,2,621,2025-02-17,2025-09-24,Withdrawn
-MLS-929138,850 Mills Row Suite 725,Port Davidport,,Condo,2012,1.5,Yes,618052,6,5001,2025-04-30,2025-01-02,Withdrawn
-MLS-872287,183 John Park,,64536,,2021,2.5,Yes,1606920,3,6368,,,Sold
-MLS-553157,39037 Marc Land Suite 026,Theresaburgh,94848,Multi-Family,1910,2.0,No,1709202,4,7895,2025-04-29,,Active
-MLS-794458,8704 Roger Lane Suite 950,Davidfurt,90342,Condo,1950,2.0,1,1345055,100,500,2025-03-05,,Sold
-MLS-966000,68299 Peterson Plaza,Smithport,80474,Multi-Family,1918,1.5,False,1861021,6,1194,2025-01-07,,Withdrawn
-MLS-650388,6211 Benton Branch Apt. 620,,,Condo,2020,1.5,,1002956,3,1192,2025-09-09,,Withdrawn
-MLS-247916,2222 Parker Lane Apt. 533,Port Jonathanview,05987,Condo,1966,1.0,True,1085377,2,5787,2025-05-14,,Sold
-MLS-731777,31616 Rodgers Road Suite 446,East Eric,07250,Townhouse,2018,3.0,No,,6,1266,2025-03-01,2025-08-01,Sold
-MLS-206159,,Whitestad,38644,Single Family,1976,,False,,5,3598,2025-03-05,,Withdrawn
-MLS-155257,00699 Stephanie Lakes Suite 939,Watsonberg,41512,,1991,4.0,False,,6,9841,2025-01-22,,Active
-MLS-933271,6293 Shelby Street,Scottland,99314,,1907,2.0,True,1359320,4,5590,2025-04-18,,Foreclosure
-,81757 Garner Cove,West Anthonybury,64262,,1965,2.0,0,1727690,1,1843,2025-10-14,,Foreclosure
-MLS-143445,4019 Danielle Key Apt. 175,Martinezview,79392,Multi-Family,,2.0,0,452062,1,6386,2025-02-27,,Pending
-MLS-731622,3497 David Alley Suite 015,Collinston,40902,Multi-Family,1919,3.0,Yes,,2,683,2025-03-12,2025-04-21,Pending
-MLS-629094,951 Smith Centers,,79287,Multi-Family,2012,,0 ,$1M+,6,5925,2025-07-09,2025-10-21,Withdrawn
-MLS-906621,498 Terry Rapids Apt. 203,Jasonburgh,83580,,1972,5.0,,1329082,3,7283,2025-06-03,,Sold
-MLS-516875,962 Aguirre Shore,Torresborough,19153,Land,1990,,1,196947,3,3542,,2025-11-24,Foreclosure
-MLS-795217,0575 Darlene Lodge Suite 471,East Michaelside,99715,Land,1910,,0,1822734,2,1745,2025-01-06,,Active
-MLS-761821,444 Bruce Street Suite 489,,58545,Condo,1971,5.0,0,1328653,2,4676,,2025-01-31,Pending
-MLS-629520,705 Patel Stream,Brianborough,,Single Family,2099,4.0,False,961057,4,4380,2025-07-25,2025-11-11,Pending
-MLS-979883,930 Allen Corner,Lake Kathy,27454,Condo,1977,1.5,1,,2,6557,,,Sold
-MLS-665551,49961 Kathleen Villages,Mitchellberg,60435,Single Family,2024,4.0,0,762526,1,5584,2025-05-02,,Foreclosure
-MLS-969198,,Patriciabury,71514,Land,1927,5.0,No,570792,5,3775,2025-11-01,2025-04-07,Foreclosure
-MLS-539935,2207 Rachel Forge,Hicksland,17198,,1905,1.5,False,1256056,5,7113,2025-11-12,,Pending
-MLS-125376,102 York Port Apt. 724,,56358,Single Family,1934,3.0,True,1751930,2,,2025-09-16,,
-MLS-226660,60644 James Route,Ericchester,23759,Multi-Family,1916,1.0,1,633975,2,5185,2025-02-14,2025-08-28,Sold
-MLS-712342,5118 Luke Terrace Suite 516,Jamesberg,17608,,1936,2.5,,653817,3,1588,2025-08-13,,
-MLS-115860,749 Lee Flats,Keithmouth,18795,Land,1980,2.0,Yes,355399,4,2653,2025-07-26,,Withdrawn
-,23162 Bridges Land,Wrightborough,41077,Townhouse,1980,2.0,Yes,1474404,3,8701,2025-04-17,2025-06-23,Sold
-MLS-825030,005 Berg Pike Apt. 131,Lake Noahton,90641,Condo,1971,4.0,Yes,1342552,2,-1000,2025-11-21,,
-MLS-340581,9205 Weaver Ford Suite 090,North Sabrina,22122,Townhouse,1902,1.5,No,,1,-1000,2025-04-22,,
-MLS-795669,738 Mathews Mission,Mullinsview,36174,Multi-Family,1986,3.0,1,849761,2,,2025-05-31,,Pending
-MLS-973943,,Port Stacy,91381,Multi-Family,,,Yes,1996422,2,5945,2025-02-08,,Sold
-MLS-824958,8854 Estrada Freeway Suite 377,Danielside,10633,Land,,1.5,,940242,4,8812,2025-05-16,2025-09-04,
-MLS-854968,464 Burton Rue Apt. 300,Bradleyside,96897,,2012,2.0,,142366,1,3645,2025-11-17,2025-01-22,Withdrawn
-MLS-319360,02965 Carter Radial Apt. 437,Matthewfort,95711,Single Family,1999,2.0,False,1806011,6,,2025-07-28,2025-06-13,Withdrawn
-MLS-673513,215 Brianna Coves,Reedmouth,,Townhouse,1978,2.0,No,$1M+,3,6286,2025-06-02,2025-08-27,Withdrawn
-MLS-501157,5035 John Street,Allenberg,,Single Family,2099,4.0,1,216246,2,6418,,2025-11-21,Sold
-MLS-518277,3382 Turner Oval Suite 892,West Matthew,51930,Townhouse,1987,2.5,1,1289746,2,7708,2025-02-07,2025-08-23,Pending
-MLS-656536,612 Paul Turnpike,East Davidland,42072,Condo,1908,4.0,,469573,6,4323,2025-05-06,2025-07-14,Sold
-MLS-209153,99986 Lam Squares,,84059,Land,1959,5.0,False,135237,3,7246,,,Foreclosure
-MLS-916878,6287 Chase Valleys,North Taylorborough,61760,Multi-Family,1903,1.0,True,899713,4,3326,,2025-06-13,Foreclosure
-MLS-723167,8011 English View,Carterland,24615,Condo,1989,1.0,No ,873942,,-1000,2025-07-02,2025-01-03,Sold
-MLS-265009,077 Gabriel Points,Alexanderside,87328,Single Family,2007,2.0,0,548182,6,3069,2025-04-10,2025-10-26,Sold
-,675 David Curve,West Monica,28142,Land,1936,3.0,No,213225,3,8265,2025-11-30,,Pending
-MLS-183942,8136 Kathleen Causeway,,00661,Multi-Family,2022,4.0,No,,3,7856,2025-07-24,2025-02-21,Foreclosure
-MLS-935356,99211 Joseph Greens Apt. 506,Brittanyton,80990,Land,2099,2.5,Yes,,4,9976,2025-05-29,,Foreclosure
-,,East Carlosside,01041,,1977,1.5,True,805118,4,3598,2025-02-03,2025-10-02,Active
-MLS-783062,44843 Rodriguez Overpass,Lake Matthew,44005,Land,1958,3.0,,1908936,1,1630,2025-09-29,,Foreclosure
-MLS-566532,55614 Garcia Drives Suite 010,South Tracy,74063,Single Family,2019,5.0,False,$1M+,4,1528,2025-11-04,,Active
-,1451 Aguilar Courts Suite 955,Kelseystad,22365,Multi-Family,1968,2.0,False,1913541,2,8430,2025-06-21,2025-11-10,Withdrawn
-MLS-301807,44556 White Falls,North Frank,76366,Townhouse,1988,2.0,True ,1597300,5,3945,2025-01-05,2025-08-21,Pending
-MLS-231413,,West Juanberg,32701,,2024,2.5,Yes,446415,,7623,2025-05-17,2025-09-04,Active
-MLS-573955,02275 Christina Square,Jaaclynview,36092,Land,1984,1.0,Yes,395486,2,7305,2025-06-09,2025-08-11,Sold
-MLS-415304,790 Ballard Terrace Suite 224,West Mariah,71903,Multi-Family,1905,2.0,No,1971470,1,7115,,2025-10-16,Foreclosure
-MLS-615316,03675 Paul Tunnel Apt. 289,Port Coreystad,81892,Land,1955,3.0,False,,1,3365,,2025-08-06,Foreclosure
-MLS-769897,87576 Tracy Landing Suite 224,Lambside,77521,Land,,1.5,No,1297976,5,1734,2025-09-04,,Active
-MLS-973021,932 Nicholas Alley Suite 506,South Tammy,,Land,1994,1.0,False,1985158,,9298,2025-04-17,2025-08-05,Foreclosure
-MLS-495511,4806 Crystal Greens,Annamouth,,Townhouse,1953,4.0,Yes,1288957,,8261,2025-05-02,2025-04-08,Withdrawn
-MLS-113663,0698 Shaw Shoals Apt. 948,Lake Megan,26510,Single Family,1988,1.0,False,,3,5668,2025-03-28,,Withdrawn
-MLS-331951,24076 Mitchell Roads,Port Allison,65795,Single Family,,5.0,0,1258658,1,,,2024-09-30,Sold
-,609 Carter Rest,,51312,Multi-Family,1981,5.0,0,Call for Price,1,3791,2025-07-28,,Withdrawn
-MLS-743697,69729 Griffin Divide Apt. 418,New Coreyside,95694,Condo,2004,1.0,False ,,1,9000,2025-03-15,2025-11-03,Withdrawn
-MLS-587536,3987 Joshua Grove Apt. 642,,61759,Multi-Family,1967,1.5,1 ,91524,,1497,2025-05-31,2025-10-09,
-MLS-561259,1114 Eric Terrace Apt. 965,East Christophertown,26146,Multi-Family,1938,1.5,True,,4,8982,2025-06-12,2025-01-26,Sold
-MLS-748423,983 Anthony Fords Apt. 041,West Gregory,23144,Single Family,1986,3.0,True,1032153,1,2008,2025-09-11,2025-09-20,Withdrawn
-MLS-951904,8864 Cristina Shoal Apt. 996,West Lucas,98267,Multi-Family,,1.5,1,635279,5,6378,2025-11-07,2025-11-26,Sold
-MLS-894102,119 Michael Tunnel Suite 286,Crawfordborough,,Single Family,1934,1.5,0,751024,5,,2025-06-07,2025-08-11,Active
-MLS-892589,5525 Tyler Heights,Robertton,38526,Townhouse,1935,2.5,True,542389,1,6250,2025-09-26,,Foreclosure
-MLS-949624,136 Jones Row,Lake Leonview,91203,Single Family,1926,2.0,0,284592,,-1000,2025-02-05,2025-02-06,Pending
-MLS-160738,60639 Suzanne Cliff,East Dawnport,39892,Townhouse,1948,4.0,Yes,1892823,2,1572,2025-02-16,2025-05-30,Pending
-MLS-612967,4741 Brown Spring,Lake Matthewhaven,14941,Condo,1917,3.0,1,827560,2,6136,2025-05-30,,Pending
-MLS-815199,,East Victor,07664,Land,,5.0,Yes,1402191,,500,,,Active
-MLS-521753,200 Emily Harbor,Johnsonton,56524,Land,1927,1.0,True,76951,6,9903,2025-08-07,,Active
-,3580 Walton Flats,Alexandermouth,,,1934,1.5,True ,,2,,2025-08-05,,Foreclosure
-MLS-836192,16170 King Crest Suite 453,Nicholsport,47548,Townhouse,1949,3.0,1,,,,2025-03-05,2025-05-22,Foreclosure
-MLS-607286,,,94938,Multi-Family,1901,,0,959101,2,1649,2025-10-11,,Withdrawn
-,495 Jackson Manors,North Cindy,94427,Townhouse,1923,,No,1588601,4,5591,2025-06-29,,Withdrawn
-MLS-607204,4503 Elizabeth Lane Apt. 451,Guerrerochester,,Multi-Family,1953,2.0,Yes,1515325,5,3641,2025-01-19,,Active
-MLS-254841,5914 Sweeney Track Suite 703,,13933,Multi-Family,2099,1.0,No,1537620,2,,2025-01-20,,Active
-MLS-600868,,Smithfurt,55115,Multi-Family,1934,,0 ,414299,4,8737,2025-06-16,2025-07-27,
-MLS-228187,68390 Davis Summit,,72004,Single Family,2008,3.0,False,1063778,,8418,2025-06-24,,Foreclosure
-MLS-312150,86901 Black Well Apt. 207,Jessicaburgh,82419,Townhouse,,1.5,1,1876196,2,7127,2025-04-04,,Withdrawn
-MLS-709237,27104 Clark Islands,East Georgechester,19327,Condo,,1.5,0,211216,2,,2025-04-16,,
-MLS-669779,18169 Kristine Stream,Simpsonfurt,19967,Multi-Family,1961,2.0,True,503725,2,9371,,,Pending
-MLS-928272,76777 Nixon Skyway,North Kimberly,68172,Single Family,1936,1.0,0 ,,6,9684,2025-03-09,,Withdrawn
-MLS-163914,81158 Hutchinson Lodge Suite 091,,71732,,1997,1.5,False,948018,3,5383,2025-04-01,,Sold
-,038 Heather Via,East Jaime,51074,Single Family,1992,4.0,True,Call for Price,2,3193,2025-05-17,2025-03-26,
-MLS-291837,50459 Reid Cove,Lake Jessebury,,Multi-Family,1906,5.0,0,56385,,6214,2025-03-22,2025-05-05,
-MLS-931677,9760 Devin Lane Suite 499,West Davidport,14529,Land,2010,1.5,No,1142169,4,8109,2025-10-23,,Withdrawn
-MLS-336216,54825 Moore Orchard,Hintonhaven,24940,Single Family,1943,2.5,Yes,140284,3,3786,2025-10-19,2025-02-02,Foreclosure
-MLS-868852,,Onealport,61202,Multi-Family,1941,4.0,1 ,,1,-1000,2025-11-26,2025-09-15,Active
-MLS-581434,616 Thomas Circles Suite 025,Monicahaven,12713,Multi-Family,1957,5.0,1 ,1674298,5,,2025-09-14,,Active
-MLS-283792,440 Amy Village,Port Kimberly,74320,Condo,1924,1.5,0,,2,9769,2025-10-02,,Active
-MLS-861701,3882 Derek Gateway Suite 533,Walkershire,22573,Land,1946,4.0,True ,870077,6,2217,2025-07-08,2025-07-22,
-MLS-178889,59900 William Expressway Apt. 417,,30638,Land,1931,,1,450546,6,9991,2025-09-03,,Active
-MLS-771434,968 Ortiz Harbors Apt. 261,Paulburgh,55012,Land,1923,,False,256333,5,1905,2025-06-17,2025-09-08,Withdrawn
-MLS-162875,251 Scott Dale,Riceside,27506,Townhouse,,3.0,Yes,,2,9934,2025-07-09,,Sold
-MLS-575139,11713 Karen Squares Suite 097,North Margaretton,55921,Single Family,1971,2.0,No,,5,4863,2025-05-06,,Withdrawn
-MLS-488355,2692 Joel Junction Apt. 002,North Krystal,81736,,1960,1.0,Yes,1982437,6,,2025-11-26,,Foreclosure
-MLS-863604,0262 April Lock Apt. 363,Davisburgh,61960,Single Family,2008,5.0,Yes,1500896,3,,2025-07-16,,
-MLS-670119,,,37055,Townhouse,2014,2.0,1,,2,,2025-06-03,,Sold
-MLS-289660,071 Marilyn Courts,Nicoletown,35616,Condo,1927,4.0,True,181180,5,2070,2025-04-18,,Withdrawn
-MLS-303000,970 Mejia Ford,Sarahburgh,45877,Multi-Family,1908,1.0,,1268992,3,2259,2025-02-13,,Sold
-MLS-946445,91694 Kathryn Curve Apt. 538,Ortizchester,47467,Condo,1994,1.5,False,1751497,5,4030,2025-10-28,,Active
-MLS-211565,157 Jane Rapid Suite 385,Johnsonchester,43060,Multi-Family,2007,2.0,Yes,1377609,2,3129,2025-09-07,,Withdrawn
-MLS-111991,38790 James Extensions Apt. 082,New Nicole,88216,Multi-Family,,2.0,Yes,1856146,6,5865,2025-05-05,,Withdrawn
-MLS-330309,36057 Gonzalez Cove Apt. 154,New Annamouth,44380,Townhouse,1962,,True,454347,4,-1000,2025-11-26,,Pending
-MLS-980184,52949 Alvarez Center,South Sallymouth,02409,Multi-Family,1913,1.0,,886613,2,9017,2025-05-27,2025-01-19,Pending
-MLS-145071,9461 Sarah Radial,New Kathyhaven,28514,Condo,,2.5,0,1626201,6,910,2025-07-11,,Sold
-MLS-458059,296 Matthew Meadows Suite 314,Lake Brandytown,25173,Condo,1932,4.0,False,1335765,2,2508,2025-08-25,,Withdrawn
-MLS-295881,948 Sabrina Vista Apt. 011,East Dawn,15540,Townhouse,1954,,No,1097029,5,4946,2025-01-23,,Sold
-MLS-187154,18208 Garcia Roads,Henryshire,99425,Single Family,1933,4.0,No,954040,4,9909,2025-11-23,,
-MLS-302139,712 Gordon Trail,Reyesstad,51318,,1962,4.0,True,1506714,6,7891,2025-02-03,2025-06-29,Active
-MLS-576622,539 Valencia Falls Suite 637,Caastaanedaafurt,92705,Land,1914,2.0,False,152063,1,5853,2025-10-28,2025-06-12,Sold
-,82807 Bruce Divide,New Donnatown,14977,Land,1913,4.0,True,977879,1,974,2025-04-17,,Sold
-MLS-127305,51750 Sutton Manor,Meganside,25457,Single Family,1982,4.0,1,701155,6,5405,,,Sold
-MLS-787134,039 Daniel Fort,Barnesbury,27502,Condo,1992,,False,898093,6,542,2025-03-13,2025-03-25,
-MLS-792797,4822 Spencer Parks Apt. 900,Halltown,47125,Single Family,1942,3.0,True,483655,1,2046,2025-03-16,2025-10-19,
-MLS-914351,647 Butler Knolls Suite 770,South Jamesfort,77688,Condo,1973,2.0,False,1083285,5,3734,2025-02-17,2025-05-27,Sold
-MLS-237052,65354 Marissa Ford,Millerfurt,29110,Single Family,1999,1.5,No,1480212,6,2418,2025-03-18,,Withdrawn
-MLS-845978,971 Tonya Cape,Knighttown,72243,Single Family,1909,1.5,False,963212,5,9458,2025-01-12,,Pending
-MLS-183306,8869 Stone Ford,East Mark,86758,Multi-Family,1907,3.0,No,$1M+,,500,2025-10-26,,Foreclosure
-MLS-209819,6822 Cabrera Trail Suite 549,Port Andrewland,90851,Land,1903,1.5,Yes,1522639,4,6547,,,Sold
-,86939 Young Route Apt. 067,East Donald,90196,Townhouse,,2.0,Yes,,3,9631,2025-06-13,2025-03-05,Sold
-,,Kaylaburgh,36267,Single Family,1902,1.5,False ,1519695,2,3322,2025-11-21,,Pending
-,3131 Santana Port Apt. 135,Joneschester,88814,Townhouse,1958,,False,,3,6708,2025-03-14,2024-12-04,Foreclosure
-MLS-648017,7045 Novak Burg,East Gregoryside,90211,Townhouse,1980,1.0,False,1655897,2,8124,,,Sold
-MLS-507151,4719 Rebecca Row Apt. 548,Lake Steven,53544,Land,1948,2.0,0,327395,3,,2025-08-03,2025-09-17,Active
-MLS-328007,34607 Frey Mall,,51252,Land,1988,4.0,True,1820464,,5297,2025-10-02,2025-10-27,Active
+,,Christopherton,80000,Townhouse,1900,2.5,No,$1M+,3,8276,2025-07-27,2025-08-25,Pending
+MLS-945389,6512 David Trace Apt. 014,New Ashley ,,Condo,1907,2.5,,Call for Price,4,1596,2025-04-08,2025-09-22,
+MLS-898665,162 Joshua Creek,Wangshire,61736,,1975,3.0,No,1721247,6,7869,2025-07-12,2025-07-12,Active
+MLS-804441,98471 Greene Mall,Laurieville,,Townhouse,1999,1.0,1,828614,2,-1000,2025-11-14,,
+MLS-338777,754 Shannon Spurs,Ashleyborough,89372,Multi-Family,2011,1.5,False,873760,5,4454,2025-12-01,2025-08-23,
+MLS-771712,51040 Martinez Harbors,Debrahaven,55800,Land,1970,2.5,,1393161,4,1890,2025-09-13,2025-11-20,Foreclosure
+MLS-612575,3733 Mendoza Forest,Blairside,66548,Townhouse,1993,1.0,Yes,1192089,1,,2025-12-02,,Sold
+MLS-295103,3701 Sarah Street,Mooremouth,03480,Condo,,3.0,True,1101477,4,2882,2025-08-11,,
+,6025 Amanda Spur,Amyberg,65479,Land,1922,,False,1629824,4,8110,2025-05-08,,Sold
+MLS-766157,148 Francis Brooks Apt. 913,Powellside,,Townhouse,1961,5.0,True,786382,4,8645,2025-05-22,2025-06-19,Sold
+MLS-107322,9303 Phillips Trail Suite 191,Mccoyborough ,45716,Condo,2007,3.0,True,51250,,9270,2025-02-03,,Sold
+MLS-730775,50557 Amanda Park,Thompsonborough,15262,Townhouse,2006,1.5,1,1626147,3,7337,2025-07-29,,Sold
+MLS-374294,296 Anita Fort,East Robertview,,Single Family,,1.0,1,,100,500,2025-05-06,,Sold
+MLS-191631,1645 Joseph Green Suite 223,Michellehaven,83015,Multi-Family,,1.0,No,$1M+,4,1915,2025-07-19,,Withdrawn
+MLS-924318,8870 Jones Isle Apt. 482,East Richard,02705,Land,,1.0,Yes,995330,5,4305,,2025-09-26,Active
+MLS-435968,6277 Bowers Wall,Matthewchester,95526,Condo,,2.0,Yes,1761817,4,8343,,2025-11-11,Sold
+MLS-227903,422 Christopher Lights Suite 630,Changmouth,78991,Single Family,1993,1.5,0,,5,2682,2025-06-13,,Sold
+MLS-840581,8528 Alexis Meadow,Port Monicatown,35044,Condo,1999,1.5,True,284629,6,8853,2025-03-30,,Foreclosure
+,,Coopertown,03051,Multi-Family,1901,4.0,Yes,384344,6,8370,2025-11-17,,
+,11901 Williams Valleys,North Curtisstad,,Land,1935,2.5,1,1701977,2,1203,2025-02-16,2025-01-31,Foreclosure
+MLS-854048,237 Grant Neck,South Nicholas ,08706,Single Family,2099,1.0,1,820277,,,2025-08-13,,Withdrawn
+MLS-944601,548 Calhoun Walk SuitÃ© 876,New Rosetown,44389,Townhouse,,2.0,0,1205581,1,-1000,2025-06-17,,Sold
+MLS-245453,7137 Sandy Park,North Rhondaborough,21775,Condo,2013,1.0,True,139665,,6592,2025-08-01,,Active
+MLS-851807,37220 Brian Wells Apt. 217,East Lisa,,Multi-Family,1933,1.0,True,1725069,6,3591,2025-11-16,2025-07-31,Sold
+,2364 Abigail Fort Apt. 909,,76845,Multi-Family,1940,2.5,,905272,100,500,2025-01-30,,Sold
+MLS-263833,47876 Oneal Mountain,Nicoleville,96180,Multi-Family,2005,,True,338655,3,1594,2025-11-15,,Sold
+MLS-188914,120 Ramirez Harbors,Kinghaven,80702,,1924,5.0,False,1572948,,-1000,,2025-06-04,Pending
+MLS-344397,,East Randy,45661,Condo,2009,4.0,True,1611946,2,4492,2025-06-15,2025-05-15,
+MLS-376049,416 Larry Wells Suite 154,Lake Nicholas ,,Single Family,1958,1.5,True,1538459,5,7575,2025-09-22,,Withdrawn
+MLS-838352,8943 Vickie Estates,Maxwellhaven,51715,Multi-Family,1994,1.0,True,1915921,3,683,2025-08-11,2025-04-26,Sold
+MLS-395120,06732 Holly Corners,Tinaville,29107,,1936,1.5,No,1727585,4,8879,2025-05-23,,Withdrawn
+MLS-284393,991 Wilson Greens,Royside,12190,Multi-Family,2019,3.0,0,525597,4,7158,2025-06-16,2025-04-17,Foreclosure
+MLS-867101,1887 Timothy Ridges Suite 151,Michaelchester,88926,Condo,1980,1.5,,,4,8911,2025-10-14,2025-07-05,Sold
+MLS-989838,0672 Kimberly Village,Walshshire ,01895,,1902,2.0,No,1147064,5,8848,2025-10-30,2025-05-30,Foreclosure
+MLS-298543,63963 Cooper Lodge,Port Keithshire,27058,Townhouse,1977,3.0,False,295201,,953,2025-09-29,2025-10-07,Sold
+MLS-838352,8943 Vickie Estates,Maxwellhaven,51715,Multi-Family,1994,1.0,True,1915921,3,683,2025-08-11,2025-04-26,Sold
+MLS-164612,8509 Jennifer Knoll,Port Anthonyburgh ,71959,Multi-Family,1972,5.0,False,1970663,2,9904,2025-07-29,,Withdrawn
+MLS-363139,7820 Tina Ports Apt. 432,Lake Ashley,42149,Townhouse,1982,2.5,1,1799757,1,5044,2025-03-28,,Withdrawn
+MLS-505695,89437 Michael Lock Apt. 510,North John,65000,Multi-Family,1918,5.0,,342597,4,,2025-04-05,,Pending
+MLS-899081,842 Sara Spur,Rickeyburgh,,Condo,1960,2.5,Yes,Call for Price,1,1567,,,Active
+MLS-446974,60321 Brooks Keys Suite 661,Lake Erikafort,35906,Condo,2018,1.0,True,,4,1151,2025-02-09,2025-10-06,
+MLS-179460,310 Rodriguez Ford,Kaneport,71894,Land,1916,2.0,,832913,6,4181,2025-04-02,,
+MLS-564012,5300 Lopez Ports Suite 055,New Marie,26095,Townhouse,1976,2.0,0,584180,2,4547,2025-09-30,,Active
+MLS-571727,279 Lucas Throughway,East Caleb,88098,Townhouse,1949,,,1941255,2,-1000,2025-01-17,,Pending
+MLS-545135,82749 Solis Plain Apt. 491,East Gregoryport,88019,Townhouse,2099,1.0,False,1607189,3,4247,2025-04-13,,Foreclosure
+MLS-302273,498 Kevin Valleys,West Kyleburgh ,51250,Land,2099,1.5,0,1040852,1,7677,2025-02-24,2025-10-27,
+MLS-841637,06260 WhitÃ© Junctions SuitÃ© 371,Mcdonaldton,57418,Land,2099,4.0,0,650869,4,2402,2025-01-20,,Pending
+MLS-964517,02333 Kenneth Circle,Petersonside,17849,Land,1941,1.0,Yes,1505303,2,6943,2025-09-02,,Sold
+,15391 Linda Turnpike Apt. 074,Lake Penny,,Townhouse,1903,1.0,False,1400360,1,2884,2025-11-23,2025-02-20,Pending
+,821 Griffith Pike,,10802,Condo,1970,1.5,0,1260097,2,5212,2025-01-07,,Withdrawn
+MLS-219039,79821 Little Ford Suite 275,,49678,Townhouse,1918,2.5,True,Call for Price,1,5069,2025-04-02,,Active
+,2670 Pace Crest Suite 377,Jessicaville,53351,Multi-Family,1931,1.5,1,354192,1,4856,2025-10-11,,Foreclosure
+MLS-178029,953 Linda ViÃ©ws,Lewisport,83058,Single Family,1981,3.0,1,Call for Price,3,6359,2025-07-02,,Pending
+MLS-946186,,Benjaminton,54389,,1977,5.0,True,231289,4,6616,2025-03-04,,Pending
+MLS-457705,806 Gary Mountains,Johnborough,82680,Townhouse,2013,5.0,0,1312804,1,9631,2025-09-06,2025-10-11,
+MLS-599168,689 Ryan Street Apt. 798,Crystalmouth,06752,Single Family,1982,4.0,1,1503776,5,6854,2025-07-31,,Active
+MLS-307324,1293 Jesse Harbor Suite 881,South Brandon,17889,Land,1935,5.0,No,,1,1477,2025-06-06,2025-05-28,Active
+MLS-234769,7894 Gonzalez Center Suite 791,East Heatherport,,Land,1999,1.0,False,Call for Price,6,7418,2025-09-22,,Active
+MLS-210973,6597 Howell Haven,Bondland ,58257,Condo,1915,5.0,No,1180809,4,2914,2025-04-12,,Pending
+MLS-230034,429 Lisa Prairie,Braunshire,53101,Townhouse,,4.0,No,,4,6622,2025-06-06,,Sold
+MLS-893023,4260 Floyd Pines,West Andrewhaven,22032,Townhouse,1906,2.5,No,1768324,100,500,2025-02-26,2025-02-28,Foreclosure
+MLS-173801,329 Carlos Lane,Port Alicia,07093,,1925,1.5,True,1905502,3,8329,2025-07-10,2025-09-15,Sold
+MLS-816734,82832 Rebecca Pass,,,Land,,,True,1714287,6,5548,,2025-05-04,Active
+MLS-309213,75957 Ray Plaza,Port Anthonyville,08127,Townhouse,1924,1.5,Yes,770274,4,1482,2025-05-13,2025-05-12,Foreclosure
+MLS-619360,60601 Nichols Plains Suite 084,North Sherryton,79379,Land,1947,1.0,No,928656,3,2893,2025-01-12,2025-03-11,Sold
+MLS-761654,3203 King Locks Suite 753,New Theresabury,37174,Condo,2022,3.0,Yes,1403636,,9669,2025-03-12,2025-08-21,Foreclosure
+MLS-809004,63840 Victoria Estates Apt. 528,South Ashley,70432,Multi-Family,1948,3.0,No,267716,1,1689,2025-01-09,2025-03-18,Active
+MLS-703386,22836 Erin Wells Suite 937,New Michealshire ,22946,Land,1990,1.5,False,1075884,3,6965,2025-07-05,2025-01-25,Sold
+MLS-547242,939 Smith Square,,88271,Condo,1955,2.0,True,376529,2,6554,2025-03-12,2025-07-20,Pending
+MLS-352466,12312 Rodriguez Forks Apt. 488,Guerreroland,72081,Land,1941,4.0,1,,2,6094,2025-09-19,,Active
+MLS-297340,21556 Keller Springs Suite 732,Davishaven ,10875,Multi-Family,1941,,True,1200184,1,2586,2025-06-07,,
+MLS-196158,,Walshfort,95662,Multi-Family,1936,5.0,No,1360851,,9094,,,Active
+MLS-461506,92013 Burton Trace Suite 621,South Brittany,61807,,1950,,False,1927442,4,5101,2025-05-16,,Withdrawn
+MLS-882304,582 Drake Tunnel Apt. 306,Kimberlyville,94127,Townhouse,1967,5.0,False,1111898,1,8859,2025-10-13,,Foreclosure
+MLS-890937,716 Joan Islands,Meganview,59154,Townhouse,1941,1.0,0,276074,1,8491,2025-01-06,,Sold
+,320 Whitney Summit,South Katelyn,14750,,1920,4.0,1,1804202,5,6902,2025-12-01,2025-06-29,Sold
+MLS-261487,696 Amber Groves,Katherineton,42626,Multi-Family,2005,2.5,No,$1M+,2,4485,2025-06-29,2025-11-01,Withdrawn
+MLS-940388,9352 Carolyn SquarÃ© SuitÃ© 263,Matthewburgh,59894,Multi-Family,1961,1.5,0,$1M+,4,2482,,,Withdrawn
+MLS-379626,8192 Courtney Loop,East Robert ,10338,Single Family,1908,1.5,No,832798,3,,2025-04-25,2025-08-10,Pending
+MLS-114100,,Jessicaberg,58607,Multi-Family,1962,1.5,1,805664,1,7808,2025-01-06,,Pending
+,9967 Jesse Vista Apt. 677,West Sophia,97196,Multi-Family,1945,5.0,Yes,,3,8808,2025-02-25,,Active
+MLS-922209,54873 Davis Spur Apt. 908,Mitchellhaven,01354,Multi-Family,2099,3.0,1,1829342,6,8583,2025-04-30,,
+MLS-583145,57303 Hampton Terrace Apt. 792,Griffithville,84059,,1924,,True,802182,6,2398,2025-11-18,,Foreclosure
+MLS-167793,911 Timothy VallÃ©y,Melissaview,88040,Single Family,1996,2.5,No,352735,2,9678,2025-05-11,2025-09-07,Pending
+MLS-798585,5175 John Grove,Connieview,03841,Multi-Family,,2.0,Yes,1184070,1,-1000,2025-04-17,,
+MLS-742321,89177 Gallagher Camp Apt. 265,Port Cherylhaven ,58525,,1937,4.0,1,1857325,,5420,2025-07-21,,Active
+MLS-491526,9223 Rodriguez Garden,Carterfurt,10090,Multi-Family,1941,4.0,1,$1M+,4,7075,2025-02-12,2025-07-30,Withdrawn
+MLS-532308,8011 Jesse Way,Annabury,,Land,1992,2.0,Yes,,5,1586,,,Sold
+MLS-554001,20072 Dennis Ville Suite 591,North Charles,17544,Land,1954,2.0,,1182904,5,5469,2025-06-20,2025-09-09,Sold
+MLS-833968,443 Jasmine Glens Suite 016,North Jennifer,45686,,1958,1.0,True,732596,5,3655,2025-01-24,,Foreclosure
+MLS-104027,611 Christopher Street Apt. 286,,88501,Townhouse,1948,2.0,True,766491,3,645,2025-08-24,,Withdrawn
+MLS-306883,9374 Snow Walk,Grahamton,74611,Townhouse,1953,2.5,1,221428,1,9370,2025-05-04,2025-02-05,Active
+MLS-354763,99948 Randall Drive,Jenniferhaven,38909,Condo,,1.0,No,Call for Price,5,4805,2025-06-04,2025-06-16,
+MLS-152427,2775 Carter Squares Suite 634,Port Wendy,,Land,1938,2.5,True,1834881,,3998,2025-03-31,2024-12-21,
+,88158 Jordan Isle,Port Allison,25455,Multi-Family,1982,1.5,0,1108036,2,8199,,,Active
+MLS-699689,768 Morris Parks,,07621,Townhouse,1979,4.0,No,$1M+,3,,2025-10-15,2025-08-01,Withdrawn
+MLS-463058,576 RÃ©bÃ©cca WÃ©lls Apt. 102,West Jenniferview,51525,Multi-Family,,2.5,Yes,1304199,,2780,2025-12-02,,Foreclosure
+MLS-294589,,East Haleymouth,18815,,1964,,False,1852945,1,2347,2025-07-10,2025-08-25,Pending
+MLS-804441,98471 Greene Mall,Laurieville,,Townhouse,1999,1.0,1,828614,2,-1000,2025-11-14,,
+MLS-434090,9835 Solomon Port Apt. 543,New Stacy,06781,Townhouse,1935,2.0,False,355546,3,-1000,2025-04-21,,Foreclosure
+MLS-867101,1887 Timothy Ridges Suite 151,Michaelchester,88926,Condo,1980,1.5,,,4,8911,2025-10-14,2025-07-05,Sold
+MLS-632240,851 Kristi Route Suite 348,East Kevinside,27064,Townhouse,1997,,Yes,1443844,6,6426,,2025-04-22,Active
+MLS-631265,76811 Higgins Forges,West Elizabeth,98849,Townhouse,1948,2.0,1,523567,3,9702,2025-02-02,,Sold
+MLS-633506,644 Santiago Field Apt. 435,,09180,Multi-Family,1991,1.0,0,Call for Price,4,1049,2025-01-21,,Withdrawn
+MLS-976651,3899 Courtney Pines Apt. 205,South Cindytown,21915,Condo,1947,3.0,1,1622499,3,1729,2025-10-24,2025-07-16,
+MLS-872279,14281 Tran Land,Bishopton,84658,Single Family,1940,1.0,False,955364,6,,2025-11-20,,Pending
+MLS-564012,5300 Lopez Ports Suite 055,New Marie,26095,Townhouse,1976,2.0,0,584180,2,4547,2025-09-30,,Active
+,,Port Carla,59355,Condo,2002,1.5,1,1975811,4,699,2025-11-19,,Active
+MLS-178029,953 Linda Views,Lewisport,83058,Single Family,1981,3.0,1,Call for Price,3,6359,2025-07-02,,Pending
+MLS-592002,44626 Jessica Lake Apt. 448,West Shelbyborough,52573,Land,1918,,True,,100,500,2025-10-19,,Withdrawn
+MLS-212249,09001 Davila Stravenue Suite 463,East Natashaberg,11000,Land,1931,3.0,False,Call for Price,6,1929,2025-02-09,,
+MLS-328860,073 Clay Courts,Port Loriport,67779,Condo,1980,4.0,Yes,1001381,6,1154,2025-03-08,2024-11-28,Foreclosure
+MLS-721080,507 Jacob StrÃ©Ã©t SuitÃ© 644,Mooreville,00561,Townhouse,1918,2.0,True,905634,2,7590,2025-01-01,2025-07-13,Active
+MLS-756541,541 RÃ©yÃ©s Hills,North Codymouth,29403,Single Family,1982,4.0,True,1989276,,7270,2025-07-28,,Foreclosure
+MLS-786651,,New Timothychester,49781,Multi-Family,1997,5.0,1,1923141,6,5859,2025-06-02,,Foreclosure
+MLS-348455,5643 Roach Light,Jamestown,53950,,1971,3.0,False,$1M+,5,895,2025-07-14,2025-04-05,Withdrawn
+MLS-183269,14559 Jennifer Mews,East Catherine,98262,Multi-Family,1926,3.0,Yes,1253120,1,8278,2025-07-29,,Withdrawn
+MLS-196034,366 Justin Ridge Apt. 529,Rangelborough,54456,Condo,2001,3.0,Yes,1305758,4,9192,2025-09-24,,Pending
+MLS-916711,,South Nicholaschester,23725,Multi-Family,1918,5.0,No,$1M+,5,3154,2025-09-17,,Active
+MLS-293910,057 Dennis Court Apt. 927,,,Condo,1956,,Yes,1204374,5,7274,2025-08-17,2025-03-14,Active
+MLS-402056,21031 Sanford Crescent,East Katrinaview,,Multi-Family,,1.5,1,,5,8326,2025-06-24,,Sold
+MLS-842640,94640 Billy View,North Juliechester,92157,Multi-Family,1910,3.0,True,1776885,,1661,,2025-05-19,Foreclosure
+MLS-187352,46060 Norman Burgs Apt. 567,Montgomerytown ,11145,Land,1957,4.0,True,1431187,1,-1000,2025-07-18,2025-02-23,Withdrawn
+MLS-720559,,Simsfort,34946,Multi-Family,1971,,0,1256836,1,9775,2025-07-11,2025-07-29,Sold
+MLS-930045,45109 Vanessa Ridges,Port Davidhaven,78660,,1989,2.5,No,1376862,1,2745,2025-04-01,,Pending
+MLS-957264,,South Selena,21599,Single Family,1997,4.0,1,881206,4,9560,2025-09-22,2025-06-21,Foreclosure
+MLS-945389,6512 David Trace Apt. 014,New Ashley ,,Condo,1907,2.5,,Call for Price,4,1596,2025-04-08,2025-09-22,
+MLS-711062,964 Jackson Walks Suite 203,Chandlerberg,48782,Townhouse,2003,1.0,,747940,1,3539,2025-08-17,,Foreclosure
+MLS-818904,26714 Gilbert Pine,Danielport,18483,Condo,2004,5.0,1,1794857,1,5735,2025-10-22,,Sold
+MLS-655046,,,62647,Single Family,1903,1.0,False,481620,3,2122,2025-07-20,2025-01-14,Active
+MLS-797238,28400 Crystal Landing,Yvonneton,65416,Condo,1977,4.0,No,,,500,2025-03-17,,
+MLS-668326,8142 Christopher Extension Apt. 910,Vazqueztown,,Condo,,1.5,1,752335,4,5750,2025-06-26,2025-08-27,Pending
+MLS-269097,,Weaverbury,10244,Land,1972,1.0,1,,3,,2025-10-29,,
+MLS-656322,2989 Stephanie Manors Apt. 974,Berrystad,75662,Condo,1978,4.0,No,1551984,1,5472,2025-03-03,,Sold
+MLS-950138,1686 Carl Valleys,,07839,Townhouse,2008,5.0,True,Call for Price,100,500,2025-03-21,2025-07-27,Sold
+,11901 Williams Valleys,North Curtisstad,,Land,1935,2.5,1,1701977,2,1203,2025-02-16,2025-01-31,Foreclosure
+MLS-238768,85816 Johnson Mews Suite 111,Reedmouth,51707,Single Family,2099,1.5,,235421,2,3194,,2025-02-28,Active
+,,Port Carla,59355,Condo,2002,1.5,1,1975811,4,699,2025-11-19,,Active
+MLS-755833,2565 Adrian Tunnel Apt. 461,North Jonathanton,82472,Multi-Family,1903,2.5,No,1711526,6,4008,2025-11-26,,Foreclosure
+MLS-179074,65031 Christopher Square,,68895,Condo,1934,5.0,0,$1M+,6,9845,2025-03-08,2025-11-27,Pending
+MLS-110113,,Johnhaven,26177,Condo,2022,1.5,0,1187219,5,3560,2025-03-14,,Pending
+MLS-437018,784 Robert Heights,East Mark,27359,Multi-Family,1915,3.0,,1427602,1,7160,2025-11-10,,Active
+MLS-301996,595 Smith Orchard Apt. 325,Shepardton ,50894,Townhouse,1983,,True,1779490,2,3324,2025-03-10,2024-11-30,Sold
+MLS-164242,23979 Theresa Summit Apt. 787,Hinesberg,09303,Single Family,1920,1.0,1,58473,6,3198,2025-11-02,,
+MLS-296134,5337 Avery Mews,,61351,Single Family,2022,,No,878292,3,8353,2025-07-21,2025-07-11,Pending
+MLS-124125,7497 Thomas Rest,New Deborah,69682,Multi-Family,1946,2.0,Yes,Call for Price,4,7648,2025-06-25,2025-08-18,Foreclosure
+,74204 Simmons Spur Apt. 137,,67858,Single Family,2099,4.0,False,,2,7785,2025-08-19,2025-04-13,Sold
+MLS-165832,1844 Moore Plains Apt. 998,,39393,Condo,,1.0,1,201428,3,2748,,,Foreclosure
+MLS-183422,85174 Russell Burg Suite 521,West Kenneth,30924,Land,1913,2.0,1,1601286,5,,2025-09-05,,
+MLS-734868,9388 Chan Walk,West Peter,09255,Townhouse,1959,1.0,False,1897010,100,,,2025-04-02,Pending
+MLS-270313,6427 Samuel Dale Apt. 376,East Daniel,13825,,1941,5.0,True,509426,,9040,2025-11-04,2025-08-31,Active
+MLS-158894,0236 Robert Views,Davishaven,37397,Multi-Family,1907,2.5,False,394512,5,6901,2025-03-08,,Active
+MLS-458747,22990 Crawford Underpass,North Ebonybury,79195,Multi-Family,2099,,,813436,3,,2025-10-09,,Sold
+MLS-747454,39594 Sanchez Extensions,Port Madison,19329,Multi-Family,1968,2.0,True,580999,4,4809,2025-02-05,,Sold
+MLS-411132,,Gallaghertown,50286,Multi-Family,,2.0,Yes,1492423,1,,2025-05-27,,Withdrawn
+MLS-395322,68812 Michaela Drive,Lake Terrychester ,26985,Land,1934,3.0,Yes,393712,,-1000,2025-06-03,,
+MLS-106620,0104 Heather Via Suite 245,Port Allisonmouth,59990,Townhouse,1940,3.0,True,395404,100,500,2025-10-07,2025-08-28,Pending
+MLS-679215,42605 William Bridge,West Mike,15808,Townhouse,2099,,False,1771162,2,887,2025-01-19,,Withdrawn

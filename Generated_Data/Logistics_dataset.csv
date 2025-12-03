@@ -1,526 +1,159 @@
 Trip_ID,Driver_Name,Vehicle_Type,Origin,Destination,GPS_Coordinates,Distance_Miles,Fuel_Gallons,Status
-TR-aaec8c0f,Nicole Diaz,Pickup,Marshallchester,Michaelmouth,"-25.213900, -109.776067",,463.8962434903798,In Transit
-TR-69ecaf22,Ana Chavez,Semi-Truck,North Angela,Castroside,"39.4144735, -6.767401",2115,349.67974607909116,Idling
-TR-17eef13d,Jose Abbott,,Courtneyshire,,"25.744979, 175.934537",2195,299.92270835963177,In Transit
-TR-3d9bdea5,Lisa Miller,Pickup,East Cindytown,South Michael,"-85.235830, -132.792672",392,135.75469841101716,Idling
-TR-61f73d23,Kristopher Myers,Cargo Ship,North Lee,Lake Malloryport,"16.3720395, 163.785078",Unknown,63.68799577505602,Accident
-TR-14f770f7,Michael Morgan,Cargo Ship,Solomonfurt,Stanleyland,"-37.057652, 27.692461",1083,194.08518272070035,In Transit
-TR-623abb33,Phillip Barajas,Cargo Ship ,West Janestad,Lake Donnaton,"68.9279265, -24.408832",96,306.380727723693,
-TR-093a5d37,,Van ,Jacobmouth,Castanedaberg,"36.351034, 78.809548",143,132.5758096651099,Idling
-TR-72706f7a,,,Jenniferchester,Phelpston,"-86.4241385, -6.637929",2763,277.2032591764812,Delivered
-TR-23254f28,Andre Elliott,Van,Whiteborough,South Catherine,"-53.722179, -169.087952",0,175.13031008180147,Maintenance
-TR-e2ee3c76,Mary Acosta,Drone,Grahammouth,Lake Carlos,"11.1215185, -138.690399",0,,Idling
-TR-5f331961,Gary Henderson,Pickup,Bowersbury,Kathyville,"-2.940519, -54.204851",1592,247.97898544301322,Maintenance
-TR-2a9cb6fb,Joseph Garcia,Pickup ,New Anthony,Port Amber,"-14.3081585, 102.572134",1080,,Idling
-,Todd Mcbride,Van,East Erica,East Maryside,"-37.0216555, -35.665252",500,0.0,In Transit
-TR-37325a7f,James Rich,Drone,,West Davidshire,"-85.136665, -6.252187",470,279.2130968585319,In Transit
-TR-261e43aa,William Lang,Cargo Ship,West Mark,Claytonhaven,,500,,Idling
-TR-0446521e,Daniel Johnson,,Katrinachester,Rubenview,"86.210043, -48.477432",,151.17635679478252,Accident
-TR-34572db5,Melanie Roy,,Thompsonmouth,Davidsonville,"29.5356065, -127.303468",1667,366.7838619551227,In Transit
-TR-7e5361f0,Betty Mason,Cargo Ship,Toddhaven,Lake Cindy,"52.378344, 9.445781",0,355.92269260615416,
-TR-53497e83,Dean Barnes,Semi-Truck,Reginaldfurt,Jonesbury,"-55.887720, -58.608188",149,61.966749188257396,Idling
-TR-9dd9cb00,Christine Taylor,Cargo Ship,Ambermouth,New Kayla,"-1.087299, 156.002988",500,0.0,Accident
-TR-e949f57a,Jason Martin,,Jessicafurt,South Peterville,"25.664969, -166.602040",2823,,Delivered
-TR-98e4dc15,Katelyn Anderson,Pickup,Wyattchester,Lake Michaelstad,"68.728280, 136.914339",500,0.0,In Transit
-TR-5a417c45,Robert Williams,Drone,Jenniferfurt,Hamiltonville,,2628,115.75679564128637,
-TR-65ecba96,Robert Mcneil,Pickup,West Julieside,East Elizabethville,"-77.0914295, -68.965959",943,,Delivered
-TR-f3abc4eb,Richard Ellis,Semi-Truck,East Joseph,North Marymouth,"34.103231, 167.878571",1749,440.5121082276184,Accident
-TR-8731e258,Sherry Martin,Cargo Ship,Port Michellestad,North Dennisport,"-49.6087545, 34.301693",1679,,Accident
-,Belinda Wang,Van,Port Davidview,Barajaschester,,2902,,Delivered
-TR-96f4159b,Shane Rangel,Cargo Ship,LakÃ© William,Lake Richard,"-37.544666, 75.775620",1316,26.226260611997564,Accident
-TR-1f7ea21b,Emma Stevenson,Drone,Lake Adamville,Penashire,"61.4052205, -20.978534",842,354.0196907426118,
-TR-92579965,Ashley Woods,Semi-Truck,Joshuastad,,"83.0883745, -113.790331",2179,489.7593821883019,Accident
-,,,,,"-89.8395345, 55.052037",0,204.94718861469747,
-TR-5bb412ae,,Van,Jefferytown,Jonesbury,"-30.5801675, 3.220239",0,27.7332525735961,Idling
-TR-f132776a,Mr. Daniel Clark,Cargo Ship,Wilsontown,South Kelly,"32.5778885, -113.268271",5,148.57709885882798,Delivered
-TR-865d5589,Scott Lawrence,Van,Harriston,North Laurenport,"-59.420016, 41.122952",2794,340.3651775624131,In Transit
-TR-cda185a5,Matthew White,Van,Frederickmouth,Garnerhaven,"-79.7896585, 160.786152",814,283.30772831109846,In Transit
-,Joseph Braun,Van,Ryanfort,New Edward,"32.403346, 64.913940",,241.33773296065925,Idling
-TR-6138ecfd,Ashley Hansen,Drone,,Rebeccaberg,"78.3653755, 170.001831",2282,380.675917632289,In Transit
-TR-2b6c04c6,Jasmine Jones,Drone,Terrymouth,Karaport,"17.6153425, -63.116724",1948,448.68722230842405,Accident
-TR-5473cf42,Andrew Ward,Van,Taylorshire,New Derrickside,"21.343494, -103.725859",2793,386.79500272182975,In Transit
-TR-c9877c38,Kathleen Williams,Pickup,East Courtney,South Michaelburgh,"-11.9990065, 162.101474",2969,44.397213945376826,Delivered
-TR-d1730c9a,Mitchell Smith,Pickup,Lake Davidshire,East David,"43.607294, -175.490938",0,,Maintenance
-TR-50e97f96,Michelle Tanner,Pickup,Stephenbury,New Natashatown,"-18.0513865, 42.908188",2573,326.7972400194881,Delivered
-TR-c69b5d9e,Miss Bethany Hall DVM,Cargo Ship,Henrytown,,"36.167587, 2.781030",1912,378.3161368660837,Delivered
-,Chad Barnett,Van,West Stephen,,"-78.190864, 115.354506",940,339.608382524713,Maintenance
-TR-6bc5c3ad,,Pickup,,,"-89.7290185, 72.497035",843,408.08603321398965,Idling
-TR-f2ccad21,Olivia Everett,Semi-Truck,Walshborough,South Mario,"73.0306845, 4.891627",2790,164.86769281337067,Idling
-,Rebecca Howe,Drone,Jacobberg,,,1637,230.58381910001225,In Transit
-,Rachel Clayton,Cargo Ship,Port Katherine,,"-54.158620, 27.540685",749,257.157197026079,Accident
-TR-282e4148,Joshua Wong,Cargo Ship,Hardychester,Hardychester,"-50.3629675, 77.857391",843,,Delivered
-TR-f5f2cda8,Jessica Smith,Drone,Robinchester,South Michael,"-76.155568, 65.369956",398,415.51384969312727,
-TR-96978820,Thomas Martin,Drone,Brandonview,Harrisborough,"-36.8805105, -36.592020",1499,390.6189540553282,In Transit
-TR-ae690e2b,Kevin Cardenas,Cargo Ship,Allenchester,Allenchester,"-60.3381025, -96.382606",45,92.86474347310636,
-TR-0ec91454,Katie Turner,Cargo Ship,Lake John,,"53.678488, -33.719011",,401.6229411707058,Accident
-,Timothy Cain,Cargo Ship,New Meghan,West Joseph,"41.7933935, 95.033988",918,177.51790533987204,Delivered
-TR-5cf24a2e,Felicia Harris,Semi-Truck,Lake Cassidyborough,,"-57.541449, -72.100679",1070,472.918543251462,Delivered
-TR-f732bc85,Robert Watkins,Semi-Truck,Martinezstad,North Dianaburgh,"25.8381195, 0.059147",2439,300.1986027602885,Accident
-TR-d131276b,Larry Crosby,,New Markview,New Markview,,2401,,Idling
-TR-d25669ed,Timothy Fisher,,Fishershire,Riverafort,"2.699136, -118.277546",1440,105.62752384026847,In Transit
-TR-34ebc644,David Conley,Semi-Truck,Lake Brianberg,Rodriguezshire,"-85.6838505, -76.603917",917,349.89165529229507,Maintenance
-TR-0a83a23a,Sophia Mckenzie,Van,Lake Tammyport,Dianaburgh,,1615,415.28451673900935,Maintenance
-TR-446f9dd4,Krystal Padilla,Semi-Truck,Scottland,Jamesland,"-4.1426315, -100.168909",,10.665394214521118,Idling
-TR-a5d0e64a,Wayne Moore,Drone,West Charles,Lake Markchester,"29.073062, 119.532193",,3.619435682805927,Maintenance
-TR-cdb7fbff,,,Port Davidton,Brandonbury,"30.1080255, -17.843097",,90.00028179070846,Delivered
-TR-e995bd67,Tim Simmons,Van,Port Lisa,New Susan,"-41.0897585, -8.342608",2377,420.6095084719704,In Transit
-TR-6f34623b,Alex Mathis,Drone,Kimberlyville,East Adam,"-11.6008165, 122.110577",,339.9852306404485,Idling
-TR-2254a932,Theresa Henderson,Pickup,West Seth,New Amy,"56.052516, 33.063011",1251,,Idling
-TR-ed83cef6,,Drone,Melissahaven,West Jillfort,"87.312411, 126.763669",2990,74.19238184215826,Maintenance
-TR-d3255c03,Carol Richardson,Drone,North Ninaton,Thompsonport,,1586,480.19113899967454,Maintenance
-,Robert Brown,Drone,Anthonyport,Owensborough,,1577,,
-TR-5b0ba480,Courtney Bryant,Van,North Elizabeth,West Scott,,1910,287.2119578491143,In Transit
-TR-f121434e,Michelle Owen,Semi-Truck,East Lisa,Katherinefort,"-34.7397905, 149.113661",473,219.3196444808102,Idling
-TR-b0aa6363,Christian Bullock,Van,Zimmermanberg,Carrburgh,"-44.9501505, 132.919962",2672,14.675805122281893,
-TR-c5a9106e,Jennifer Miles,Cargo Ship,South Mollymouth,New Larrychester,"22.6587235, 177.107521",531,26.98425784889874,In Transit
-TR-e7820d38,Samuel Conway,Cargo Ship,Montgomeryfurt,South Leslieview,"-87.5639245, -19.176834",1851,382.96241464003015,Accident
-TR-5ae3a07a,Jennifer Mack,Semi-Truck,Parkerton,Combschester,"14.8893065, 10.279313",1971,65.75206513286209,Delivered
-TR-c6520b75,Kristin Wiley,,Jessicaberg,Nancyborough,"11.7041565, -132.665434",,139.5743713164214,
-TR-eae19b20,Diana White,Drone ,Parkhaven,,"-80.542910, 78.433152",1749,83.22688848385756,In Transit
-TR-6a2dcadb,Peggy Luna,Pickup,Wilsonland,,"32.092852, -60.165138",18,293.3973178723228,Delivered
-TR-5c463ee1,Bradley Gray,Cargo Ship ,Edwinland,New Monicaburgh,"-57.045293, 105.842600",485,76.27170326797922,Idling
-,Calvin Turner,Cargo Ship,Ericfurt,Burnshaven,"-81.404104, -1.258859",1541,216.4297548297665,Maintenance
-TR-cef83c01,David Pennington,Drone,Sandrastad,South Heidi,"23.013411, -33.590391",Unknown,294.1248473559219,Maintenance
-TR-43b368c5,Erika Ross,Van,Beckland,Davidchester,"-81.9006655, 56.474168",1432,58.84204382773983,In Transit
-TR-a0c28b32,Taylor Horton,Cargo Ship,East Katherine,Lake Meganshire,"21.9045335, -132.122039",1264,329.1982323767641,In Transit
-TR-43e0f9f0,Peter Campbell,Semi-Truck,Marshbury,New Markbury,"74.2590245, 25.661164",,206.48665203027318,Accident
-TR-0575ef3a,Monique Pearson,,ElizabÃ©thvillÃ©,Jakeview,"-59.853106, -154.109574",1261,258.58942838875635,Maintenance
-TR-ad4ff658,Kevin Johnson,Semi-Truck,New Angela,West Danielletown,"79.2122055, -152.265750",929,228.3958143855294,Delivered
-TR-a0d74e74,Marcus Bailey,Pickup,,West Randall,"77.2069615, 20.511389",1524,392.9375312848401,Idling
-,Eduardo Colon,Cargo Ship ,Soniatown,West John,"-51.756798, -108.461681",1121,312.0326352649836,Accident
-TR-727adc6c,Jacob Brown,Drone,East Ambermouth,East Kathleen,"-4.647262, 121.354437",427,130.5462233493001,Idling
-TR-0ad4e43a,Heather Gonzalez,Pickup,West Raymondborough,West Kristiburgh,,133,287.8768628674161,Idling
-,Christopher Bolton,Pickup ,Kennethchester,South Derekberg,"25.4714035, 60.527364",2472,378.24358725754394,Maintenance
-TR-784dcd5e,Michelle Byrd,Cargo Ship,New Lisa,Allenshire,"37.1917265, 96.466066",1797,144.05341970630687,Maintenance
-TR-ef6791b6,,Semi-Truck,Adamborough,Lake Jenny,"-72.246390, 155.228818",2289,456.04045185809434,Accident
-TR-49b2d46b,Nancy Williams,Van,Kristinatown,Smithville,"-18.199918, 153.876808",1574,,Idling
-TR-c29f222e,Troy Navarro,Van,Harmonberg,Lisafort,"23.600649, 88.678119",805,412.39440759546136,Maintenance
-TR-49b2d46b,Nancy Williams,Van,Kristinatown,Smithville,"-18.199918, 153.876808",1574,,Idling
-TR-69e68584,,Van,AlÃ©xandriasidÃ©,,"26.6401125, -64.438929",2459,208.68758767520012,Idling
-TR-d4a02c01,Paul Bradshaw,,Hurstside,Jonathanmouth,"-11.9653475, 168.560901",1560,391.72123941014905,In Transit
-TR-e0a5c214,Jason Richards,Cargo Ship,,Port Breanna,"-53.7434795, -96.930543",401,376.9177623259368,Delivered
-TR-c33158b9,Maria Merritt,Pickup,South Troy,Mejiahaven,"-10.737604, -179.174935",1942,338.8722038404638,Maintenance
-TR-45cbf44e,Mario Henderson,Pickup,Colemantown,North Thomas,"-76.4660545, -62.949348",2536,304.6919612827835,In Transit
-TR-c1a924bd,Patricia Hall,Pickup,South Julie,Trujilloborough,"-19.278045, 133.955628",1885,118.35108520934989,Maintenance
-TR-b32cd207,Angelica Foster,,,Arianafort,"18.6851475, 179.799804",451,291.6680006645783,
-TR-2881dc4f,Sheila Clayton,Semi-Truck,Brownburgh,,"-77.452957, -22.419187",1747,170.69673919277966,In Transit
-TR-c210735d,Nathaniel Molina,Cargo Ship,,Port Rebeccaborough,"23.2865835, -41.337641",52,242.70673692227547,Maintenance
-TR-c11b6ce1,Craig Taylor,Van,Pattersonhaven,Nathanbury,"99.9999, 150.0000",2712,457.1512591078814,Maintenance
-TR-c195842c,Mary Rose,Semi-Truck,West Kathleen,New Christineberg,"99.9999, 150.0000",150,270.87575450614116,Accident
-TR-96d2875f,Timothy Valdez,Drone,Hollyfort,,"51.257319, 2.714901",500,0.0,Idling
-TR-6ef5357b,John Schwartz,Semi-Truck,Karenchester,North Laura,"56.6347975, 59.962750",1201,171.7530373544912,Maintenance
-TR-cc98d84c,Jessica Morales,Van,,Port Audrey,"-79.4062745, 103.662834",946,452.63185105639616,Maintenance
-TR-ca8e5d1c,Patrick Duncan,Cargo Ship,Port Anthony,Arthurhaven,"54.6524845, -53.321900",642,38.90150360317113,In Transit
-TR-9e5b075b,Peter Spence,Semi-Truck,Kathymouth,Kathymouth,"30.227017, 129.051457",1226,233.67108787966262,Accident
-TR-46d59102,Jacob Hayes,Drone,East Lauren,South Timothyton,"61.718848, -30.996327",361,150.69535539063605,Maintenance
-TR-62921f81,Max Miller DDS,Semi-Truck ,Jackietown,Ericborough,"-1.9452365, 134.485717",1117,455.35884547840413,Accident
-TR-b8c20889,Latoya Hill,Drone,North Sandrahaven,,"-70.3294165, 70.376097",1257,402.7653076150642,Delivered
-TR-847dcdd6,Robert Ali,Drone,West Patriciabury,Lake Johnchester,"-64.5575695, -178.705555",2274,176.3121123043343,Delivered
-TR-2589f9f3,Crystal Livingston,Cargo Ship,,Port Rebeccabury,"-87.011122, 6.713288",1480,225.84311870515728,Maintenance
-TR-58bf597c,Kelsey Howell,Pickup,New Markshire,Carolyntown,"20.9231355, -126.990816",742,370.8706293322442,Idling
-TR-d55d8b73,,Van,West Susanside,North Brian,,119,444.73686157243,Maintenance
-,Robert Rodriguez,Pickup,West Ashleyside,Katrinaberg,"-29.216796, -129.750668",1439,313.98425177724863,Maintenance
-TR-17b05872,,Van,Eugeneport,,"-51.051864, -116.584687",828,288.2692507710393,In Transit
-TR-7db678d9,Jennifer Wade,,South Leslieville,Port Mariahaven,"-18.819215, 158.852797",2149,249.88711471645354,Maintenance
-TR-dafb16a7,Susan Torres,Pickup,Lake Eugeneborough,Smithmouth,"99.9999, 150.0000",2224,431.3476838857732,Accident
-TR-77bbde6c,Martin Wood,Semi-Truck ,South Steven,West Roberttown,"83.0991815, 62.803039",500,0.0,
-TR-6ca2243d,Patrick Ellis,Pickup,Sullivanberg,,"40.839659, 126.524999",1363,23.112925806777096,In Transit
-TR-d6fbf73b,Michael Barnett,Vaan,South Benjaminberg,East Patty,"-4.843549, -13.308791",2936,382.14492207248617,Maintenance
-TR-5d242ff6,Miranda Williams,Cargo Ship,Christopherport,Christopherport,"-47.639445, 8.009116",,,Accident
-,Haley White,Semi-Truck,Lake Justin,Reyesside,"-84.0835815, -106.396744",305,224.14372942415815,
-TR-255e41b2,Nicole Espinoza,,,New Kimberlyland,"21.358070, 125.155089",0,148.66086293267705,In Transit
-TR-41eff71d,Mariah Stewart,Cargo Ship ,Johnside,Morrisburgh,"-86.7716455, 16.329950",2909,258.7723092787901,Maintenance
-TR-38aae3d2,Wayne Alexander,Drone,Hutchinsonview,Corystad,"-70.678990, -81.530373",2003,97.9921021128074,Delivered
-TR-4e948af0,Kurt Yang,Drone ,North Tylerburgh,Penaland,"49.8993725, 102.147272",,474.2178064330508,Idling
-TR-bc40056e,Taylor Bates,Semi-Truck,Chavezfort,Wrightburgh,"39.5180185, -112.294841",Unknown,482.6962809920156,In Transit
-TR-49d8632a,,,Millerton,Mitchellborough,"80.0509765, -30.076859",2324,,
-TR-95558207,Christina Bowers,Semi-Truck ,East Amyhaven,Melissabury,"-74.9736005, 25.792694",0,478.15572086669823,Delivered
-TR-209bb693,Colton Anderson,Drone,North Donald,Nicholeton,"-31.513392, -144.074199",1950,77.25754165398152,Accident
-TR-4b1886cf,Shirley Garcia,,Thompsonborough,Johnsonfurt,"99.9999, 150.0000",132,359.3897238341228,Maintenance
-TR-b40ad877,Nathan Martin,Pickup,Lake Timothy,Ayerstown,"3.8372425, 173.921417",500,0.0,Accident
-,Stephen Whitehead,Semi-Truck,South Williamport,Staceyfurt,"-38.9891415, -110.108236",743,468.430122410141,Delivered
-TR-f8b25711,Loretta Griffith,,South Scott,Michaelfurt,"89.4507355, -33.461472",1768,221.17164952264446,Idling
-TR-d1c735e7,Heather Ramirez,Van,Wadeborough,Jonesland,"0.0106975, 55.271618",2503,382.97935634358066,Accident
-TR-d207c371,Cheryl Davis,Drone,East Alex,Paulborough,"-7.0502615, 51.915325",1371,453.2010254595013,In Transit
-TR-b357b7ec,Jessica Davidson,Semi-Truck ,Port Eric,South Lorrainechester,"-26.505573, -122.384776",2793,5.5545972544348015,Delivered
-TR-a5465125,Wanda Hancock,Drone,Lake Ericland,Lake Ericland,"16.527481, 85.323086",882,334.34072046503866,Idling
-TR-e18acd8d,Sarah Rivera,Pickup,East Nicoleborough,,"83.249906, 74.584621",,0.0,In Transit
-TR-a20d27e6,Jeff Burgess,Cargo Ship,,Garyton,"13.0658225, 70.929777",,368.2096711025831,Delivered
-TR-64168c11,,Cargo Ship,South Elizabethtown,,"63.845342, 162.066488",2812,416.0638947432472,Idling
-TR-875bd28d,,Semi-Truck,Port Joshua,Port Leslieside,"39.8549715, -81.541780",2853,454.82352749421796,Delivered
-TR-6546ea62,Melissa Mooney,Semi-Truck,,Kimville,"-27.6868535, 128.461217",Unknown,245.99212952599197,In Transit
-TR-1a75c928,Melissa Simpson,Van,Matthewfort,Reedburgh,"58.7187525, -143.609847",2973,384.3850208493664,Delivered
-TR-510c9f32,Danielle Walters,Semi-Truck,,West Brandon,"19.4679645, 178.525008",2185,98.45176934159272,Accident
-TR-82202dad,Erica Taylor,Pickup,South Omar,Annetteshire,"7.452465, 83.070742",742,399.60361398229065,Idling
-TR-25dd2524,Jeffrey Morgan,Drone,Robinhaven,West Amandamouth,"41.4314335, -68.931988",219,407.7237308392671,Idling
-TR-8dd0b121,Billy Duran,Semi-Truck,Kerryview,West Morgan,"13.0464605, 55.714562",1070,181.6825945642052,Maintenance
-TR-0bd57513,Jimmy Douglas,,West Michelleborough,Devonmouth,"-76.595079, 47.928911",2254,284.59531697626767,In Transit
-TR-b9599622,Chris Johnson,Vaan,Genemouth,,"-81.9882505, 41.693179",1913,324.122073347886,Accident
-TR-2faa2bc3,Stacy Young,Van,North AdamviÃ©w,Alexanderchester,"48.2402485, 110.898048",1488,460.69271611555644,Maintenance
-TR-ef94aed8,Danielle Barajas,Semi-Truck,East Lucasberg,Maryberg,"34.3650085, 20.327216",500,0.0,In Transit
-TR-cdb454d7,Corey Carroll,Drone,South Tiffanyton,,"-64.3691345, 164.960175",2080,234.96858259921876,In Transit
-TR-1678c235,Brandon Hamilton,Drone,Nicolemouth,New Brendastad,"-66.9428405, 76.995161",0,481.75885857400704,In Transit
-TR-08714438,Peter Collins,Van,Doyletown,Lake Angela,"59.7357415, -86.897460",1550,58.70642942949389,In Transit
-TR-51081c61,Vanessa Meza,Drone,West Crystaltown,Rosehaven,,357,266.1478914876962,
-TR-be75cae2,Samuel Huynh,Cargo Ship,,New Deborah,"88.187478, 94.477011",1555,470.21550525227156,Accident
-TR-a94a2ef6,Barbara Wall,,,Shawnfurt,"-75.3513505, -99.354773",147,485.26988499106085,In Transit
-TR-3c988376,Hannah Briggs,,Christopherview,Josephchester,"-89.8691015, -48.632280",2575,,Delivered
-TR-84cd740f,Donald Choi,Van,Lake Mercedes,Port Sheilafurt,"-39.4296345, -28.333261",1682,223.37574609930581,Maintenance
-TR-c1840a08,Crystal Moore,Van,,West Amber,"-54.0477865, -38.439116",689,77.43231919134618,In Transit
-TR-0ec91454,Katie Turner,Cargo Ship,Lake John,,"53.678488, -33.719011",,401.6229411707058,Accident
-TR-b3093956,Mary Scott,Cargo Ship,Lake Adambury,Leeport,"-22.286052, 14.407384",1620,180.22343217337277,Maintenance
-TR-848b2713,Teresa May,Van,Maryfort,Rileyside,,300,41.353543952191764,Maintenance
-TR-cab76183,Benjamin Daniels,Drone,Kennedyborough,Robertville,"-22.6038305, -47.790950",533,30.060692892635466,Idling
-TR-e6723a7f,Veronica Ramirez,Semi-Truck,Lake Rachael,East Steven,,1133,332.8447180580765,Maintenance
-TR-60020e59,,Semi-Truck,,South Robertfurt,"68.307958, -84.620458",1815,101.76866267998436,In Transit
-TR-bc85fa40,Andrew Lawson,Pickup,,Lake Sean,"52.2601575, 167.014947",858,180.80151885358114,In Transit
-TR-ae690e2b,Kevin Cardenas,Cargo Ship,Allenchester,Allenchester,"-60.3381025, -96.382606",45,92.86474347310636,
-TR-5a4594cf,James Harrison,Pickup,New Bradleyton,Coopermouth,"82.2208485, 98.213601",1260,264.17275098892407,In Transit
-TR-bc194683,Keith Russo,,Davidbury,Amberbury,"-14.627466, 67.296854",2554,195.48452107603848,Delivered
-TR-f294ab2e,Robert Li,,West Eric,Port Susanshire,"-83.2455795, 2.491150",435,346.43392210574234,Delivered
-TR-2134928b,Theresa Pena,Van ,Cruzview,,,0,-50.0,Idling
-TR-4da72051,Kyle Jimenez,Pickup ,Anthonychester,Lake Kyle,"-63.041841, 33.640054",1891,330.69169045916743,Delivered
-TR-4458cce7,Whitney Levy,Semi-Truck,Leslieland,Lauraland,"48.3318855, -120.962638",53,,Accident
-TR-d5ad35d2,Jillian Long,Van,Port Heather,South Sandra,"-85.5681635, -146.894239",2317,,Delivered
-TR-a31fa0a2,Jeanette Payne,Pickup,New Jessicachester,Lake James,"-32.618115, 85.391022",1059,191.85776966499878,Maintenance
-TR-0b31b3f2,Shannon Jones,Drone,Martinside,Smithfurt,"-32.9102525, -45.411416",578,369.57411843501825,
-TR-41f5d233,Laura Green,Van ,Jacksonmouth,East Kimberly,"2.415600, -79.765502",2435,346.71538556968824,Delivered
-TR-974ea666,Sherri Thompson,Drone,West Donna,Jotown,"66.414932, -157.051672",495,354.0812365332968,Maintenance
-TR-b07df912,Laura French,Cargo Ship,Joneshaven,New Julie,,357,,Maintenance
-TR-943c71b3,Andrew Young,Cargo Ship,LÃ©onardfort,Kathleenton,"15.504937, 41.353125",2833,410.21548000758116,In Transit
-TR-47764ac6,Margaret Johnson,Cargo Ship,South Joannatown,Ashleyland,"69.4664825, -12.993739",500,0.0,Maintenance
-TR-f5bf829e,Katherine Ross,,Alexisborough,West Katie,"-22.574887, -0.561249",2326,62.09896036690904,Delivered
-TR-b65932c8,Corey Lee,Drone ,Daisyburgh,Port Jenniferberg,"62.875776, 97.444481",694,,Idling
-TR-a06933fa,Brian Mclaughlin,,Cynthiaside,Romanbury,"30.0104985, 74.908431",500,0.0,Idling
-TR-8b5c086b,Ashley Mueller,Drone,Morsestad,Barbarashire,"33.816308, 27.235935",733,201.6876798531129,Delivered
-TR-446405c6,,Semi-Truck,Laurieland,Ernesthaven,"40.871284, 142.913844",2783,487.3419390170107,Accident
-TR-2824f71e,Justin Ellison,Pickup,Maryborough,,"-20.282864, 52.323101",2469,382.3443782151485,Idling
-TR-2b6e6210,Leslie Walton,Drone,Davidhaven,,"-40.397631, 30.921019",2133,-50.0,
-TR-5b0ba480,Courtney Bryant,Van,North Elizabeth,West Scott,,1910,287.2119578491143,In Transit
-,Calvin Turner,Cargo Ship ,Ericfurt,Burnshaven,"-81.404104, -1.258859",1541,216.4297548297665,Maintenance
-TR-fbc35bfe,Kaylee Quinn,Pickup,Rosarioside,Millerchester,"85.427379, 120.696570",,,In Transit
-TR-6c58456e,Christine Barker,Cargo Ship,Antonioport,North Shannonhaven,"62.9571055, 32.650772",,387.00261163661827,Delivered
-TR-635f220d,,Semi-Truck,South Leroyland,Clarkfurt,"55.4974015, 91.387216",2535,120.32981883848359,
-TR-3650bd70,Victoria Yoder,Van,Chadborough,Jonathanshire,"85.005320, 31.454983",2596,268.8872411178861,Maintenance
-,Michael Madden,Van ,Jameston,Campbellfurt,"-17.342568, 8.822661",2729,39.63289907777112,Maintenance
-TR-7b63f44c,Jill Oliver,Semi-Truck,,North Alyssa,"-35.075537, 172.327336",,,Maintenance
-,Angela Mullen,Cargo Ship,Morganchester,Daletown,"-21.2754025, -69.580715",2893,386.4624144613958,Maintenance
-TR-7be61d18,Claire Walton,Pickup,Lambchester,Carolfurt,"67.3900765, 69.510005",2956,476.29579879018786,Delivered
-TR-efd612b9,Austin Phillips,Cargo Ship ,New Eric,North Chadshire,"-26.8852175, 89.138445",2511,342.7805655405026,Idling
-TR-d9cbb4b4,Dawn Gonzalez,Pickup,Moseschester,South Sarah,"9.9357665, -108.390494",2976,92.35139010128651,Accident
-TR-0ca72326,Jacob Brown,Drone ,,Gouldstad,"-81.2178325, -93.564215",2776,313.7927073860647,Accident
-TR-6f8af06f,Calvin Keith,,South Joseph,Swansonchester,"-86.800536, -2.993415",135,146.10310691603584,Maintenance
-TR-31b222dd,,Semi-Truck,Lake Devin,Brianchester,"-64.972563, -126.416249",1612,100.97913174444817,Idling
-TR-8f24fdd2,Charles Johnson,Cargo Ship ,Melissaberg,Lake Jasmineshire,"-72.641131, -52.461940",500,-50.0,Idling
-TR-1d6fa2e4,Sherry Mendez,Drone,Derrickhaven,Singletonport,"42.261362, -36.689545",683,369.6785679020849,Accident
-TR-b882b001,James Rodriguez,Vaan,Ericview,New Tanyashire,"-42.7935965, 100.564395",,45.92573199560363,In Transit
-TR-a7e3fe20,Monica Patton,Cargo Ship,,Brianshire,,Unknown,479.9767310625751,Idling
-TR-e3b48576,Samantha Stokes,Pickup,Lake Rachel,West Joseph,"-53.7430045, -145.294962",2782,340.2462693734063,
-TR-8cc39180,Maria Morris,Pickup,New Jerome,Chaseton,"-19.0792335, 31.703261",1091,247.4523507031462,In Transit
-,Ryan Barnett,Van,Parkerview,Lake John,"99.9999, 150.0000",1647,471.1664398005236,
-TR-140a15e9,,Van,North Karaland,Carpentermouth,"57.9896035, -56.272112",500,0.0,Maintenance
-TR-f6b280d6,Lori Liu,Semi-Truck,Thompsonmouth,Luisfort,"-29.6489605, 128.266588",0,146.85155526147426,Delivered
-TR-acf31b4d,James Hammond,,Curtisland,Curtisland,"80.5045615, -122.652345",675,223.59360703159504,Delivered
-TR-b16c278d,Robyn Davis,Drone,Port Patrick,Port Michael,"52.604943, -56.362429",2686,169.49241341247284,Maintenance
-,Marcus Skinner,Cargo Ship,Donaldton,Gonzalezfort,"88.6748815, -142.634351",2183,93.1739574032197,In Transit
-TR-8d4461c0,Donald Armstrong,,,North Rachelberg,"33.0828045, -95.558710",,,Maintenance
-TR-5ac774f5,Virginia Moore MD,Van,North Raymond,Lake Todd,"29.543215, 94.028379",88,315.07228305478895,Maintenance
-TR-88448955,Amy Green,Semi-Truck,Latoyaland,Mikaylaville,"-2.892039, -66.321200",1112,395.6173957169859,Accident
-TR-83aa1ba7,,Van,West Craigport,Pierceside,"9.050820, -34.349471",1584,15.224484765607894,In Transit
-TR-e1c8cc3e,Richard Johnson,Pickup,Hickmanmouth,North Pamelastad,"42.215049, 76.030064",822,76.52174864269445,Accident
-TR-b429db31,Edward Olson,Drone,West Douglas,East Jessica,"0.434436, 31.123790",1890,,Delivered
-TR-49c15eb9,,Semi-Truck,South Sarah,West Kellyside,"-50.3389865, -34.392096",2767,363.35987915244675,Delivered
-TR-9e8b5907,Karen Miller,Semi-Truck,Chapmanview,New Rachel,"-78.7792625, 113.403192",307,,Idling
-TR-bd46825c,James Eaton,Cargo Ship,South Samantha,West Richardmouth,"58.660447, 177.570143",821,231.45560252845422,In Transit
-TR-6e6944d3,Wendy Dickerson,Pickup ,Port Robert,North Megan,,2150,258.8266543422791,
-TR-eddb5be5,Molly Rogers,Van,Youngville,Daystad,"41.1153335, -6.395799",764,80.88170143178563,
-TR-760f1514,David Espinoza,Drone,Jakeview,Autumnbury,"69.1204585, 146.431126",112,2.189576707749219,Idling
-TR-7325be9f,Bruce Ford,,Anthonymouth,Calebside,"75.346920, -110.382990",209,61.96245469986816,Maintenance
-TR-cb7b4cbe,Michael Smith,Van,Richardside,East Sophia,"-40.506461, -123.273511",1690,455.0238064218446,Accident
-TR-3dad747d,,Van ,New Brian,West Theodorefurt,"-12.1990945, -56.378281",559,,In Transit
-TR-ce374129,Brian Smith,Cargo Ship,South Richard,Timothyhaven,,901,482.163408396954,Maintenance
-TR-e8394e03,Jerry Baird,,Knappmouth,West Amy,"76.5251295, -168.488142",2368,-50.0,Accident
-TR-e5797414,Edward Poole,Drone,North Brian,South Lukemouth,"-51.235784, 14.565778",,44.156045861376,In Transit
-TR-edc94ff9,Juan Cannon,Pickup,Tonibury,South Mark,"-64.8699835, -150.264247",1161,308.3022561041197,Idling
-TR-4055e0bd,Christopher Ward,Pickup,Hayleyberg,,"77.042587, 84.926832",2269,18.023407174319605,Accident
-TR-0e2c3dc4,Angela Newman,Pickup,New Heathershire,Lake Johnchester,"-29.9607655, -90.522665",2898,134.4523076425877,In Transit
-TR-a5920b01,Sherry Rodriguez,Pickup,,East Johnville,"-30.148248, 131.435760",1224,,In Transit
-TR-c4bea518,Tonya Rivas,Pickup,Port Kevin,New Margaretchester,"-80.606953, 25.554814",0,157.72537513269296,Delivered
-TR-d4ed8b02,Curtis Terry,Pickup,Collinsmouth,Leefurt,"-20.913745, -164.156021",1266,-50.0,
-TR-f8754b4c,Kathleen Villegas,Van,West Vickie,Port Jesse,"-13.156735, -36.410478",1694,144.229031118232,In Transit
-TR-75440677,Whitney Bennett,Drone,East Jamesbury,,"-29.763300, -169.251524",2275,134.79581738194264,
-TR-3fb89d57,Christopher Castro,Vaan,Lake Dennis,Davidchester,"-0.1260835, 105.632751",1478,149.48882353493426,Idling
-TR-169b9f03,Nicholas Moore,Cargo Ship,,,"-10.0780425, -85.324967",1062,,In Transit
-TR-57f00393,Regina Phillips,Semi-Truck,Port Derekborough,,,1818,105.16503590444954,Idling
-TR-4581a3cf,Joseph Powell,Cargo Ship,Taylorborough,,"64.7822265, -48.251787",234,57.56433637728986,Idling
-TR-574679fc,Mathew Beck,,,West Samuelmouth,"-42.277566, 18.887000",1491,176.14838704963915,Delivered
-TR-7308f8c8,Richard Carson,Pickup,Port Cherylshire,Melanietown,"-59.192727, 120.795436",2147,279.5777109304815,Delivered
-TR-3d3ca786,Valerie House,Cargo Ship,West Kathleenburgh,Port Michael,"43.602031, 58.519635",500,0.0,Accident
-TR-8778bddc,Tracey Parsons,Van,Adkinstown,Victoriamouth,,,121.49661654602379,Delivered
-TR-f5f2cda8,Jessica Smith,Drone,Robinchester,South Michael,"-76.155568, 65.369956",398,415.51384969312727,
-,Casey Yates,Semi-Truck,Lake Hollystad,Jonathantown,"-3.3029605, -26.193460",484,409.3349331144832,Maintenance
-TR-d8cb26ef,Tiffany Moore,Semi-Truck ,Jonesberg,Port Robert,"-75.553633, 12.577206",2123,395.3353507291304,
-TR-d86fb192,,,South Bethborough,Kirbyfort,"88.322756, 140.996302",1482,348.8845556971555,In Transit
-TR-b40ad877,Nathan Martin,Pickup,Lake Timothy,Ayerstown,"3.8372425, 173.921417",500,0.0,Accident
-TR-9ae9cec8,Jackson Vance,,Brianstad,Williammouth,"-20.4814635, -149.674091",,386.05548310997506,Idling
-TR-edd7ef2d,Benjamin Moore,Drone,Crawfordshire,Port Seanchester,"-9.975855, -42.740063",1604,382.83620758038217,Idling
-TR-406996a0,Jonathan Wyatt,Drone ,Melissaberg,Jeannefurt,,808,,Idling
-TR-cec88e0d,Justin Garcia,Pickup,Port Veronicastad,Fosterfort,"-59.196536, -99.988831",10,102.28676567566686,
-TR-559f923f,Michael Graham,Van,North Rebeccatown,Maryland,,1741,18.882076810795457,In Transit
-TR-7e11108a,Lawrence Garcia,Drone,East Valeriestad,South Kristineberg,"83.914409, -115.905205",2489,,Idling
-TR-d3294a71,,Pickup,Jasonburgh,Scottstad,"85.6599895, 92.659539",,,Accident
-TR-7be61d18,Claire Walton,Pickup,Lambchester,Carolfurt,"67.3900765, 69.510005",2956,476.29579879018786,Delivered
-TR-54b26492,Laurie Andrews MD,Semi-Truck,South Markland,Bentonshire,"63.7656335, 19.562923",456,222.9320915928163,Delivered
-TR-51cb0c3f,Kim Gould,Semi-Truck,Kellyshire,South John,,1523,39.139446216950645,Idling
-TR-b4fe1eb8,Debra Salazar,Pickup,West Michelle,South Josemouth,"51.019666, 176.754063",1813,401.7664445333856,Idling
-TR-fa7d1bd7,Joshua Walter,Van,Lewisberg,Port Jillianton,"86.4402775, 51.991020",1159,62.22294189692346,Delivered
-TR-b801ee08,Tammy Fox,Drone,,Port Cathy,"49.8499935, -45.533143",2128,422.3708313451928,Idling
-TR-e08b50b7,John Goodman,Cargo Ship,Port Lynnchester,Sarahhaven,"7.7561685, -96.012172",2907,395.93033739633955,In Transit
-TR-914f23b4,Mitchell Soto,Cargo Ship,South Denise,South Denise,,547,105.18674125899746,Maintenance
-TR-d1db8fed,Brenda Williams,Cargo Ship,Brooksbury,Johnstonberg,"-36.084339, 29.416362",1922,419.891093444471,
-TR-6f59da81,Amy Yates,Van,,Wardville,"-77.141546, -91.493875",500,0.0,Maintenance
-TR-9986df10,Amber Williams,Cargo Ship,West Alexiston,Oliverport,"-36.109935, 74.810732",1751,217.8568951974767,Idling
-TR-ca696526,Michelle Collins,Drone,South Robertmouth,Charlesville,"19.334391, -136.398672",2615,207.38061707084864,Delivered
-TR-5cc215aa,Heather Carr,Pickup ,NÃ©w Chrisfort,Waterston,"79.575621, -128.164536",2172,478.3446010145045,Maintenance
-TR-33b38963,Michelle Escobar,,West Kaylashire,Brownfurt,"1.0571825, 160.795306",1374,223.5140642808346,Maintenance
-TR-379c2a7a,Robert Ponce,Cargo Ship,Williamsfurt,Moorefurt,"-13.3987185, 68.099517",2592,481.71296095927005,Accident
-,Dean White,Semi-Truck,,New Johnchester,"34.781744, 9.044391",2452,384.2670047332609,Accident
-,Katherine Alvarez,Cargo Ship,North Gary,Barbarachester,"36.2450565, 121.197297",1262,418.1821400375142,Idling
-TR-76614b81,Heather Santiago,Drone,Josephmouth,Lake Robertoton,"-79.732383, 133.032538",2120,,In Transit
-TR-303768a1,Steven Myers,Semi-Truck ,Davidburgh,East Robert,"-2.5102425, 105.625478",0,466.13201107782345,In Transit
-TR-85c5d6c0,Ashley Ward,Van,South Larryville,,"37.390693, -98.631332",152,392.447790694255,Delivered
-TR-8e36839c,Carl Jones,Van,New Bryanville,,"64.680101, -48.766583",1126,331.78094854462745,Delivered
-TR-7db678d9,Jennifer Wade,,South Leslieville,Port Mariahaven,"-18.819215, 158.852797",2149,249.88711471645354,Maintenance
-TR-fda89938,Stephanie Robinson,Drone,Natalieborough,North Julieview,"-0.4107925, 31.775587",470,,Accident
-TR-f7ddb1c3,Rachel Miller,Semi-Truck,Lake Bryan,Terrihaven,"99.9999, 150.0000",2703,299.8571104643248,Delivered
-,Harold Butler,Cargo Ship,Lake Johnstad,Tinashire,,1682,64.64810475412331,In Transit
-TR-a016f69f,Amy Hoffman,Pickup,Markton,Markton,"27.8642525, 50.840790",500,,Delivered
-TR-1cf1c734,Herbert Mcguire,Cargo Ship,Lake Brandon,Ricehaven,"-10.164343, 97.172666",1125,31.391957996776966,Maintenance
-,Emily Johnson,Drone,Port Mollyborough,Williamsport,"-56.7955355, 103.783567",2817,446.3536529399011,Idling
-TR-c2356af8,John Flores,Cargo Ship ,Ryanville,Kaiserstad,"-32.6763915, -30.979154",1736,241.26374943604733,Delivered
-TR-b4f3bc13,Melissa Rush,Semi-Truck ,Bowersstad,Pricefort,"21.2033975, -137.893918",2651,358.76968149399426,Accident
-TR-f7d665e4,Rachel Ochoa,Van,Port Larry,Jonathanland,"17.650235, -74.396382",970,340.8247715440637,Accident
-TR-dc57f9c8,April Copeland,Semi-Truck,,Port Paul,"2.835310, -146.226198",2033,,Idling
-TR-58c5d8c0,Julia Morrow,Drone,South William,East Michaelland,"99.9999, 150.0000",1642,470.7198335227392,Maintenance
-TR-e7468f91,Barbara Silva,Van,,Spencermouth,"64.731882, 140.152196",2653,342.11200388142396,
-TR-c88fafbc,Christopher Mccullough,Drone,North Allen,Alexisland,"-13.385962, 128.539424",109,92.33295124330637,In Transit
-TR-f13cba45,Deanna Jennings,Van,Andersonbury,Tracystad,"-69.7180185, 134.085704",1889,443.7323785265631,Maintenance
-TR-33528551,Virginia Watkins,Cargo Ship,Shawnaland,Lake Amandaside,"-46.845433, -23.978790",0,179.45779280165215,Delivered
-TR-d4f64f83,Juan Hall,Pickup ,West Mark,South Jonview,"39.8612415, 164.193525",1944,271.6715990026156,Maintenance
-TR-34bacebe,Melissa Jones,Cargo Ship,Franklinview,South Rebeccafurt,"-39.858696, -117.860119",,329.9670751569728,In Transit
-TR-78262f74,Danielle West,Van,North Lisatown,,"2.2539715, 134.970901",1010,259.6287068934069,Accident
-TR-998f7818,Angel Holmes,,,Goodwinbury,"46.887628, -112.899536",1487,458.72501780255203,Delivered
-TR-ade1266b,Michael Gordon,Pickup ,South Tannerstad,Wandaberg,"-63.802613, -137.333225",2758,218.18844387818703,Delivered
-TR-ea4bea02,Shawn Bell,Semi-Truck,Port Sarahbury,West Richardmouth,,1024,339.9545562543621,In Transit
-TR-c69b5d9e,Miss Bethany Hall DVM,Cargo Ship ,Henrytown,,"36.167587, 2.781030",1912,378.3161368660837,Delivered
-TR-10964a5c,Sergio Garrison,,Benjaminmouth,Rhondaburgh,"69.823013, -20.262193",86,404.04311357871586,Accident
-TR-01f8dd79,,Cargo Ship,,North Christopherfort,"-67.0919705, 174.529116",,97.06219571268515,Delivered
-TR-1c7f690c,Dr. Jessica Smith,Semi-Truck,Ashleyland,New Robert,"78.9928015, 144.890476",2424,403.9105196273352,Maintenance
-TR-626f3613,Lauren Flores,Cargo Ship,Troymouth,,"-51.2951885, 91.506432",356,223.53544788426294,Idling
-TR-c8a67c98,Vanessa Drake,Pickup,JÃ©nnifÃ©rsidÃ©,West Ashleystad,"-5.3615315, -116.035831",2373,4.9454502356879875,Maintenance
-TR-a0a97004,William Garcia,Drone,South Susan,Guerrahaven,"45.2912785, -72.584156",710,292.60180793498085,
-TR-8ded95e6,,,Mcdanieltown,North Autumn,"61.2738455, -6.611134",500,0.0,In Transit
-,Matthew Miller,,,Clarkmouth,,1478,103.36131912993274,Accident
-TR-776f7ad6,Mary French,,,,"35.8192265, -124.924620",2956,363.0995839964139,Maintenance
-TR-011efe1e,Stephen Kim,Semi-Truck,Gomezchester,Emilychester,"80.8246175, -139.688327",1071,,Accident
-TR-0ae588a9,Diana Bender,Drone,Halltown,East Jennifer,"35.8359695, 75.377649",870,14.936104156558272,In Transit
-TR-118d9d9a,Hannah Rogers,Van,East Felicia,Michellemouth,"40.5542235, -42.020119",257,230.92256075288427,Maintenance
-TR-21f03a41,Maurice Estes,Drone,Lake Diana,Port Terrychester,,,173.33488085811695,Maintenance
-TR-b721c22c,Brenda Chen,Pickup,Jacksonhaven,Kelleyville,"79.5606885, -97.482442",29,253.09068913132566,In Transit
-TR-40e8e3bc,Phillip Miller,Pickup ,Allisonborough,Port Julie,"-43.6524015, 63.923240",1999,309.6568905748222,In Transit
-TR-bdf480b7,Wendy Bryant,Caargo Ship,Lake Sean,Doughertymouth,"-48.3150575, -1.819309",1582,224.89734187622784,Maintenance
-TR-1a82cc30,Julie Beck,Cargo Ship,East Thomasside,East Thomasside,"-63.2631275, 39.584907",2901,455.6423848269073,In Transit
-TR-b4cdb30a,Megan Anderson,Pickup,South Lance,Kathrynville,"29.5851175, 23.881155",600,128.621929824435,Idling
-TR-e924cb6b,Lauren West,Van,Lake Vickie,East Katherinemouth,,0,437.08291773100916,Idling
-TR-9bf85468,Thomas Campbell MD,,Littlebury,Lake Steve,"-8.540391, 44.422609",640,143.94248913532704,Delivered
-TR-9275b5b8,Sarah Buchanan,Cargo Ship,Lawsonside,North James,"-83.834862, 73.276206",2392,211.61095696661926,Maintenance
-TR-a40eced3,Andrea Mcdonald,Semi-Truck,Teresahaven,Webershire,"99.9999, 150.0000",680,318.25446280143615,
-TR-1bd60de5,Adam Gray,Cargo Ship,,New Aaronchester,"-26.913504, -4.149736",1054,,Delivered
-,David Thornton,Van,Foxborough,West Deborah,"44.6014585, -121.967373",1079,191.85433372924078,Delivered
-TR-2e0f3703,Amy Reynolds,Van,West Dana,Port Stacy,"-6.1697365, -160.599219",500,0.0,Delivered
-,,Drone,Martinberg,Leeside,,2145,359.8139056766475,Delivered
-TR-4644d545,,Van,Chadberg,East Tammyburgh,"-57.7922415, 45.254795",,137.24390734714197,Delivered
-TR-65fb2b3e,Jessica Lane,,North Travis,Yeseniachester,"77.4588145, 73.008275",500,0.0,In Transit
-TR-76614b81,Heather Santiago,Drone ,Josephmouth,Lake Robertoton,"-79.732383, 133.032538",2120,,In Transit
-TR-77a3bcba,Carolyn Alvarado,Semi-Truck ,North Clifford,Port Alexandriastad,"-0.1476235, 177.294073",,107.80603820068751,Idling
-TR-f4d0d392,Jordan Calderon,Cargo Ship,South Nicholasmouth,Lake Danielhaven,"7.4030565, -170.481216",2561,63.09551453897766,Maintenance
-TR-058ff66e,,Pickup,Liton,Fernandoton,"68.1961525, 53.012117",2350,251.28788809712822,Maintenance
-TR-75db1f02,Theodore Cunningham,Semi-Truck ,Josephmouth,,"79.8007745, -1.657671",1289,359.0986414964688,Delivered
-TR-6e6944d3,Wendy Dickerson,Pickup,Port Robert,North Megan,,2150,258.8266543422791,
-TR-44d6eeca,Susan Nelson,Van,Taylorville,Longfurt,"-19.7477605, 61.405178",,179.10822424920707,Maintenance
-TR-178393ca,Matthew Moore,Drone,Gainesside,,"67.7988525, 120.887078",1812,181.7652654783133,Maintenance
-TR-3969c99f,Jorge Flowers,Drone,Charlesburgh,Reeveston,"-20.124080, 147.165482",183,470.774189206199,
-TR-725e4e45,Bryan Rogers,Drone,North Kimberlyburgh,,"-25.5774555, 42.435327",800,254.15175225876135,Accident
-TR-68eed68d,David Price,Van,Robertburgh,South Wendy,"83.9883625, -79.558812",1378,,Delivered
-TR-e7471ea0,Joshua Wu,Semi-Truck,Lake Valerie,South John,"19.726184, -120.829557",1384,28.87786408640114,Accident
-TR-ce02c117,Jacob Gregory,Pickup,Ferrellmouth,West Charlesstad,"-75.1225425, 51.906564",630,422.51112923465627,
-TR-af80ef2b,Kristen Singh,,East Brittany,New Markton,"-33.338167, -167.813249",2709,252.22163775300666,Delivered
-TR-c5d9a515,Daniel Flores,Drone,East Adam,Simpsonstad,"26.884006, 37.940007",742,443.22384532527053,Delivered
-TR-d15f2728,Julie Wolfe,Cargo Ship,Lake Jessicahaven,Matthewtown,,1626,119.57770169916077,Delivered
-TR-e4ed65ef,Yolanda Obrien,Van,,New Michael,"38.146543, -139.728123",827,153.4770402119081,Delivered
-,Timothy Cain,Cargo Ship,New Meghan,West Joseph,"41.7933935, 95.033988",918,177.51790533987204,Delivered
-TR-5fef77a4,,Van ,Michaelshire,Francisbury,"-29.845779, -137.568433",2697,339.24563299042694,Maintenance
-TR-ecadb027,Guy Vincent,Semi-Truck,Shawnhaven,West Michaelmouth,"-29.983734, 23.025233",2166,345.049961203312,Idling
-TR-4503f517,,Drone,North Robyn,South Johnbury,"16.6081175, 140.351786",854,133.57561412735836,
-TR-e23ab145,,,New Molly,Jennifermouth,"-23.810614, -141.419068",Unknown,284.99267291198436,
-TR-76627a18,Jennifer Ray,Drone,Port Kelsey,Bonnieview,,96,484.52656344777733,Maintenance
-,Kristen Gonzales,Drone,Wellsbury,Williamchester,,365,201.10272385588806,
-TR-5d52cfd5,Joshua Watson,Pickup,Kaufmanton,Mariastad,"-81.191422, 176.011760",460,-50.0,Delivered
-TR-f5db9cf0,,Van,Webbton,Lake Juliemouth,"-53.975595, 95.909708",2533,466.885870297105,Idling
-TR-8b188a3d,John Boyd,Cargo Ship,Christophermouth,East William,"82.9664255, -60.981760",796,225.2015711029089,Maintenance
-TR-adb19a9b,Lacey Hopkins,Van,Davidsonbury,Fergusonton,"9.171920, 44.011013",2337,435.1698910373569,In Transit
-TR-2a6556fb,Stephanie Grimes,Cargo Ship,South Crystalton,New Samantha,"45.6086405, 133.217447",1806,121.28492023922671,In Transit
-TR-e43b7fcc,Mary Lawrence,Semi-Truck,NÃ©w Sabrinaborough,Stephenchester,,2153,403.8738642206998,In Transit
-TR-b5674b5f,Larry Bender,Van,Karenfurt,New Cassandraville,"13.513877, -102.600406",1585,295.87431639812394,Accident
-TR-ddb6b4a8,Bryan Bond,,New Joseph,Alejandroborough,"51.740760, -121.942524",2243,489.2357522428973,
-TR-e69b303e,Kevin Bond,Van,,Castroshire,"13.307254, -20.757372",2823,131.16006784212243,Accident
-TR-300814d2,Teresa Marshall,Van,West Teresa,,"8.851976, 29.405533",1989,237.18575180927965,Accident
-TR-50c16154,,Pickup,North Martha,North Rebecca,"-86.1868645, 99.814778",1663,107.50091855756189,In Transit
-TR-482497b1,David Riley,Drone,Annachester,Karatown,"-42.7406755, 56.973404",1343,282.67312349827534,Delivered
-TR-fb1c1fb4,,Semi-Truck,,,"-43.5830695, -56.704178",,46.74485931451328,
-TR-d78aa4e9,Jack Martinez,Semi-Truck,North Richardport,Williamborough,"85.3881175, -155.946468",0,-50.0,Maintenance
-TR-dfc9550d,Michael Johnson,Van,Benderburgh,Thorntonburgh,"61.558252, 112.984246",1093,20.535533269223137,Accident
-TR-74ada148,Peter Jones Jr.,Cargo Ship,West Bonnieville,New Danielle,"-27.719291, 51.938656",120,124.23292826015947,Idling
-TR-b7b0a8e4,Michelle Johnson,Pickup,New Tammy,North Michele,"76.7748945, -140.688462",1664,246.72990687982815,Accident
-TR-1fb98afe,Nathan Wolf,Cargo Ship ,Lewishaven,East Erin,"-67.744641, -86.575227",2002,31.00152130346595,Delivered
-TR-fb24e531,Reginald James,Cargo Ship,Thomasburgh,Port Russellfort,"-65.731843, -70.219721",0,245.32267129931935,Accident
-TR-0fdf6e69,Andrea Martin,Semi-Truck,East Lindsay,,"-22.543397, -7.881930",1770,7.446482124019993,In Transit
-TR-1ef10ccd,Tina King,Semi-Truck,North Noahfort,South Tracy,"-15.451135, -95.833552",1915,263.85514887044184,Idling
-TR-33de3631,Timothy Fox,Van,West Adamview,Lake Jamesview,"-57.866404, -88.582538",894,46.46218450031936,Accident
-TR-cdf18511,,,Jamesport,East Paigeport,"-63.8497495, -42.817374",813,185.9027735518488,Delivered
-TR-b5263f49,James Watts,Semi-Truck,,South Alisha,"-67.2010195, 164.891759",2421,293.0616819150629,In Transit
-TR-b89a9729,Joshua Ramsey,Drone,Wintersborough,Martinezmouth,"85.5664295, 15.391863",880,92.86940806849265,In Transit
-TR-5765902a,Ronnie Cook,Semi-Truck,New Blakeview,Willistown,"-23.8281965, -11.614982",792,280.9841173104533,Accident
-TR-d50653a9,Amy Walters,Semi-Truck,Port Johnstad,North Thomas,"68.245702, -87.666458",,13.381091667785173,In Transit
-TR-74f04bc0,Alejandra Rowland,,East Maryburgh,Port Amber,"24.609102, 71.610068",2624,142.10424403629884,Accident
-TR-c349263f,Travis Pugh,Drone,North Sarah,Tannerburgh,,2381,240.36732419615265,Delivered
-TR-b5a68a39,Kathryn Lozano,Van,Haydenport,Brandonbury,"-66.9664565, -7.228762",772,86.60577253889468,
-TR-66f7592f,Jessica Rodriguez,,West Jason,Angelabury,"79.776438, -172.472962",2461,353.8074277979639,Accident
-TR-9e78209e,,,Lake Stephaniefurt,Mandyburgh,"-75.4564515, -28.194513",,51.22702084438019,Delivered
-TR-fbc35bfe,Kaylee Quinn,Pickup,Rosarioside,Millerchester,"85.427379, 120.696570",,,In Transit
-TR-3945c74b,Alyssa Guzman,Cargo Ship,New Lisaport,New Lisaport,"-20.962425, -147.107249",0,473.2401835659832,Delivered
-,Caitlyn Ramirez,Drone,Tuckermouth,Teresaport,"-68.346464, -165.646344",2768,89.95983142382391,Maintenance
-,Michael Reed,Cargo Ship ,West Heidi,Brownland,"23.2874855, 163.453017",1720,368.60579779764515,Idling
-TR-feefb219,Christine Parker,Cargo Ship ,Lake Vanessa,,"66.374107, 113.218894",2046,373.0563209361394,In Transit
-TR-07ac1143,Kimberly Nguyen,Drone,Smithfort,New Amyhaven,"-14.334920, -47.549415",1393,19.268740031968267,Delivered
-TR-cd0bf18d,Mitchell Jones,Cargo Ship,Millerfurt,Millerfurt,"37.6313675, -24.588881",1969,327.6503770470797,Idling
-TR-7ba1df41,Brittany Mccall,Drone,Cynthiachester,Jonesberg,"-80.3046755, 121.790806",2345,401.7943143324112,Idling
-TR-bcb9e638,,Van,New Susanmouth,Sarahside,"-85.925781, 52.664078",1920,466.38825852674887,
-TR-178393ca,Matthew Moore,Drone,Gainesside,,"67.7988525, 120.887078",1812,181.7652654783133,Maintenance
-TR-267e0dda,Chelsea Miller,,Danaland,New John,"14.3657825, -177.584152",500,0.0,
-TR-b2657ced,Jessica Douglas,Drone,Ginaburgh,Andreberg,"99.9999, 150.0000",,461.2202610628784,Delivered
-TR-c2e7f436,Robert Roy,Drone,Arroyomouth,South Toddtown,"-23.357922, -98.842091",298,445.76644213919514,In Transit
-TR-6ec64a04,Jeremy Estrada,Drone,New Jason,Frenchburgh,"8.3022675, -133.081509",726,93.09517954184766,Delivered
-TR-35d83110,Megan Harmon,Semi-Truck,Martinfort,Bryanburgh,"62.6083555, 15.461011",1876,51.65704963805945,Delivered
-,Robert Nielsen,Drone,West Anthony,East Andrew,"11.5925615, -78.206923",1820,24.712655901469873,Delivered
-TR-37460577,Karen Hall,Caargo Ship,South Pamelaburgh,New Briannafort,,119,133.66406426142595,Idling
-TR-abb1052a,Michael Ayala,Cargo Ship,Laurenville,Lake Derek,"-83.7612005, -163.808899",,,In Transit
-TR-d63183b3,Sharon Stevenson,Semi-Truck,WÃ©st RachÃ©l,West Rachel,"-32.8257215, -5.090003",0,235.18559461131744,Accident
-TR-74ada148,Peter Jones Jr.,Caargo Ship,West Bonnieville,New Danielle,"-27.719291, 51.938656",120,124.23292826015947,Idling
-,Marcus Cameron,Cargo Ship,,,"-61.0948355, -43.979398",500,0.0,Delivered
-TR-1fcb6f4f,Richard Smith,Van,East Hannah,East Jacqueline,"-57.5895775, -36.241694",335,265.85003040742686,In Transit
-TR-2d3ac36b,Sarah Brooks,Cargo Ship,Elizabethfurt,South Nicolestad,"57.679689, 177.303404",2290,113.99901380503624,Delivered
-TR-7421c003,Alyssa Jackson,Semi-Truck,West Brendaview,New Paul,,1014,163.63087862090453,In Transit
-TR-2969539f,Maxwell Frost,Pickup,Port Ryanmouth,Lake Taylor,"-23.7233915, 71.403281",2051,422.727154525291,Accident
-TR-144ac376,Gabrielle Gonzalez,,WÃ©st DaniÃ©llÃ©,,,,181.16824837449823,Idling
-TR-a099fa5d,Michael Schwartz,Drone,North Chris,North John,"-42.243787, 90.910289",2987,381.2358586187211,Accident
-TR-c787c538,Molly Snyder,Van,Gregoryhaven,East Tricia,"61.6827795, 33.426860",,342.9862099806437,Delivered
-TR-1c412175,Angel Best,Cargo Ship,Richardbury,Bensonside,"87.485856, 88.016229",285,,Accident
-TR-d8e50756,Chad Booth,Pickup,,Lake Charlesville,"15.7843635, 47.385854",500,0.0,Maintenance
-TR-21198e7e,Steve Hernandez,Cargo Ship,West Maria,,"75.201501, 119.772632",1219,296.58430113397327,Accident
-TR-dfdf8a67,,Pickup,West Jenniferhaven,Lake Vanessa,"46.975928, -14.117296",Unknown,,Maintenance
-TR-8fdd267e,Stephanie Garcia,Drone,South Shelbyburgh,New Wesley,"-22.961183, -175.551504",,304.62898074568284,Delivered
-TR-41dabbdc,,Van,Phamland,Paulville,"-85.754822, 178.174934",2389,177.8232031408214,In Transit
-TR-7987280d,Carmen Anderson,Pickup,West Johnborough,,"-30.6074075, -0.180433",,,Idling
-TR-847dcdd6,Robert Ali,Drone,West Patriciabury,Lake Johnchester,"-64.5575695, -178.705555",2274,176.3121123043343,Delivered
-TR-465bae18,Gabriela Cantu,,East Lori,East Elizabethtown,"44.373173, 53.182352",77,484.4926155964944,Accident
-,,Drone,New James,East Daniellechester,"16.965536, 105.401980",0,128.16441523173634,Maintenance
-TR-820abe75,Ryan Matthews,Van,West Kelsey,West Kelsey,"-10.642601, -84.196518",500,0.0,In Transit
-TR-952fddda,Kelli Harrington,Pickup,Lewisport,Port Dalton,"-48.757725, 6.973260",,84.3823675479743,Accident
-TR-be9ce5a4,,Drone,Kelleybury,East Joy,"47.539039, -95.402460",500,-50.0,Delivered
-TR-f8757dc3,Alexander Lewis,Drone,WÃ©st Johntown,Lisamouth,"-87.873289, -179.159852",,216.71454326433604,Maintenance
-TR-4c124c30,Julie Wilson,Pickup,Kimberlyton,,"68.772284, -58.679621",2032,187.80205138447076,In Transit
-TR-a751f7d9,Ashley Huff,Pickup ,Port Laura,Kristafort,"88.076563, 90.029193",1428,93.66868420771985,Delivered
-TR-977cd6aa,Chelsea Johnson,Pickup,WÃ©st Patricia,Macktown,"-74.607813, -17.217336",1860,323.2606406027001,Idling
-TR-dcd99a8e,Mrs. Laura Ayala,,Cameronview,Laurentown,,2016,412.4243979985936,
-TR-bf54ef05,Mike Smith,,Jonesstad,Jacobside,,1616,128.82859059832995,In Transit
-TR-1a75c928,Melissa Simpson,Van,Matthewfort,Reedburgh,"58.7187525, -143.609847",2973,384.3850208493664,Delivered
-TR-2f8c9430,Wesley Morales,Van,,Port Pedro,"20.463710, 58.964219",1493,379.31379306233856,Maintenance
-TR-3040cf77,,Cargo Ship,Gloverview,Nicholaston,"80.4363505, -84.028973",962,482.8089641595956,Maintenance
-TR-09aae95c,Dawn Allen,Pickup,South Raymond,Dianeshire,"-31.848724, -28.269729",,379.03175874319055,In Transit
-TR-aa6a9f7c,Michael Collins,Cargo Ship,East Billy,Christopherburgh,"76.6642205, 5.645897",2854,84.37800324158084,In Transit
-TR-7b1b4da9,James Gentry,Pickup,Benjaminberg,North Robert,"39.538521, 135.346698",2002,312.8083051505473,Accident
-TR-088daf3d,Valerie Matthews,Pickup,Gabrielborough,Davisville,"87.668703, -146.973345",2477,66.28591640844184,Accident
-TR-1e208b43,Luke Gordon,Van,South Ericside,Lake Jamesview,"-78.3068925, 118.262110",,137.58925275912222,
-TR-b65932c8,Corey Lee,Drone,Daisyburgh,Port Jenniferberg,"62.875776, 97.444481",694,,Idling
-,Christopher Bolton,Pickup,Kennethchester,South Derekberg,"25.4714035, 60.527364",2472,378.24358725754394,Maintenance
-TR-31b222dd,,Semi-Truck,Lake Devin,Brianchester,"-64.972563, -126.416249",1612,100.97913174444817,Idling
-TR-bf013ce6,Tyler Benson,Drone,New Heather,,"-53.5572455, 35.741566",2485,12.87800489915536,Maintenance
-TR-6ea9b33d,Anthony Mitchell,Pickup,Frankport,North Jose,"-55.600339, 13.318310",1567,387.9040963416174,
-TR-2e148440,Melissa Khan,Pickup,Martinezburgh,,"-26.672411, -143.231214",1028,27.95787121930504,Idling
-TR-81951a47,Michelle Byrd,Van,East Christopherville,Port Danielleburgh,"-53.5616665, -152.222260",,446.3057335671886,Maintenance
-,,Pickup,Leefort,Aliciashire,"-55.987251, -77.483551",,246.22394421773336,In Transit
-TR-e8f8e153,Carol Flowers,Semi-Truck,Janeshire,Walkerview,"16.445121, -94.802552",1612,75.18046450203374,Delivered
-TR-874004da,Eric Ponce,Semi-Truck,Branditon,Fitzpatrickville,"37.3857125, 120.774418",2357,396.58476996807997,Delivered
-TR-b2a0ff1a,,Van,,Gabrielshire,"-31.596446, 179.435754",793,226.74131537854896,Delivered
-TR-d75a213e,,Van,Griffinville,Timothyburgh,"46.7133385, -45.608976",1420,210.8867602757775,In Transit
-,Allen Mejia,Van,Port Courtneymouth,Annaview,"-81.0526865, 116.817773",,192.25472559511786,Delivered
-TR-e126e19a,Dr. Blake Turner,Cargo Ship,Nathanport,,,923,231.2200673411292,In Transit
-TR-bf2722a1,Bridget English,Semi-Truck,North Annland,Mackfort,"-4.5399975, -145.837272",1074,333.8359631448972,Accident
-TR-713d6909,William Sanchez,Drone,North Karenland,Samuelton,"-80.6462615, -57.983048",2122,318.4847489711789,Maintenance
-TR-693cfcff,Jamie Aguilar,Cargo Ship,South Rogerbury,West Karen,"11.7565985, 9.557980",1431,34.28356598403176,Delivered
-TR-4d27f119,Ashley Campbell,Drone,Kyleville,Lake Peter,"-52.113724, -111.545520",2395,455.12724759387856,Accident
-,Derek Taylor,Van,New Michelleberg,Charlestown,"83.198321, 163.043819",2653,241.8271776264737,Delivered
-TR-0da0ba2a,Mary Ponce,Van,,New Maria,"-71.6797435, 99.074883",2028,290.2645881908305,Accident
-TR-6c9ebbcd,Brittany Gomez,Pickup,Port Tara,Haleyside,"-72.0831565, -8.970471",Unknown,126.77680464057445,
-TR-4a8283d5,Samantha Johnson,Pickup,West Brianville,Vanessatown,"28.8440285, -141.183314",2229,298.62106085817163,Maintenance
-TR-cfb489f5,Bobby Simmons,Pickup,DoylÃ©havÃ©n,Jorgemouth,"-69.907155, -87.570598",2480,187.37386859216275,
-TR-3e9e998c,,Drone,NÃ©w Cathy,Port Maria,"-2.605965, 152.001088",2290,39.72885189074782,In Transit
-TR-2fb47f29,Meghan Fischer,Cargo Ship,,West Tonyashire,"29.6957155, 2.040570",2018,,Delivered
-TR-8741a69f,Rebecca Dixon,Cargo Ship ,Port Jessicafort,Goodmouth,"3.070971, 123.859283",2974,405.6742769682229,In Transit
-TR-72733cfd,Lindsey Riley,Semi-Truck,East Ashley,Burnston,"-3.8237185, 141.488120",2883,414.93360737330454,Idling
-TR-6f656ede,Andrew Ward,Pickup,Strongtown,Port Marcus,,0,141.9359217561184,Maintenance
-TR-536bc614,Kelly Williams,Cargo Ship,West Christopherview,Port Christina,"-65.2635945, -42.152627",500,0.0,
-TR-02c660ff,Lisa Carrillo,Semi-Truck,,Port Kellyfort,"85.163494, -63.422059",723,377.9605046369661,Accident
-TR-f8757dc3,Alexander Lewis,Drone,West Johntown,Lisamouth,"-87.873289, -179.159852",,216.71454326433604,Maintenance
-TR-de7fa11b,Jeanne Cox,Pickup,Williamport,Davidmouth,"71.3540695, 173.419957",2012,397.4250772654552,Maintenance
-TR-69b89e5d,Bobby Brown,Pickup,Lake Julia,New Dianaborough,"-64.760316, -79.954512",,151.6656959869034,Maintenance
-,Lindsey Goodman,Pickup,Charlesville,Jasonshire,"67.3497335, 2.640690",2955,142.51773449960197,Idling
-TR-a5d48c65,Mr. James Mercer DVM,Cargo Ship,,Alyssaside,"14.8994615, -122.286712",2303,-50.0,Maintenance
-TR-cfb93e61,,Drone,Bergfurt,New Coryborough,"-52.2155205, 163.096200",2317,327.2035392198997,In Transit
-TR-eca4eade,Benjamin Watts,Van,,South Lindsay,"-63.904492, 40.617509",2045,,Idling
-TR-93e024d2,Donna Davis,Van,Chapmanburgh,Jonathanville,"63.8432135, 31.988984",2442,,Idling
-TR-d203e944,,Pickup,Justinfort,Mitchellchester,"7.9129905, 178.063905",2401,,Maintenance
-TR-c3926bcf,,Pickup,Sharonside,Jasonchester,"81.533204, 146.145881",1978,313.3026338325987,In Transit
-TR-26ae933e,James Murray,Semi-Truck,Miguelland,Guerreromouth,"4.767847, 96.404968",175,21.282453778911247,In Transit
-TR-1c381ac3,Tina Carroll,Drone,North Robert,,"30.1236765, 79.878612",423,440.3390319769216,Delivered
-TR-2b3397f1,Austin Fuller,Van,Sheppardbury,North Sandra,"-46.1825875, -105.452070",2531,430.47135447204585,In Transit
-TR-db2f878d,Debbie Lee,,South Kendra,East Melissaside,"-29.8711655, 170.286050",363,163.5182288672074,Maintenance
-TR-25c437d4,Scott Schwartz,Semi-Truck,East Bethany,Burnsfort,"-28.073030, -43.464688",29,67.05216193216728,Accident
-TR-af9be361,Andrea Martinez,Pickup,West Cody,,"15.8389025, -170.420255",1961,164.94605825846526,Idling
-TR-3d15c4b2,Brian Acosta,Pickup,Scottfurt,Murrayville,"-35.195037, 53.988158",1135,,Maintenance
-TR-a03b80ea,Julia Berry,Pickup,Timothyport,Cervantesbury,"-74.5089325, 32.124361",1650,54.01343244844692,Idling
-TR-d8e50756,Chad Booth,Pickup,,Lake Charlesville,"15.7843635, 47.385854",500,0.0,Maintenance
-TR-704aaa01,Kathleen Montoya,Semi-Truck,South John,Sheltonmouth,"-58.171602, 90.575085",916,147.0855940598948,Delivered
-TR-f0cdba27,Rebekah Crawford,Pickup,Wrightbury,Andrewsmouth,"23.419296, -106.105429",110,469.06472227000654,Maintenance
-TR-f4f9877f,Garrett Oliver,Semi-Truck,Kellerside,Ellisland,"72.201511, 87.112669",1614,203.2325388476918,Accident
-TR-56fa0670,Carlos Alvarez,Van,,East Matthewfort,"83.6927205, 136.908980",2587,217.48240400888776,Idling
-,Rachael Perkins,Pickup,Butlerville,Alvinborough,"49.070550, -62.292246",,162.6700935404532,Maintenance
-TR-cedebd22,Roberto Scott,Pickup,Craneland,Collinston,,320,,In Transit
-,Karen Rodriguez,Semi-Truck,Mccormickhaven,Timothymouth,"-55.0816745, 28.307357",1669,271.83880371073485,Delivered
-,Samantha Burke,Pickup ,Port Jonathanton,West Ryan,"-81.772249, -63.519221",2082,,Maintenance
-,,Pickup ,Leefort,Aliciashire,"-55.987251, -77.483551",,246.22394421773336,In Transit
-TR-545aa652,,Semi-Truck,New Ernestberg,Kingtown,"65.3502745, -100.201952",0,78.40702118731852,Idling
-TR-73b35d4d,Francisco Bailey,Pickup ,West Charlesborough,Samanthastad,"31.6238155, -59.552288",,433.03455907316226,Idling
-TR-f4761ab5,Denise Pham,Semi-Truck,Shirleyfurt,New Matthew,"88.6690685, 16.170767",2262,434.5674843310104,Delivered
-TR-dece9697,,Semi-Truck,,West Jason,"5.013145, 85.985319",366,218.2953951202245,
-TR-9e3e117c,Bryan Smith,Van,,,"-11.348899, 136.278577",906,318.1407542807841,Idling
-TR-7e5361f0,Betty Mason,Cargo Ship,Toddhaven,Lake Cindy,"52.378344, 9.445781",0,355.92269260615416,
-TR-c74bdef2,Robert Taylor,Drone,Washingtonside,,"-47.1835765, -119.871262",294,65.16429635529109,Delivered
-TR-b17032b5,James Lee,Drone,Carrollfurt,North James,"50.5757365, -77.916166",,470.5860717165066,Maintenance
-TR-67ba0a4d,Melissa Fox,Drone,East Janice,Williamsside,"78.9930485, 157.021540",1193,424.1137766465026,In Transit
-,,Cargo Ship,New Ricky,,"13.494789, -43.273396",484,,Maintenance
-TR-9ed4ef56,Matthew Shelton,,Caseport,East Jenniferstad,"-55.503723, 152.407225",226,,Idling
-TR-e4822f7a,Karen Melendez,,Joshuaside,,,2722,465.1404222887451,In Transit
-TR-cdec28d1,Eric Bennett,Pickup,East Kimberlyhaven,Walkerborough,"31.067627, -82.580437",615,73.7626503390818,Idling
-TR-388801ab,Brandi Alexander,Drone,Catherineberg,East Phillip,"-72.8346435, -83.341013",,,
+,Johnny Lewis,Semi-Truck,Garciahaven,,"-78.052360, -32.078398",514,474.3501518756323,Accident
+TR-e223e389,Adam Moore,Pickup,East Zacharyhaven,Mccarthystad,"53.3754515, -141.529549",0,16.880005441968994,Maintenance
+TR-3d5e69df,,Pickup,Port Anthony,New Jenniferchester,,2436,156.79246795755546,
+,,Pickup,Lake Haileyton,Lake Haileyton,"-43.672006, 58.047957",1845,276.4527542853846,In Transit
+TR-6202f35d,Katie Hopkins,Cargo Ship,Lake Isaac,,,1300 ,14.969975183345197,In Transit
+,Kelly Palmer,Van,South Heidi,New Meganburgh,"89.818651, 134.836650",63,293.4346214302192,In Transit
+TR-f58f41b0,Chad Koch,Semi-Truck,Johnsonstad,Thomasville,"-39.772635, 12.202222",406,79.19413418229126,Idling
+TR-69b6175e,Timothy Lee,Drone,,Port Kathrynchester,"-31.6083485, 162.494444",Unknown,119.86094211236653,Idling
+TR-82e847ae,Jonathan Myers,Van,Jerrymouth,Michaelfurt,"-65.796009, -48.610228",2882,397.0497630753808,Accident
+TR-d51f6de1,Ashley Walker,Semi-Truck,Sheilaview,Sheilaview,,,288.92680789940965,Delivered
+TR-db642c52,Mary Abbott,,East Trevorshire,Lake James,"99.9999, 150.0000",2369,314.4470630959877,
+TR-17c03e28,Carla Tucker,Drone,Kimberlytown,South Andre,"-87.879816, -94.771475",500,0.0,Maintenance
+TR-cd199b5e,Darren Gordon,Van,North Tiffany,Heathbury,"-80.140074, 134.189198",1442,46.388570507546575,Maintenance
+,Melissa Sullivan,Cargo Ship,Carriebury,Josephborough,"11.8203755, -25.876947",1516,-50.0,Accident
+TR-ce521176,Carlos Rangel,Drone,West Tinachester,Hernandezburgh,"99.9999, 150.0000",399,296.6440959015809,Idling
+TR-cd7182b4,William Nielsen,Cargo Ship,Katherineberg,Colleenshire,"85.5688515, -83.429999",789,389.75727675278813,Idling
+TR-d7d0dc99,Gabriela Henry,Pickup,,Robertside,"54.4045265, 125.324559",1744 ,180.6986589458552,In Transit
+TR-cb4a1b4b,Kevin Dixon,Semi-Truck,Shelbyfurt,Smithchester,"33.134973, 32.597588",468 ,86.47975771828159,Idling
+TR-7722ec2c,Robert Hernandez,Pickup,Chenborough,West Christianton,"14.038580, -111.010804",,283.5710173581373,
+TR-5fd90dfe,Mark Mccarthy,Semi-Truck,West Shaawnaaborough,Lambchester,"-5.297613, 42.255308",1236,-50.0,In Transit
+TR-4c031d16,Susan Archer,Drone,Glennton,North Juliaside,"86.719698, 158.826568",666,,
+TR-216b9833,Jessica Clark,Drone,New Kathryntown,,"-31.4126405, 71.088190",724,343.66820536519253,Delivered
+TR-b42e8714,Christopher Hill,Cargo Ship,North Brianna,Nguyenchester,"10.537013, 67.148041",Unknown,448.954620293361,Accident
+TR-4b589ceb,,Cargo Ship,Lake Ronaldport,South Wendyview,"-9.3129285, 140.432022",1187,275.7485570457746,Maintenance
+TR-d1edc618,,Drone,Thorntonstad,Greenton,"-29.344223, -78.936578",1257,-50.0,Accident
+TR-55c87441,Lisa Stevenson,Cargo Ship,South Jennifer,Toddbury,,2056,-50.0,
+TR-429e70e0,Joshua Alvarado,Drone,Joshuafurt,North Barry,"-33.4506365, 52.923270",2142,419.1579416691231,Delivered
+TR-e777c664,Shane Kennedy,Cargo Ship,West Judy,Lake Brandonborough,"50.4032155, 61.416429",1680,,Accident
+TR-1327adb9,Shannon Clark,Pickup,Strongstad,Marymouth,"3.1114515, 82.159072",133,255.6784050653266,Maintenance
+TR-18f23999,Misty Perez,Pickup,East Andreahaven,East Andreahaven,"-73.2696335, -11.295534",,318.1367456555802,Maintenance
+TR-cefd1224,Nicholas Reynolds,Cargo Ship,West Pennyside,North Donald,"-40.027862, -168.323076",367,96.4226298261835,
+,,Pickup,Lindabury,Lindabury,"-72.563802, -76.416161",500,0.0,Accident
+TR-080d2370,James Strong,Drone,Jordanfort,Robertmouth,"64.609480, 53.521923",2524,255.87236047149065,Delivered
+TR-a64dcc1d,Jesse Oliver,Pickup,New Timothyberg,Campbellborough,,149,,Idling
+TR-aff54774,Kathryn Mullen,Pickup,Littleside,Martinland,"-7.784762, -92.626598",,370.8484145049044,In Transit
+TR-a4f9a67f,Victor Wade,Semi-Truck,Heidihaven,New Jamie,"-18.986704, -130.386655",2044,-50.0,Idling
+TR-db29920a,Lauren Gallegos,Drone,,East Scotthaven,"83.295829, -56.480244",698,,In Transit
+TR-667cf788,Jessica Brooks,,Stoneshire,,"-13.5055245, -12.983714",0,159.294570566313,In Transit
+,Gilbert Cervantes DDS,Van,West Pamela,Lake Courtneybury,"99.9999, 150.0000",1840,46.632703489215,Delivered
+TR-db29920a,Lauren Gallegos,Drone,,East Scotthaven,"83.295829, -56.480244",698,,In Transit
+TR-2e0e343d,Barbara Thomas,Semi-Truck,Hartmanbury,East Laurashire,"2.5328875, -126.359361",917,211.8686608833439,Accident
+TR-515a3eea,Christian Rios,Van,Lake Kelly,,"-82.780087, -60.978920",107,146.73677311793747,Maintenance
+TR-e5551570,Erica Hall,Drone,West Trevor,Wesleytown,"-33.297750, -17.898314",990,36.32016560131368,
+TR-12988e9c,Jorge Lyons,Drone,,Tammyfort,"15.776264, -65.919293",1161,407.946099783289,Idling
+TR-e672abf5,Daniel Holloway,Pickup,Davidfurt,Brownmouth,"-42.217406, -30.232666",500,-50.0,In Transit
+TR-6202f35d,Katie Hopkins,Cargo Ship,Lake Isaac,,,1300 ,14.969975183345197,In Transit
+TR-3953e8bb,David Rodriguez,Drone,Port Alexisbury,,"-7.380314, 164.841523",Unknown,267.70861014893944,Accident
+,,Drone,Lauramouth,East Aaron,"36.7836625, 178.864302",1096,311.4554811550643,Accident
+TR-472e2f3b,Charles Khan,Drone,Port Ryanburgh,New Phillip,"70.239558, 31.446802",17,83.62452644649775,In Transit
+TR-7eecdc53,Sherry Brown,Drone,North Maark,Christinastad,"50.683119, -73.451449",1722,147.16043869794808,
+TR-988c89db,Timothy Thomas,Semi-Truck,Matthewfurt,East Tammyside,"-3.463913, -123.836341",2786,15.72523682269128,Delivered
+TR-c435fe28,Melissa Lin,Van,Port Lawrence,East Alice,"-52.0268665, 5.812337",1560,96.52711916749607,Maintenance
+TR-913a2b6c,Danielle Gregory,Van,,North Katrina,,500,0.0,Maintenance
+TR-690f1c3c,Cynthia Woods,Semi-Truck,Jessicaville,Jessicaville,"89.7554345, -146.991348",,392.1406469941592,In Transit
+TR-c0712a38,Michael Lynn,Van,South Williamstad,South Carlosside,,768,460.2971970006819,
+TR-01f268f5,Kelly Rodriguez,Van,South Julie,East Stevenmouth,"-68.1829275, -47.536702",Unknown ,,Maintenance
+TR-390e9f57,Heather Wilson,Semi-Truck,Williamsfurt,West Mary,"-66.802438, -80.325143",Unknown,65.27400755664031,Delivered
+TR-6bd63443,Andrea Franco,,,North Michelle,,2125,482.5726245734773,Idling
+TR-f936a968,Carol Cook,Pickup,New Patricia,Sethbury,"-20.3801665, 56.007552",2864,,Maintenance
+TR-fa33fa98,,,Port Theresa,Port Janetstad,"3.6461775, 164.577660",1695,53.53832670239872,Accident
+TR-e12def58,Steven Johnston,Pickup,North Brianmouth,Larsenfort,"-38.705728, -108.738540",Unknown,122.62720885244238,Delivered
+TR-288c2222,Brenda Saunders,Drone,,Port Anna,"10.184079, 142.628238",2033,57.39422849778969,In Transit
+TR-d775e809,Maurice Porter,Cargo Ship,Shirleyville,Clintonstad,"-39.5420395, -156.244580",1761,178.8722583849659,In Transit
+TR-d6a6e618,Joseph Hill,Cargo Ship,West Bradley,Mcdanieltown,"-6.654263, -151.365825",,390.0144763555281,Idling
+TR-3276ab75,Julia Trevino,Pickup,Phyllismouth,Henryview,"73.348970, -84.351064",0,413.3432093160305,
+TR-618e72a7,Heather Lewis,Pickup,South Jacqueline,Elizabethfort,"-4.7713965, 137.370449",Unknown,226.85313088619392,In Transit
+TR-00f0f7fe,Martin Lozano PhD,Semi-Truck,Gonzalesburgh,Gonzalesburgh,"-67.766936, 45.256314",592,400.6658231166764,Idling
+TR-17e03df5,Gene Holmes,Cargo Ship,West Melissafurt,Moodyton,"-12.505636, -68.627764",464,245.51847873420064,Delivered
+TR-9d2f6e76,Jeffrey Liu,,Port Christine,Savageview,"-24.6121495, -44.399955",424,433.4371289793053,Idling
+TR-02ca68d5,James Marsh,Van,Wagnerberg,East Fred,"-24.839439, -128.554419",1083,214.65648785129477,Delivered
+TR-8301b3a6,Clifford Patton,Van,North Stephanie,Robertsonland,"-79.2279635, -54.209510",408,109.88055573196243,Accident
+TR-f7b5b05b,Jacob Williams,Drone,Michaelmouth,Phillipsbury,"-44.544257, -174.395764",Unknown ,179.06067589877233,Delivered
+TR-1986133d,Ashley Murray,Semi-Truck,Woodsbury,Lake Gregory,"99.9999, 150.0000",1721,39.38625220877612,Delivered
+TR-a0ff3498,Sharon Anthony,Drone,Smithfurt,West Kevin,"1.853556, 90.456909",720,10.978484204952121,
+TR-a8c51cca,Desiree Lee,Drone,Franciscofurt,Ronaldtown,,1562,5.070145814262961,In Transit
+TR-de2565fe,Kevin Horn,Pickup,Onealfort,Onealfort,"88.3741085, 36.451901",2760,252.12852328409525,Accident
+TR-059ef8d8,Aaron Bell PhD,Pickup,Smithtown,Wisemouth,"83.914314, -126.201405",2541,273.24138583620845,
+TR-69499fce,James Jones,Drone,Jenniferville,New Mercedesborough,"99.9999, 150.0000",500,0.0,In Transit
+TR-20fda784,Carolyn Wolf,Semi-Truck,,Lake Andrewfurt,"65.342569, 15.213349",1867,297.9472209613186,In Transit
+TR-f2de05fd,Jimmy Carey,,Margaretland,Port Shelbyville,,500,0.0,In Transit
+TR-e58b2d2d,Barbara Flores,Van,Lake Jasmineville,Lake Jasmineville,"48.6040845, -172.391891",465,400.5859871444489,Idling
+TR-1a79aec1,Hannah Rodriguez,Van,Christopherbury,Bennettchester,"67.944946, -161.827036",2820,303.32742949876535,Delivered
+TR-8bcc4e8d,Kimberly Smith,Semi-Truck,New Amandaborough,New Amandaborough,"-15.5150235, -75.749130",616,86.85863540738453,Accident
+TR-6ff98cf7,Alan Frazier,Semi-Truck,North Nathan,Amandaburgh,,1440,447.3023942881364,In Transit
+TR-f099e2b6,Julia Gaines,Pickup,Wilsonland,South Tylerhaven,"17.575543, 138.405281",2380,240.78743606521758,In Transit
+TR-3ec8fe58,Carrie Lozano,,New Paulport,North Jill,"-39.9567835, 75.126331",2223,404.27452758365735,Delivered
+TR-9ed0fe5f,Emily Blackburn,Drone,East Jamesmouth,New Nicholas,"99.9999, 150.0000",2617,218.71051941639973,Maintenance
+TR-fe2a0cbc,Melissa Jackson,Drone,,Daisyton,,,-50.0,Delivered
+TR-48f82df6,Michael Chapman,Van,East Paulashire,South Neil,"16.885832, -138.516184",1372,89.95211798340253,Delivered
+TR-4a372da3,Derek Alvarez,Drone,Flemingtown,Lake Michael,"99.9999, 150.0000",2236,371.16981198701694,Maintenance
+TR-86faaa83,Jill Odonnell,,Newtonberg,Vincentville,,989,,Idling
+TR-1f4f4a0f,Kevin Richardson,Cargo Ship,Davidchester,East Christopher,"11.0100015, 68.831068",,303.6478250587204,
+TR-ef5a9491,Mia Flowers,Semi-Truck,Reesebury,Joshuaborough,"9.9338895, 122.671407",1167,89.338536037752,Delivered
+TR-640b7b85,Roger Martinez,Drone,Melaaniemouth,South Jeffreytown,"-0.151304, 0.749316",2875,307.00249820944987,In Transit
+TR-2ad0d57e,Danielle Garcia,Semi-Truck,Port Katrina,Justinchester,"-35.4211715, 54.370397",,155.79256477077718,Idling
+TR-e96171f3,,Pickup,Floresburgh,North Brenda,"-52.934460, 88.408447",2343,395.44818619606974,Idling
+TR-384243b4,Hector Owens,Van,West Daaniel,East Jamesville,"-17.6939635, 130.036505",2061,133.795266127834,Maintenance
+TR-94cbb94e,Brian Smith,Cargo Ship,North Anthonyborough,Wattsfurt,"99.9999, 150.0000",0,191.20242456082204,In Transit
+,Margaret Moore,Drone,Ryanville,,,509,140.54138199192025,Delivered
+TR-11c7beb2,Spencer Chandler,Cargo Ship,,Sandersview,"1.157098, 26.194148",0,185.98214218407745,Delivered
+TR-61e548ca,Heather Johnson DDS,Drone,Patelport,Port Kristenfurt,"-33.4347475, -41.372494",1528,38.15634254476413,Maintenance
+TR-d857ec60,Julie Cruz,Semi-Truck,Jamesside,Jamesside,"73.3507675, -73.332661",2598,101.88128833940036,Delivered
+TR-429e70e0,Joshua Alvarado,Drone,Joshuafurt,North Barry,"-33.4506365, 52.923270",2142,419.1579416691231,Delivered
+TR-50471a3d,Tiffany Reeves,Pickup,South Brian,New Garyfort,"35.3167395, 113.549261",425,463.29158962366586,In Transit
+,Amy Ware,Drone,South Marissatown,South Marissatown,"85.8534685, 149.640775",1878,452.08568617003016,In Transit
+TR-5c8488db,Edward Chavez,Van,West Ashleymouth,Lunastad,"23.1207845, 75.279931",1160,241.95549635185316,Accident
+TR-7b487db6,Randall Davis,Cargo Ship,East Mark,,"-82.3347785, -91.939231",,476.6146804838249,In Transit
+TR-91303877,Loretta Gonzalez,Pickup,Stewartborough,West Danabury,"-7.4489145, -136.848855",1900,291.8241277082012,Idling
+TR-ed348e32,,Semi-Truck,Lake William,Gardnermouth,"0.698505, 79.071133",2555,108.47889270446304,Idling
+TR-a36d4d54,,Semi-Truck,North Juan,West Tanyashire,"11.4444855, 173.424703",2701,283.6469249099992,Maintenance
+TR-46510173,David Johnson,Van,Port Sierraborough,Port Jenniferfort,"24.2760125, -99.068014",2524,61.15180257571112,Delivered
+TR-93ab8d5e,Michael Conner,Drone,Dennishaven,,"-5.0454715, -89.154172",2045 ,,Maintenance
+TR-d053d7f4,Michael Buckley,Pickup,Port Shawn,Port Shawn,"67.5306735, 16.632499",1296,49.788961969408575,Accident
+TR-1a79aec1,Hannah Rodriguez,Van,Christopherbury,Bennettchester,"67.944946, -161.827036",2820 ,303.32742949876535,Delivered
+,Lonnie Gonzales,Drone,West Denisebury,Gregoryshire,"38.136078, -94.460463",500,,In Transit
+TR-62b61594,Amanda Santos,Semi-Truck,South Joseside,Ortegamouth,"17.3429255, -4.383169",2757,316.3492337589774,Delivered
+TR-9b77ba46,Michelle Zuniga,,New Thomashaven,,"-43.8107305, -18.250279",500,0.0,In Transit
+TR-0790eeb4,Edward Ho,Cargo Ship,Rileyton,West Steven,"17.6837175, -18.845688",2231,163.76986406208954,Maintenance
+TR-a1a61f32,Patricia Garcia,Semi-Truck,Saantosmouth,Lauriestad,"13.5303725, -96.406932",2221,247.1225255900011,In Transit
+TR-64903d65,Mrs. Linda Short,Drone,New Anthony,Fordmouth,"-65.7337975, -13.960033",2259,199.9710758117888,Delivered
+TR-a61f135f,Mallory Barnett,Van,,Christopherberg,"21.7708125, 178.480764",,315.7205342387175,Idling
+TR-378a8ba6,Kathy Jennings,Van,Amberton,Port Alexander,"23.007565, 48.650222",1819,469.92405178614047,In Transit
+TR-cd24120c,Alex Mccann,Cargo Ship,North Michaelchester,New Cherylberg,"41.502680, 10.671370",0,-50.0,Delivered
+TR-c3dc5b92,Ralph Dawson,Cargo Ship,West Ericmouth,West Ericmouth,"44.627278, -100.804056",2958,313.65919082114607,Maintenance
+TR-593acb51,Terry Buchanan,Semi-Truck,Mariachester,Rossport,"47.493808, -90.672878",2734,174.27668984265466,In Transit
+TR-02988dd2,Donna Johnson,Drone,Stephaniemouth,Millsshire,"27.845503, 151.041222",2660 ,14.777621388264661,In Transit
+TR-4b211512,Elizabeth Webb,Semi-Truck,Lake Johnchester,Annborough,"-48.6239125, 118.150309",1621,476.88103736214464,
+TR-a1f886ce,Christian Hobbs,Van,Rhondamouth,Courtneyborough,,1691,383.2244336142349,Maintenance
+TR-66629bd2,Beth Santiago,Semi-Truck,Matthewchester,East Kelly,"62.4681905, -105.080090",867,372.5972280241986,Maintenance
+,Kelly Roberts,,New Joshuaview,,"78.9726255, 12.674457",1791,487.9579370573552,In Transit
+TR-2d02223f,Russell Sanchez,Pickup,,Shawnhaven,"-18.4254625, -134.919646",15,130.11506139240365,Accident
+TR-502c36f1,Alyssa Thompson,Cargo Ship,Coryport,North Mikeberg,,1611,,Maintenance
+TR-e61415dd,,Van,,New Lindsay,"-4.541775, -108.313630",1698,186.9802433918963,Maintenance
+TR-9b77ba46,Michelle Zuniga,,New Thomashaven,,"-43.8107305, -18.250279",500,0.0,In Transit
+TR-6c7a0c9d,Tracy Taylor,Semi-Truck,North Susanbury,West Jacquelineborough,"-89.7736535, 173.587800",1923,443.65744559986933,Accident
+TR-0a03c8cd,Sylvia Flynn,Semi-Truck,New Zaachaaryhaaven,Arthurview,"26.876967, -130.151345",2276,328.4773058133583,Delivered
+TR-fe65b782,Tami Harper,Semi-Truck,East Crystal,North Marc,,1684 ,76.17300829405532,Idling
+,Phillip Holmes,,Thomasport,Port Christina,"-55.132697, 176.163611",912 ,,Maintenance
+TR-c93a7471,Gary Lawrence,,Colemanshire,Leeport,"-52.4686215, 70.851254",1785,,Accident
+TR-ebac12ef,Jason Robinson,,South Jack,North Joseph,"-65.637470, 95.561049",,479.60858652622534,Maintenance
+TR-e327119f,Angela Nelson,Drone,Eaast Micheaalport,Aprilview,,1862,256.32827336469916,Accident
+,Margaret Moore,Drone,Ryanville,,,509,140.54138199192025,Delivered
+,Anne Rose,Drone,Theresatown,South Hollyfurt,"46.0862425, -122.095620",2594,363.8719495073025,In Transit
+TR-ca782f58,Charles Garner,Pickup,New John,Riverashire,"36.379599, 115.187234",2078,373.53963506100297,Accident
+TR-faa1d736,Nathaniel Burnett,Cargo Ship,North Carmen,North Carmen,"-63.8341305, 112.102596",58,,Idling
+TR-a52523e3,David Abbott,Pickup,Christopherside,New Elijahborough,"10.464066, -177.345292",31,243.91589475226277,Delivered
+TR-03f9c74d,Kathleen Jackson,Pickup,Sandovalland,Emilychester,"-52.3046635, 123.353516",66 ,-50.0,Maintenance
+TR-2bcfd03f,Dr. Larry White,Drone,Robertsfort,Townsendstad,"44.6085505, -179.145549",2457,176.12666785086196,In Transit
+TR-93ab8d5e,Michael Conner,Drone,Dennishaven,,"-5.0454715, -89.154172",2045,,Maintenance
+,Mr. Joseph Bowman,Semi-Truck,Wallacebury,Lake Kelsey,"58.0720055, -35.608507",1879,36.7879848424989,
+TR-f3cef8b7,Anthony Torres,Semi-Truck,Jamesshire,Jamesshire,"-85.523985, -1.401845",604,258.63853901044894,
+TR-7ce28b5b,Meredith Black,Van,Laake Jessicaafurt,East Thomas,"-45.616323, 67.276155",801,343.5287283585808,Idling
+TR-78360477,Jeffrey Cook,Pickup,North Samuel,Harperside,"78.208350, -169.204938",Unknown,315.7508961021518,In Transit
+TR-6808f471,,Drone,,North Keith,"-42.511709, -109.321908",2525 ,414.2749497725851,Maintenance
+TR-730733d5,Brenda Holder,Van,East Elizabethberg,East Elizabethberg,"29.018377, 162.243478",2720,64.43523220491298,
+TR-a1aa19f0,Thomas Gray,Semi-Truck,Sandraview,,"-19.979708, -163.116459",2264,187.6271847252306,In Transit
+TR-db642c52,Mary Abbott,,East Trevorshire,Lake James,"99.9999, 150.0000",2369,314.4470630959877,
+TR-7fa79708,Richard Barrett,Drone,Lake Brandonstad,New Rachelstad,"-26.8753665, 18.176539",1533,322.54898529640616,Idling
